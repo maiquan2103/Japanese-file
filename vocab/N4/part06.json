@@ -1,0 +1,127 @@
+[
+  {
+    "question": "石鹸",
+    "answer1": "せっけん",
+    "answer2": "Xà phòng"
+  },
+  {
+    "question": "シャンプー<為る>",
+    "answer1": "シャンプーする",
+    "answer2": "Gội đầu"
+  },
+  {
+    "question": "せんたく機",
+    "answer1": "せんたくき",
+    "answer2": "Máy giặt"
+  },
+  {
+    "question": "せんたく物",
+    "answer1": "せんたくもの",
+    "answer2": "Đồ giặt"
+  },
+  {
+    "question": "クリーニング",
+    "answer1": "クリーニング",
+    "answer2": "Giặt ủi"
+  },
+  {
+    "question": "タオル",
+    "answer1": "タオル",
+    "answer2": "Khăn"
+  },
+  {
+    "question": "乾かす",
+    "answer1": "かわかす",
+    "answer2": "Làm khô"
+  },
+  {
+    "question": "（タオルが）乾く",
+    "answer1": "タオルがかわく",
+    "answer2": "(Khăn) khô"
+  },
+  {
+    "question": "餌",
+    "answer1": "えさ",
+    "answer2": "Thức ăn cho vật nuôi"
+  },
+  {
+    "question": "世話<する>",
+    "answer1": "せわする",
+    "answer2": "Chăm sóc"
+  },
+  {
+    "question": "留守",
+    "answer1": "るす",
+    "answer2": "Vắng nhà"
+  },
+  {
+    "question": "宅配便",
+    "answer1": "たくはいびん",
+    "answer2": "Chuyển phát"
+  },
+  {
+    "question": "届く",
+    "answer1": "とどく",
+    "answer2": "Đến nơi"
+  },
+  {
+    "question": "届ける",
+    "answer1": "とどける",
+    "answer2": "Giao, phát"
+  },
+  {
+    "question": "日記",
+    "answer1": "にっき",
+    "answer2": "Nhật ký"
+  },
+  {
+    "question": "眠る",
+    "answer1": "ねむる",
+    "answer2": "Ngủ"
+  },
+  {
+    "question": "生活<する>",
+    "answer1": "せいかつする",
+    "answer2": "Sinh hoạt"
+  },
+  {
+    "question": "暮らす",
+    "answer1": "くらす",
+    "answer2": "Sống"
+  },
+  {
+    "question": "習慣",
+    "answer1": "しゅうかん",
+    "answer2": "Thói quen"
+  },
+  {
+    "question": "小学校",
+    "answer1": "しょうがっこう",
+    "answer2": "Trường tiểu học (cấp I)"
+  },
+  {
+    "question": "中学校",
+    "answer1": "ちゅうがっこう",
+    "answer2": "Trường trung học cơ sở (cấp II)"
+  },
+  {
+    "question": "高校",
+    "answer1": "こうこう",
+    "answer2": "Trường trung học phổ thông (cấp III)"
+  },
+  {
+    "question": "ようち園",
+    "answer1": "ようちえん",
+    "answer2": "Mẫu giáo"
+  },
+  {
+    "question": "専門学校",
+    "answer1": "せんもんがっこう",
+    "answer2": "Trường dạy nghề"
+  },
+  {
+    "question": "入学<する>",
+    "answer1": "にゅうがくする",
+    "answer2": "Nhập học"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "(はんこを)押す",
+    "answer1": "はんこをおす",
+    "answer2": "Đóng dấu"
+  },
+  {
+    "question": "遅刻<為る>",
+    "answer1": "ちこくする",
+    "answer2": "Đi muộn"
+  },
+  {
+    "question": "技術",
+    "answer1": "ぎじゅつ",
+    "answer2": "Kỹ thuật"
+  },
+  {
+    "question": "パソコン",
+    "answer1": "パソコン",
+    "answer2": "Máy tính"
+  },
+  {
+    "question": "ソフト",
+    "answer1": "ソフト",
+    "answer2": "Phần mềm"
+  },
+  {
+    "question": "書類",
+    "answer1": "しょるい",
+    "answer2": "Hồ sơ"
+  },
+  {
+    "question": "ファイル",
+    "answer1": "ファイル",
+    "answer2": "Bìa hồ sơ"
+  },
+  {
+    "question": "入力<する>",
+    "answer1": "にゅうりょくする",
+    "answer2": "Nhập dữ liệu"
+  },
+  {
+    "question": "翻訳<為る>",
+    "answer1": "ほんやくする",
+    "answer2": "Dịch thuật"
+  },
+  {
+    "question": "通訳<する>",
+    "answer1": "つうやくする",
+    "answer2": "Phiên dịch"
+  },
+  {
+    "question": "方法",
+    "answer1": "ほうほう",
+    "answer2": "Phương pháp"
+  },
+  {
+    "question": "仕方",
+    "answer1": "しかた",
+    "answer2": "Cách làm"
+  },
+  {
+    "question": "慣れる",
+    "answer1": "なれる",
+    "answer2": "Quen"
+  },
+  {
+    "question": "(上手く)行く",
+    "answer1": "うまくいく",
+    "answer2": "Tiến triển tốt"
+  },
+  {
+    "question": "成功<する>",
+    "answer1": "せいこうする",
+    "answer2": "Thành công"
+  },
+  {
+    "question": "頼む",
+    "answer1": "たのむ",
+    "answer2": "Nhờ"
+  },
+  {
+    "question": "手伝う",
+    "answer1": "てつだう",
+    "answer2": "Giúp đỡ"
+  },
+  {
+    "question": "残業<する>",
+    "answer1": "ざんぎょうする",
+    "answer2": "Làm thêm giờ"
+  },
+  {
+    "question": "無理難題",
+    "answer1": "むりな",
+    "answer2": "Quá sức"
+  },
+  {
+    "question": "急ぐ",
+    "answer1": "いそぐ",
+    "answer2": "Vội"
+  },
+  {
+    "question": "昼休み",
+    "answer1": "ひるやすみ",
+    "answer2": "Giờ nghỉ trưa"
+  },
+  {
+    "question": "休けい<する>",
+    "answer1": "きゅうけいする",
+    "answer2": "Nghỉ giải lao"
+  },
+  {
+    "question": "忘年会",
+    "answer1": "ぼうねんかい",
+    "answer2": "Tiệc tất niên"
+  },
+  {
+    "question": "公務員",
+    "answer1": "こうむいん",
+    "answer2": "Công chức"
+  },
+  {
+    "question": "弁護士",
+    "answer1": "べんごし",
+    "answer2": "Luật sư"
+  }
+]

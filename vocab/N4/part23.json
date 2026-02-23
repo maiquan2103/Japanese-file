@@ -1,0 +1,127 @@
+[
+  {
+    "question": "遠慮<為る>",
+    "answer1": "えんりょする",
+    "answer2": "E ngại"
+  },
+  {
+    "question": "気づく",
+    "answer1": "きづく",
+    "answer2": "Để ý, nhận ra"
+  },
+  {
+    "question": "親友",
+    "answer1": "しんゆう",
+    "answer2": "Bạn thân"
+  },
+  {
+    "question": "先輩",
+    "answer1": "せんぱい",
+    "answer2": "Đàn anh, đàn chị"
+  },
+  {
+    "question": "彼ら",
+    "answer1": "かれら",
+    "answer2": "Họ"
+  },
+  {
+    "question": "皆",
+    "answer1": "みんな",
+    "answer2": "Mọi người"
+  },
+  {
+    "question": "人気",
+    "answer1": "にんき",
+    "answer2": "Được ưa thích"
+  },
+  {
+    "question": "デート<為る>",
+    "answer1": "デートする",
+    "answer2": "Hẹn hò"
+  },
+  {
+    "question": "付き合う",
+    "answer1": "つきあう",
+    "answer2": "Quen, hẹn hò"
+  },
+  {
+    "question": "連れて行く",
+    "answer1": "つれていく",
+    "answer2": "Dẫn đi"
+  },
+  {
+    "question": "連れて来る",
+    "answer1": "つれてくる",
+    "answer2": "Dẫn đến"
+  },
+  {
+    "question": "[お]見合い<する>",
+    "answer1": "[お]みあいする",
+    "answer2": "Gặp mặt qua mai mối"
+  },
+  {
+    "question": "婚約<する>",
+    "answer1": "こんやくする",
+    "answer2": "Đính hôn"
+  },
+  {
+    "question": "結婚<する>",
+    "answer1": "けっこんする",
+    "answer2": "Kết hôn"
+  },
+  {
+    "question": "知らせる",
+    "answer1": "しらせる",
+    "answer2": "Thông báo"
+  },
+  {
+    "question": "合図<する>",
+    "answer1": "あいずする",
+    "answer2": "Ra hiệu"
+  },
+  {
+    "question": "喧嘩<為る>",
+    "answer1": "けんかする",
+    "answer2": "Cãi nhau"
+  },
+  {
+    "question": "嘘",
+    "answer1": "うそ",
+    "answer2": "Nói dối"
+  },
+  {
+    "question": "別れる",
+    "answer1": "わかれる",
+    "answer2": "Chia tay"
+  },
+  {
+    "question": "邪魔<な/為る>",
+    "answer1": "じゃまな／する",
+    "answer2": "Cản trở, phiền phức"
+  },
+  {
+    "question": "彼",
+    "answer1": "かれ",
+    "answer2": "Anh ấy, người yêu (nam)"
+  },
+  {
+    "question": "彼女",
+    "answer1": "かのじょ",
+    "answer2": "Cô ấy, người yêu (nữ)"
+  },
+  {
+    "question": "君",
+    "answer1": "きみ",
+    "answer2": "Em (cách gọi thân mật)"
+  },
+  {
+    "question": "僕",
+    "answer1": "ぼく",
+    "answer2": "Tôi (nam)"
+  },
+  {
+    "question": "独身",
+    "answer1": "どくしん",
+    "answer2": "Độc thân"
+  }
+]

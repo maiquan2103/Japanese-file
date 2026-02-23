@@ -1,0 +1,127 @@
+[
+  {
+    "question": "工場",
+    "answer1": "こうじょう",
+    "answer2": "Nhà máy"
+  },
+  {
+    "question": "事務所",
+    "answer1": "じむしょ",
+    "answer2": "Văn phòng"
+  },
+  {
+    "question": "ガイドブック",
+    "answer1": "ガイドブック",
+    "answer2": "Sách hướng dẫn"
+  },
+  {
+    "question": "時刻表",
+    "answer1": "じこくひょう",
+    "answer2": "Bảng giờ (tàu, xe)"
+  },
+  {
+    "question": "計画<する>",
+    "answer1": "けいかくする",
+    "answer2": "Kế hoạch"
+  },
+  {
+    "question": "遠く",
+    "answer1": "とおく",
+    "answer2": "Nơi xa"
+  },
+  {
+    "question": "海外",
+    "answer1": "かいがい",
+    "answer2": "Hải ngoại, nước ngoài"
+  },
+  {
+    "question": "国内",
+    "answer1": "こくない",
+    "answer2": "Quốc nội, trong nước"
+  },
+  {
+    "question": "景色",
+    "answer1": "けしき",
+    "answer2": "Phong cảnh"
+  },
+  {
+    "question": "[お]祭り",
+    "answer1": "[お]まつり",
+    "answer2": "Lễ hội"
+  },
+  {
+    "question": "花火",
+    "answer1": "はなび",
+    "answer2": "Pháo hoa"
+  },
+  {
+    "question": "連休",
+    "answer1": "れんきゅう",
+    "answer2": "Kỳ nghỉ dài ngày"
+  },
+  {
+    "question": "[お]正月",
+    "answer1": "[お]しょうがつ",
+    "answer2": "Tết (dương lịch)"
+  },
+  {
+    "question": "旅行社",
+    "answer1": "りょこうしゃ",
+    "answer2": "Công ty du lịch"
+  },
+  {
+    "question": "申し込む",
+    "answer1": "もうしこむ",
+    "answer2": "Đăng ký"
+  },
+  {
+    "question": "シングル（ベッド）",
+    "answer1": "シングル（ベッド）",
+    "answer2": "Phòng đơn (giường đơn)"
+  },
+  {
+    "question": "予約<する>",
+    "answer1": "よやくする",
+    "answer2": "Đặt trước"
+  },
+  {
+    "question": "支度<為る>",
+    "answer1": "したくする",
+    "answer2": "Chuẩn bị"
+  },
+  {
+    "question": "空港",
+    "answer1": "くうこう",
+    "answer2": "Sân bay"
+  },
+  {
+    "question": "両替<する>",
+    "answer1": "りょうがえする",
+    "answer2": "Đổi tiền"
+  },
+  {
+    "question": "出発<する>",
+    "answer1": "しゅっぱつする",
+    "answer2": "Khởi hành"
+  },
+  {
+    "question": "到着<する>",
+    "answer1": "とうちゃくする",
+    "answer2": "Đến nơi"
+  },
+  {
+    "question": "帰国<する>",
+    "answer1": "きこくする",
+    "answer2": "Về nước"
+  },
+  {
+    "question": "旅館",
+    "answer1": "りょかん",
+    "answer2": "Nhà trọ kiểu Nhật"
+  },
+  {
+    "question": "フロント",
+    "answer1": "フロント",
+    "answer2": "Quầy lễ tân"
+  }
+]

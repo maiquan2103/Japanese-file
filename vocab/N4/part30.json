@@ -1,0 +1,127 @@
+[
+  {
+    "question": "ポケット",
+    "answer1": "ポケット",
+    "answer2": "Túi"
+  },
+  {
+    "question": "紐",
+    "answer1": "ひも",
+    "answer2": "Dây"
+  },
+  {
+    "question": "髪型",
+    "answer1": "かみがた",
+    "answer2": "Kiểu tóc"
+  },
+  {
+    "question": "美容院",
+    "answer1": "びよういん",
+    "answer2": "Tiệm làm tóc"
+  },
+  {
+    "question": "カット<為る>",
+    "answer1": "カットする",
+    "answer2": "Cắt (tóc)"
+  },
+  {
+    "question": "鏡",
+    "answer1": "かがみ",
+    "answer2": "Gương"
+  },
+  {
+    "question": "格好いい",
+    "answer1": "かっこいい",
+    "answer2": "Đẹp, ngầu"
+  },
+  {
+    "question": "可愛い",
+    "answer1": "かわいい",
+    "answer2": "Dễ thương"
+  },
+  {
+    "question": "ちょうど良い",
+    "answer1": "ちょうどいい",
+    "answer2": "Vừa vặn"
+  },
+  {
+    "question": "様子",
+    "answer1": "ようす",
+    "answer2": "Tình trạng"
+  },
+  {
+    "question": "形",
+    "answer1": "かたち",
+    "answer2": "Hình dạng"
+  },
+  {
+    "question": "倍",
+    "answer1": "ばい",
+    "answer2": "Gấp (lần)"
+  },
+  {
+    "question": "以上",
+    "answer1": "いじょう",
+    "answer2": "Trở lên"
+  },
+  {
+    "question": "以下",
+    "answer1": "いか",
+    "answer2": "Trở xuống"
+  },
+  {
+    "question": "以内",
+    "answer1": "いない",
+    "answer2": "Trong vòng"
+  },
+  {
+    "question": "以外",
+    "answer1": "いがい",
+    "answer2": "Ngoài ra"
+  },
+  {
+    "question": "両方",
+    "answer1": "りょうほう",
+    "answer2": "Cả hai"
+  },
+  {
+    "question": "暇<な>",
+    "answer1": "ひまな",
+    "answer2": "Rảnh rỗi"
+  },
+  {
+    "question": "普通<な>",
+    "answer1": "ふつうな",
+    "answer2": "Bình thường"
+  },
+  {
+    "question": "自由<な>",
+    "answer1": "じゆうな",
+    "answer2": "Tự do"
+  },
+  {
+    "question": "丁寧",
+    "answer1": "ていねいな",
+    "answer2": "Lịch sự"
+  },
+  {
+    "question": "大きな",
+    "answer1": "おおきな",
+    "answer2": "To"
+  },
+  {
+    "question": "小さな",
+    "answer1": "ちいさな",
+    "answer2": "Nhỏ"
+  },
+  {
+    "question": "変な",
+    "answer1": "へんな",
+    "answer2": "Kỳ lạ"
+  },
+  {
+    "question": "十分",
+    "answer1": "じゅうぶんな",
+    "answer2": "Đầy đủ"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "チェック<為る>",
+    "answer1": "チェックする",
+    "answer2": "Kiểm tra"
+  },
+  {
+    "question": "熱心な",
+    "answer1": "ねっしんな",
+    "answer2": "Nhiệt tình"
+  },
+  {
+    "question": "易しい",
+    "answer1": "やさしい",
+    "answer2": "Hiền, tử tế"
+  },
+  {
+    "question": "厳しい",
+    "answer1": "きびしい",
+    "answer2": "Nghiêm khắc"
+  },
+  {
+    "question": "真面目",
+    "answer1": "まじめな",
+    "answer2": "Chăm chỉ, nghiêm túc"
+  },
+  {
+    "question": "偉い",
+    "answer1": "えらい",
+    "answer2": "Ưu tú"
+  },
+  {
+    "question": "設備",
+    "answer1": "せつび",
+    "answer2": "Thiết bị"
+  },
+  {
+    "question": "ベル",
+    "answer1": "ベル",
+    "answer2": "Chuông"
+  },
+  {
+    "question": "大学生",
+    "answer1": "だいがくせい",
+    "answer2": "Sinh viên"
+  },
+  {
+    "question": "受ける",
+    "answer1": "うける",
+    "answer2": "Dự (thi)"
+  },
+  {
+    "question": "受かる",
+    "answer1": "うかる",
+    "answer2": "Đậu (kỳ thi)"
+  },
+  {
+    "question": "留学<する>",
+    "answer1": "りゅうがくする",
+    "answer2": "Du học"
+  },
+  {
+    "question": "目的",
+    "answer1": "もくてき",
+    "answer2": "Mục đích"
+  },
+  {
+    "question": "夢",
+    "answer1": "ゆめ",
+    "answer2": "Ước mơ, giấc mơ"
+  },
+  {
+    "question": "学部",
+    "answer1": "がくぶ",
+    "answer2": "Khoa"
+  },
+  {
+    "question": "専門",
+    "answer1": "せんもん",
+    "answer2": "Chuyên môn"
+  },
+  {
+    "question": "科学",
+    "answer1": "かがく",
+    "answer2": "Khoa học"
+  },
+  {
+    "question": "医学",
+    "answer1": "いがく",
+    "answer2": "Y học"
+  },
+  {
+    "question": "文学",
+    "answer1": "ぶんがく",
+    "answer2": "Văn học"
+  },
+  {
+    "question": "法律",
+    "answer1": "ほうりつ",
+    "answer2": "Luật"
+  },
+  {
+    "question": "講義<する>",
+    "answer1": "こうぎする",
+    "answer2": "Bài giảng"
+  },
+  {
+    "question": "出席<する>",
+    "answer1": "しゅっせきする",
+    "answer2": "Tham dự"
+  },
+  {
+    "question": "欠席<する>",
+    "answer1": "けっせきする",
+    "answer2": "Vắng mặt"
+  },
+  {
+    "question": "レポート",
+    "answer1": "レポート",
+    "answer2": "Báo cáo"
+  },
+  {
+    "question": "論文",
+    "answer1": "ろんぶん",
+    "answer2": "Luận văn"
+  }
+]

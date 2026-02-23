@@ -1,0 +1,127 @@
+[
+  {
+    "question": "役に立つ",
+    "answer1": "やくにたつ",
+    "answer2": "Có ích"
+  },
+  {
+    "question": "勉強中",
+    "answer1": "べんきょうちゅう",
+    "answer2": "Đang học"
+  },
+  {
+    "question": "勤める",
+    "answer1": "つとめる",
+    "answer2": "Làm việc"
+  },
+  {
+    "question": "給料",
+    "answer1": "きゅうりょう",
+    "answer2": "Lương"
+  },
+  {
+    "question": "ボーナス",
+    "answer1": "ボーナス",
+    "answer2": "Thưởng"
+  },
+  {
+    "question": "貯金<する>",
+    "answer1": "ちょきんする",
+    "answer2": "Tiết kiệm"
+  },
+  {
+    "question": "受付",
+    "answer1": "うけつけ",
+    "answer2": "Quầy tiếp tân"
+  },
+  {
+    "question": "名刺",
+    "answer1": "めいし",
+    "answer2": "Danh thiếp"
+  },
+  {
+    "question": "営業<する>",
+    "answer1": "えいぎょうする",
+    "answer2": "Kinh doanh"
+  },
+  {
+    "question": "挨拶<為る>",
+    "answer1": "あいさつする",
+    "answer2": "Chào hỏi"
+  },
+  {
+    "question": "会議<する>",
+    "answer1": "かいぎする",
+    "answer2": "Họp"
+  },
+  {
+    "question": "ミーティング",
+    "answer1": "ミーティング",
+    "answer2": "Cuộc họp"
+  },
+  {
+    "question": "意見",
+    "answer1": "いけん",
+    "answer2": "Ý kiến"
+  },
+  {
+    "question": "アイディア",
+    "answer1": "アイディア",
+    "answer2": "Ý tưởng"
+  },
+  {
+    "question": "スケジュール",
+    "answer1": "スケジュール",
+    "answer2": "Lịch trình"
+  },
+  {
+    "question": "出張<する>",
+    "answer1": "しゅっちょうする",
+    "answer2": "Công tác"
+  },
+  {
+    "question": "戻る",
+    "answer1": "もどる",
+    "answer2": "Quay lại"
+  },
+  {
+    "question": "戻す",
+    "answer1": "もどす",
+    "answer2": "Trả lại"
+  },
+  {
+    "question": "本社",
+    "answer1": "ほんしゃ",
+    "answer2": "Trụ sở chính"
+  },
+  {
+    "question": "社長",
+    "answer1": "しゃちょう",
+    "answer2": "Giám đốc"
+  },
+  {
+    "question": "ルール",
+    "answer1": "ルール",
+    "answer2": "Quy định"
+  },
+  {
+    "question": "規則",
+    "answer1": "きそく",
+    "answer2": "Quy tắc"
+  },
+  {
+    "question": "決まる",
+    "answer1": "きまる",
+    "answer2": "Được quyết định"
+  },
+  {
+    "question": "決める",
+    "answer1": "きめる",
+    "answer2": "Quyết định"
+  },
+  {
+    "question": "許可<為る>",
+    "answer1": "きょかする",
+    "answer2": "Cho phép"
+  }
+]

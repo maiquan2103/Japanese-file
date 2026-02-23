@@ -1,0 +1,127 @@
+[
+  {
+    "question": "りょうしゅう書",
+    "answer1": "りょうしゅうしょ",
+    "answer2": "Hóa đơn"
+  },
+  {
+    "question": "袋",
+    "answer1": "ふくろ",
+    "answer2": "Túi"
+  },
+  {
+    "question": "取りかえる",
+    "answer1": "とりかえる",
+    "answer2": "Đổi"
+  },
+  {
+    "question": "探す",
+    "answer1": "さがす",
+    "answer2": "Tìm"
+  },
+  {
+    "question": "選ぶ",
+    "answer1": "えらぶ",
+    "answer2": "Chọn"
+  },
+  {
+    "question": "包む",
+    "answer1": "つつむ",
+    "answer2": "Gói"
+  },
+  {
+    "question": "（お金を）下ろす",
+    "answer1": "（おかねを）おろす",
+    "answer2": "Rút tiền"
+  },
+  {
+    "question": "売れる",
+    "answer1": "うれる",
+    "answer2": "Bán chạy"
+  },
+  {
+    "question": "食料品",
+    "answer1": "しょくりょうひん",
+    "answer2": "Thực phẩm"
+  },
+  {
+    "question": "玩具",
+    "answer1": "おもちゃ",
+    "answer2": "Đồ chơi"
+  },
+  {
+    "question": "パンフレット",
+    "answer1": "パンフレット",
+    "answer2": "Tờ rơi"
+  },
+  {
+    "question": "日本製",
+    "answer1": "にほんせい",
+    "answer2": "Hàng Nhật"
+  },
+  {
+    "question": "本物",
+    "answer1": "ほんもの",
+    "answer2": "Hàng thật"
+  },
+  {
+    "question": "場所",
+    "answer1": "ばしょ",
+    "answer2": "Nơi, chỗ"
+  },
+  {
+    "question": "駅前",
+    "answer1": "えきまえ",
+    "answer2": "Trước ga"
+  },
+  {
+    "question": "交番",
+    "answer1": "こうばん",
+    "answer2": "Đồn cảnh sát"
+  },
+  {
+    "question": "市役所",
+    "answer1": "しやくしょ",
+    "answer2": "Ủy ban thành phố"
+  },
+  {
+    "question": "バス停",
+    "answer1": "バスてい",
+    "answer2": "Trạm xe buýt"
+  },
+  {
+    "question": "広場",
+    "answer1": "ひろば",
+    "answer2": "Quảng trường"
+  },
+  {
+    "question": "城",
+    "answer1": "しろ",
+    "answer2": "Lâu đài"
+  },
+  {
+    "question": "神社",
+    "answer1": "じんじゃ",
+    "answer2": "Đền Thần đạo"
+  },
+  {
+    "question": "教会",
+    "answer1": "きょうかい",
+    "answer2": "Nhà thờ"
+  },
+  {
+    "question": "港",
+    "answer1": "みなと",
+    "answer2": "Cảng"
+  },
+  {
+    "question": "動物園",
+    "answer1": "どうぶつえん",
+    "answer2": "Sở thú"
+  },
+  {
+    "question": "美術館",
+    "answer1": "びじゅつかん",
+    "answer2": "Bảo tàng mỹ thuật"
+  }
+]

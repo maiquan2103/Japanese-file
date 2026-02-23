@@ -1,0 +1,127 @@
+[
+  {
+    "question": "具合",
+    "answer1": "ぐあい",
+    "answer2": "Tình trạng, cảm giác"
+  },
+  {
+    "question": "気持ちが悪い",
+    "answer1": "きもちがわるい",
+    "answer2": "Khó chịu"
+  },
+  {
+    "question": "倒れる",
+    "answer1": "たおれる",
+    "answer2": "Ngã, đổ bệnh"
+  },
+  {
+    "question": "診る",
+    "answer1": "みる",
+    "answer2": "Khám (bệnh)"
+  },
+  {
+    "question": "（横に）成る",
+    "answer1": "（よこに）なる",
+    "answer2": "Nằm xuống"
+  },
+  {
+    "question": "塗る",
+    "answer1": "ぬる",
+    "answer2": "Bôi, thoa"
+  },
+  {
+    "question": "治す",
+    "answer1": "なおす",
+    "answer2": "Chữa"
+  },
+  {
+    "question": "治る",
+    "answer1": "なおる",
+    "answer2": "Khỏi"
+  },
+  {
+    "question": "入院<する>",
+    "answer1": "にゅういんする",
+    "answer2": "Nhập viện"
+  },
+  {
+    "question": "退院<する>",
+    "answer1": "たいいんする",
+    "answer2": "Xuất viện"
+  },
+  {
+    "question": "[お]見まい",
+    "answer1": "[お]みまい",
+    "answer2": "Thăm bệnh"
+  },
+  {
+    "question": "生きる",
+    "answer1": "いきる",
+    "answer2": "Sống"
+  },
+  {
+    "question": "亡くなる",
+    "answer1": "なくなる",
+    "answer2": "Qua đời"
+  },
+  {
+    "question": "救急車",
+    "answer1": "きゅうきゅうしゃ",
+    "answer2": "Xe cấp cứu"
+  },
+  {
+    "question": "歯医者",
+    "answer1": "はいしゃ",
+    "answer2": "Nha sĩ"
+  },
+  {
+    "question": "看護師",
+    "answer1": "かんごし",
+    "answer2": "Y tá"
+  },
+  {
+    "question": "スーツ",
+    "answer1": "スーツ",
+    "answer2": "Đồ vest"
+  },
+  {
+    "question": "着物",
+    "answer1": "きもの",
+    "answer2": "Kimono"
+  },
+  {
+    "question": "くつ下",
+    "answer1": "くつした",
+    "answer2": "Tất"
+  },
+  {
+    "question": "下着",
+    "answer1": "したぎ",
+    "answer2": "Đồ lót"
+  },
+  {
+    "question": "手ぶくろ",
+    "answer1": "てぶくろ",
+    "answer2": "Găng tay"
+  },
+  {
+    "question": "指輪",
+    "answer1": "ゆびわ",
+    "answer2": "Nhẫn"
+  },
+  {
+    "question": "サンダル",
+    "answer1": "サンダル",
+    "answer2": "Dép xăng-đan"
+  },
+  {
+    "question": "リュック",
+    "answer1": "リュック",
+    "answer2": "Ba lô"
+  },
+  {
+    "question": "アクセサリー",
+    "answer1": "アクセサリー",
+    "answer2": "Đồ trang sức"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "スタート<為る>",
+    "answer1": "スタートする",
+    "answer2": "Xuất phát"
+  },
+  {
+    "question": "失敗<する>",
+    "answer1": "しっぱいする",
+    "answer2": "Thất bại"
+  },
+  {
+    "question": "柔道",
+    "answer1": "じゅうどう",
+    "answer2": "Judo"
+  },
+  {
+    "question": "水泳",
+    "answer1": "すいえい",
+    "answer2": "Bơi lội"
+  },
+  {
+    "question": "野球",
+    "answer1": "やきゅう",
+    "answer2": "Bóng chày"
+  },
+  {
+    "question": "投げる",
+    "answer1": "なげる",
+    "answer2": "Ném"
+  },
+  {
+    "question": "スポーツクラブ",
+    "answer1": "スポーツクラブ",
+    "answer2": "Câu lạc bộ thể thao"
+  },
+  {
+    "question": "髪",
+    "answer1": "かみ",
+    "answer2": "Tóc"
+  },
+  {
+    "question": "お凸",
+    "answer1": "おでこ",
+    "answer2": "Trán"
+  },
+  {
+    "question": "顎",
+    "answer1": "あご",
+    "answer2": "Cằm"
+  },
+  {
+    "question": "髭",
+    "answer1": "ひげ",
+    "answer2": "Râu"
+  },
+  {
+    "question": "唇",
+    "answer1": "くちびる",
+    "answer2": "Môi"
+  },
+  {
+    "question": "首",
+    "answer1": "くび",
+    "answer2": "Cổ"
+  },
+  {
+    "question": "喉",
+    "answer1": "のど",
+    "answer2": "Cổ họng"
+  },
+  {
+    "question": "肩",
+    "answer1": "かた",
+    "answer2": "Vai"
+  },
+  {
+    "question": "腕",
+    "answer1": "うで",
+    "answer2": "Cánh tay"
+  },
+  {
+    "question": "肘",
+    "answer1": "ひじ",
+    "answer2": "Khuỷu tay"
+  },
+  {
+    "question": "背中",
+    "answer1": "せなか",
+    "answer2": "Lưng"
+  },
+  {
+    "question": "胃",
+    "answer1": "い",
+    "answer2": "Dạ dày"
+  },
+  {
+    "question": "腰",
+    "answer1": "こし",
+    "answer2": "Thắt lưng"
+  },
+  {
+    "question": "膝",
+    "answer1": "ひざ",
+    "answer2": "Đầu gối"
+  },
+  {
+    "question": "[お]尻",
+    "answer1": "[お]しり",
+    "answer2": "Mông"
+  },
+  {
+    "question": "指",
+    "answer1": "ゆび",
+    "answer2": "Ngón (tay, chân)"
+  },
+  {
+    "question": "爪",
+    "answer1": "つめ",
+    "answer2": "Móng"
+  },
+  {
+    "question": "骨",
+    "answer1": "ほね",
+    "answer2": "Xương"
+  }
+]

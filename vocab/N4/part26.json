@@ -1,0 +1,127 @@
+[
+  {
+    "question": "料理教室",
+    "answer1": "りょうりきょうしつ",
+    "answer2": "Lớp nấu ăn"
+  },
+  {
+    "question": "コンテスト",
+    "answer1": "コンテスト",
+    "answer2": "Cuộc thi"
+  },
+  {
+    "question": "楽しむ",
+    "answer1": "たのしむ",
+    "answer2": "Tận hưởng"
+  },
+  {
+    "question": "楽しみ<な>",
+    "answer1": "たのしみな",
+    "answer2": "Niềm vui"
+  },
+  {
+    "question": "興味",
+    "answer1": "きょうみ",
+    "answer2": "Quan tâm, hứng thú"
+  },
+  {
+    "question": "録画<する>",
+    "answer1": "ろくがする",
+    "answer2": "Ghi hình"
+  },
+  {
+    "question": "集める",
+    "answer1": "あつめる",
+    "answer2": "Sưu tầm"
+  },
+  {
+    "question": "運動<する>",
+    "answer1": "うんどうする",
+    "answer2": "Vận động, thể dục"
+  },
+  {
+    "question": "走る",
+    "answer1": "はしる",
+    "answer2": "Chạy"
+  },
+  {
+    "question": "歩く",
+    "answer1": "あるく",
+    "answer2": "Đi bộ"
+  },
+  {
+    "question": "ジョギング<為る>",
+    "answer1": "ジョギングする",
+    "answer2": "Chạy bộ"
+  },
+  {
+    "question": "伸ばす",
+    "answer1": "のばす",
+    "answer2": "Duỗi"
+  },
+  {
+    "question": "試合",
+    "answer1": "しあい",
+    "answer2": "Trận đấu"
+  },
+  {
+    "question": "大会",
+    "answer1": "たいかい",
+    "answer2": "Giải đấu"
+  },
+  {
+    "question": "ワールドカップ",
+    "answer1": "ワールドカップ",
+    "answer2": "World Cup"
+  },
+  {
+    "question": "行う",
+    "answer1": "おこなう",
+    "answer2": "Tổ chức"
+  },
+  {
+    "question": "中止<する>",
+    "answer1": "ちゅうしする",
+    "answer2": "Hủy, tạm dừng"
+  },
+  {
+    "question": "選手",
+    "answer1": "せんしゅ",
+    "answer2": "Vận động viên"
+  },
+  {
+    "question": "チーム",
+    "answer1": "チーム",
+    "answer2": "Đội"
+  },
+  {
+    "question": "勝つ",
+    "answer1": "かつ",
+    "answer2": "Thắng"
+  },
+  {
+    "question": "優勝<する>",
+    "answer1": "ゆうしょうする",
+    "answer2": "Vô địch"
+  },
+  {
+    "question": "負ける",
+    "answer1": "まける",
+    "answer2": "Thua"
+  },
+  {
+    "question": "応援<する>",
+    "answer1": "おうえんする",
+    "answer2": "Cổ vũ"
+  },
+  {
+    "question": "コース",
+    "answer1": "コース",
+    "answer2": "Lộ trình"
+  },
+  {
+    "question": "会場",
+    "answer1": "かいじょう",
+    "answer2": "Địa điểm thi đấu"
+  }
+]
