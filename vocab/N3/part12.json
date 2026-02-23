@@ -1,0 +1,127 @@
+[
+  {
+    "question": "贅沢<な／為る>",
+    "answer1": "ぜいたくな／する",
+    "answer2": "Xa xỉ"
+  },
+  {
+    "question": "割り勘",
+    "answer1": "わりかん",
+    "answer2": "Chia tiền"
+  },
+  {
+    "question": "レンタル<為る>",
+    "answer1": "レンタルする",
+    "answer2": "Thuê, mượn"
+  },
+  {
+    "question": "支払う",
+    "answer1": "しはらう",
+    "answer2": "Thanh toán"
+  },
+  {
+    "question": "支払い",
+    "answer1": "しはらい",
+    "answer2": "Việc chi trả"
+  },
+  {
+    "question": "勘定<する>",
+    "answer1": "かんじょうする",
+    "answer2": "Tính tiền"
+  },
+  {
+    "question": "口座",
+    "answer1": "こうざ",
+    "answer2": "Tài khoản"
+  },
+  {
+    "question": "キャッシュカード",
+    "answer1": "キャッシュカード",
+    "answer2": "Thẻ ATM"
+  },
+  {
+    "question": "暗証番号",
+    "answer1": "あんしょうばんごう",
+    "answer2": "Mã PIN"
+  },
+  {
+    "question": "預金<する>",
+    "answer1": "よきんする",
+    "answer2": "Gửi tiền"
+  },
+  {
+    "question": "溜める",
+    "answer1": "ためる",
+    "answer2": "Tích lũy"
+  },
+  {
+    "question": "溜まる",
+    "answer1": "たまる",
+    "answer2": "Được tích lũy"
+  },
+  {
+    "question": "引き出す",
+    "answer1": "ひきだす",
+    "answer2": "Rút tiền"
+  },
+  {
+    "question": "振り込む",
+    "answer1": "ふりこむ",
+    "answer2": "Chuyển khoản"
+  },
+  {
+    "question": "送金<する>",
+    "answer1": "そうきんする",
+    "answer2": "Gửi tiền"
+  },
+  {
+    "question": "通帳記入",
+    "answer1": "つうちょうきにゅう",
+    "answer2": "Ghi sổ ngân hàng"
+  },
+  {
+    "question": "品物",
+    "answer1": "しなもの",
+    "answer2": "Hàng hóa"
+  },
+  {
+    "question": "現金",
+    "answer1": "げんきん",
+    "answer2": "Tiền mặt"
+  },
+  {
+    "question": "クレジットカード",
+    "answer1": "クレジットカード",
+    "answer2": "Thẻ tín dụng"
+  },
+  {
+    "question": "一回払い",
+    "answer1": "いっかいばらい",
+    "answer2": "Thanh toán một lần"
+  },
+  {
+    "question": "合計<する>",
+    "answer1": "ごうけいする",
+    "answer2": "Tổng cộng"
+  },
+  {
+    "question": "代金",
+    "answer1": "だいきん",
+    "answer2": "Tiền mua hàng"
+  },
+  {
+    "question": "税込",
+    "answer1": "ぜいこみ",
+    "answer2": "Đã bao gồm thuế"
+  },
+  {
+    "question": "請求書",
+    "answer1": "せいきゅうしょ",
+    "answer2": "Hóa đơn yêu cầu thanh toán"
+  },
+  {
+    "question": "領収書",
+    "answer1": "りょうしゅうしょ",
+    "answer2": "Biên lai"
+  }
+]

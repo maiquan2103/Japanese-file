@@ -1,0 +1,127 @@
+[
+  {
+    "question": "血液",
+    "answer1": "けつえき",
+    "answer2": "Máu"
+  },
+  {
+    "question": "血液型",
+    "answer1": "けつえきがた",
+    "answer2": "Nhóm máu"
+  },
+  {
+    "question": "心臓",
+    "answer1": "しんぞう",
+    "answer2": "Tim"
+  },
+  {
+    "question": "汗",
+    "answer1": "あせ",
+    "answer2": "Mồ hôi"
+  },
+  {
+    "question": "息",
+    "answer1": "いき",
+    "answer2": "Hơi thở"
+  },
+  {
+    "question": "ため息",
+    "answer1": "ためいき",
+    "answer2": "Thở dài"
+  },
+  {
+    "question": "皮ふ",
+    "answer1": "ひふ",
+    "answer2": "Da"
+  },
+  {
+    "question": "顔色",
+    "answer1": "かおいろ",
+    "answer2": "Sắc mặt"
+  },
+  {
+    "question": "睡眠",
+    "answer1": "すいみん",
+    "answer2": "Giấc ngủ"
+  },
+  {
+    "question": "瞼",
+    "answer1": "まぶた",
+    "answer2": "Mí mắt"
+  },
+  {
+    "question": "丈夫な",
+    "answer1": "じょうぶな",
+    "answer2": "Khỏe, dẻo dai"
+  },
+  {
+    "question": "歯科医",
+    "answer1": "しかい",
+    "answer2": "Nha sĩ"
+  },
+  {
+    "question": "虫歯",
+    "answer1": "むしば",
+    "answer2": "Răng sâu"
+  },
+  {
+    "question": "裸",
+    "answer1": "はだか",
+    "answer2": "Cởi truồng, trần truồng"
+  },
+  {
+    "question": "裸足",
+    "answer1": "はだし",
+    "answer2": "Chân trần, chân đất"
+  },
+  {
+    "question": "調子",
+    "answer1": "ちょうし",
+    "answer2": "Tình trạng, cảm giác"
+  },
+  {
+    "question": "欠伸＜為る＞",
+    "answer1": "あくびする",
+    "answer2": "Ngáp"
+  },
+  {
+    "question": "吃逆＜為る＞",
+    "answer1": "しゃっくりする",
+    "answer2": "Nấc"
+  },
+  {
+    "question": "涎",
+    "answer1": "よだれ",
+    "answer2": "Dớt dãi, nước miếng"
+  },
+  {
+    "question": "面皰",
+    "answer1": "にきび",
+    "answer2": "Mụn trứng cá"
+  },
+  {
+    "question": "気になる",
+    "answer1": "きになる",
+    "answer2": "Bận tâm"
+  },
+  {
+    "question": "気にする",
+    "answer1": "きにする",
+    "answer2": "Bận tâm, lo lắng"
+  },
+  {
+    "question": "白髪",
+    "answer1": "しらが",
+    "answer2": "Tóc bạc"
+  },
+  {
+    "question": "抜く",
+    "answer1": "ぬく",
+    "answer2": "Nhổ"
+  },
+  {
+    "question": "生える",
+    "answer1": "はえる",
+    "answer2": "Mọc"
+  }
+]

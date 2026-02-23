@@ -1,0 +1,127 @@
+[
+  {
+    "question": "記憶＜する＞",
+    "answer1": "きおくする",
+    "answer2": "Sự ghi nhớ"
+  },
+  {
+    "question": "くり返す",
+    "answer1": "くりかえす",
+    "answer2": "Nhắc lại"
+  },
+  {
+    "question": "聞き取る",
+    "answer1": "ききとる",
+    "answer2": "Nghe hiểu"
+  },
+  {
+    "question": "聞き返す",
+    "answer1": "ききかえす",
+    "answer2": "Hỏi lại"
+  },
+  {
+    "question": "聞き直す",
+    "answer1": "ききなおす",
+    "answer2": "Nghe lại"
+  },
+  {
+    "question": "言い直す",
+    "answer1": "いいなおす",
+    "answer2": "Nói lại"
+  },
+  {
+    "question": "英会話",
+    "answer1": "えいかいわ",
+    "answer2": "Hội thoại tiếng Anh"
+  },
+  {
+    "question": "入門",
+    "answer1": "にゅうもん",
+    "answer2": "Nhập môn"
+  },
+  {
+    "question": "下書き＜する＞",
+    "answer1": "したがきする",
+    "answer2": "Viết nháp"
+  },
+  {
+    "question": "清書＜する＞",
+    "answer1": "せいしょする",
+    "answer2": "Viết chính thức"
+  },
+  {
+    "question": "表れる",
+    "answer1": "あらわれる",
+    "answer2": "Thể hiện"
+  },
+  {
+    "question": "物語",
+    "answer1": "ものがたり",
+    "answer2": "Truyện, truyện cổ tích"
+  },
+  {
+    "question": "教科",
+    "answer1": "きょうか",
+    "answer2": "Môn học"
+  },
+  {
+    "question": "科目",
+    "answer1": "かもく",
+    "answer2": "Môn học"
+  },
+  {
+    "question": "足し算",
+    "answer1": "たしざん",
+    "answer2": "Phép cộng"
+  },
+  {
+    "question": "イコール",
+    "answer1": "イコール",
+    "answer2": "Bằng"
+  },
+  {
+    "question": "グラフ",
+    "answer1": "グラフ",
+    "answer2": "Biểu đồ"
+  },
+  {
+    "question": "三角形",
+    "answer1": "さんかくけい",
+    "answer2": "Hình tam giác"
+  },
+  {
+    "question": "定規",
+    "answer1": "じょうぎ",
+    "answer2": "Thước"
+  },
+  {
+    "question": "センチ",
+    "answer1": "センチ",
+    "answer2": "Xen-ti-mét"
+  },
+  {
+    "question": "自習＜する＞",
+    "answer1": "じしゅうする",
+    "answer2": "Tự học"
+  },
+  {
+    "question": "ローマ字",
+    "answer1": "ローマじ",
+    "answer2": "Chữ cái La-tinh"
+  },
+  {
+    "question": "補講＜する＞",
+    "answer1": "ほこうする",
+    "answer2": "Học bù, học thêm"
+  },
+  {
+    "question": "（鉛筆）削る",
+    "answer1": "（えんぴつを）けずる",
+    "answer2": "Gọt (bút chì)"
+  },
+  {
+    "question": "学部",
+    "answer1": "がくぶ",
+    "answer2": "Khoa"
+  }
+]

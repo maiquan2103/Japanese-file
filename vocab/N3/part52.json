@@ -1,0 +1,127 @@
+[
+  {
+    "question": "迷う",
+    "answer1": "まよう",
+    "answer2": "Phân vân"
+  },
+  {
+    "question": "迷い",
+    "answer1": "まよい",
+    "answer2": "Sự phân vân"
+  },
+  {
+    "question": "微妙な",
+    "answer1": "びみょうな",
+    "answer2": "Khó nói"
+  },
+  {
+    "question": "魅力",
+    "answer1": "みりょく",
+    "answer2": "Sức hút"
+  },
+  {
+    "question": "本音",
+    "answer1": "ほんね",
+    "answer2": "Suy nghĩ thật"
+  },
+  {
+    "question": "???",
+    "answer1": "ましな",
+    "answer2": "Tốt hơn"
+  },
+  {
+    "question": "涙",
+    "answer1": "なみだ",
+    "answer2": "Nước mắt"
+  },
+  {
+    "question": "憎む",
+    "answer1": "にくむ",
+    "answer2": "Căm ghét"
+  },
+  {
+    "question": "カウンセリング＜為る＞",
+    "answer1": "カウンセリングする",
+    "answer2": "Tư vấn tâm lý"
+  },
+  {
+    "question": "模様",
+    "answer1": "もよう",
+    "answer2": "Hoa văn, họa tiết"
+  },
+  {
+    "question": "特徴",
+    "answer1": "とくちょう",
+    "answer2": "Đặc điểm, đặc trưng"
+  },
+  {
+    "question": "特色",
+    "answer1": "とくしょく",
+    "answer2": "Điểm đặc sắc"
+  },
+  {
+    "question": "柄",
+    "answer1": "がら",
+    "answer2": "Hoa văn, họa tiết"
+  },
+  {
+    "question": "花柄",
+    "answer1": "はながら",
+    "answer2": "Họa tiết hoa"
+  },
+  {
+    "question": "水玉",
+    "answer1": "みずたま",
+    "answer2": "Chấm bi"
+  },
+  {
+    "question": "島",
+    "answer1": "しま",
+    "answer2": "Kẻ sọc"
+  },
+  {
+    "question": "縦",
+    "answer1": "たて",
+    "answer2": "Chiều dọc"
+  },
+  {
+    "question": "横",
+    "answer1": "よこ",
+    "answer2": "Chiều ngang"
+  },
+  {
+    "question": "斜め<な>",
+    "answer1": "ななめな",
+    "answer2": "Đường chéo"
+  },
+  {
+    "question": "幅",
+    "answer1": "はば",
+    "answer2": "Bề ngang"
+  },
+  {
+    "question": "ストライプ",
+    "answer1": "ストライプ",
+    "answer2": "Kẻ sọc"
+  },
+  {
+    "question": "無地",
+    "answer1": "むじ",
+    "answer2": "Trơn, không họa tiết"
+  },
+  {
+    "question": "????",
+    "answer1": "シンプルな",
+    "answer2": "Đơn giản"
+  },
+  {
+    "question": "真っ赤<な>",
+    "answer1": "まっかな",
+    "answer2": "Đỏ rực"
+  },
+  {
+    "question": "バラバラ事件<な>",
+    "answer1": "ばらばらな",
+    "answer2": "Lung tung, rời rạc"
+  }
+]

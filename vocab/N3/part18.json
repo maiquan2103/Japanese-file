@@ -1,0 +1,127 @@
+[
+  {
+    "question": "有効期限",
+    "answer1": "ゆうこうきげん",
+    "answer2": "Thời hạn hiệu lực"
+  },
+  {
+    "question": "窓口",
+    "answer1": "まどぐち",
+    "answer2": "Quầy vé"
+  },
+  {
+    "question": "販売<する>",
+    "answer1": "はんばいする",
+    "answer2": "Bán"
+  },
+  {
+    "question": "通路側",
+    "answer1": "つうろがわ",
+    "answer2": "Phía lối đi"
+  },
+  {
+    "question": "改札",
+    "answer1": "かいさつ",
+    "answer2": "Cửa soát vé"
+  },
+  {
+    "question": "指定席",
+    "answer1": "していせき",
+    "answer2": "Ghế chỉ định"
+  },
+  {
+    "question": "車内アナウンス",
+    "answer1": "しゃないアナウンス",
+    "answer2": "Phát thanh trên tàu"
+  },
+  {
+    "question": "車掌",
+    "answer1": "しゃしょう",
+    "answer2": "Nhân viên tàu"
+  },
+  {
+    "question": "ホーム",
+    "answer1": "ホーム",
+    "answer2": "Sân ga"
+  },
+  {
+    "question": "線路",
+    "answer1": "せんろ",
+    "answer2": "Đường ray"
+  },
+  {
+    "question": "踏切",
+    "answer1": "ふみきり",
+    "answer2": "Đường ngang"
+  },
+  {
+    "question": "乗り遅れる",
+    "answer1": "のりおくれる",
+    "answer2": "Lỡ tàu"
+  },
+  {
+    "question": "乗り換える",
+    "answer1": "のりかえる",
+    "answer2": "Chuyển tàu"
+  },
+  {
+    "question": "乗り越す",
+    "answer1": "のりこす",
+    "answer2": "Đi quá"
+  },
+  {
+    "question": "乗り過ごす",
+    "answer1": "のりすごす",
+    "answer2": "Đi quá ga"
+  },
+  {
+    "question": "踏む",
+    "answer1": "ふむ",
+    "answer2": "Giẫm"
+  },
+  {
+    "question": "バス停",
+    "answer1": "バスてい",
+    "answer2": "Bến xe buýt"
+  },
+  {
+    "question": "乗車口",
+    "answer1": "じょうしゃぐち",
+    "answer2": "Cửa lên xe"
+  },
+  {
+    "question": "乗客",
+    "answer1": "じょうきゃく",
+    "answer2": "Hành khách"
+  },
+  {
+    "question": "乗車<する>",
+    "answer1": "じょうしゃする",
+    "answer2": "Lên xe"
+  },
+  {
+    "question": "発車<する>",
+    "answer1": "はっしゃする",
+    "answer2": "Xuất phát"
+  },
+  {
+    "question": "通過<する>",
+    "answer1": "つうかする",
+    "answer2": "Đi qua"
+  },
+  {
+    "question": "停車<する>",
+    "answer1": "ていしゃする",
+    "answer2": "Dừng xe"
+  },
+  {
+    "question": "下車<する>",
+    "answer1": "げしゃする",
+    "answer2": "Xuống xe"
+  },
+  {
+    "question": "交通費",
+    "answer1": "こうつうひ",
+    "answer2": "Tiền đi lại"
+  }
+]

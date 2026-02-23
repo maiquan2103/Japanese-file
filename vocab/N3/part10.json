@@ -1,0 +1,127 @@
+[
+  {
+    "question": "泡",
+    "answer1": "あわ",
+    "answer2": "Bọt"
+  },
+  {
+    "question": "臭う",
+    "answer1": "におう",
+    "answer2": "Bốc mùi"
+  },
+  {
+    "question": "洗濯物",
+    "answer1": "せんたくもの",
+    "answer2": "Đồ giặt"
+  },
+  {
+    "question": "汚れ",
+    "answer1": "よごれ",
+    "answer2": "Vết bẩn"
+  },
+  {
+    "question": "干す",
+    "answer1": "ほす",
+    "answer2": "Phơi"
+  },
+  {
+    "question": "乾燥<する>",
+    "answer1": "かんそうする",
+    "answer2": "Sấy khô"
+  },
+  {
+    "question": "畳む",
+    "answer1": "たたむ",
+    "answer2": "Gấp"
+  },
+  {
+    "question": "アイロン",
+    "answer1": "アイロン",
+    "answer2": "Bàn ủi"
+  },
+  {
+    "question": "敷く",
+    "answer1": "しく",
+    "answer2": "Trải"
+  },
+  {
+    "question": "育児",
+    "answer1": "いくじ",
+    "answer2": "Nuôi con"
+  },
+  {
+    "question": "（人を）起こす",
+    "answer1": "（ひとを）おこす",
+    "answer2": "Đánh thức"
+  },
+  {
+    "question": "糸",
+    "answer1": "いと",
+    "answer2": "Chỉ"
+  },
+  {
+    "question": "針",
+    "answer1": "はり",
+    "answer2": "Kim"
+  },
+  {
+    "question": "生ごみ",
+    "answer1": "なまごみ",
+    "answer2": "Rác hữu cơ"
+  },
+  {
+    "question": "空き缶",
+    "answer1": "あきかん",
+    "answer2": "Lon rỗng"
+  },
+  {
+    "question": "（ごみを）出す",
+    "answer1": "（ごみを）だす",
+    "answer2": "Đổ rác"
+  },
+  {
+    "question": "住まい",
+    "answer1": "すまい",
+    "answer2": "Chỗ ở"
+  },
+  {
+    "question": "リビング",
+    "answer1": "リビング",
+    "answer2": "Phòng khách"
+  },
+  {
+    "question": "居間",
+    "answer1": "いま",
+    "answer2": "Phòng khách"
+  },
+  {
+    "question": "家電",
+    "answer1": "かでん",
+    "answer2": "Đồ điện gia dụng"
+  },
+  {
+    "question": "エアコン",
+    "answer1": "エアコン",
+    "answer2": "Máy điều hòa"
+  },
+  {
+    "question": "クーラー",
+    "answer1": "クーラー",
+    "answer2": "Máy lạnh"
+  },
+  {
+    "question": "暖める",
+    "answer1": "あたためる",
+    "answer2": "Làm ấm, sưởi ấm"
+  },
+  {
+    "question": "天井",
+    "answer1": "てんじょう",
+    "answer2": "Trần nhà"
+  },
+  {
+    "question": "床",
+    "answer1": "ゆか",
+    "answer2": "Sàn nhà"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "出会う",
+    "answer1": "であう",
+    "answer2": "Gặp gỡ"
+  },
+  {
+    "question": "付き合う",
+    "answer1": "つきあう",
+    "answer2": "Quen nhau"
+  },
+  {
+    "question": "交際＜する＞",
+    "answer1": "こうさいする",
+    "answer2": "Quan hệ, giao thiệp"
+  },
+  {
+    "question": "記念＜する＞",
+    "answer1": "きねんする",
+    "answer2": "Kỷ niệm"
+  },
+  {
+    "question": "記念日",
+    "answer1": "きねんび",
+    "answer2": "Ngày kỷ niệm"
+  },
+  {
+    "question": "喧嘩＜為る＞",
+    "answer1": "けんかする",
+    "answer2": "Cãi nhau"
+  },
+  {
+    "question": "言い返す",
+    "answer1": "いいかえす",
+    "answer2": "Cãi lại"
+  },
+  {
+    "question": "謝る",
+    "answer1": "あやまる",
+    "answer2": "Xin lỗi"
+  },
+  {
+    "question": "仲直り＜する＞",
+    "answer1": "なかなおりする",
+    "answer2": "Làm lành"
+  },
+  {
+    "question": "連れて行く",
+    "answer1": "つれていく",
+    "answer2": "Dẫn đi"
+  },
+  {
+    "question": "連れて来る",
+    "answer1": "つれてくる",
+    "answer2": "Dẫn đến"
+  },
+  {
+    "question": "秘密",
+    "answer1": "ひみつ",
+    "answer2": "Bí mật"
+  },
+  {
+    "question": "内緒",
+    "answer1": "ないしょ",
+    "answer2": "Chuyện kín"
+  },
+  {
+    "question": "好かれる",
+    "answer1": "すかれる",
+    "answer2": "Được yêu mến"
+  },
+  {
+    "question": "持てる",
+    "answer1": "もてる",
+    "answer2": "Đào hoa"
+  },
+  {
+    "question": "（人を）ふる",
+    "answer1": "（ひとを）ふる",
+    "answer2": "Đá, bỏ người yêu"
+  },
+  {
+    "question": "［お］見合い＜する＞",
+    "answer1": "［お］みあいする",
+    "answer2": "Mai mối"
+  },
+  {
+    "question": "恋愛＜する＞",
+    "answer1": "れんあいする",
+    "answer2": "Yêu đương"
+  },
+  {
+    "question": "存在＜する＞",
+    "answer1": "そんざいする",
+    "answer2": "Tồn tại"
+  },
+  {
+    "question": "相手",
+    "answer1": "あいて",
+    "answer2": "Đối phương"
+  },
+  {
+    "question": "助ける",
+    "answer1": "たすける",
+    "answer2": "Giúp đỡ"
+  },
+  {
+    "question": "助かる",
+    "answer1": "たすかる",
+    "answer2": "Được giúp, may mắn"
+  },
+  {
+    "question": "支える",
+    "answer1": "ささえる",
+    "answer2": "Chống đỡ, hỗ trợ"
+  },
+  {
+    "question": "誘う",
+    "answer1": "さそう",
+    "answer2": "Rủ"
+  },
+  {
+    "question": "待ち合わせる",
+    "answer1": "まちあわせる",
+    "answer2": "Hẹn gặp"
+  }
+]

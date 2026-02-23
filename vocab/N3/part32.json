@@ -1,0 +1,127 @@
+[
+  {
+    "question": "ウェア",
+    "answer1": "ウェア",
+    "answer2": "Trang phục thể thao"
+  },
+  {
+    "question": "蹴る",
+    "answer1": "ける",
+    "answer2": "Đá"
+  },
+  {
+    "question": "ホームラン",
+    "answer1": "ホームラン",
+    "answer2": "Đánh bóng ra ngoài sân"
+  },
+  {
+    "question": "打つ",
+    "answer1": "うつ",
+    "answer2": "Đánh"
+  },
+  {
+    "question": "前半",
+    "answer1": "ぜんはん",
+    "answer2": "Hiệp đầu"
+  },
+  {
+    "question": "ポイント",
+    "answer1": "ポイント",
+    "answer2": "Điểm"
+  },
+  {
+    "question": "引き分け",
+    "answer1": "ひきわけ",
+    "answer2": "Hòa"
+  },
+  {
+    "question": "運動会",
+    "answer1": "うんどうかい",
+    "answer2": "Ngày hội thể thao"
+  },
+  {
+    "question": "大声",
+    "answer1": "おおごえ",
+    "answer2": "Tiếng to"
+  },
+  {
+    "question": "思い切り",
+    "answer1": "おもいきり",
+    "answer2": "Hết sức"
+  },
+  {
+    "question": "ペース",
+    "answer1": "ペース",
+    "answer2": "Nhịp độ"
+  },
+  {
+    "question": "ゴール<為る>",
+    "answer1": "ゴールする",
+    "answer2": "Về đích"
+  },
+  {
+    "question": "拍手<する>",
+    "answer1": "はくしゅする",
+    "answer2": "Vỗ tay"
+  },
+  {
+    "question": "ライバル",
+    "answer1": "ライバル",
+    "answer2": "Đối thủ"
+  },
+  {
+    "question": "握手<する>",
+    "answer1": "あくしゅする",
+    "answer2": "Bắt tay"
+  },
+  {
+    "question": "惜しい",
+    "answer1": "おしい",
+    "answer2": "Đáng tiếc"
+  },
+  {
+    "question": "素早い",
+    "answer1": "すばやい",
+    "answer2": "Nhanh nhẹn"
+  },
+  {
+    "question": "体操<する>",
+    "answer1": "たいそうする",
+    "answer2": "Thể dục"
+  },
+  {
+    "question": "トレーニング<為る>",
+    "answer1": "トレーニングする",
+    "answer2": "Luyện tập"
+  },
+  {
+    "question": "日課",
+    "answer1": "にっか",
+    "answer2": "Việc thường ngày"
+  },
+  {
+    "question": "キャプテン",
+    "answer1": "キャプテン",
+    "answer2": "Đội trưởng"
+  },
+  {
+    "question": "プロ",
+    "answer1": "プロ",
+    "answer2": "Chuyên nghiệp"
+  },
+  {
+    "question": "プレー<為る>",
+    "answer1": "プレーする",
+    "answer2": "Thi đấu"
+  },
+  {
+    "question": "ファン",
+    "answer1": "ファン",
+    "answer2": "Người hâm mộ"
+  },
+  {
+    "question": "引退<する>",
+    "answer1": "いんたいする",
+    "answer2": "Giải nghệ"
+  }
+]

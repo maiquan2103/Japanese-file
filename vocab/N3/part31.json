@@ -1,0 +1,127 @@
+[
+  {
+    "question": "ツアー",
+    "answer1": "ツアー",
+    "answer2": "Chuyến du lịch"
+  },
+  {
+    "question": "彼方此方",
+    "answer1": "あちこち",
+    "answer2": "Đó đây, khắp nơi"
+  },
+  {
+    "question": "観光<する>",
+    "answer1": "かんこうする",
+    "answer2": "Du lịch, tham quan"
+  },
+  {
+    "question": "費用",
+    "answer1": "ひよう",
+    "answer2": "Phí, chi phí"
+  },
+  {
+    "question": "予算",
+    "answer1": "よさん",
+    "answer2": "Ngân sách"
+  },
+  {
+    "question": "集合<する>",
+    "answer1": "しゅうごうする",
+    "answer2": "Tập trung"
+  },
+  {
+    "question": "解散<する>",
+    "answer1": "かいさんする",
+    "answer2": "Giải tán"
+  },
+  {
+    "question": "旅館",
+    "answer1": "りょかん",
+    "answer2": "Nhà trọ kiểu Nhật"
+  },
+  {
+    "question": "五つ星ホテル",
+    "answer1": "いつつぼしホテル",
+    "answer2": "Khách sạn 5 sao"
+  },
+  {
+    "question": "満室",
+    "answer1": "まんしつ",
+    "answer2": "Hết phòng"
+  },
+  {
+    "question": "チェックイン<為る>",
+    "answer1": "チェックインする",
+    "answer2": "Nhận phòng"
+  },
+  {
+    "question": "近づく",
+    "answer1": "ちかづく",
+    "answer2": "Đến gần"
+  },
+  {
+    "question": "取り消す",
+    "answer1": "とりけす",
+    "answer2": "Hủy"
+  },
+  {
+    "question": "追加<する>",
+    "answer1": "ついかする",
+    "answer2": "Bổ sung"
+  },
+  {
+    "question": "持ち物",
+    "answer1": "もちもの",
+    "answer2": "Đồ mang theo"
+  },
+  {
+    "question": "足りる",
+    "answer1": "たりる",
+    "answer2": "Đủ"
+  },
+  {
+    "question": "スーツケース",
+    "answer1": "スーツケース",
+    "answer2": "Va-li"
+  },
+  {
+    "question": "使用<する>",
+    "answer1": "しようする",
+    "answer2": "Sử dụng"
+  },
+  {
+    "question": "船旅",
+    "answer1": "ふなたび",
+    "answer2": "Du lịch tàu thủy"
+  },
+  {
+    "question": "時差",
+    "answer1": "じさ",
+    "answer2": "Chênh lệch múi giờ"
+  },
+  {
+    "question": "両替<する>",
+    "answer1": "りょうがえする",
+    "answer2": "Đổi tiền"
+  },
+  {
+    "question": "ドル",
+    "answer1": "ドル",
+    "answer2": "Đô la"
+  },
+  {
+    "question": "来日<する>",
+    "answer1": "らいにちする",
+    "answer2": "Đến Nhật Bản"
+  },
+  {
+    "question": "競争<する>",
+    "answer1": "きょうそうする",
+    "answer2": "Cạnh tranh"
+  },
+  {
+    "question": "活躍<する>",
+    "answer1": "かつやくする",
+    "answer2": "Hoạt động tích cực"
+  }
+]

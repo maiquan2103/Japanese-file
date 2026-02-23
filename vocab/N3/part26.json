@@ -1,0 +1,127 @@
+[
+  {
+    "question": "問い合わせる",
+    "answer1": "といあわせる",
+    "answer2": "Hỏi, thắc mắc"
+  },
+  {
+    "question": "企業",
+    "answer1": "きぎょう",
+    "answer2": "Doanh nghiệp, công ty"
+  },
+  {
+    "question": "ホームページ",
+    "answer1": "ホームページ",
+    "answer2": "Trang chủ"
+  },
+  {
+    "question": "条件",
+    "answer1": "じょうけん",
+    "answer2": "Điều kiện"
+  },
+  {
+    "question": "募集<する>",
+    "answer1": "ぼしゅうする",
+    "answer2": "Tuyển dụng"
+  },
+  {
+    "question": "応募<する>",
+    "answer1": "おうぼする",
+    "answer2": "Ứng tuyển"
+  },
+  {
+    "question": "登録<する>",
+    "answer1": "とうろくする",
+    "answer2": "Đăng ký"
+  },
+  {
+    "question": "面接<する>",
+    "answer1": "めんせつする",
+    "answer2": "Phỏng vấn"
+  },
+  {
+    "question": "履歴書",
+    "answer1": "りれきしょ",
+    "answer2": "Sơ yếu lý lịch"
+  },
+  {
+    "question": "記入<する>",
+    "answer1": "きにゅうする",
+    "answer2": "Điền, ghi"
+  },
+  {
+    "question": "資格",
+    "answer1": "しかく",
+    "answer2": "Chứng chỉ"
+  },
+  {
+    "question": "服装",
+    "answer1": "ふくそう",
+    "answer2": "Trang phục"
+  },
+  {
+    "question": "長所",
+    "answer1": "ちょうしょ",
+    "answer2": "Điểm mạnh"
+  },
+  {
+    "question": "短所",
+    "answer1": "たんしょ",
+    "answer2": "Điểm yếu"
+  },
+  {
+    "question": "全て",
+    "answer1": "すべて",
+    "answer2": "Tất cả"
+  },
+  {
+    "question": "ワイシャツ",
+    "answer1": "ワイシャツ",
+    "answer2": "Áo sơ mi"
+  },
+  {
+    "question": "是非",
+    "answer1": "ぜひ",
+    "answer2": "Nhất định"
+  },
+  {
+    "question": "是非とも",
+    "answer1": "ぜひとも",
+    "answer2": "Rất mong, bằng mọi giá"
+  },
+  {
+    "question": "野党",
+    "answer1": "やとう",
+    "answer2": "Thuê"
+  },
+  {
+    "question": "採用<する>",
+    "answer1": "さいようする",
+    "answer2": "Tuyển dụng"
+  },
+  {
+    "question": "受け取る",
+    "answer1": "うけとる",
+    "answer2": "Nhận"
+  },
+  {
+    "question": "正社員",
+    "answer1": "せいしゃいん",
+    "answer2": "Nhân viên chính thức"
+  },
+  {
+    "question": "サラリーマン",
+    "answer1": "サラリーマン",
+    "answer2": "Nhân viên công ty"
+  },
+  {
+    "question": "研修<する>",
+    "answer1": "けんしゅうする",
+    "answer2": "Đào tạo"
+  },
+  {
+    "question": "実習<する>",
+    "answer1": "じっしゅうする",
+    "answer2": "Thực tập"
+  }
+]

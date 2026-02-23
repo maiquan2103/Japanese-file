@@ -1,0 +1,127 @@
+[
+  {
+    "question": "氷",
+    "answer1": "こおり",
+    "answer2": "Băng"
+  },
+  {
+    "question": "冷える",
+    "answer1": "ひえる",
+    "answer2": "Lạnh"
+  },
+  {
+    "question": "結構",
+    "answer1": "けっこう",
+    "answer2": "Khá"
+  },
+  {
+    "question": "非常な",
+    "answer1": "ひじょうな",
+    "answer2": "Rất"
+  },
+  {
+    "question": "夏日",
+    "answer1": "なつび",
+    "answer2": "Ngày hè trên 25°C"
+  },
+  {
+    "question": "真夏日",
+    "answer1": "まなつび",
+    "answer2": "Ngày hè trên 30°C"
+  },
+  {
+    "question": "猛暑日",
+    "answer1": "もうしょび",
+    "answer2": "Ngày trên 35°C"
+  },
+  {
+    "question": "冬日",
+    "answer1": "ふゆび",
+    "answer2": "Ngày đông dưới 0°C"
+  },
+  {
+    "question": "真冬日",
+    "answer1": "まふゆび",
+    "answer2": "Ngày đông rất lạnh"
+  },
+  {
+    "question": "暖冬",
+    "answer1": "だんとう",
+    "answer2": "Mùa đông ấm"
+  },
+  {
+    "question": "冷夏",
+    "answer1": "れいか",
+    "answer2": "Mùa hè mát"
+  },
+  {
+    "question": "折角",
+    "answer1": "せっかく",
+    "answer2": "Khó khăn lắm mới"
+  },
+  {
+    "question": "状態",
+    "answer1": "じょうたい",
+    "answer2": "Trạng thái"
+  },
+  {
+    "question": "変化<する>",
+    "answer1": "へんかする",
+    "answer2": "Thay đổi"
+  },
+  {
+    "question": "一定<する>",
+    "answer1": "いっていする",
+    "answer2": "Ổn định"
+  },
+  {
+    "question": "観察<する>",
+    "answer1": "かんさつする",
+    "answer2": "Quan sát"
+  },
+  {
+    "question": "次第に",
+    "answer1": "しだいに",
+    "answer2": "Dần dần"
+  },
+  {
+    "question": "徐々に",
+    "answer1": "じょじょに",
+    "answer2": "Dần dần, từ từ"
+  },
+  {
+    "question": "段々[と]",
+    "answer1": "だんだん",
+    "answer2": "Dần dần"
+  },
+  {
+    "question": "益々",
+    "answer1": "ますます",
+    "answer2": "Càng ngày càng"
+  },
+  {
+    "question": "??",
+    "answer1": "すっかり",
+    "answer2": "Hoàn toàn"
+  },
+  {
+    "question": "一気に",
+    "answer1": "いっきに",
+    "answer2": "Một lèo"
+  },
+  {
+    "question": "一度に",
+    "answer1": "いちどに",
+    "answer2": "Cùng lúc"
+  },
+  {
+    "question": "一遍に",
+    "answer1": "いっぺんに",
+    "answer2": "Cùng lúc"
+  },
+  {
+    "question": "いつの間にか",
+    "answer1": "いつのまにか",
+    "answer2": "Lúc nào không hay"
+  }
+]

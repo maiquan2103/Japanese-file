@@ -1,0 +1,127 @@
+[
+  {
+    "question": "曇る",
+    "answer1": "くもる",
+    "answer2": "Trời nhiều mây"
+  },
+  {
+    "question": "嵐",
+    "answer1": "あらし",
+    "answer2": "Bão"
+  },
+  {
+    "question": "強風",
+    "answer1": "きょうふう",
+    "answer2": "Gió mạnh"
+  },
+  {
+    "question": "大雨",
+    "answer1": "おおあめ",
+    "answer2": "Mưa to"
+  },
+  {
+    "question": "折りたたみ傘",
+    "answer1": "おりたたみがさ",
+    "answer2": "Ô gấp"
+  },
+  {
+    "question": "（傘を）さす",
+    "answer1": "（かさを）さす",
+    "answer2": "Che ô"
+  },
+  {
+    "question": "にわか雨",
+    "answer1": "にわかあめ",
+    "answer2": "Mưa rào"
+  },
+  {
+    "question": "突然",
+    "answer1": "とつぜん",
+    "answer2": "Đột nhiên"
+  },
+  {
+    "question": "途端[に]",
+    "answer1": "とたんに",
+    "answer2": "Vừa mới"
+  },
+  {
+    "question": "濡れる",
+    "answer1": "ぬれる",
+    "answer2": "Bị ướt"
+  },
+  {
+    "question": "あっという間",
+    "answer1": "あっというま",
+    "answer2": "Chẳng mấy chốc"
+  },
+  {
+    "question": "止む",
+    "answer1": "やむ",
+    "answer2": "Tạnh"
+  },
+  {
+    "question": "所々",
+    "answer1": "ところどころ",
+    "answer2": "Chỗ này chỗ kia"
+  },
+  {
+    "question": "積もる",
+    "answer1": "つもる",
+    "answer2": "Tích tụ"
+  },
+  {
+    "question": "快晴",
+    "answer1": "かいせい",
+    "answer2": "Trời quang"
+  },
+  {
+    "question": "輝く",
+    "answer1": "かがやく",
+    "answer2": "Lấp lánh"
+  },
+  {
+    "question": "眩しい",
+    "answer1": "まぶしい",
+    "answer2": "Chói"
+  },
+  {
+    "question": "後",
+    "answer1": "のち",
+    "answer2": "Sau"
+  },
+  {
+    "question": "当たる",
+    "answer1": "あたる",
+    "answer2": "Trúng"
+  },
+  {
+    "question": "故郷",
+    "answer1": "ふるさと",
+    "answer2": "Quê hương"
+  },
+  {
+    "question": "蒸し暑い",
+    "answer1": "むしあつい",
+    "answer2": "Nóng ẩm"
+  },
+  {
+    "question": "温度計",
+    "answer1": "おんどけい",
+    "answer2": "Nhiệt kế"
+  },
+  {
+    "question": "プラス",
+    "answer1": "プラス",
+    "answer2": "Dương"
+  },
+  {
+    "question": "マイナス",
+    "answer1": "マイナス",
+    "answer2": "Âm"
+  },
+  {
+    "question": "凍る",
+    "answer1": "こおる",
+    "answer2": "Đóng băng"
+  }
+]

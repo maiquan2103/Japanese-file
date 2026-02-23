@@ -1,0 +1,127 @@
+[
+  {
+    "question": "割り込む",
+    "answer1": "わりこむ",
+    "answer2": "Chen vào"
+  },
+  {
+    "question": "駐車違反",
+    "answer1": "ちゅうしゃいはん",
+    "answer2": "Vi phạm đỗ xe"
+  },
+  {
+    "question": "スピード違反",
+    "answer1": "スピードいはん",
+    "answer2": "Vi phạm tốc độ"
+  },
+  {
+    "question": "飲酒運転",
+    "answer1": "いんしゅうんてん",
+    "answer2": "Lái xe khi uống rượu"
+  },
+  {
+    "question": "アクセル",
+    "answer1": "アクセル",
+    "answer2": "Chân ga"
+  },
+  {
+    "question": "カーブ",
+    "answer1": "カーブ",
+    "answer2": "Đoạn cua"
+  },
+  {
+    "question": "緩い",
+    "answer1": "ゆるい",
+    "answer2": "Thoai thoải"
+  },
+  {
+    "question": "パンク<為る>",
+    "answer1": "パンクする",
+    "answer2": "Nổ lốp"
+  },
+  {
+    "question": "一方通行",
+    "answer1": "いっぽうつうこう",
+    "answer2": "Đường một chiều"
+  },
+  {
+    "question": "通行止め",
+    "answer1": "つうこうどめ",
+    "answer2": "Cấm đường"
+  },
+  {
+    "question": "運転免許証",
+    "answer1": "うんてんめんきょしょう",
+    "answer2": "Bằng lái"
+  },
+  {
+    "question": "????",
+    "answer1": "ぶつかる",
+    "answer2": "Va chạm"
+  },
+  {
+    "question": "弾く",
+    "answer1": "ひく",
+    "answer2": "Cán"
+  },
+  {
+    "question": "ハンドル",
+    "answer1": "ハンドル",
+    "answer2": "Vô lăng"
+  },
+  {
+    "question": "トランク",
+    "answer1": "トランク",
+    "answer2": "Cốp xe"
+  },
+  {
+    "question": "エンジン",
+    "answer1": "エンジン",
+    "answer2": "Động cơ"
+  },
+  {
+    "question": "中古車",
+    "answer1": "ちゅうこしゃ",
+    "answer2": "Xe cũ"
+  },
+  {
+    "question": "トラック",
+    "answer1": "トラック",
+    "answer2": "Xe tải"
+  },
+  {
+    "question": "入学式",
+    "answer1": "にゅうがくしき",
+    "answer2": "Lễ nhập học"
+  },
+  {
+    "question": "卒業式",
+    "answer1": "そつぎょうしき",
+    "answer2": "Lễ tốt nghiệp"
+  },
+  {
+    "question": "通学＜する＞",
+    "answer1": "つうがくする",
+    "answer2": "Sự đi học"
+  },
+  {
+    "question": "学年",
+    "answer1": "がくねん",
+    "answer2": "Năm học"
+  },
+  {
+    "question": "学期",
+    "answer1": "がっき",
+    "answer2": "Học kỳ"
+  },
+  {
+    "question": "欠席＜する＞",
+    "answer1": "けっせきする",
+    "answer2": "Vắng mặt, nghỉ"
+  },
+  {
+    "question": "遅れる",
+    "answer1": "おくれる",
+    "answer2": "Đến trễ, đến muộn"
+  }
+]

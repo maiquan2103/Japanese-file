@@ -1,0 +1,127 @@
+[
+  {
+    "question": "文系",
+    "answer1": "ぶんけい",
+    "answer2": "Ngành xã hội"
+  },
+  {
+    "question": "理系",
+    "answer1": "りけい",
+    "answer2": "Ngành tự nhiên"
+  },
+  {
+    "question": "学科",
+    "answer1": "がっか",
+    "answer2": "Bộ môn"
+  },
+  {
+    "question": "専攻＜する＞",
+    "answer1": "せんこうする",
+    "answer2": "Chuyên ngành"
+  },
+  {
+    "question": "前期",
+    "answer1": "ぜんき",
+    "answer2": "Học kỳ đầu"
+  },
+  {
+    "question": "学費",
+    "answer1": "がくひ",
+    "answer2": "Học phí"
+  },
+  {
+    "question": "奨学金",
+    "answer1": "しょうがくきん",
+    "answer2": "Học bổng"
+  },
+  {
+    "question": "公立",
+    "answer1": "こうりつ",
+    "answer2": "Công lập"
+  },
+  {
+    "question": "私立",
+    "answer1": "しりつ",
+    "answer2": "Dân lập"
+  },
+  {
+    "question": "教授",
+    "answer1": "きょうじゅ",
+    "answer2": "Giáo sư"
+  },
+  {
+    "question": "講義＜する＞",
+    "answer1": "こうぎする",
+    "answer2": "Giờ giảng"
+  },
+  {
+    "question": "偉い",
+    "answer1": "えらい",
+    "answer2": "Uy tín, tầm cỡ"
+  },
+  {
+    "question": "ゼミ",
+    "answer1": "ゼミ",
+    "answer2": "Nhóm nghiên cứu"
+  },
+  {
+    "question": "テーマ",
+    "answer1": "テーマ",
+    "answer2": "Chủ đề, đề tài"
+  },
+  {
+    "question": "手続き＜する＞",
+    "answer1": "てつづきする",
+    "answer2": "Thủ tục"
+  },
+  {
+    "question": "日付",
+    "answer1": "ひづけ",
+    "answer2": "Ngày tháng"
+  },
+  {
+    "question": "筆者",
+    "answer1": "ひっしゃ",
+    "answer2": "Tác giả"
+  },
+  {
+    "question": "内容",
+    "answer1": "ないよう",
+    "answer2": "Nội dung"
+  },
+  {
+    "question": "纏める",
+    "answer1": "まとめる",
+    "answer2": "Tóm tắt"
+  },
+  {
+    "question": "仕上げる",
+    "answer1": "しあげる",
+    "answer2": "Hoàn thành"
+  },
+  {
+    "question": "提出＜する＞",
+    "answer1": "ていしゅつする",
+    "answer2": "Nộp"
+  },
+  {
+    "question": "進路",
+    "answer1": "しんろ",
+    "answer2": "Định hướng tương lai"
+  },
+  {
+    "question": "大学院",
+    "answer1": "だいがくいん",
+    "answer2": "Cao học"
+  },
+  {
+    "question": "進学＜する＞",
+    "answer1": "しんがくする",
+    "answer2": "Học lên"
+  },
+  {
+    "question": "一人暮らし",
+    "answer1": "ひとりぐらし",
+    "answer2": "Sống một mình"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "事務",
+    "answer1": "じむ",
+    "answer2": "Việc văn phòng"
+  },
+  {
+    "question": "担当<する>",
+    "answer1": "たんとうする",
+    "answer2": "Phụ trách"
+  },
+  {
+    "question": "営業<する>",
+    "answer1": "えいぎょうする",
+    "answer2": "Kinh doanh"
+  },
+  {
+    "question": "経営<する>",
+    "answer1": "けいえいする",
+    "answer2": "Quản lý kinh doanh"
+  },
+  {
+    "question": "広告<する>",
+    "answer1": "こうこくする",
+    "answer2": "Quảng cáo"
+  },
+  {
+    "question": "出版<する>",
+    "answer1": "しゅっぱんする",
+    "answer2": "Xuất bản"
+  },
+  {
+    "question": "制作<する>",
+    "answer1": "せいさくする",
+    "answer2": "Sản xuất"
+  },
+  {
+    "question": "通訳<する>",
+    "answer1": "つうやくする",
+    "answer2": "Phiên dịch"
+  },
+  {
+    "question": "精算<する>",
+    "answer1": "せいさんする",
+    "answer2": "Quyết toán"
+  },
+  {
+    "question": "（予定を）立てる",
+    "answer1": "（よていを）たてる",
+    "answer2": "Lập kế hoạch"
+  },
+  {
+    "question": "長期",
+    "answer1": "ちょうき",
+    "answer2": "Dài hạn"
+  },
+  {
+    "question": "日程",
+    "answer1": "にってい",
+    "answer2": "Lịch trình"
+  },
+  {
+    "question": "??",
+    "answer1": "ずらす",
+    "answer2": "Dời"
+  },
+  {
+    "question": "延期<する>",
+    "answer1": "えんきする",
+    "answer2": "Hoãn"
+  },
+  {
+    "question": "携帯<する>",
+    "answer1": "けいたいする",
+    "answer2": "Mang theo"
+  },
+  {
+    "question": "協力<する>",
+    "answer1": "きょうりょくする",
+    "answer2": "Hợp tác"
+  },
+  {
+    "question": "省略<する>",
+    "answer1": "しょうりゃくする",
+    "answer2": "Lược bỏ"
+  },
+  {
+    "question": "積む",
+    "answer1": "つむ",
+    "answer2": "Tích lũy"
+  },
+  {
+    "question": "成長<する>",
+    "answer1": "せいちょうする",
+    "answer2": "Phát triển"
+  },
+  {
+    "question": "稼ぐ",
+    "answer1": "かせぐ",
+    "answer2": "Kiếm tiền"
+  },
+  {
+    "question": "画面",
+    "answer1": "がめん",
+    "answer2": "Màn hình"
+  },
+  {
+    "question": "件名",
+    "answer1": "けんめい",
+    "answer2": "Tiêu đề"
+  },
+  {
+    "question": "受信<する>",
+    "answer1": "じゅしんする",
+    "answer2": "Nhận (mail)"
+  },
+  {
+    "question": "送信<する>",
+    "answer1": "そうしんする",
+    "answer2": "Gửi"
+  },
+  {
+    "question": "返信<する>",
+    "answer1": "へんしんする",
+    "answer2": "Trả lời"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "売り切れ",
+    "answer1": "うりきれ",
+    "answer2": "Bán hết"
+  },
+  {
+    "question": "品切れ",
+    "answer1": "しなぎれ",
+    "answer2": "Hết hàng"
+  },
+  {
+    "question": "日替わり",
+    "answer1": "ひがわり",
+    "answer2": "Thay đổi theo ngày"
+  },
+  {
+    "question": "割引",
+    "answer1": "わりびき",
+    "answer2": "Giảm giá"
+  },
+  {
+    "question": "半額",
+    "answer1": "はんがく",
+    "answer2": "Nửa giá"
+  },
+  {
+    "question": "特売日",
+    "answer1": "とくばいび",
+    "answer2": "Ngày khuyến mãi"
+  },
+  {
+    "question": "たった今",
+    "answer1": "たった",
+    "answer2": "Chỉ có"
+  },
+  {
+    "question": "得<な>",
+    "answer1": "とくな",
+    "answer2": "Có lợi"
+  },
+  {
+    "question": "損<な>",
+    "answer1": "そんな",
+    "answer2": "Bị lỗ"
+  },
+  {
+    "question": "お負け<為る>",
+    "answer1": "おまけする",
+    "answer2": "Khuyến mãi"
+  },
+  {
+    "question": "無駄<な>",
+    "answer1": "むだな",
+    "answer2": "Lãng phí"
+  },
+  {
+    "question": "無駄遣い<為る>",
+    "answer1": "むだづかいする",
+    "answer2": "Tiêu xài hoang phí"
+  },
+  {
+    "question": "寄る",
+    "answer1": "よる",
+    "answer2": "Ghé qua"
+  },
+  {
+    "question": "序でに",
+    "answer1": "ついでに",
+    "answer2": "Tiện thể"
+  },
+  {
+    "question": "レジ袋",
+    "answer1": "レジぶくろ",
+    "answer2": "Túi nylon"
+  },
+  {
+    "question": "定休日",
+    "answer1": "ていきゅうび",
+    "answer2": "Ngày nghỉ cố định"
+  },
+  {
+    "question": "覚ます",
+    "answer1": "さます",
+    "answer2": "Đánh thức"
+  },
+  {
+    "question": "覚める",
+    "answer1": "さめる",
+    "answer2": "Tỉnh dậy"
+  },
+  {
+    "question": "（夜が）明ける",
+    "answer1": "（よが）あける",
+    "answer2": "Trời sáng"
+  },
+  {
+    "question": "支度<する>",
+    "answer1": "したくする",
+    "answer2": "Chuẩn bị"
+  },
+  {
+    "question": "会わせる",
+    "answer1": "あわせる",
+    "answer2": "Ướm, phối hợp"
+  },
+  {
+    "question": "仕舞う",
+    "answer1": "しまう",
+    "answer2": "Cất"
+  },
+  {
+    "question": "（ひげを生やす）剃る",
+    "answer1": "（ひげを）そる",
+    "answer2": "Cạo (râu)"
+  },
+  {
+    "question": "（髪を）とかす",
+    "answer1": "（かみを）とかす",
+    "answer2": "Chải (tóc)"
+  },
+  {
+    "question": "揃える",
+    "answer1": "そろえる",
+    "answer2": "Sắp xếp"
+  }
+]

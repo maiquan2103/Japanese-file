@@ -1,0 +1,127 @@
+[
+  {
+    "question": "インターン",
+    "answer1": "インターン",
+    "answer2": "Thực tập sinh"
+  },
+  {
+    "question": "職場",
+    "answer1": "しょくば",
+    "answer2": "Nơi làm việc"
+  },
+  {
+    "question": "得る",
+    "answer1": "える",
+    "answer2": "Có được"
+  },
+  {
+    "question": "例え",
+    "answer1": "たとえ",
+    "answer2": "Cho dù"
+  },
+  {
+    "question": "受付",
+    "answer1": "うけつけ",
+    "answer2": "Quầy lễ tân"
+  },
+  {
+    "question": "ミーティング<為る>",
+    "answer1": "ミーティングする",
+    "answer2": "Họp"
+  },
+  {
+    "question": "話し合う",
+    "answer1": "はなしあう",
+    "answer2": "Bàn bạc"
+  },
+  {
+    "question": "調整<する>",
+    "answer1": "ちょうせいする",
+    "answer2": "Điều chỉnh, sắp xếp"
+  },
+  {
+    "question": "能力",
+    "answer1": "のうりょく",
+    "answer2": "Năng lực"
+  },
+  {
+    "question": "役割",
+    "answer1": "やくわり",
+    "answer2": "Vai trò"
+  },
+  {
+    "question": "儲かる",
+    "answer1": "もうかる",
+    "answer2": "Có lời"
+  },
+  {
+    "question": "通勤<する>",
+    "answer1": "つうきんする",
+    "answer2": "Đi làm (đi – về)"
+  },
+  {
+    "question": "早退<する>",
+    "answer1": "そうたいする",
+    "answer2": "Về sớm"
+  },
+  {
+    "question": "無断",
+    "answer1": "むだん",
+    "answer2": "Không xin phép"
+  },
+  {
+    "question": "社会人",
+    "answer1": "しゃかいじん",
+    "answer2": "Người đi làm"
+  },
+  {
+    "question": "一人ひとり",
+    "answer1": "ひとりひとり",
+    "answer2": "Từng người một"
+  },
+  {
+    "question": "印鑑",
+    "answer1": "いんかん",
+    "answer2": "Con dấu"
+  },
+  {
+    "question": "インタビュー<為る>",
+    "answer1": "インタビューする",
+    "answer2": "Phỏng vấn"
+  },
+  {
+    "question": "アンケート",
+    "answer1": "アンケート",
+    "answer2": "Khảo sát"
+  },
+  {
+    "question": "回答<する>",
+    "answer1": "かいとうする",
+    "answer2": "Trả lời"
+  },
+  {
+    "question": "ノック<為る>",
+    "answer1": "ノックする",
+    "answer2": "Gõ cửa"
+  },
+  {
+    "question": "月末",
+    "answer1": "げつまつ",
+    "answer2": "Cuối tháng"
+  },
+  {
+    "question": "確かめる",
+    "answer1": "たしかめる",
+    "answer2": "Xác nhận"
+  },
+  {
+    "question": "確かに",
+    "answer1": "たしかに",
+    "answer2": "Quả thật"
+  },
+  {
+    "question": "疾っくに",
+    "answer1": "とっくに",
+    "answer2": "Đã từ lâu"
+  }
+]

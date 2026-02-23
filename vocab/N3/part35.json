@@ -1,0 +1,127 @@
+[
+  {
+    "question": "芸術",
+    "answer1": "げいじゅつ",
+    "answer2": "Nghệ thuật"
+  },
+  {
+    "question": "絵画",
+    "answer1": "かいが",
+    "answer2": "Hội họa"
+  },
+  {
+    "question": "才能",
+    "answer1": "さいのう",
+    "answer2": "Tài năng"
+  },
+  {
+    "question": "稽古<為る>",
+    "answer1": "けいこする",
+    "answer2": "Luyện tập (ngoại khóa)"
+  },
+  {
+    "question": "アニメ",
+    "answer1": "アニメ",
+    "answer2": "Hoạt hình"
+  },
+  {
+    "question": "読書<する>",
+    "answer1": "どくしょする",
+    "answer2": "Đọc sách"
+  },
+  {
+    "question": "お勧め",
+    "answer1": "おすすめ",
+    "answer2": "Gợi ý"
+  },
+  {
+    "question": "ストーリー",
+    "answer1": "ストーリー",
+    "answer2": "Câu chuyện"
+  },
+  {
+    "question": "シリーズ",
+    "answer1": "シリーズ",
+    "answer2": "Loạt, sê-ri"
+  },
+  {
+    "question": "名作",
+    "answer1": "めいさく",
+    "answer2": "Tác phẩm nổi tiếng"
+  },
+  {
+    "question": "登場<する>",
+    "answer1": "とうじょうする",
+    "answer2": "Xuất hiện"
+  },
+  {
+    "question": "好奇心",
+    "answer1": "こうきしん",
+    "answer2": "Tò mò"
+  },
+  {
+    "question": "コンクール",
+    "answer1": "コンクール",
+    "answer2": "Cuộc thi"
+  },
+  {
+    "question": "出品<する>",
+    "answer1": "しゅっぴんする",
+    "answer2": "Dự thi (đưa tác phẩm)"
+  },
+  {
+    "question": "演奏<する>",
+    "answer1": "えんそうする",
+    "answer2": "Biểu diễn"
+  },
+  {
+    "question": "イヤホン",
+    "answer1": "イヤホン",
+    "answer2": "Tai nghe"
+  },
+  {
+    "question": "講演会",
+    "answer1": "こうえんかい",
+    "answer2": "Buổi diễn thuyết"
+  },
+  {
+    "question": "サークル",
+    "answer1": "サークル",
+    "answer2": "Câu lạc bộ"
+  },
+  {
+    "question": "身長",
+    "answer1": "しんちょう",
+    "answer2": "Chiều cao"
+  },
+  {
+    "question": "伸びる",
+    "answer1": "のびる",
+    "answer2": "Phát triển"
+  },
+  {
+    "question": "測る",
+    "answer1": "はかる",
+    "answer2": "Đo"
+  },
+  {
+    "question": "体重",
+    "answer1": "たいじゅう",
+    "answer2": "Cân nặng, thể trọng"
+  },
+  {
+    "question": "体重計",
+    "answer1": "たいじゅうけい",
+    "answer2": "Cân, cân sức khỏe"
+  },
+  {
+    "question": "体温",
+    "answer1": "たいおん",
+    "answer2": "Thân nhiệt"
+  },
+  {
+    "question": "額",
+    "answer1": "ひたい",
+    "answer2": "Trán"
+  }
+]

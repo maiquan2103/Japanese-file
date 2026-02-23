@@ -1,0 +1,127 @@
+[
+  {
+    "question": "染み",
+    "answer1": "しみ",
+    "answer2": "Vết nám"
+  },
+  {
+    "question": "皺",
+    "answer1": "しわ",
+    "answer2": "Nếp nhăn"
+  },
+  {
+    "question": "日焼け＜する＞",
+    "answer1": "ひやけする",
+    "answer2": "Cháy nắng"
+  },
+  {
+    "question": "傷",
+    "answer1": "きず",
+    "answer2": "Vết thương"
+  },
+  {
+    "question": "酔っぱらう",
+    "answer1": "よっぱらう",
+    "answer2": "Say, say rượu"
+  },
+  {
+    "question": "酔っぱらい",
+    "answer1": "よっぱらい",
+    "answer2": "Kẻ say rượu"
+  },
+  {
+    "question": "???",
+    "answer1": "ぺこぺこな",
+    "answer2": "Cồn cào"
+  },
+  {
+    "question": "カラカラ (鳥)",
+    "answer1": "からからな",
+    "answer2": "Khát khô"
+  },
+  {
+    "question": "ダイエット",
+    "answer1": "ダイエット",
+    "answer2": "Ăn kiêng"
+  },
+  {
+    "question": "カロリー",
+    "answer1": "カロリー",
+    "answer2": "Ca-lo, lượng ca-lo"
+  },
+  {
+    "question": "控える",
+    "answer1": "ひかえる",
+    "answer2": "Tránh"
+  },
+  {
+    "question": "対",
+    "answer1": "つい",
+    "answer2": "Biết thế mà cứ"
+  },
+  {
+    "question": "アレルギー",
+    "answer1": "アレルギー",
+    "answer2": "Dị ứng"
+  },
+  {
+    "question": "花粉症",
+    "answer1": "かふんしょう",
+    "answer2": "Dị ứng phấn hoa"
+  },
+  {
+    "question": "嗽＜為る＞",
+    "answer1": "うがいする",
+    "answer2": "Súc miệng, súc họng"
+  },
+  {
+    "question": "手洗い",
+    "answer1": "てあらい",
+    "answer2": "Rửa tay"
+  },
+  {
+    "question": "嚏＜為る＞",
+    "answer1": "くしゃみする",
+    "answer2": "Hắt xì hơi"
+  },
+  {
+    "question": "鼻水",
+    "answer1": "はなみず",
+    "answer2": "Nước mũi"
+  },
+  {
+    "question": "マスク",
+    "answer1": "マスク",
+    "answer2": "Khẩu trang"
+  },
+  {
+    "question": "辛い",
+    "answer1": "つらい",
+    "answer2": "Mệt mỏi, khó chịu"
+  },
+  {
+    "question": "痒い",
+    "answer1": "かゆい",
+    "answer2": "Ngứa"
+  },
+  {
+    "question": "痒み",
+    "answer1": "かゆみ",
+    "answer2": "Sự ngứa ngáy"
+  },
+  {
+    "question": "書く",
+    "answer1": "かく",
+    "answer2": "Gãi"
+  },
+  {
+    "question": "擦る",
+    "answer1": "こする",
+    "answer2": "Dụi"
+  },
+  {
+    "question": "（肩が）こる",
+    "answer1": "（かたが）こる",
+    "answer2": "(Vai) đau mỏi"
+  }
+]

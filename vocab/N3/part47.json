@@ -1,0 +1,127 @@
+[
+  {
+    "question": "倒れる",
+    "answer1": "たおれる",
+    "answer2": "Ngã, đổ bệnh"
+  },
+  {
+    "question": "転ぶ",
+    "answer1": "ころぶ",
+    "answer2": "Bị ngã"
+  },
+  {
+    "question": "（会社が）つぶれる",
+    "answer1": "（かいしゃが）つぶれる",
+    "answer2": "Phá sản"
+  },
+  {
+    "question": "次々[と]",
+    "answer1": "つぎつぎ",
+    "answer2": "Liên tiếp"
+  },
+  {
+    "question": "停電<する>",
+    "answer1": "ていでんする",
+    "answer2": "Mất điện"
+  },
+  {
+    "question": "断水<する>",
+    "answer1": "だんすいする",
+    "answer2": "Mất nước"
+  },
+  {
+    "question": "揺れる",
+    "answer1": "ゆれる",
+    "answer2": "Rung lắc"
+  },
+  {
+    "question": "ぐらぐら<為る>",
+    "answer1": "ぐらぐらする",
+    "answer2": "Lắc mạnh"
+  },
+  {
+    "question": "非常口",
+    "answer1": "ひじょうぐち",
+    "answer2": "Lối thoát hiểm"
+  },
+  {
+    "question": "増加<する>",
+    "answer1": "ぞうかする",
+    "answer2": "Gia tăng"
+  },
+  {
+    "question": "減少<する>",
+    "answer1": "げんしょうする",
+    "answer2": "Giảm"
+  },
+  {
+    "question": "超える",
+    "answer1": "こえる",
+    "answer2": "Vượt"
+  },
+  {
+    "question": "ピーク",
+    "answer1": "ピーク",
+    "answer2": "Đỉnh điểm"
+  },
+  {
+    "question": "越える",
+    "answer1": "こえる",
+    "answer2": "Qua"
+  },
+  {
+    "question": "全体",
+    "answer1": "ぜんたい",
+    "answer2": "Toàn bộ"
+  },
+  {
+    "question": "可也",
+    "answer1": "かなり",
+    "answer2": "Khá nhiều"
+  },
+  {
+    "question": "信用<する>",
+    "answer1": "しんようする",
+    "answer2": "Tin tưởng"
+  },
+  {
+    "question": "失う",
+    "answer1": "うしなう",
+    "answer2": "Đánh mất"
+  },
+  {
+    "question": "正常<な>",
+    "answer1": "せいじょうな",
+    "answer2": "Bình thường"
+  },
+  {
+    "question": "不景気<な>",
+    "answer1": "ふけいきな",
+    "answer2": "Kinh tế trì trệ"
+  },
+  {
+    "question": "円高",
+    "answer1": "えんだか",
+    "answer2": "Yên tăng giá"
+  },
+  {
+    "question": "平均<する>",
+    "answer1": "へいきんする",
+    "answer2": "Bình quân"
+  },
+  {
+    "question": "凡そ",
+    "answer1": "およそ",
+    "answer2": "Khoảng"
+  },
+  {
+    "question": "滅茶苦茶<な>",
+    "answer1": "めちゃくちゃな",
+    "answer2": "Lung tung"
+  },
+  {
+    "question": "最も",
+    "answer1": "もっとも",
+    "answer2": "Nhất"
+  }
+]

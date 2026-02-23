@@ -1,0 +1,127 @@
+[
+  {
+    "question": "失業<する>",
+    "answer1": "しつぎょうする",
+    "answer2": "Thất nghiệp"
+  },
+  {
+    "question": "上司",
+    "answer1": "じょうし",
+    "answer2": "Cấp trên"
+  },
+  {
+    "question": "部下",
+    "answer1": "ぶか",
+    "answer2": "Cấp dưới"
+  },
+  {
+    "question": "先輩",
+    "answer1": "せんぱい",
+    "answer2": "Tiền bối"
+  },
+  {
+    "question": "肩書き",
+    "answer1": "かたがき",
+    "answer2": "Chức danh"
+  },
+  {
+    "question": "アドバイス<為る>",
+    "answer1": "アドバイスする",
+    "answer2": "Khuyên"
+  },
+  {
+    "question": "一言",
+    "answer1": "ひとこと",
+    "answer2": "Vài lời"
+  },
+  {
+    "question": "同僚",
+    "answer1": "どうりょう",
+    "answer2": "Đồng nghiệp"
+  },
+  {
+    "question": "同期",
+    "answer1": "どうき",
+    "answer2": "Cùng khóa"
+  },
+  {
+    "question": "休暇",
+    "answer1": "きゅうか",
+    "answer2": "Nghỉ phép"
+  },
+  {
+    "question": "オフ",
+    "answer1": "オフ",
+    "answer2": "Nghỉ"
+  },
+  {
+    "question": "責任",
+    "answer1": "せきにん",
+    "answer2": "Trách nhiệm"
+  },
+  {
+    "question": "プレッシャー",
+    "answer1": "プレッシャー",
+    "answer2": "Áp lực"
+  },
+  {
+    "question": "不満<な>",
+    "answer1": "ふまんな",
+    "answer2": "Bất mãn"
+  },
+  {
+    "question": "命令<する>",
+    "answer1": "めいれいする",
+    "answer2": "Ra lệnh"
+  },
+  {
+    "question": "指示<する>",
+    "answer1": "しじする",
+    "answer2": "Chỉ thị"
+  },
+  {
+    "question": "苦労<する>",
+    "answer1": "くろうする",
+    "answer2": "Vất vả"
+  },
+  {
+    "question": "????",
+    "answer1": "くたくたな",
+    "answer2": "Mệt rã rời"
+  },
+  {
+    "question": "ミス<為る>",
+    "answer1": "ミスする",
+    "answer2": "Lỗi"
+  },
+  {
+    "question": "報告<する>",
+    "answer1": "ほうこくする",
+    "answer2": "Báo cáo"
+  },
+  {
+    "question": "飲み会",
+    "answer1": "のみかい",
+    "answer2": "Buổi nhậu"
+  },
+  {
+    "question": "歓迎会",
+    "answer1": "かんげいかい",
+    "answer2": "Tiệc chào mừng"
+  },
+  {
+    "question": "飲み放題",
+    "answer1": "のみほうだい",
+    "answer2": "Uống thả ga"
+  },
+  {
+    "question": "次ぐ",
+    "answer1": "つぐ",
+    "answer2": "Rót"
+  },
+  {
+    "question": "勤務<する>",
+    "answer1": "きんむする",
+    "answer2": "Làm việc"
+  }
+]

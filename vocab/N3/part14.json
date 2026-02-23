@@ -1,0 +1,127 @@
+[
+  {
+    "question": "昼寝<する>",
+    "answer1": "ひるねする",
+    "answer2": "Ngủ trưa"
+  },
+  {
+    "question": "腰かける",
+    "answer1": "こしかける",
+    "answer2": "Ngồi tạm"
+  },
+  {
+    "question": "暮れる",
+    "answer1": "くれる",
+    "answer2": "(Trời) tối"
+  },
+  {
+    "question": "お喋り<為る>",
+    "answer1": "おしゃべりする",
+    "answer2": "Tán gẫu"
+  },
+  {
+    "question": "リラックス<為る>",
+    "answer1": "リラックスする",
+    "answer2": "Thư giãn"
+  },
+  {
+    "question": "普段",
+    "answer1": "ふだん",
+    "answer2": "Thường ngày"
+  },
+  {
+    "question": "ふだん着",
+    "answer1": "ふだんぎ",
+    "answer2": "Quần áo thường ngày"
+  },
+  {
+    "question": "相変わらず",
+    "answer1": "あいかわらず",
+    "answer2": "Vẫn như cũ"
+  },
+  {
+    "question": "大抵",
+    "answer1": "たいてい",
+    "answer2": "Đại khái"
+  },
+  {
+    "question": "夜ふかし<する>",
+    "answer1": "よふかしする",
+    "answer2": "Thức khuya"
+  },
+  {
+    "question": "電源",
+    "answer1": "でんげん",
+    "answer2": "Nguồn điện"
+  },
+  {
+    "question": "充電<する>",
+    "answer1": "じゅうでんする",
+    "answer2": "Sạc điện"
+  },
+  {
+    "question": "セット<為る>",
+    "answer1": "セットする",
+    "answer2": "Cài đặt"
+  },
+  {
+    "question": "撫でる",
+    "answer1": "なでる",
+    "answer2": "Vuốt ve"
+  },
+  {
+    "question": "??",
+    "answer1": "ぐっすり",
+    "answer2": "Ngủ say"
+  },
+  {
+    "question": "運",
+    "answer1": "うん",
+    "answer2": "Vận may"
+  },
+  {
+    "question": "日常",
+    "answer1": "にちじょう",
+    "answer2": "Hằng ngày"
+  },
+  {
+    "question": "常に",
+    "answer1": "つねに",
+    "answer2": "Luôn luôn"
+  },
+  {
+    "question": "出迎え",
+    "answer1": "でむかえ",
+    "answer2": "Sự đón"
+  },
+  {
+    "question": "出迎える",
+    "answer1": "でむかえる",
+    "answer2": "Đón"
+  },
+  {
+    "question": "見送り",
+    "answer1": "みおくり",
+    "answer2": "Sự tiễn"
+  },
+  {
+    "question": "見送る",
+    "answer1": "みおくる",
+    "answer2": "Tiễn"
+  },
+  {
+    "question": "郵送<する>",
+    "answer1": "ゆうそうする",
+    "answer2": "Gửi bưu điện"
+  },
+  {
+    "question": "小包",
+    "answer1": "こづつみ",
+    "answer2": "Bưu kiện"
+  },
+  {
+    "question": "送料",
+    "answer1": "そうりょう",
+    "answer2": "Cước phí"
+  }
+]

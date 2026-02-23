@@ -1,0 +1,127 @@
+[
+  {
+    "question": "政治家",
+    "answer1": "せいじか",
+    "answer2": "Chính trị gia"
+  },
+  {
+    "question": "政府",
+    "answer1": "せいふ",
+    "answer2": "Chính phủ"
+  },
+  {
+    "question": "市民",
+    "answer1": "しみん",
+    "answer2": "Người dân, công dân"
+  },
+  {
+    "question": "立場",
+    "answer1": "たちば",
+    "answer2": "Lập trường"
+  },
+  {
+    "question": "世の中",
+    "answer1": "よのなか",
+    "answer2": "Xã hội, thế gian"
+  },
+  {
+    "question": "重大な",
+    "answer1": "じゅうだいな",
+    "answer2": "Trọng đại, rất quan trọng"
+  },
+  {
+    "question": "重要な",
+    "answer1": "じゅうような",
+    "answer2": "Quan trọng"
+  },
+  {
+    "question": "大して",
+    "answer1": "たいして",
+    "answer2": "Đáng kể, to tát"
+  },
+  {
+    "question": "下らない",
+    "answer1": "くだらない",
+    "answer2": "Vớ vẩn, tầm thường"
+  },
+  {
+    "question": "司会者",
+    "answer1": "しかいしゃ",
+    "answer2": "Người dẫn chương trình"
+  },
+  {
+    "question": "生放送",
+    "answer1": "なまほうそう",
+    "answer2": "Phát sóng trực tiếp"
+  },
+  {
+    "question": "商品",
+    "answer1": "しょうひん",
+    "answer2": "Sản phẩm"
+  },
+  {
+    "question": "発売<する>",
+    "answer1": "はつばいする",
+    "answer2": "Bán ra"
+  },
+  {
+    "question": "評判",
+    "answer1": "ひょうばん",
+    "answer2": "Đánh giá, tiếng tăm"
+  },
+  {
+    "question": "注目<する>",
+    "answer1": "ちゅうもくする",
+    "answer2": "Chú ý"
+  },
+  {
+    "question": "ヒット<為る>",
+    "answer1": "ヒットする",
+    "answer2": "Gây sốt"
+  },
+  {
+    "question": "矢っ張り",
+    "answer1": "やっぱり",
+    "answer2": "Quả nhiên"
+  },
+  {
+    "question": "真逆",
+    "answer1": "まさか",
+    "answer2": "Không thể nào"
+  },
+  {
+    "question": "漸と",
+    "answer1": "やっと",
+    "answer2": "Cuối cùng thì"
+  },
+  {
+    "question": "結局",
+    "answer1": "けっきょく",
+    "answer2": "Rốt cuộc"
+  },
+  {
+    "question": "怪しい",
+    "answer1": "あやしい",
+    "answer2": "Khả nghi"
+  },
+  {
+    "question": "恐ろしい",
+    "answer1": "おそろしい",
+    "answer2": "Đáng sợ"
+  },
+  {
+    "question": "暴れる",
+    "answer1": "あばれる",
+    "answer2": "Đập phá"
+  },
+  {
+    "question": "争う",
+    "answer1": "あらそう",
+    "answer2": "Tranh cãi"
+  },
+  {
+    "question": "犯罪",
+    "answer1": "はんざい",
+    "answer2": "Tội phạm"
+  }
+]

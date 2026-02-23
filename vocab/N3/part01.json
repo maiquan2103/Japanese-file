@@ -1,0 +1,127 @@
+[
+  {
+    "question": "父親",
+    "answer1": "ちちおや",
+    "answer2": "Bố tôi, người bố"
+  },
+  {
+    "question": "母親",
+    "answer1": "ははおや",
+    "answer2": "Mẹ tôi, người mẹ"
+  },
+  {
+    "question": "長女",
+    "answer1": "ちょうじょ",
+    "answer2": "Trưởng nữ, con gái cả"
+  },
+  {
+    "question": "長男",
+    "answer1": "ちょうなん",
+    "answer2": "Trưởng nam, con trai cả"
+  },
+  {
+    "question": "次女",
+    "answer1": "じじょ",
+    "answer2": "Con gái thứ hai"
+  },
+  {
+    "question": "次男",
+    "answer1": "じなん",
+    "answer2": "Con trai thứ hai"
+  },
+  {
+    "question": "三女",
+    "answer1": "さんじょ",
+    "answer2": "Con gái thứ ba"
+  },
+  {
+    "question": "三男",
+    "answer1": "さんなん",
+    "answer2": "Con trai thứ ba"
+  },
+  {
+    "question": "末っ子",
+    "answer1": "すえっこ",
+    "answer2": "Con út"
+  },
+  {
+    "question": "一人っ子",
+    "answer1": "ひとりっこ",
+    "answer2": "Con một"
+  },
+  {
+    "question": "姉妹",
+    "answer1": "しまい",
+    "answer2": "Chị em gái"
+  },
+  {
+    "question": "一人娘",
+    "answer1": "ひとりむすめ",
+    "answer2": "Con gái duy nhất"
+  },
+  {
+    "question": "親子",
+    "answer1": "おやこ",
+    "answer2": "Bố mẹ và con cái"
+  },
+  {
+    "question": "夫婦",
+    "answer1": "ふうふ",
+    "answer2": "Vợ chồng"
+  },
+  {
+    "question": "［ご］夫妻",
+    "answer1": "［ご］ふさい",
+    "answer2": "Vợ chồng (kính ngữ)"
+  },
+  {
+    "question": "親類",
+    "answer1": "しんるい",
+    "answer2": "Họ hàng"
+  },
+  {
+    "question": "先祖",
+    "answer1": "せんぞ",
+    "answer2": "Tổ tiên"
+  },
+  {
+    "question": "尊敬＜する＞",
+    "answer1": "そんけいする",
+    "answer2": "Kính trọng"
+  },
+  {
+    "question": "叔父",
+    "answer1": "おじ",
+    "answer2": "Chú, cậu, bác trai"
+  },
+  {
+    "question": "叔母",
+    "answer1": "おば",
+    "answer2": "Cô, dì, bác gái"
+  },
+  {
+    "question": "従兄弟",
+    "answer1": "いとこ",
+    "answer2": "Anh chị em họ"
+  },
+  {
+    "question": "老い",
+    "answer1": "おい",
+    "answer2": "Cháu trai"
+  },
+  {
+    "question": "姪",
+    "answer1": "めい",
+    "answer2": "Cháu gái"
+  },
+  {
+    "question": "連れる",
+    "answer1": "つれる",
+    "answer2": "Dẫn đi"
+  },
+  {
+    "question": "似る",
+    "answer1": "にる",
+    "answer2": "Giống"
+  }
+]

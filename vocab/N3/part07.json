@@ -1,0 +1,127 @@
+[
+  {
+    "question": "味わう",
+    "answer1": "あじわう",
+    "answer2": "Thưởng thức"
+  },
+  {
+    "question": "お代わり<する>",
+    "answer1": "おかわりする",
+    "answer2": "Ăn/uống thêm"
+  },
+  {
+    "question": "残す",
+    "answer1": "のこす",
+    "answer2": "Để thừa"
+  },
+  {
+    "question": "残り物",
+    "answer1": "のこりもの",
+    "answer2": "Đồ ăn thừa"
+  },
+  {
+    "question": "勿体ない",
+    "answer1": "もったいない",
+    "answer2": "Lãng phí"
+  },
+  {
+    "question": "済ませる",
+    "answer1": "すませる",
+    "answer2": "Làm cho xong"
+  },
+  {
+    "question": "済む",
+    "answer1": "すむ",
+    "answer2": "Xong"
+  },
+  {
+    "question": "量",
+    "answer1": "りょう",
+    "answer2": "Lượng"
+  },
+  {
+    "question": "バランス",
+    "answer1": "バランス",
+    "answer2": "Cân bằng"
+  },
+  {
+    "question": "鍋",
+    "answer1": "なべ",
+    "answer2": "Nồi"
+  },
+  {
+    "question": "フライパン",
+    "answer1": "フライパン",
+    "answer2": "Chảo"
+  },
+  {
+    "question": "包丁",
+    "answer1": "ほうちょう",
+    "answer2": "Dao"
+  },
+  {
+    "question": "まな板",
+    "answer1": "まないた",
+    "answer2": "Thớt"
+  },
+  {
+    "question": "お玉",
+    "answer1": "おたま",
+    "answer2": "Muôi, vá"
+  },
+  {
+    "question": "杓文字",
+    "answer1": "しゃもじ",
+    "answer2": "Muỗng xới cơm"
+  },
+  {
+    "question": "大さじ",
+    "answer1": "おおさじ",
+    "answer2": "Muỗng to"
+  },
+  {
+    "question": "炊飯器",
+    "answer1": "すいはんき",
+    "answer2": "Nồi cơm điện"
+  },
+  {
+    "question": "流し台",
+    "answer1": "ながしだい",
+    "answer2": "Bồn rửa"
+  },
+  {
+    "question": "電子レンジ",
+    "answer1": "でんしレンジ",
+    "answer2": "Lò vi sóng"
+  },
+  {
+    "question": "ガスレンジ",
+    "answer1": "ガスレンジ",
+    "answer2": "Bếp ga"
+  },
+  {
+    "question": "調味料",
+    "answer1": "ちょうみりょう",
+    "answer2": "Gia vị"
+  },
+  {
+    "question": "サラダ油",
+    "answer1": "サラダあぶら",
+    "answer2": "Dầu ăn"
+  },
+  {
+    "question": "食品",
+    "answer1": "しょくひん",
+    "answer2": "Thực phẩm"
+  },
+  {
+    "question": "切らす",
+    "answer1": "きらす",
+    "answer2": "Dùng hết"
+  },
+  {
+    "question": "腐る",
+    "answer1": "くさる",
+    "answer2": "Hỏng, thiu"
+  }
+]

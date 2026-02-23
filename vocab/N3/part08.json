@@ -1,0 +1,127 @@
+[
+  {
+    "question": "アルミホイル",
+    "answer1": "アルミホイル",
+    "answer2": "Giấy bạc"
+  },
+  {
+    "question": "ラップ<為る>",
+    "answer1": "ラップする",
+    "answer2": "Màng bọc thực phẩm"
+  },
+  {
+    "question": "お絞り",
+    "answer1": "おしぼり",
+    "answer2": "Khăn ướt"
+  },
+  {
+    "question": "刻む",
+    "answer1": "きざむ",
+    "answer2": "Băm, cắt nhỏ"
+  },
+  {
+    "question": "（卵を）割る",
+    "answer1": "（たまごを）わる",
+    "answer2": "Đập (trứng)"
+  },
+  {
+    "question": "向く",
+    "answer1": "むく",
+    "answer2": "Bóc, gọt"
+  },
+  {
+    "question": "加える",
+    "answer1": "くわえる",
+    "answer2": "Thêm"
+  },
+  {
+    "question": "少々",
+    "answer1": "しょうしょう",
+    "answer2": "Một chút"
+  },
+  {
+    "question": "揚げる",
+    "answer1": "あげる",
+    "answer2": "Chiên"
+  },
+  {
+    "question": "煮る",
+    "answer1": "にる",
+    "answer2": "Nấu, ninh"
+  },
+  {
+    "question": "茹でる",
+    "answer1": "ゆでる",
+    "answer2": "Luộc"
+  },
+  {
+    "question": "蒸す",
+    "answer1": "むす",
+    "answer2": "Hấp"
+  },
+  {
+    "question": "包む",
+    "answer1": "くるむ",
+    "answer2": "Cuốn"
+  },
+  {
+    "question": "握る",
+    "answer1": "にぎる",
+    "answer2": "Nắm"
+  },
+  {
+    "question": "熱する",
+    "answer1": "ねっする",
+    "answer2": "Làm nóng"
+  },
+  {
+    "question": "焦げる",
+    "answer1": "こげる",
+    "answer2": "Cháy"
+  },
+  {
+    "question": "取り出す",
+    "answer1": "とりだす",
+    "answer2": "Lấy ra"
+  },
+  {
+    "question": "塗る",
+    "answer1": "ぬる",
+    "answer2": "Phết"
+  },
+  {
+    "question": "温める",
+    "answer1": "あたためる",
+    "answer2": "Hâm nóng"
+  },
+  {
+    "question": "冷やす",
+    "answer1": "ひやす",
+    "answer2": "Làm lạnh"
+  },
+  {
+    "question": "温い",
+    "answer1": "ぬるい",
+    "answer2": "Âm ấm"
+  },
+  {
+    "question": "水分",
+    "answer1": "すいぶん",
+    "answer2": "Nước, độ ẩm"
+  },
+  {
+    "question": "沸かす",
+    "answer1": "わかす",
+    "answer2": "Đun sôi"
+  },
+  {
+    "question": "注ぐ",
+    "answer1": "そそぐ",
+    "answer2": "Rót"
+  },
+  {
+    "question": "味見<する>",
+    "answer1": "あじみする",
+    "answer2": "Nếm thử"
+  }
+]

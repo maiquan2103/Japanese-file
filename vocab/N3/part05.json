@@ -1,0 +1,127 @@
+[
+  {
+    "question": "老人",
+    "answer1": "ろうじん",
+    "answer2": "Người già"
+  },
+  {
+    "question": "幼児",
+    "answer1": "ようじ",
+    "answer2": "Trẻ nhỏ"
+  },
+  {
+    "question": "出身",
+    "answer1": "しゅっしん",
+    "answer2": "Xuất thân"
+  },
+  {
+    "question": "生まれ",
+    "answer1": "うまれ",
+    "answer2": "Sinh ra"
+  },
+  {
+    "question": "育ち",
+    "answer1": "そだち",
+    "answer2": "Sự trưởng thành"
+  },
+  {
+    "question": "行儀",
+    "answer1": "ぎょうぎ",
+    "answer2": "Cách cư xử"
+  },
+  {
+    "question": "マナー",
+    "answer1": "マナー",
+    "answer2": "Lễ nghi"
+  },
+  {
+    "question": "個人",
+    "answer1": "こじん",
+    "answer2": "Cá nhân"
+  },
+  {
+    "question": "アドレス",
+    "answer1": "アドレス",
+    "answer2": "Địa chỉ"
+  },
+  {
+    "question": "本人",
+    "answer1": "ほんにん",
+    "answer2": "Bản thân"
+  },
+  {
+    "question": "独身",
+    "answer1": "どくしん",
+    "answer2": "Độc thân"
+  },
+  {
+    "question": "主婦",
+    "answer1": "しゅふ",
+    "answer2": "Nội trợ"
+  },
+  {
+    "question": "フリーター",
+    "answer1": "フリーター",
+    "answer2": "Lao động tự do"
+  },
+  {
+    "question": "無職",
+    "answer1": "むしょく",
+    "answer2": "Không có việc làm"
+  },
+  {
+    "question": "本日",
+    "answer1": "ほんじつ",
+    "answer2": "Hôm nay"
+  },
+  {
+    "question": "明日",
+    "answer1": "あす",
+    "answer2": "Ngày mai"
+  },
+  {
+    "question": "前日",
+    "answer1": "ぜんじつ",
+    "answer2": "Ngày hôm trước"
+  },
+  {
+    "question": "翌日",
+    "answer1": "よくじつ",
+    "answer2": "Ngày hôm sau"
+  },
+  {
+    "question": "明々後日",
+    "answer1": "しあさって",
+    "answer2": "Ngày kia"
+  },
+  {
+    "question": "先おととい",
+    "answer1": "さきおととい",
+    "answer2": "Hôm kìa"
+  },
+  {
+    "question": "昨日",
+    "answer1": "さくじつ",
+    "answer2": "Hôm qua"
+  },
+  {
+    "question": "昨年",
+    "answer1": "さくねん",
+    "answer2": "Năm ngoái"
+  },
+  {
+    "question": "先日",
+    "answer1": "せんじつ",
+    "answer2": "Hôm nọ, hôm trước"
+  },
+  {
+    "question": "再来週",
+    "answer1": "さらいしゅう",
+    "answer2": "Tuần tới nữa"
+  },
+  {
+    "question": "先々週",
+    "answer1": "せんせんしゅう",
+    "answer2": "Tuần trước nữa"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "貧しい",
+    "answer1": "まずしい",
+    "answer2": "Nghèo"
+  },
+  {
+    "question": "貧乏<な/する>",
+    "answer1": "びんぼうな／する",
+    "answer2": "Nghèo khổ"
+  },
+  {
+    "question": "発展<する>",
+    "answer1": "はってんする",
+    "answer2": "Phát triển"
+  },
+  {
+    "question": "進歩<する>",
+    "answer1": "しんぽする",
+    "answer2": "Tiến bộ"
+  },
+  {
+    "question": "強力<な>",
+    "answer1": "きょうりょくな",
+    "answer2": "Mạnh mẽ"
+  },
+  {
+    "question": "パワー",
+    "answer1": "パワー",
+    "answer2": "Sức mạnh"
+  },
+  {
+    "question": "溢れる",
+    "answer1": "あふれる",
+    "answer2": "Tràn đầy"
+  },
+  {
+    "question": "崩れる",
+    "answer1": "くずれる",
+    "answer2": "Sụp đổ"
+  },
+  {
+    "question": "経つ",
+    "answer1": "たつ",
+    "answer2": "Trôi qua"
+  },
+  {
+    "question": "前後",
+    "answer1": "ぜんご",
+    "answer2": "Trước sau"
+  },
+  {
+    "question": "盛ん<な>",
+    "answer1": "さかんな",
+    "answer2": "Phát triển mạnh"
+  },
+  {
+    "question": "産業",
+    "answer1": "さんぎょう",
+    "answer2": "Ngành sản xuất"
+  },
+  {
+    "question": "工業",
+    "answer1": "こうぎょう",
+    "answer2": "Công nghiệp"
+  },
+  {
+    "question": "商業",
+    "answer1": "しょうぎょう",
+    "answer2": "Thương nghiệp"
+  },
+  {
+    "question": "農業",
+    "answer1": "のうぎょう",
+    "answer2": "Nông nghiệp"
+  },
+  {
+    "question": "語る",
+    "answer1": "かたる",
+    "answer2": "Kể, nói"
+  },
+  {
+    "question": "解消<する>",
+    "answer1": "かいしょうする",
+    "answer2": "Giải quyết"
+  },
+  {
+    "question": "其れ其れ",
+    "answer1": "それぞれ",
+    "answer2": "Mỗi, riêng"
+  },
+  {
+    "question": "片方",
+    "answer1": "かたほう",
+    "answer2": "Một phía"
+  },
+  {
+    "question": "囲む",
+    "answer1": "かこむ",
+    "answer2": "Vây quanh"
+  },
+  {
+    "question": "代わり",
+    "answer1": "かわり",
+    "answer2": "Thay cho"
+  },
+  {
+    "question": "友好",
+    "answer1": "ゆうこう",
+    "answer2": "Hữu nghị"
+  },
+  {
+    "question": "期待<する>",
+    "answer1": "きたいする",
+    "answer2": "Kỳ vọng"
+  },
+  {
+    "question": "区別<する>",
+    "answer1": "くべつする",
+    "answer2": "Phân biệt"
+  },
+  {
+    "question": "差別<する>",
+    "answer1": "さべつする",
+    "answer2": "Phân biệt đối xử"
+  }
+]

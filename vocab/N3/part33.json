@@ -1,0 +1,127 @@
+[
+  {
+    "question": "水着",
+    "answer1": "みずぎ",
+    "answer2": "Đồ bơi"
+  },
+  {
+    "question": "お洒落<な／為る>",
+    "answer1": "おしゃれな／する",
+    "answer2": "Ăn diện, sành điệu"
+  },
+  {
+    "question": "好む",
+    "answer1": "このむ",
+    "answer2": "Thích, chuộng"
+  },
+  {
+    "question": "好み",
+    "answer1": "このみ",
+    "answer2": "Sở thích, gu"
+  },
+  {
+    "question": "流行<する>",
+    "answer1": "りゅうこうする",
+    "answer2": "Thịnh hành"
+  },
+  {
+    "question": "流行り",
+    "answer1": "はやり",
+    "answer2": "Mốt"
+  },
+  {
+    "question": "カタログ",
+    "answer1": "カタログ",
+    "answer2": "Sách mẫu"
+  },
+  {
+    "question": "サンプル",
+    "answer1": "サンプル",
+    "answer2": "Mẫu"
+  },
+  {
+    "question": "探す",
+    "answer1": "さがす",
+    "answer2": "Tìm"
+  },
+  {
+    "question": "似合う",
+    "answer1": "にあう",
+    "answer2": "Hợp"
+  },
+  {
+    "question": "ぴったり<為る>",
+    "answer1": "ぴったりする",
+    "answer2": "Vừa khít"
+  },
+  {
+    "question": "高級<な>",
+    "answer1": "こうきゅうな",
+    "answer2": "Cao cấp"
+  },
+  {
+    "question": "ブランド",
+    "answer1": "ブランド",
+    "answer2": "Hàng hiệu"
+  },
+  {
+    "question": "本物",
+    "answer1": "ほんもの",
+    "answer2": "Hàng thật"
+  },
+  {
+    "question": "にせ物",
+    "answer1": "にせもの",
+    "answer2": "Hàng giả"
+  },
+  {
+    "question": "保証<する>",
+    "answer1": "ほしょうする",
+    "answer2": "Bảo đảm"
+  },
+  {
+    "question": "バーゲンセール",
+    "answer1": "バーゲンセール",
+    "answer2": "Bán hạ giá"
+  },
+  {
+    "question": "取り替える",
+    "answer1": "とりかえる",
+    "answer2": "Thay, đổi"
+  },
+  {
+    "question": "嵌める",
+    "answer1": "はめる",
+    "answer2": "Đeo, xỏ"
+  },
+  {
+    "question": "外す",
+    "answer1": "はずす",
+    "answer2": "Tháo ra"
+  },
+  {
+    "question": "カット<為る>",
+    "answer1": "カットする",
+    "answer2": "Cắt (tóc)"
+  },
+  {
+    "question": "パーマ",
+    "answer1": "パーマ",
+    "answer2": "Uốn (tóc)"
+  },
+  {
+    "question": "染める",
+    "answer1": "そめる",
+    "answer2": "Nhuộm"
+  },
+  {
+    "question": "サイズ",
+    "answer1": "サイズ",
+    "answer2": "Cỡ"
+  },
+  {
+    "question": "夏物",
+    "answer1": "なつもの",
+    "answer2": "Đồ mùa hè"
+  }
+]

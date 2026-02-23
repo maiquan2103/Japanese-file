@@ -1,0 +1,127 @@
+[
+  {
+    "question": "カーペット",
+    "answer1": "カーペット",
+    "answer2": "Thảm"
+  },
+  {
+    "question": "座布団",
+    "answer1": "ざぶとん",
+    "answer2": "Đệm ngồi"
+  },
+  {
+    "question": "ソファー",
+    "answer1": "ソファー",
+    "answer2": "Ghế sofa"
+  },
+  {
+    "question": "クッション",
+    "answer1": "クッション",
+    "answer2": "Gối tựa"
+  },
+  {
+    "question": "退かす",
+    "answer1": "どかす",
+    "answer2": "Dời đi, xê dịch"
+  },
+  {
+    "question": "コンセント",
+    "answer1": "コンセント",
+    "answer2": "Ổ cắm"
+  },
+  {
+    "question": "スイッチ",
+    "answer1": "スイッチ",
+    "answer2": "Công tắc"
+  },
+  {
+    "question": "ドライヤー",
+    "answer1": "ドライヤー",
+    "answer2": "Máy sấy tóc"
+  },
+  {
+    "question": "蛇口",
+    "answer1": "じゃぐち",
+    "answer2": "Vòi nước"
+  },
+  {
+    "question": "捻る",
+    "answer1": "ひねる",
+    "answer2": "Vặn, xoay"
+  },
+  {
+    "question": "実家",
+    "answer1": "じっか",
+    "answer2": "Nhà bố mẹ đẻ"
+  },
+  {
+    "question": "家賃",
+    "answer1": "やちん",
+    "answer2": "Tiền thuê nhà"
+  },
+  {
+    "question": "物置",
+    "answer1": "ものおき",
+    "answer2": "Chỗ để đồ"
+  },
+  {
+    "question": "日当たり",
+    "answer1": "ひあたり",
+    "answer2": "Ánh nắng"
+  },
+  {
+    "question": "内側",
+    "answer1": "うちがわ",
+    "answer2": "Bên trong"
+  },
+  {
+    "question": "［お］札",
+    "answer1": "［お］さつ",
+    "answer2": "Tiền giấy"
+  },
+  {
+    "question": "コイン",
+    "answer1": "コイン",
+    "answer2": "Tiền xu"
+  },
+  {
+    "question": "小銭",
+    "answer1": "こぜに",
+    "answer2": "Tiền lẻ"
+  },
+  {
+    "question": "生活費",
+    "answer1": "せいかつひ",
+    "answer2": "Chi phí sinh hoạt"
+  },
+  {
+    "question": "食費",
+    "answer1": "しょくひ",
+    "answer2": "Chi phí ăn uống"
+  },
+  {
+    "question": "光熱費",
+    "answer1": "こうねつひ",
+    "answer2": "Chi phí điện, ga"
+  },
+  {
+    "question": "交際費",
+    "answer1": "こうさいひ",
+    "answer2": "Chi phí giao tiếp"
+  },
+  {
+    "question": "公共料金",
+    "answer1": "こうきょうりょうきん",
+    "answer2": "Phí dịch vụ công cộng"
+  },
+  {
+    "question": "［お］小遣い",
+    "answer1": "［お］こづかい",
+    "answer2": "Tiền tiêu vặt"
+  },
+  {
+    "question": "節約<する>",
+    "answer1": "せつやくする",
+    "answer2": "Tiết kiệm"
+  }
+]

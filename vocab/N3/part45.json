@@ -1,0 +1,127 @@
+[
+  {
+    "question": "発見者",
+    "answer1": "はっけんしゃ",
+    "answer2": "Người phát hiện"
+  },
+  {
+    "question": "疑う",
+    "answer1": "うたがう",
+    "answer2": "Nghi ngờ"
+  },
+  {
+    "question": "嘘つき",
+    "answer1": "うそつき",
+    "answer2": "Kẻ nói dối"
+  },
+  {
+    "question": "犯人",
+    "answer1": "はんにん",
+    "answer2": "Thủ phạm"
+  },
+  {
+    "question": "悪戯<な/為る>",
+    "answer1": "いたずらな／する",
+    "answer2": "Nghịch ngợm"
+  },
+  {
+    "question": "叫ぶ",
+    "answer1": "さけぶ",
+    "answer2": "La hét"
+  },
+  {
+    "question": "叩く",
+    "answer1": "たたく",
+    "answer2": "Đánh"
+  },
+  {
+    "question": "盗む",
+    "answer1": "ぬすむ",
+    "answer2": "Ăn trộm"
+  },
+  {
+    "question": "奪う",
+    "answer1": "うばう",
+    "answer2": "Cướp"
+  },
+  {
+    "question": "捜す",
+    "answer1": "さがす",
+    "answer2": "Tìm"
+  },
+  {
+    "question": "追う",
+    "answer1": "おう",
+    "answer2": "Đuổi theo"
+  },
+  {
+    "question": "捕まえる",
+    "answer1": "つかまえる",
+    "answer2": "Bắt"
+  },
+  {
+    "question": "捕まる",
+    "answer1": "つかまる",
+    "answer2": "Bị bắt"
+  },
+  {
+    "question": "逮捕<する>",
+    "answer1": "たいほする",
+    "answer2": "Bị bắt giữ"
+  },
+  {
+    "question": "気味が悪い",
+    "answer1": "きみがわるい",
+    "answer2": "Ghê ghê"
+  },
+  {
+    "question": "パトカー",
+    "answer1": "パトカー",
+    "answer2": "Xe cảnh sát"
+  },
+  {
+    "question": "（事故に）あう",
+    "answer1": "（じこに）あう",
+    "answer2": "Gặp (tai nạn)"
+  },
+  {
+    "question": "発生<する>",
+    "answer1": "はっせいする",
+    "answer2": "Xảy ra"
+  },
+  {
+    "question": "命",
+    "answer1": "いのち",
+    "answer2": "Sinh mạng"
+  },
+  {
+    "question": "救う",
+    "answer1": "すくう",
+    "answer2": "Cứu"
+  },
+  {
+    "question": "騒々しい",
+    "answer1": "そうぞうしい",
+    "answer2": "Ồn ào"
+  },
+  {
+    "question": "騒ぐ",
+    "answer1": "さわぐ",
+    "answer2": "Làm ầm ĩ"
+  },
+  {
+    "question": "現場",
+    "answer1": "げんば",
+    "answer2": "Hiện trường"
+  },
+  {
+    "question": "混乱<する>",
+    "answer1": "こんらんする",
+    "answer2": "Hỗn loạn"
+  },
+  {
+    "question": "パニック",
+    "answer1": "パニック",
+    "answer2": "Hoảng loạn"
+  }
+]

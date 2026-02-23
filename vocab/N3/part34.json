@@ -1,0 +1,127 @@
+[
+  {
+    "question": "冬物",
+    "answer1": "ふゆもの",
+    "answer2": "Đồ mùa đông"
+  },
+  {
+    "question": "上着",
+    "answer1": "うわぎ",
+    "answer2": "Áo khoác"
+  },
+  {
+    "question": "婦人服",
+    "answer1": "ふじんふく",
+    "answer2": "Quần áo nữ"
+  },
+  {
+    "question": "紳士服",
+    "answer1": "しんしふく",
+    "answer2": "Quần áo nam"
+  },
+  {
+    "question": "ジーンズ",
+    "answer1": "ジーンズ",
+    "answer2": "Quần bò"
+  },
+  {
+    "question": "パンツ",
+    "answer1": "パンツ",
+    "answer2": "Quần"
+  },
+  {
+    "question": "イヤリング",
+    "answer1": "イヤリング",
+    "answer2": "Hoa tai"
+  },
+  {
+    "question": "ネックレス",
+    "answer1": "ネックレス",
+    "answer2": "Dây chuyền"
+  },
+  {
+    "question": "宝石",
+    "answer1": "ほうせき",
+    "answer2": "Đá quý"
+  },
+  {
+    "question": "スカーフ",
+    "answer1": "スカーフ",
+    "answer2": "Khăn quàng"
+  },
+  {
+    "question": "手袋",
+    "answer1": "てぶくろ",
+    "answer2": "Găng tay"
+  },
+  {
+    "question": "マフラー",
+    "answer1": "マフラー",
+    "answer2": "Khăn choàng"
+  },
+  {
+    "question": "[お]化粧<する>",
+    "answer1": "[お]けしょうする",
+    "answer2": "Trang điểm"
+  },
+  {
+    "question": "口紅",
+    "answer1": "くちべに",
+    "answer2": "Son môi"
+  },
+  {
+    "question": "まつ毛",
+    "answer1": "まつげ",
+    "answer2": "Lông mi"
+  },
+  {
+    "question": "頬",
+    "answer1": "ほほ",
+    "answer2": "Má"
+  },
+  {
+    "question": "爪",
+    "answer1": "つめ",
+    "answer2": "Móng"
+  },
+  {
+    "question": "香水",
+    "answer1": "こうすい",
+    "answer2": "Nước hoa"
+  },
+  {
+    "question": "古着",
+    "answer1": "ふるぎ",
+    "answer2": "Quần áo cũ"
+  },
+  {
+    "question": "革",
+    "answer1": "かわ",
+    "answer2": "Da"
+  },
+  {
+    "question": "ベルト",
+    "answer1": "ベルト",
+    "answer2": "Thắt lưng"
+  },
+  {
+    "question": "袖",
+    "answer1": "そで",
+    "answer2": "Tay áo"
+  },
+  {
+    "question": "ショップ",
+    "answer1": "ショップ",
+    "answer2": "Cửa hàng"
+  },
+  {
+    "question": "気に入る",
+    "answer1": "きにいる",
+    "answer2": "Thích"
+  },
+  {
+    "question": "お気に入り",
+    "answer1": "おきにいり",
+    "answer2": "Món ưa thích"
+  }
+]

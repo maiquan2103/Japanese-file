@@ -1,0 +1,127 @@
+[
+  {
+    "question": "バス代",
+    "answer1": "バスだい",
+    "answer2": "Tiền xe buýt"
+  },
+  {
+    "question": "払い戻す",
+    "answer1": "はらいもどす",
+    "answer2": "Hoàn tiền"
+  },
+  {
+    "question": "定員",
+    "answer1": "ていいん",
+    "answer2": "Số người tối đa"
+  },
+  {
+    "question": "詰める",
+    "answer1": "つめる",
+    "answer2": "Dồn lại"
+  },
+  {
+    "question": "ガラガラヘビ属",
+    "answer1": "がらがらな",
+    "answer2": "Vắng"
+  },
+  {
+    "question": "空く",
+    "answer1": "すく",
+    "answer2": "Trống"
+  },
+  {
+    "question": "満員",
+    "answer1": "まんいん",
+    "answer2": "Chật kín"
+  },
+  {
+    "question": "??",
+    "answer1": "ぎっしり",
+    "answer2": "Chật ních"
+  },
+  {
+    "question": "時刻",
+    "answer1": "じこく",
+    "answer2": "Thời gian"
+  },
+  {
+    "question": "優先席",
+    "answer1": "ゆうせんせき",
+    "answer2": "Ghế ưu tiên"
+  },
+  {
+    "question": "立ち上がる",
+    "answer1": "たちあがる",
+    "answer2": "Đứng lên"
+  },
+  {
+    "question": "譲る",
+    "answer1": "ゆずる",
+    "answer2": "Nhường"
+  },
+  {
+    "question": "掛かる",
+    "answer1": "かかる",
+    "answer2": "Tốn"
+  },
+  {
+    "question": "ブレーキ",
+    "answer1": "ブレーキ",
+    "answer2": "Phanh"
+  },
+  {
+    "question": "ドライブ<為る>",
+    "answer1": "ドライブする",
+    "answer2": "Lái xe dạo"
+  },
+  {
+    "question": "乗せる",
+    "answer1": "のせる",
+    "answer2": "Chở"
+  },
+  {
+    "question": "助手席",
+    "answer1": "じょしゅせき",
+    "answer2": "Ghế phụ"
+  },
+  {
+    "question": "シートベルト",
+    "answer1": "シートベルト",
+    "answer2": "Dây an toàn"
+  },
+  {
+    "question": "カーナビ",
+    "answer1": "カーナビ",
+    "answer2": "Thiết bị chỉ đường"
+  },
+  {
+    "question": "道路",
+    "answer1": "どうろ",
+    "answer2": "Đường bộ"
+  },
+  {
+    "question": "渋滞<する>",
+    "answer1": "じゅうたいする",
+    "answer2": "Kẹt xe"
+  },
+  {
+    "question": "速度",
+    "answer1": "そくど",
+    "answer2": "Tốc độ"
+  },
+  {
+    "question": "高速道路",
+    "answer1": "こうそくどうろ",
+    "answer2": "Đường cao tốc"
+  },
+  {
+    "question": "安全<な>",
+    "answer1": "あんぜんな",
+    "answer2": "An toàn"
+  },
+  {
+    "question": "列",
+    "answer1": "れつ",
+    "answer2": "Hàng"
+  }
+]

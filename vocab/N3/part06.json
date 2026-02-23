@@ -1,0 +1,127 @@
+[
+  {
+    "question": "上旬",
+    "answer1": "じょうじゅん",
+    "answer2": "Đầu tháng, thượng tuần"
+  },
+  {
+    "question": "中旬",
+    "answer1": "ちゅうじゅん",
+    "answer2": "Giữa tháng, trung tuần"
+  },
+  {
+    "question": "下旬",
+    "answer1": "げじゅん",
+    "answer2": "Cuối tháng, hạ tuần"
+  },
+  {
+    "question": "深夜",
+    "answer1": "しんや",
+    "answer2": "Đêm khuya"
+  },
+  {
+    "question": "未来",
+    "answer1": "みらい",
+    "answer2": "Tương lai"
+  },
+  {
+    "question": "数日",
+    "answer1": "すうじつ",
+    "answer2": "Vài ngày"
+  },
+  {
+    "question": "以降",
+    "answer1": "いこう",
+    "answer2": "Từ sau"
+  },
+  {
+    "question": "朝食",
+    "answer1": "ちょうしょく",
+    "answer2": "Bữa sáng"
+  },
+  {
+    "question": "モーニング",
+    "answer1": "モーニング",
+    "answer2": "Buổi sáng"
+  },
+  {
+    "question": "昼食",
+    "answer1": "ちゅうしょく",
+    "answer2": "Bữa trưa"
+  },
+  {
+    "question": "ランチ",
+    "answer1": "ランチ",
+    "answer2": "Bữa trưa"
+  },
+  {
+    "question": "夕食",
+    "answer1": "ゆうしょく",
+    "answer2": "Bữa tối"
+  },
+  {
+    "question": "デイナー",
+    "answer1": "デイナー",
+    "answer2": "Bữa tối"
+  },
+  {
+    "question": "デザート",
+    "answer1": "デザート",
+    "answer2": "Món tráng miệng"
+  },
+  {
+    "question": "お八つ",
+    "answer1": "おやつ",
+    "answer2": "Bữa ăn phụ"
+  },
+  {
+    "question": "お菜",
+    "answer1": "おかず",
+    "answer2": "Món ăn"
+  },
+  {
+    "question": "[お]弁当",
+    "answer1": "[お]べんとう",
+    "answer2": "Cơm hộp"
+  },
+  {
+    "question": "自炊<する>",
+    "answer1": "じすいする",
+    "answer2": "Tự nấu ăn"
+  },
+  {
+    "question": "外食<する>",
+    "answer1": "がいしょくする",
+    "answer2": "Ăn ngoài"
+  },
+  {
+    "question": "グルメ",
+    "answer1": "グルメ",
+    "answer2": "Người sành ăn"
+  },
+  {
+    "question": "奢る",
+    "answer1": "おごる",
+    "answer2": "Đãi, chiêu đãi"
+  },
+  {
+    "question": "食欲",
+    "answer1": "しょくよく",
+    "answer2": "Sự thèm ăn"
+  },
+  {
+    "question": "注文<する>",
+    "answer1": "ちゅうもんする",
+    "answer2": "Gọi món"
+  },
+  {
+    "question": "乾杯<する>",
+    "answer1": "かんぱいする",
+    "answer2": "Cụng ly"
+  },
+  {
+    "question": "噛む",
+    "answer1": "かむ",
+    "answer2": "Nhai"
+  }
+]

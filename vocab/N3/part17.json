@@ -1,0 +1,127 @@
+[
+  {
+    "question": "方向",
+    "answer1": "ほうこう",
+    "answer2": "Hướng"
+  },
+  {
+    "question": "遠回り<する>",
+    "answer1": "とおまわりする",
+    "answer2": "Đi vòng"
+  },
+  {
+    "question": "近道<する>",
+    "answer1": "ちかみちする",
+    "answer2": "Đi tắt"
+  },
+  {
+    "question": "距離",
+    "answer1": "きょり",
+    "answer2": "Khoảng cách"
+  },
+  {
+    "question": "追いかける",
+    "answer1": "おいかける",
+    "answer2": "Đuổi theo"
+  },
+  {
+    "question": "追いつく",
+    "answer1": "おいつく",
+    "answer2": "Đuổi kịp"
+  },
+  {
+    "question": "追い越す",
+    "answer1": "おいこす",
+    "answer2": "Vượt qua"
+  },
+  {
+    "question": "突き当たり",
+    "answer1": "つきあたり",
+    "answer2": "Cuối đường"
+  },
+  {
+    "question": "立ち止まる",
+    "answer1": "たちどまる",
+    "answer2": "Dừng lại"
+  },
+  {
+    "question": "横切る",
+    "answer1": "よこぎる",
+    "answer2": "Băng qua"
+  },
+  {
+    "question": "見かける",
+    "answer1": "みかける",
+    "answer2": "Bắt gặp"
+  },
+  {
+    "question": "行き先",
+    "answer1": "い／ゆきさき",
+    "answer2": "Nơi đến"
+  },
+  {
+    "question": "往復<する>",
+    "answer1": "おうふくする",
+    "answer2": "Khứ hồi"
+  },
+  {
+    "question": "片道",
+    "answer1": "かたみち",
+    "answer2": "Một chiều"
+  },
+  {
+    "question": "各駅停車",
+    "answer1": "かくえきていしゃ",
+    "answer2": "Tàu dừng mọi ga"
+  },
+  {
+    "question": "急行",
+    "answer1": "きゅうこう",
+    "answer2": "Tàu tốc hành"
+  },
+  {
+    "question": "始発",
+    "answer1": "しはつ",
+    "answer2": "Chuyến đầu"
+  },
+  {
+    "question": "終電",
+    "answer1": "しゅうでん",
+    "answer2": "Chuyến cuối"
+  },
+  {
+    "question": "終点",
+    "answer1": "しゅうてん",
+    "answer2": "Ga cuối"
+  },
+  {
+    "question": "上り",
+    "answer1": "のぼり",
+    "answer2": "Hướng lên"
+  },
+  {
+    "question": "下り",
+    "answer1": "くだり",
+    "answer2": "Hướng xuống"
+  },
+  {
+    "question": "??????",
+    "answer1": "ジェイアール",
+    "answer2": "JR"
+  },
+  {
+    "question": "私鉄",
+    "answer1": "してつ",
+    "answer2": "Đường sắt tư nhân"
+  },
+  {
+    "question": "経由<する>",
+    "answer1": "けいゆする",
+    "answer2": "Đi qua"
+  },
+  {
+    "question": "定期券",
+    "answer1": "ていきけん",
+    "answer2": "Vé tháng"
+  }
+]

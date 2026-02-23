@@ -1,0 +1,127 @@
+[
+  {
+    "question": "やり取り<する>",
+    "answer1": "やりとりする",
+    "answer2": "Trao đổi"
+  },
+  {
+    "question": "入力<する>",
+    "answer1": "にゅうりょくする",
+    "answer2": "Nhập liệu"
+  },
+  {
+    "question": "変換<する>",
+    "answer1": "へんかんする",
+    "answer2": "Chuyển đổi"
+  },
+  {
+    "question": "改行<する>",
+    "answer1": "かいぎょうする",
+    "answer2": "Xuống dòng"
+  },
+  {
+    "question": "見直す",
+    "answer1": "みなおす",
+    "answer2": "Xem lại"
+  },
+  {
+    "question": "変更<する>",
+    "answer1": "へんこうする",
+    "answer2": "Thay đổi"
+  },
+  {
+    "question": "画像",
+    "answer1": "がぞう",
+    "answer2": "Hình ảnh"
+  },
+  {
+    "question": "挿入<する>",
+    "answer1": "そうにゅうする",
+    "answer2": "Chèn"
+  },
+  {
+    "question": "添付<する>",
+    "answer1": "てんぷする",
+    "answer2": "Đính kèm"
+  },
+  {
+    "question": "削除<する>",
+    "answer1": "さくじょする",
+    "answer2": "Xóa"
+  },
+  {
+    "question": "保存<する>",
+    "answer1": "ほぞんする",
+    "answer2": "Lưu"
+  },
+  {
+    "question": "新規作成<する>",
+    "answer1": "しんきさくせいする",
+    "answer2": "Tạo mới"
+  },
+  {
+    "question": "完了<する>",
+    "answer1": "かんりょうする",
+    "answer2": "Hoàn tất"
+  },
+  {
+    "question": "ブログ",
+    "answer1": "ブログ",
+    "answer2": "Blog"
+  },
+  {
+    "question": "マウス",
+    "answer1": "マウス",
+    "answer2": "Chuột"
+  },
+  {
+    "question": "クリック<為る>",
+    "answer1": "クリックする",
+    "answer2": "Nhấp chuột"
+  },
+  {
+    "question": "プロバイダー",
+    "answer1": "プロバイダー",
+    "answer2": "Nhà cung cấp mạng"
+  },
+  {
+    "question": "ダウンロード<為る>",
+    "answer1": "ダウンロードする",
+    "answer2": "Tải xuống"
+  },
+  {
+    "question": "ノートパソコン",
+    "answer1": "ノートパソコン",
+    "answer2": "Laptop"
+  },
+  {
+    "question": "日にち",
+    "answer1": "ひにち",
+    "answer2": "Ngày"
+  },
+  {
+    "question": "日帰り",
+    "answer1": "ひがえり",
+    "answer2": "Đi về trong ngày"
+  },
+  {
+    "question": "泊まり",
+    "answer1": "とまり",
+    "answer2": "Trọ, nghỉ"
+  },
+  {
+    "question": "宿泊<する>",
+    "answer1": "しゅくはくする",
+    "answer2": "Trọ, nghỉ"
+  },
+  {
+    "question": "滞在<する>",
+    "answer1": "たいざいする",
+    "answer2": "Ở, lưu trú"
+  },
+  {
+    "question": "団体",
+    "answer1": "だんたい",
+    "answer2": "Đoàn"
+  }
+]

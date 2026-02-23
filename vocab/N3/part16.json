@@ -1,0 +1,127 @@
+[
+  {
+    "question": "無料",
+    "answer1": "むりょう",
+    "answer2": "Miễn phí"
+  },
+  {
+    "question": "老人ホーム",
+    "answer1": "ろうじんホーム",
+    "answer2": "Nhà dưỡng lão"
+  },
+  {
+    "question": "目印",
+    "answer1": "めじるし",
+    "answer2": "Dấu hiệu nhận biết"
+  },
+  {
+    "question": "歩道橋",
+    "answer1": "ほどうきょう",
+    "answer2": "Cầu vượt bộ hành"
+  },
+  {
+    "question": "タワー",
+    "answer1": "タワー",
+    "answer2": "Tháp"
+  },
+  {
+    "question": "ライト",
+    "answer1": "ライト",
+    "answer2": "Ánh sáng"
+  },
+  {
+    "question": "居酒屋",
+    "answer1": "いざかや",
+    "answer2": "Quán nhậu"
+  },
+  {
+    "question": "八百屋",
+    "answer1": "やおや",
+    "answer2": "Cửa hàng rau quả"
+  },
+  {
+    "question": "正面",
+    "answer1": "しょうめん",
+    "answer2": "Chính diện"
+  },
+  {
+    "question": "蕎麦",
+    "answer1": "そば",
+    "answer2": "Bên cạnh"
+  },
+  {
+    "question": "コンクリート",
+    "answer1": "コンクリート",
+    "answer2": "Bê tông"
+  },
+  {
+    "question": "地方",
+    "answer1": "ちほう",
+    "answer2": "Địa phương"
+  },
+  {
+    "question": "地域",
+    "answer1": "ちいき",
+    "answer2": "Khu vực"
+  },
+  {
+    "question": "郊外",
+    "answer1": "こうがい",
+    "answer2": "Ngoại ô"
+  },
+  {
+    "question": "中心",
+    "answer1": "ちゅうしん",
+    "answer2": "Trung tâm"
+  },
+  {
+    "question": "移転<する>",
+    "answer1": "いてんする",
+    "answer2": "Di dời"
+  },
+  {
+    "question": "工事<する>",
+    "answer1": "こうじする",
+    "answer2": "Thi công"
+  },
+  {
+    "question": "空き地",
+    "answer1": "あきち",
+    "answer2": "Đất trống"
+  },
+  {
+    "question": "人ごみ",
+    "answer1": "ひとごみ",
+    "answer2": "Đám đông"
+  },
+  {
+    "question": "都会",
+    "answer1": "とかい",
+    "answer2": "Đô thị"
+  },
+  {
+    "question": "ぶらぶら病<為る>",
+    "answer1": "ぶらぶらする",
+    "answer2": "Lang thang"
+  },
+  {
+    "question": "うろうろ<為る>",
+    "answer1": "うろうろする",
+    "answer2": "Lởn vởn"
+  },
+  {
+    "question": "通りかかる",
+    "answer1": "とおりかかる",
+    "answer2": "Đi ngang qua"
+  },
+  {
+    "question": "通り過ぎる",
+    "answer1": "とおりすぎる",
+    "answer2": "Đi quá"
+  },
+  {
+    "question": "徒歩",
+    "answer1": "とほ",
+    "answer2": "Đi bộ"
+  }
+]

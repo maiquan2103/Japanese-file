@@ -1,0 +1,127 @@
+[
+  {
+    "question": "手間",
+    "answer1": "てま",
+    "answer2": "Công sức"
+  },
+  {
+    "question": "手軽な",
+    "answer1": "てがるな",
+    "answer2": "Đơn giản"
+  },
+  {
+    "question": "でき上がり",
+    "answer1": "できあがり",
+    "answer2": "Hoàn thành"
+  },
+  {
+    "question": "分ける",
+    "answer1": "わける",
+    "answer2": "Chia"
+  },
+  {
+    "question": "摘む",
+    "answer1": "つまむ",
+    "answer2": "Gắp"
+  },
+  {
+    "question": "塩辛い",
+    "answer1": "しおからい",
+    "answer2": "Mặn"
+  },
+  {
+    "question": "酸っぱい",
+    "answer1": "すっぱい",
+    "answer2": "Chua"
+  },
+  {
+    "question": "冷凍<する>",
+    "answer1": "れいとうする",
+    "answer2": "Đông lạnh"
+  },
+  {
+    "question": "散らかる",
+    "answer1": "ちらかる",
+    "answer2": "Bừa bộn"
+  },
+  {
+    "question": "片付ける",
+    "answer1": "かたづける",
+    "answer2": "Dọn dẹp"
+  },
+  {
+    "question": "清潔な",
+    "answer1": "せいけつな",
+    "answer2": "Sạch sẽ"
+  },
+  {
+    "question": "掃く",
+    "answer1": "はく",
+    "answer2": "Quét"
+  },
+  {
+    "question": "箒",
+    "answer1": "ほうき",
+    "answer2": "Chổi"
+  },
+  {
+    "question": "ちり取り",
+    "answer1": "ちりとり",
+    "answer2": "Hốt rác"
+  },
+  {
+    "question": "掃除機",
+    "answer1": "そうじき",
+    "answer2": "Máy hút bụi"
+  },
+  {
+    "question": "服",
+    "answer1": "ふく",
+    "answer2": "Lau"
+  },
+  {
+    "question": "雑巾",
+    "answer1": "ぞうきん",
+    "answer2": "Giẻ lau"
+  },
+  {
+    "question": "バケツ",
+    "answer1": "バケツ",
+    "answer2": "Xô"
+  },
+  {
+    "question": "絞る",
+    "answer1": "しぼる",
+    "answer2": "Vắt"
+  },
+  {
+    "question": "零す",
+    "answer1": "こぼす",
+    "answer2": "Làm đổ"
+  },
+  {
+    "question": "洗剤",
+    "answer1": "せんざい",
+    "answer2": "Chất tẩy"
+  },
+  {
+    "question": "黴",
+    "answer1": "かび",
+    "answer2": "Mốc"
+  },
+  {
+    "question": "埃",
+    "answer1": "ほこり",
+    "answer2": "Bụi"
+  },
+  {
+    "question": "磨く",
+    "answer1": "みがく",
+    "answer2": "Chà, đánh"
+  },
+  {
+    "question": "ブラシ",
+    "answer1": "ブラシ",
+    "answer2": "Bàn chải"
+  }
+]

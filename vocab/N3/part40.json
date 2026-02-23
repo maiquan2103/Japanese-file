@@ -1,0 +1,127 @@
+[
+  {
+    "question": "散る",
+    "answer1": "ちる",
+    "answer2": "Rơi, rụng"
+  },
+  {
+    "question": "草",
+    "answer1": "くさ",
+    "answer2": "Cỏ"
+  },
+  {
+    "question": "種",
+    "answer1": "たね",
+    "answer2": "Hạt"
+  },
+  {
+    "question": "浮かぶ",
+    "answer1": "うかぶ",
+    "answer2": "Nổi, trôi"
+  },
+  {
+    "question": "太陽",
+    "answer1": "たいよう",
+    "answer2": "Mặt trời"
+  },
+  {
+    "question": "現れる",
+    "answer1": "あらわれる",
+    "answer2": "Xuất hiện"
+  },
+  {
+    "question": "沈む",
+    "answer1": "しずむ",
+    "answer2": "Chìm, lặn"
+  },
+  {
+    "question": "薄暗い",
+    "answer1": "うすぐらい",
+    "answer2": "Tối mờ"
+  },
+  {
+    "question": "穴",
+    "answer1": "あな",
+    "answer2": "Lỗ, hố"
+  },
+  {
+    "question": "掘る",
+    "answer1": "ほる",
+    "answer2": "Đào"
+  },
+  {
+    "question": "埋める",
+    "answer1": "うめる",
+    "answer2": "Lấp"
+  },
+  {
+    "question": "土",
+    "answer1": "つち",
+    "answer2": "Đất"
+  },
+  {
+    "question": "岩",
+    "answer1": "いわ",
+    "answer2": "Đá"
+  },
+  {
+    "question": "丘",
+    "answer1": "おか",
+    "answer2": "Đồi"
+  },
+  {
+    "question": "火山",
+    "answer1": "かざん",
+    "answer2": "Núi lửa"
+  },
+  {
+    "question": "想像<する>",
+    "answer1": "そうぞうする",
+    "answer2": "Tưởng tượng"
+  },
+  {
+    "question": "見上げる",
+    "answer1": "みあげる",
+    "answer2": "Nhìn lên"
+  },
+  {
+    "question": "見下ろす",
+    "answer1": "みおろす",
+    "answer2": "Nhìn xuống"
+  },
+  {
+    "question": "吠える",
+    "answer1": "ほえる",
+    "answer2": "Sủa, gầm"
+  },
+  {
+    "question": "尻尾",
+    "answer1": "しっぽ",
+    "answer2": "Đuôi"
+  },
+  {
+    "question": "錆びる",
+    "answer1": "さびる",
+    "answer2": "Han gỉ"
+  },
+  {
+    "question": "予想<する>",
+    "answer1": "よそうする",
+    "answer2": "Dự đoán"
+  },
+  {
+    "question": "予報<する>",
+    "answer1": "よほうする",
+    "answer2": "Dự báo"
+  },
+  {
+    "question": "湿度",
+    "answer1": "しつど",
+    "answer2": "Độ ẩm"
+  },
+  {
+    "question": "湿気",
+    "answer1": "しっけ",
+    "answer2": "Hơi ẩm"
+  }
+]

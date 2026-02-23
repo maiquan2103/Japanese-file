@@ -1,0 +1,127 @@
+[
+  {
+    "question": "あて先",
+    "answer1": "あてさき",
+    "answer2": "Địa chỉ nhận"
+  },
+  {
+    "question": "あて名",
+    "answer1": "あてな",
+    "answer2": "Tên người nhận"
+  },
+  {
+    "question": "差出人",
+    "answer1": "さしだしにん",
+    "answer2": "Người gửi"
+  },
+  {
+    "question": "取りあえず",
+    "answer1": "とりあえず",
+    "answer2": "Trước mắt"
+  },
+  {
+    "question": "出前",
+    "answer1": "でまえ",
+    "answer2": "Gọi đồ ăn"
+  },
+  {
+    "question": "解く",
+    "answer1": "ほどく",
+    "answer2": "Tháo, gỡ"
+  },
+  {
+    "question": "留守番電話",
+    "answer1": "るすばんでんわ",
+    "answer2": "Máy trả lời tự động"
+  },
+  {
+    "question": "良く",
+    "answer1": "よく",
+    "answer2": "Thường"
+  },
+  {
+    "question": "早め<な>",
+    "answer1": "はやめな",
+    "answer2": "Sớm"
+  },
+  {
+    "question": "リサイクル<為る>",
+    "answer1": "リサイクルする",
+    "answer2": "Tái chế"
+  },
+  {
+    "question": "退ける",
+    "answer1": "どける",
+    "answer2": "Dời sang chỗ khác"
+  },
+  {
+    "question": "商店街",
+    "answer1": "しょうてんがい",
+    "answer2": "Phố thương mại"
+  },
+  {
+    "question": "賑やか",
+    "answer1": "にぎやかな",
+    "answer2": "Nhộn nhịp"
+  },
+  {
+    "question": "高層ビル",
+    "answer1": "こうそうビル",
+    "answer2": "Tòa nhà cao tầng"
+  },
+  {
+    "question": "建つ",
+    "answer1": "たつ",
+    "answer2": "Được xây dựng"
+  },
+  {
+    "question": "水族館",
+    "answer1": "すいぞくかん",
+    "answer2": "Thủy cung"
+  },
+  {
+    "question": "博物館",
+    "answer1": "はくぶつかん",
+    "answer2": "Bảo tàng"
+  },
+  {
+    "question": "出入り口（出入口）",
+    "answer1": "でいりぐち（でいりぐち）",
+    "answer2": "Lối / cửa ra vào"
+  },
+  {
+    "question": "自動ドア",
+    "answer1": "じどうドア",
+    "answer2": "Cửa tự động"
+  },
+  {
+    "question": "入館料",
+    "answer1": "にゅうかんりょう",
+    "answer2": "Phí vào cửa"
+  },
+  {
+    "question": "混雑<する>",
+    "answer1": "こんざつする",
+    "answer2": "Đông đúc"
+  },
+  {
+    "question": "行列",
+    "answer1": "ぎょうれつ",
+    "answer2": "Hàng người"
+  },
+  {
+    "question": "休館日",
+    "answer1": "きゅうかんび",
+    "answer2": "Ngày nghỉ"
+  },
+  {
+    "question": "ホール",
+    "answer1": "ホール",
+    "answer2": "Hội trường"
+  },
+  {
+    "question": "使用料",
+    "answer1": "しようりょう",
+    "answer2": "Phí sử dụng"
+  }
+]
