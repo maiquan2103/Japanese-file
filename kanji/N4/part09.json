@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "銀",
+        "answer1":  "Ngân",
+        "answer2":  "bạc, ngân hàng"
+    },
+    {
+        "question":  "題",
+        "answer1":  "Đề",
+        "answer2":  "vấn đề"
+    },
+    {
+        "question":  "館",
+        "answer1":  "quán",
+        "answer2":  "hội quán"
+    },
+    {
+        "question":  "駅",
+        "answer1":  "dịch",
+        "answer2":  "nhà ga"
+    },
+    {
+        "question":  "億",
+        "answer1":  "Ức",
+        "answer2":  "100 triệu"
+    },
+    {
+        "question":  "器",
+        "answer1":  "Khí",
+        "answer2":  "vũ khí"
+    },
+    {
+        "question":  "士",
+        "answer1":  "Sĩ",
+        "answer2":  "nhân sĩ"
+    },
+    {
+        "question":  "料",
+        "answer1":  "Liệu",
+        "answer2":  "nguyên liệu"
+    },
+    {
+        "question":  "標",
+        "answer1":  "Tiêu",
+        "answer2":  "chuẩn"
+    },
+    {
+        "question":  "殺",
+        "answer1":  "Sát",
+        "answer2":  "giết, sát nhân"
+    },
+    {
+        "question":  "然",
+        "answer1":  "Nhiên",
+        "answer2":  "tự nhiên, ngẫu nhiên"
+    },
+    {
+        "question":  "熱",
+        "answer1":  "Nhiệt",
+        "answer2":  "nóng"
+    },
+    {
+        "question":  "課",
+        "answer1":  "Khoá",
+        "answer2":  "niên khoá, khoá học"
+    },
+    {
+        "question":  "賞",
+        "answer1":  "Thưởng",
+        "answer2":  "tán thưởng"
+    },
+    {
+        "question":  "輪",
+        "answer1":  "Luân",
+        "answer2":  "bánh xe"
+    },
+    {
+        "question":  "選",
+        "answer1":  "Tuyển",
+        "answer2":  "tuyển chọn"
+    },
+    {
+        "question":  "鏡",
+        "answer1":  "Kính",
+        "answer2":  "gương"
+    },
+    {
+        "question":  "願",
+        "answer1":  "Nguyện",
+        "answer2":  "ước nguyện"
+    },
+    {
+        "question":  "養",
+        "answer1":  "Dưỡng",
+        "answer2":  "dinh dưỡng"
+    },
+    {
+        "question":  "例",
+        "answer1":  "Lệ",
+        "answer2":  "ví dụ"
+    },
+    {
+        "question":  "卒",
+        "answer1":  "Tốt",
+        "answer2":  "tốt nghiệp"
+    },
+    {
+        "question":  "協",
+        "answer1":  "Hiệp",
+        "answer2":  "hiêp lực"
+    },
+    {
+        "question":  "参",
+        "answer1":  "Tham",
+        "answer2":  "tham gia"
+    },
+    {
+        "question":  "周",
+        "answer1":  "Chu",
+        "answer2":  "chu vi"
+    },
+    {
+        "question":  "囲",
+        "answer1":  "Vi",
+        "answer2":  "phạm vi"
+    }
+]

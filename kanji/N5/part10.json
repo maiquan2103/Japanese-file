@@ -1,0 +1,102 @@
+﻿[
+    {
+        "question":  "間",
+        "answer1":  "Gian",
+        "answer2":  "ở giữa, trung gian"
+    },
+    {
+        "question":  "雨",
+        "answer1":  "Vũ",
+        "answer2":  "mưa"
+    },
+    {
+        "question":  "雪",
+        "answer1":  "Tuyết",
+        "answer2":  "bông tuyết"
+    },
+    {
+        "question":  "雲",
+        "answer1":  "Vân",
+        "answer2":  "mây"
+    },
+    {
+        "question":  "電",
+        "answer1":  "Điện",
+        "answer2":  "điện thoại, đồ điện"
+    },
+    {
+        "question":  "青",
+        "answer1":  "Thanh",
+        "answer2":  "màu xanh"
+    },
+    {
+        "question":  "音",
+        "answer1":  "Âm",
+        "answer2":  "âm thanh"
+    },
+    {
+        "question":  "頭",
+        "answer1":  "Đầu",
+        "answer2":  "cái đầu"
+    },
+    {
+        "question":  "顔",
+        "answer1":  "Nhan",
+        "answer2":  "khuôn mặt"
+    },
+    {
+        "question":  "風",
+        "answer1":  "Phong",
+        "answer2":  "gió"
+    },
+    {
+        "question":  "食",
+        "answer1":  "Thực",
+        "answer2":  "thực phẩm"
+    },
+    {
+        "question":  "首",
+        "answer1":  "Thủ",
+        "answer2":  "cái cổ, thủ tướng"
+    },
+    {
+        "question":  "馬",
+        "answer1":  "Mã",
+        "answer2":  "con ngựa"
+    },
+    {
+        "question":  "高",
+        "answer1":  "Cao",
+        "answer2":  "chiều cao, cao học"
+    },
+    {
+        "question":  "魚",
+        "answer1":  "Ngư",
+        "answer2":  "con cá"
+    },
+    {
+        "question":  "鳥",
+        "answer1":  "Điểu",
+        "answer2":  "con chim"
+    },
+    {
+        "question":  "鳴",
+        "answer1":  "Minh",
+        "answer2":  "kêu, réo"
+    },
+    {
+        "question":  "麦",
+        "answer1":  "Mạch",
+        "answer2":  "lúa mạch"
+    },
+    {
+        "question":  "黄",
+        "answer1":  "Hoàng",
+        "answer2":  "màu vàng"
+    },
+    {
+        "question":  "黒",
+        "answer1":  "Hắc",
+        "answer2":  "màu đen"
+    }
+]

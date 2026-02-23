@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "一",
+        "answer1":  "Nhất",
+        "answer2":  "số 1"
+    },
+    {
+        "question":  "七",
+        "answer1":  "Thất",
+        "answer2":  "số 7"
+    },
+    {
+        "question":  "万",
+        "answer1":  "Vạn",
+        "answer2":  "1 vạn"
+    },
+    {
+        "question":  "三",
+        "answer1":  "Tam",
+        "answer2":  "số 3"
+    },
+    {
+        "question":  "上",
+        "answer1":  "Thượng",
+        "answer2":  "bên trên"
+    },
+    {
+        "question":  "下",
+        "answer1":  "Hạ",
+        "answer2":  "bên dưới"
+    },
+    {
+        "question":  "中",
+        "answer1":  "Trung",
+        "answer2":  "ở giữa"
+    },
+    {
+        "question":  "丸",
+        "answer1":  "Hoàn",
+        "answer2":  "hình tròn"
+    },
+    {
+        "question":  "九",
+        "answer1":  "Cửu",
+        "answer2":  "số 9"
+    },
+    {
+        "question":  "二",
+        "answer1":  "Nhị",
+        "answer2":  "số 2"
+    },
+    {
+        "question":  "五",
+        "answer1":  "Ngũ",
+        "answer2":  "số 5"
+    },
+    {
+        "question":  "交",
+        "answer1":  "Giao",
+        "answer2":  "cắt nhau"
+    },
+    {
+        "question":  "京",
+        "answer1":  "Kinh",
+        "answer2":  "kinh đô"
+    },
+    {
+        "question":  "人",
+        "answer1":  "Nhân",
+        "answer2":  "người"
+    },
+    {
+        "question":  "今",
+        "answer1":  "Kim",
+        "answer2":  "bây giờ"
+    },
+    {
+        "question":  "休",
+        "answer1":  "Hưu",
+        "answer2":  "nghỉ hưu"
+    },
+    {
+        "question":  "会",
+        "answer1":  "Hội",
+        "answer2":  "gặp gỡ"
+    },
+    {
+        "question":  "体",
+        "answer1":  "Thể",
+        "answer2":  "cơ thể"
+    },
+    {
+        "question":  "何",
+        "answer1":  "Hà",
+        "answer2":  "cái gì"
+    },
+    {
+        "question":  "作",
+        "answer1":  "Tác",
+        "answer2":  "sáng tác"
+    },
+    {
+        "question":  "元",
+        "answer1":  "Nguyên",
+        "answer2":  "nguyên khí"
+    },
+    {
+        "question":  "兄",
+        "answer1":  "Huynh",
+        "answer2":  "anh trai"
+    },
+    {
+        "question":  "先",
+        "answer1":  "Tiên",
+        "answer2":  "trước, tiên sinh"
+    },
+    {
+        "question":  "光",
+        "answer1":  "Quang",
+        "answer2":  "ánh sáng"
+    },
+    {
+        "question":  "入",
+        "answer1":  "Nhập",
+        "answer2":  "vào trong, nhập khẩu"
+    }
+]

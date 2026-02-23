@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "検",
+        "answer1":  "Kiểm",
+        "answer2":  "kiểm tra"
+    },
+    {
+        "question":  "条",
+        "answer1":  "Điều",
+        "answer2":  "điều kiện"
+    },
+    {
+        "question":  "責",
+        "answer1":  "Trách",
+        "answer2":  "trách nhiệm"
+    },
+    {
+        "question":  "増",
+        "answer1":  "Tăng",
+        "answer2":  "tăng lên"
+    },
+    {
+        "question":  "税",
+        "answer1":  "Thuế",
+        "answer2":  "tiền thuế"
+    },
+    {
+        "question":  "解",
+        "answer1":  "Giải",
+        "answer2":  "giải quyết, lý giải"
+    },
+    {
+        "question":  "際",
+        "answer1":  "Tế",
+        "answer2":  "quốc tế"
+    },
+    {
+        "question":  "認",
+        "answer1":  "Nhận",
+        "answer2":  "xác nhận"
+    },
+    {
+        "question":  "義",
+        "answer1":  "Nghĩa",
+        "answer2":  "chính nghĩa"
+    },
+    {
+        "question":  "誕",
+        "answer1":  "Đản",
+        "answer2":  "sinh ra"
+    },
+    {
+        "question":  "過",
+        "answer1":  "Quá",
+        "answer2":  "vượt quá, quá khứ"
+    },
+    {
+        "question":  "価",
+        "answer1":  "Giá",
+        "answer2":  "giá cả, giá trị"
+    },
+    {
+        "question":  "勢",
+        "answer1":  "Thế",
+        "answer2":  "thế lực"
+    },
+    {
+        "question":  "営",
+        "answer1":  "Doanh",
+        "answer2":  "kinh doanh"
+    },
+    {
+        "question":  "示",
+        "answer1":  "Thị",
+        "answer2":  "chỉ thị"
+    },
+    {
+        "question":  "統",
+        "answer1":  "Thống",
+        "answer2":  "truyền thống"
+    },
+    {
+        "question":  "領",
+        "answer1":  "Lãnh",
+        "answer2":  "lãnh đạo"
+    },
+    {
+        "question":  "策",
+        "answer1":  "Sách",
+        "answer2":  "sách lược"
+    },
+    {
+        "question":  "値",
+        "answer1":  "Trị",
+        "answer2":  "giá trị"
+    },
+    {
+        "question":  "吸",
+        "answer1":  "Hấp",
+        "answer2":  "hấp thu"
+    },
+    {
+        "question":  "域",
+        "answer1":  "Vực",
+        "answer2":  "khu vực"
+    },
+    {
+        "question":  "姿",
+        "answer1":  "Tư",
+        "answer2":  "tư thế"
+    },
+    {
+        "question":  "応",
+        "answer1":  "Ứng",
+        "answer2":  "phản ứng"
+    },
+    {
+        "question":  "提",
+        "answer1":  "Đề",
+        "answer2":  "đề cử"
+    },
+    {
+        "question":  "状",
+        "answer1":  "Trạng",
+        "answer2":  "trạng thái"
+    }
+]

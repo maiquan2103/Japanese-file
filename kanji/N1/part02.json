@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "診",
+        "answer1":  "Chẩn",
+        "answer2":  "chẩn trị"
+    },
+    {
+        "question":  "僚",
+        "answer1":  "Liêu",
+        "answer2":  "đồng liêu"
+    },
+    {
+        "question":  "督",
+        "answer1":  "Đốc",
+        "answer2":  "đốc thúc"
+    },
+    {
+        "question":  "索",
+        "answer1":  "Tác",
+        "answer2":  "xúc tác"
+    },
+    {
+        "question":  "渇",
+        "answer1":  "Khát",
+        "answer2":  "khát khô"
+    },
+    {
+        "question":  "懐",
+        "answer1":  "Hoài",
+        "answer2":  "hoài niệm"
+    },
+    {
+        "question":  "枕",
+        "answer1":  "Chẩm",
+        "answer2":  "cái gối"
+    },
+    {
+        "question":  "購",
+        "answer1":  "Cấu",
+        "answer2":  "mua bán"
+    },
+    {
+        "question":  "融",
+        "answer1":  "Dung",
+        "answer2":  "dung hợp, hòa tan"
+    },
+    {
+        "question":  "泥",
+        "answer1":  "Nê",
+        "answer2":  "bùn đất"
+    },
+    {
+        "question":  "偵",
+        "answer1":  "Trinh",
+        "answer2":  "dò xét, trinh thám"
+    },
+    {
+        "question":  "漠",
+        "answer1":  "Mạc",
+        "answer2":  "sa mạc"
+    },
+    {
+        "question":  "丼",
+        "answer1":  "Tỉnh/Đôn",
+        "answer2":  "cái bát"
+    },
+    {
+        "question":  "薦",
+        "answer1":  "Tiến",
+        "answer2":  "tiến độ, bước tiến"
+    },
+    {
+        "question":  "爪",
+        "answer1":  "Trảo",
+        "answer2":  "móng vuốt"
+    },
+    {
+        "question":  "厄",
+        "answer1":  "Ách",
+        "answer2":  "tai ách"
+    },
+    {
+        "question":  "亀",
+        "answer1":  "Qui",
+        "answer2":  "con rùa"
+    },
+    {
+        "question":  "杉",
+        "answer1":  "Sam",
+        "answer2":  "cây tuyết tùng"
+    },
+    {
+        "question":  "汁",
+        "answer1":  "Trấp",
+        "answer2":  "nước súp"
+    },
+    {
+        "question":  "熊",
+        "answer1":  "Hùng",
+        "answer2":  "con gấu"
+    },
+    {
+        "question":  "酢",
+        "answer1":  "Tạc",
+        "answer2":  "dấm ăn"
+    },
+    {
+        "question":  "鍋",
+        "answer1":  "Oa",
+        "answer2":  "cái chảo"
+    },
+    {
+        "question":  "奈",
+        "answer1":  "Nại",
+        "answer2":  "tận cùng"
+    },
+    {
+        "question":  "廃",
+        "answer1":  "Phế",
+        "answer2":  "tàn phế"
+    },
+    {
+        "question":  "核",
+        "answer1":  "Hạch",
+        "answer2":  "hạt"
+    }
+]

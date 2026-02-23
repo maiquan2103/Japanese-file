@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "布",
+        "answer1":  "Bố",
+        "answer2":  "vải"
+    },
+    {
+        "question":  "易",
+        "answer1":  "Dịch",
+        "answer2":  "mậu dịch"
+    },
+    {
+        "question":  "財",
+        "answer1":  "Tài",
+        "answer2":  "tiền tài, tài chính"
+    },
+    {
+        "question":  "若",
+        "answer1":  "Nhược",
+        "answer2":  "trẻ"
+    },
+    {
+        "question":  "詞",
+        "answer1":  "Từ",
+        "answer2":  "từ ngữ"
+    },
+    {
+        "question":  "舌",
+        "answer1":  "Thiệt",
+        "answer2":  "cái lưỡi"
+    },
+    {
+        "question":  "冊",
+        "answer1":  "Sách",
+        "answer2":  "quyển sách"
+    },
+    {
+        "question":  "宇",
+        "answer1":  "Vũ",
+        "answer2":  "vũ trụ"
+    },
+    {
+        "question":  "宙",
+        "answer1":  "Trụ",
+        "answer2":  "vũ trụ"
+    },
+    {
+        "question":  "団",
+        "answer1":  "Đoàn",
+        "answer2":  "đoàn thể"
+    },
+    {
+        "question":  "暴",
+        "answer1":  "Bạo",
+        "answer2":  "bạo lực"
+    },
+    {
+        "question":  "混",
+        "answer1":  "Hỗn",
+        "answer2":  "hỗn loạn"
+    },
+    {
+        "question":  "乱",
+        "answer1":  "Loạn",
+        "answer2":  "rối loạn"
+    },
+    {
+        "question":  "善",
+        "answer1":  "Thiện",
+        "answer2":  "từ thiện"
+    },
+    {
+        "question":  "困",
+        "answer1":  "Khốn",
+        "answer2":  "khó khăn"
+    },
+    {
+        "question":  "比",
+        "answer1":  "Tỷ",
+        "answer2":  "so sánh"
+    },
+    {
+        "question":  "災",
+        "answer1":  "Tai",
+        "answer2":  "tai họa, tai ương"
+    },
+    {
+        "question":  "率",
+        "answer1":  "Suất",
+        "answer2":  "năng suất"
+    },
+    {
+        "question":  "余",
+        "answer1":  "Dư",
+        "answer2":  "dư thừa"
+    },
+    {
+        "question":  "難",
+        "answer1":  "Nan",
+        "answer2":  "gian nan"
+    },
+    {
+        "question":  "確",
+        "answer1":  "Xác",
+        "answer2":  "chính xác, xác thực"
+    },
+    {
+        "question":  "個",
+        "answer1":  "Cá",
+        "answer2":  "cá thể, cá nhân"
+    },
+    {
+        "question":  "圧",
+        "answer1":  "Áp",
+        "answer2":  "áp suất, áp lực"
+    },
+    {
+        "question":  "在",
+        "answer1":  "Tại",
+        "answer2":  "tồn tại"
+    },
+    {
+        "question":  "夢",
+        "answer1":  "Mộng",
+        "answer2":  "giấc mơ"
+    }
+]

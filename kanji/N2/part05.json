@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "壊",
+        "answer1":  "Hoại",
+        "answer2":  "hủy hoại"
+    },
+    {
+        "question":  "緊",
+        "answer1":  "Khẩn",
+        "answer2":  "khẩn cấp"
+    },
+    {
+        "question":  "娘",
+        "answer1":  "Nương",
+        "answer2":  "con gái"
+    },
+    {
+        "question":  "宴",
+        "answer1":  "Yến",
+        "answer2":  "yến tiệc"
+    },
+    {
+        "question":  "怖",
+        "answer1":  "Bố",
+        "answer2":  "khủng bố"
+    },
+    {
+        "question":  "恐",
+        "answer1":  "Khủng",
+        "answer2":  "khủng hoảng"
+    },
+    {
+        "question":  "添",
+        "answer1":  "Thiêm",
+        "answer2":  "thêm vào"
+    },
+    {
+        "question":  "猛",
+        "answer1":  "Mãnh",
+        "answer2":  "mãnh liệt"
+    },
+    {
+        "question":  "烈",
+        "answer1":  "Liệt",
+        "answer2":  "mãnh liệt"
+    },
+    {
+        "question":  "詰",
+        "answer1":  "Cật",
+        "answer2":  "vặn hỏi"
+    },
+    {
+        "question":  "詳",
+        "answer1":  "Tường",
+        "answer2":  "rõ ràng"
+    },
+    {
+        "question":  "魅",
+        "answer1":  "Mị",
+        "answer2":  "bùa mê"
+    },
+    {
+        "question":  "婚",
+        "answer1":  "Hôn",
+        "answer2":  "kết hôn"
+    },
+    {
+        "question":  "乏",
+        "answer1":  "Phạp",
+        "answer2":  "khốn cùng"
+    },
+    {
+        "question":  "押",
+        "answer1":  "Áp",
+        "answer2":  "ấn, ép"
+    },
+    {
+        "question":  "更",
+        "answer1":  "Canh",
+        "answer2":  "canh tân"
+    },
+    {
+        "question":  "浮",
+        "answer1":  "Phù",
+        "answer2":  "nổi lên"
+    },
+    {
+        "question":  "漏",
+        "answer1":  "Lậu",
+        "answer2":  "lỗ thủng, rò rỉ"
+    },
+    {
+        "question":  "符",
+        "answer1":  "Phù",
+        "answer2":  "phù hiệu"
+    },
+    {
+        "question":  "越",
+        "answer1":  "Việt",
+        "answer2":  "vượt qua"
+    },
+    {
+        "question":  "飾",
+        "answer1":  "Sức",
+        "answer2":  "trang sức"
+    },
+    {
+        "question":  "騒",
+        "answer1":  "Tào",
+        "answer2":  "ồn ào"
+    },
+    {
+        "question":  "撮",
+        "answer1":  "Toát",
+        "answer2":  "chụp ảnh"
+    },
+    {
+        "question":  "盗",
+        "answer1":  "Đạo",
+        "answer2":  "đạo tặc"
+    },
+    {
+        "question":  "離",
+        "answer1":  "Li",
+        "answer2":  "rời khỏi"
+    }
+]

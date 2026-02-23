@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "東",
+        "answer1":  "Đông",
+        "answer2":  "phía đông"
+    },
+    {
+        "question":  "林",
+        "answer1":  "Lâm",
+        "answer2":  "rừng"
+    },
+    {
+        "question":  "校",
+        "answer1":  "Hiệu",
+        "answer2":  "trường học"
+    },
+    {
+        "question":  "森",
+        "answer1":  "Sâm",
+        "answer2":  "rừng sâu"
+    },
+    {
+        "question":  "楽",
+        "answer1":  "Lạc",
+        "answer2":  "vui vẻ"
+    },
+    {
+        "question":  "歌",
+        "answer1":  "Ca",
+        "answer2":  "hát"
+    },
+    {
+        "question":  "止",
+        "answer1":  "Chỉ",
+        "answer2":  "dừng lại, đình chỉ"
+    },
+    {
+        "question":  "正",
+        "answer1":  "Chính",
+        "answer2":  "chính xác"
+    },
+    {
+        "question":  "歩",
+        "answer1":  "Bộ",
+        "answer2":  "đường bộ, đi bộ"
+    },
+    {
+        "question":  "母",
+        "answer1":  "Mẫu",
+        "answer2":  "mẹ"
+    },
+    {
+        "question":  "毎",
+        "answer1":  "Mỗi",
+        "answer2":  "mỗi ngày"
+    },
+    {
+        "question":  "毛",
+        "answer1":  "Mao",
+        "answer2":  "lông"
+    },
+    {
+        "question":  "気",
+        "answer1":  "Khí",
+        "answer2":  "khí chất"
+    },
+    {
+        "question":  "水",
+        "answer1":  "Thủy",
+        "answer2":  "nước"
+    },
+    {
+        "question":  "池",
+        "answer1":  "Trì",
+        "answer2":  "cái ao"
+    },
+    {
+        "question":  "汽",
+        "answer1":  "Khí",
+        "answer2":  "hơi nước"
+    },
+    {
+        "question":  "活",
+        "answer1":  "Hoạt",
+        "answer2":  "sinh hoạt"
+    },
+    {
+        "question":  "海",
+        "answer1":  "Hải",
+        "answer2":  "biển, hải cảng"
+    },
+    {
+        "question":  "火",
+        "answer1":  "Hoả",
+        "answer2":  "lửa"
+    },
+    {
+        "question":  "点",
+        "answer1":  "Điểm",
+        "answer2":  "điểm số, trọng điểm"
+    },
+    {
+        "question":  "父",
+        "answer1":  "Phụ",
+        "answer2":  "cha"
+    },
+    {
+        "question":  "牛",
+        "answer1":  "Ngưu",
+        "answer2":  "con bò"
+    },
+    {
+        "question":  "犬",
+        "answer1":  "Khuyển",
+        "answer2":  "con chó"
+    },
+    {
+        "question":  "玉",
+        "answer1":  "Ngọc",
+        "answer2":  "ngọc bảo"
+    },
+    {
+        "question":  "王",
+        "answer1":  "Vương",
+        "answer2":  "vua"
+    }
+]

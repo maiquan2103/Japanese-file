@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "暑",
+        "answer1":  "Thử",
+        "answer2":  "nóng"
+    },
+    {
+        "question":  "期",
+        "answer1":  "kỳ",
+        "answer2":  "kỳ hạn"
+    },
+    {
+        "question":  "植",
+        "answer1":  "Thực",
+        "answer2":  "trồng cây"
+    },
+    {
+        "question":  "歯",
+        "answer1":  "Xỉ",
+        "answer2":  "răng"
+    },
+    {
+        "question":  "温",
+        "answer1":  "ôn",
+        "answer2":  "ôn hoà"
+    },
+    {
+        "question":  "港",
+        "answer1":  "Cảng",
+        "answer2":  "hải cảng"
+    },
+    {
+        "question":  "湯",
+        "answer1":  "Thang",
+        "answer2":  "nước nóng"
+    },
+    {
+        "question":  "登",
+        "answer1":  "Đăng",
+        "answer2":  "leo lên, đăng ký"
+    },
+    {
+        "question":  "着",
+        "answer1":  "Trước",
+        "answer2":  "đến nơi"
+    },
+    {
+        "question":  "短",
+        "answer1":  "Đoản",
+        "answer2":  "ngắn"
+    },
+    {
+        "question":  "予",
+        "answer1":  "Dự",
+        "answer2":  "dự báo"
+    },
+    {
+        "question":  "反",
+        "answer1":  "Phản",
+        "answer2":  "phản đối"
+    },
+    {
+        "question":  "返",
+        "answer1":  "Phản",
+        "answer2":  "trả lại"
+    },
+    {
+        "question":  "問",
+        "answer1":  "Vấn",
+        "answer2":  "hỏi"
+    },
+    {
+        "question":  "宿",
+        "answer1":  "Túc",
+        "answer2":  "nhà trọ"
+    },
+    {
+        "question":  "想",
+        "answer1":  "Tưởng",
+        "answer2":  "tưởng tượng"
+    },
+    {
+        "question":  "感",
+        "answer1":  "cảm",
+        "answer2":  "cảm giác"
+    },
+    {
+        "question":  "整",
+        "answer1":  "Chỉnh",
+        "answer2":  "chỉnh đốn"
+    },
+    {
+        "question":  "暗",
+        "answer1":  "ám",
+        "answer2":  "tối"
+    },
+    {
+        "question":  "様",
+        "answer1":  "Dạng",
+        "answer2":  "hình dạng"
+    },
+    {
+        "question":  "橋",
+        "answer1":  "kiều",
+        "answer2":  "cây cầu"
+    },
+    {
+        "question":  "福",
+        "answer1":  "Phúc",
+        "answer2":  "phúc lợi"
+    },
+    {
+        "question":  "緑",
+        "answer1":  "Lục",
+        "answer2":  "màu xanh lá cây"
+    },
+    {
+        "question":  "練",
+        "answer1":  "Luyện",
+        "answer2":  "luyện tập"
+    },
+    {
+        "question":  "詩",
+        "answer1":  "Thi",
+        "answer2":  "thi ca"
+    }
+]

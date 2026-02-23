@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "笑",
+        "answer1":  "Tiếu",
+        "answer2":  "cười, tiếu lâm"
+    },
+    {
+        "question":  "辞",
+        "answer1":  "Từ",
+        "answer2":  "từ điển"
+    },
+    {
+        "question":  "関",
+        "answer1":  "Quan",
+        "answer2":  "liên quan"
+    },
+    {
+        "question":  "薬",
+        "answer1":  "Dược",
+        "answer2":  "thuốc"
+    },
+    {
+        "question":  "鼻",
+        "answer1":  "Tỵ",
+        "answer2":  "cái mũi"
+    },
+    {
+        "question":  "側",
+        "answer1":  "Trắc",
+        "answer2":  "phía"
+    },
+    {
+        "question":  "兵",
+        "answer1":  "Binh",
+        "answer2":  "binh lính"
+    },
+    {
+        "question":  "堂",
+        "answer1":  "Đường",
+        "answer2":  "võ đường, thực đường"
+    },
+    {
+        "question":  "塩",
+        "answer1":  "Diêm",
+        "answer2":  "muối"
+    },
+    {
+        "question":  "席",
+        "answer1":  "Tịch",
+        "answer2":  "chỗ ngồi"
+    },
+    {
+        "question":  "敗",
+        "answer1":  "Bại",
+        "answer2":  "thất bại"
+    },
+    {
+        "question":  "果",
+        "answer1":  "Quả",
+        "answer2":  "kết quả"
+    },
+    {
+        "question":  "栄",
+        "answer1":  "Vinh",
+        "answer2":  "vinh quang"
+    },
+    {
+        "question":  "梅",
+        "answer1":  "Mai",
+        "answer2":  "cây mơ, うめ"
+    },
+    {
+        "question":  "無",
+        "answer1":  "Vô",
+        "answer2":  "vô lý"
+    },
+    {
+        "question":  "結",
+        "answer1":  "Kết",
+        "answer2":  "kết hôn"
+    },
+    {
+        "question":  "官",
+        "answer1":  "Quan",
+        "answer2":  "quan lại"
+    },
+    {
+        "question":  "察",
+        "answer1":  "Sát",
+        "answer2":  "cảnh sát"
+    },
+    {
+        "question":  "底",
+        "answer1":  "Để",
+        "answer2":  "cái đáy"
+    },
+    {
+        "question":  "愛",
+        "answer1":  "Ái",
+        "answer2":  "ái tình"
+    },
+    {
+        "question":  "覚",
+        "answer1":  "Giác",
+        "answer2":  "nhớ ra"
+    },
+    {
+        "question":  "説",
+        "answer1":  "Thuyết",
+        "answer2":  "tiểu thuyết, thuyết minh"
+    },
+    {
+        "question":  "訓",
+        "answer1":  "Huấn",
+        "answer2":  "giáo huấn"
+    },
+    {
+        "question":  "試",
+        "answer1":  "Thí",
+        "answer2":  "thí sinh, thí nghiệm"
+    },
+    {
+        "question":  "告",
+        "answer1":  "Cáo",
+        "answer2":  "quảng cáo"
+    }
+]

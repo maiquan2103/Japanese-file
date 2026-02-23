@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "紙",
+        "answer1":  "Chỉ",
+        "answer2":  "tờ giấy"
+    },
+    {
+        "question":  "細",
+        "answer1":  "Tế",
+        "answer2":  "gầy, tế bào"
+    },
+    {
+        "question":  "組",
+        "answer1":  "Tổ",
+        "answer2":  "nhóm, tổ chức"
+    },
+    {
+        "question":  "絵",
+        "answer1":  "Hội",
+        "answer2":  "hội họa"
+    },
+    {
+        "question":  "線",
+        "answer1":  "Tuyến",
+        "answer2":  "tuyến đường"
+    },
+    {
+        "question":  "羽",
+        "answer1":  "Vũ",
+        "answer2":  "lông chim"
+    },
+    {
+        "question":  "考",
+        "answer1":  "Khảo",
+        "answer2":  "suy nghĩ"
+    },
+    {
+        "question":  "耳",
+        "answer1":  "Nhĩ",
+        "answer2":  "cái tai"
+    },
+    {
+        "question":  "聞",
+        "answer1":  "Văn/Vấn",
+        "answer2":  "nghe/hỏi"
+    },
+    {
+        "question":  "肉",
+        "answer1":  "Nhục",
+        "answer2":  "thịt"
+    },
+    {
+        "question":  "自",
+        "answer1":  "Tự",
+        "answer2":  "tự thân, tự tin"
+    },
+    {
+        "question":  "船",
+        "answer1":  "Thuyền",
+        "answer2":  "cái thuyền"
+    },
+    {
+        "question":  "色",
+        "answer1":  "Sắc",
+        "answer2":  "màu sắc"
+    },
+    {
+        "question":  "花",
+        "answer1":  "Hoa",
+        "answer2":  "bông hoa"
+    },
+    {
+        "question":  "茶",
+        "answer1":  "Trà",
+        "answer2":  "trà đạo"
+    },
+    {
+        "question":  "草",
+        "answer1":  "Thảo",
+        "answer2":  "cỏ"
+    },
+    {
+        "question":  "虫",
+        "answer1":  "Trùng",
+        "answer2":  "côn trùng"
+    },
+    {
+        "question":  "行",
+        "answer1":  "Hành",
+        "answer2":  "đi, lữ hành"
+    },
+    {
+        "question":  "西",
+        "answer1":  "Tây",
+        "answer2":  "phía tây"
+    },
+    {
+        "question":  "見",
+        "answer1":  "Kiến",
+        "answer2":  "nhìn"
+    },
+    {
+        "question":  "親",
+        "answer1":  "Thân",
+        "answer2":  "người thân"
+    },
+    {
+        "question":  "角",
+        "answer1":  "Giác",
+        "answer2":  "góc"
+    },
+    {
+        "question":  "言",
+        "answer1":  "Ngôn",
+        "answer2":  "ngôn ngữ"
+    },
+    {
+        "question":  "計",
+        "answer1":  "Kế",
+        "answer2":  "kế hoạch"
+    },
+    {
+        "question":  "記",
+        "answer1":  "Kí",
+        "answer2":  "nhật kí"
+    }
+]

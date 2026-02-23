@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "思",
+        "answer1":  "Tư",
+        "answer2":  "suy nghĩ"
+    },
+    {
+        "question":  "戸",
+        "answer1":  "Hộ",
+        "answer2":  "cánh cửa"
+    },
+    {
+        "question":  "手",
+        "answer1":  "Thủ",
+        "answer2":  "cái tay"
+    },
+    {
+        "question":  "才",
+        "answer1":  "Tài",
+        "answer2":  "tuổi, thiên tài"
+    },
+    {
+        "question":  "教",
+        "answer1":  "Giáo",
+        "answer2":  "giáo dục, giáo viên"
+    },
+    {
+        "question":  "数",
+        "answer1":  "Số",
+        "answer2":  "số học, chữ số"
+    },
+    {
+        "question":  "文",
+        "answer1":  "Văn",
+        "answer2":  "văn hóa, văn học"
+    },
+    {
+        "question":  "新",
+        "answer1":  "Tân",
+        "answer2":  "mới"
+    },
+    {
+        "question":  "方",
+        "answer1":  "Phương",
+        "answer2":  "phương hướng"
+    },
+    {
+        "question":  "日",
+        "answer1":  "Nhật",
+        "answer2":  "ngày, mặt trời"
+    },
+    {
+        "question":  "早",
+        "answer1":  "Tảo",
+        "answer2":  "nhanh chóng"
+    },
+    {
+        "question":  "明",
+        "answer1":  "Minh",
+        "answer2":  "sáng, sáng suốt"
+    },
+    {
+        "question":  "星",
+        "answer1":  "Tinh",
+        "answer2":  "ngôi sao"
+    },
+    {
+        "question":  "春",
+        "answer1":  "Xuân",
+        "answer2":  "mùa xuân"
+    },
+    {
+        "question":  "昼",
+        "answer1":  "Trú",
+        "answer2":  "buổi trưa"
+    },
+    {
+        "question":  "時",
+        "answer1":  "Thời / thì",
+        "answer2":  "thời gian"
+    },
+    {
+        "question":  "晴",
+        "answer1":  "Tình",
+        "answer2":  "trời nắng"
+    },
+    {
+        "question":  "曜",
+        "answer1":  "Diệu",
+        "answer2":  "ngày"
+    },
+    {
+        "question":  "書",
+        "answer1":  "Thư",
+        "answer2":  "sách"
+    },
+    {
+        "question":  "月",
+        "answer1":  "Nguyệt",
+        "answer2":  "trăng"
+    },
+    {
+        "question":  "朝",
+        "answer1":  "Triều",
+        "answer2":  "buổi sáng"
+    },
+    {
+        "question":  "木",
+        "answer1":  "Mộc",
+        "answer2":  "cây"
+    },
+    {
+        "question":  "本",
+        "answer1":  "Bản",
+        "answer2":  "sách, Nhật Bản"
+    },
+    {
+        "question":  "村",
+        "answer1":  "Thôn",
+        "answer2":  "thôn làng"
+    },
+    {
+        "question":  "来",
+        "answer1":  "Lai",
+        "answer2":  "đến, tương lai"
+    }
+]

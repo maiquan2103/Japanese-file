@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "寝",
+        "answer1":  "Tẩm",
+        "answer2":  "ngủ"
+    },
+    {
+        "question":  "援",
+        "answer1":  "Viện",
+        "answer2":  "chi viện"
+    },
+    {
+        "question":  "鬼",
+        "answer1":  "Quỷ",
+        "answer2":  "ma quỷ"
+    },
+    {
+        "question":  "沢",
+        "answer1":  "Trạch",
+        "answer2":  "đầm lầy"
+    },
+    {
+        "question":  "施",
+        "answer1":  "Thi",
+        "answer2":  "thực thi"
+    },
+    {
+        "question":  "秀",
+        "answer1":  "Tú",
+        "answer2":  "ưu tú"
+    },
+    {
+        "question":  "違",
+        "answer1":  "Vi",
+        "answer2":  "sai khác"
+    },
+    {
+        "question":  "狭",
+        "answer1":  "Hiệp",
+        "answer2":  "hẹp"
+    },
+    {
+        "question":  "肩",
+        "answer1":  "Kiên",
+        "answer2":  "bờ vai"
+    },
+    {
+        "question":  "腕",
+        "answer1":  "Oản",
+        "answer2":  "cái tay"
+    },
+    {
+        "question":  "腰",
+        "answer1":  "Yêu",
+        "answer2":  "cái eo"
+    },
+    {
+        "question":  "触",
+        "answer1":  "Xúc",
+        "answer2":  "xúc giác"
+    },
+    {
+        "question":  "載",
+        "answer1":  "Tải",
+        "answer2":  "chất lên, vận tải"
+    },
+    {
+        "question":  "環",
+        "answer1":  "Hoàn",
+        "answer2":  "tuần hoàn"
+    },
+    {
+        "question":  "販",
+        "answer1":  "Phiến",
+        "answer2":  "buôn bán"
+    },
+    {
+        "question":  "与",
+        "answer1":  "Dự",
+        "answer2":  "ban cho"
+    },
+    {
+        "question":  "含",
+        "answer1":  "Hàm",
+        "answer2":  "nội hàm"
+    },
+    {
+        "question":  "影",
+        "answer1":  "Ảnh",
+        "answer2":  "cái bóng"
+    },
+    {
+        "question":  "況",
+        "answer1":  "Huống",
+        "answer2":  "tình huống"
+    },
+    {
+        "question":  "渡",
+        "answer1":  "Độ",
+        "answer2":  "vượt qua"
+    },
+    {
+        "question":  "響",
+        "answer1":  "Hưởng",
+        "answer2":  "ảnh hưởng"
+    },
+    {
+        "question":  "抜",
+        "answer1":  "Bạt",
+        "answer2":  "rút ra"
+    },
+    {
+        "question":  "訴",
+        "answer1":  "Tố",
+        "answer2":  "tố cáo"
+    },
+    {
+        "question":  "逮",
+        "answer1":  "Đãi",
+        "answer2":  "đuổi, bắt"
+    },
+    {
+        "question":  "捕",
+        "answer1":  "Bổ",
+        "answer2":  "bắt"
+    }
+]

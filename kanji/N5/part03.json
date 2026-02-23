@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "同",
+        "answer1":  "Đồng",
+        "answer2":  "giống nhau, đồng dạng"
+    },
+    {
+        "question":  "名",
+        "answer1":  "Danh",
+        "answer2":  "tên, danh nhân"
+    },
+    {
+        "question":  "四",
+        "answer1":  "Tứ",
+        "answer2":  "số 4"
+    },
+    {
+        "question":  "回",
+        "answer1":  "Hồi",
+        "answer2":  "vòng quanh, đi quanh"
+    },
+    {
+        "question":  "図",
+        "answer1":  "Đồ",
+        "answer2":  "bản đồ"
+    },
+    {
+        "question":  "国",
+        "answer1":  "Quốc",
+        "answer2":  "quốc gia"
+    },
+    {
+        "question":  "園",
+        "answer1":  "Viên",
+        "answer2":  "công viên"
+    },
+    {
+        "question":  "土",
+        "answer1":  "Thổ",
+        "answer2":  "đất, thổ nhưỡng"
+    },
+    {
+        "question":  "地",
+        "answer1":  "Địa",
+        "answer2":  "đất, địa cầu"
+    },
+    {
+        "question":  "場",
+        "answer1":  "Trường",
+        "answer2":  "công trường"
+    },
+    {
+        "question":  "声",
+        "answer1":  "Thanh",
+        "answer2":  "âm thanh"
+    },
+    {
+        "question":  "売",
+        "answer1":  "Mại",
+        "answer2":  "bán"
+    },
+    {
+        "question":  "夏",
+        "answer1":  "Hạ",
+        "answer2":  "mùa hè"
+    },
+    {
+        "question":  "夕",
+        "answer1":  "Tịch",
+        "answer2":  "buổi chiều"
+    },
+    {
+        "question":  "外",
+        "answer1":  "Ngoại",
+        "answer2":  "bên ngoài"
+    },
+    {
+        "question":  "多",
+        "answer1":  "Đa",
+        "answer2":  "nhiều"
+    },
+    {
+        "question":  "夜",
+        "answer1":  "Dạ",
+        "answer2":  "buổi tối"
+    },
+    {
+        "question":  "大",
+        "answer1":  "Đại",
+        "answer2":  "lớn"
+    },
+    {
+        "question":  "天",
+        "answer1":  "Thiên",
+        "answer2":  "trời"
+    },
+    {
+        "question":  "太",
+        "answer1":  "Thái",
+        "answer2":  "béo"
+    },
+    {
+        "question":  "女",
+        "answer1":  "Nữ",
+        "answer2":  "con gái"
+    },
+    {
+        "question":  "妹",
+        "answer1":  "Muội",
+        "answer2":  "em gái"
+    },
+    {
+        "question":  "姉",
+        "answer1":  "Tỷ",
+        "answer2":  "chị gái"
+    },
+    {
+        "question":  "子",
+        "answer1":  "Tử",
+        "answer2":  "con"
+    },
+    {
+        "question":  "字",
+        "answer1":  "Tự",
+        "answer2":  "chữ"
+    }
+]

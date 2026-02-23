@@ -1,0 +1,102 @@
+﻿[
+    {
+        "question":  "話",
+        "answer1":  "Thoại",
+        "answer2":  "hội thoại, đàm thoại"
+    },
+    {
+        "question":  "語",
+        "answer1":  "Ngữ",
+        "answer2":  "ngôn ngữ"
+    },
+    {
+        "question":  "読",
+        "answer1":  "Độc",
+        "answer2":  "đọc"
+    },
+    {
+        "question":  "谷",
+        "answer1":  "Cốc",
+        "answer2":  "thung lũng"
+    },
+    {
+        "question":  "貝",
+        "answer1":  "Bối",
+        "answer2":  "con sò, liên quan đến tiền bạc"
+    },
+    {
+        "question":  "買",
+        "answer1":  "Mãi",
+        "answer2":  "mua"
+    },
+    {
+        "question":  "赤",
+        "answer1":  "Xích",
+        "answer2":  "màu đỏ"
+    },
+    {
+        "question":  "走",
+        "answer1":  "Tẩu",
+        "answer2":  "chạy"
+    },
+    {
+        "question":  "足",
+        "answer1":  "Túc",
+        "answer2":  "bàn chân, sung túc"
+    },
+    {
+        "question":  "車",
+        "answer1":  "Xa",
+        "answer2":  "xe"
+    },
+    {
+        "question":  "近",
+        "answer1":  "Cận",
+        "answer2":  "gần"
+    },
+    {
+        "question":  "通",
+        "answer1":  "Thông",
+        "answer2":  "giao thông, thông hành"
+    },
+    {
+        "question":  "週",
+        "answer1":  "Chu",
+        "answer2":  "tuần"
+    },
+    {
+        "question":  "道",
+        "answer1":  "Đạo",
+        "answer2":  "đường đi"
+    },
+    {
+        "question":  "遠",
+        "answer1":  "Viễn",
+        "answer2":  "xa"
+    },
+    {
+        "question":  "里",
+        "answer1":  "Lý",
+        "answer2":  "đơn vị đo, hải lý.."
+    },
+    {
+        "question":  "野",
+        "answer1":  "Dã",
+        "answer2":  "hoang dã, dã cầu"
+    },
+    {
+        "question":  "金",
+        "answer1":  "Kim",
+        "answer2":  "vàng"
+    },
+    {
+        "question":  "長",
+        "answer1":  "Trường",
+        "answer2":  "dài"
+    },
+    {
+        "question":  "門",
+        "answer1":  "Môn",
+        "answer2":  "cái cửa"
+    }
+]

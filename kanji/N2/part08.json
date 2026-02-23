@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "般",
+        "answer1":  "Ban",
+        "answer2":  "bình thường"
+    },
+    {
+        "question":  "頼",
+        "answer1":  "Lại",
+        "answer2":  "ỷ lại, yêu cầu"
+    },
+    {
+        "question":  "諾",
+        "answer1":  "Nặc",
+        "answer2":  "đồng ý"
+    },
+    {
+        "question":  "跳",
+        "answer1":  "Khiêu",
+        "answer2":  "khiêu vũ, nhảy lên"
+    },
+    {
+        "question":  "刑",
+        "answer1":  "Hình",
+        "answer2":  "hình phạt"
+    },
+    {
+        "question":  "募",
+        "answer1":  "Mộ",
+        "answer2":  "chiêu mộ"
+    },
+    {
+        "question":  "執",
+        "answer1":  "Chấp",
+        "answer2":  "chấp hành"
+    },
+    {
+        "question":  "崩",
+        "answer1":  "Băng",
+        "answer2":  "phá hủy"
+    },
+    {
+        "question":  "抗",
+        "answer1":  "Kháng",
+        "answer2":  "đối kháng"
+    },
+    {
+        "question":  "抵",
+        "answer1":  "Đề",
+        "answer2":  "đề kháng"
+    },
+    {
+        "question":  "旬",
+        "answer1":  "Tuần",
+        "answer2":  "10 ngày"
+    },
+    {
+        "question":  "湾",
+        "answer1":  "Loan",
+        "answer2":  "vịnh"
+    },
+    {
+        "question":  "爆",
+        "answer1":  "Bộc",
+        "answer2":  "bộc phát"
+    },
+    {
+        "question":  "弾",
+        "answer1":  "Đạn",
+        "answer2":  "viên đạn"
+    },
+    {
+        "question":  "聴",
+        "answer1":  "Thính",
+        "answer2":  "thính giác"
+    },
+    {
+        "question":  "跡",
+        "answer1":  "Tích",
+        "answer2":  "dấu tích"
+    },
+    {
+        "question":  "遣",
+        "answer1":  "Khiển",
+        "answer2":  "phái khiển, cử đi"
+    },
+    {
+        "question":  "闘",
+        "answer1":  "Đấu",
+        "answer2":  "chiến đấu"
+    },
+    {
+        "question":  "陣",
+        "answer1":  "Trận",
+        "answer2":  "trận địa"
+    },
+    {
+        "question":  "香",
+        "answer1":  "Hương",
+        "answer2":  "hương thơm"
+    },
+    {
+        "question":  "削",
+        "answer1":  "Tước",
+        "answer2":  "bóc vỏ"
+    },
+    {
+        "question":  "契",
+        "answer1":  "Khiết",
+        "answer2":  "hợp đồng"
+    },
+    {
+        "question":  "恵",
+        "answer1":  "Huệ",
+        "answer2":  "ân huệ, ban phước"
+    },
+    {
+        "question":  "抱",
+        "answer1":  "Bão",
+        "answer2":  "ôm"
+    },
+    {
+        "question":  "掲",
+        "answer1":  "Yết",
+        "answer2":  "niêm yết"
+    }
+]

@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "証",
+        "answer1":  "Chứng",
+        "answer2":  "chứng minh"
+    },
+    {
+        "question":  "険",
+        "answer1":  "Hiểm",
+        "answer2":  "hiểm họa, nguy hiểm"
+    },
+    {
+        "question":  "危",
+        "answer1":  "Nguy",
+        "answer2":  "nguy hiểm"
+    },
+    {
+        "question":  "存",
+        "answer1":  "Tồn",
+        "answer2":  "tồn tại"
+    },
+    {
+        "question":  "専",
+        "answer1":  "Chuyên",
+        "answer2":  "chuyên môn"
+    },
+    {
+        "question":  "因",
+        "answer1":  "Nhân",
+        "answer2":  "nguyên nhân"
+    },
+    {
+        "question":  "常",
+        "answer1":  "Thường",
+        "answer2":  "bình thường"
+    },
+    {
+        "question":  "識",
+        "answer1":  "Thức",
+        "answer2":  "tri thức"
+    },
+    {
+        "question":  "非",
+        "answer1":  "Phi",
+        "answer2":  "phi thường"
+    },
+    {
+        "question":  "干",
+        "answer1":  "Can",
+        "answer2":  "khô"
+    },
+    {
+        "question":  "署",
+        "answer1":  "Thự",
+        "answer2":  "chức vụ"
+    },
+    {
+        "question":  "警",
+        "answer1":  "Cảnh",
+        "answer2":  "cảnh sát"
+    },
+    {
+        "question":  "報",
+        "answer1":  "Báo",
+        "answer2":  "báo cáo"
+    },
+    {
+        "question":  "座",
+        "answer1":  "Tọa",
+        "answer2":  "ngồi"
+    },
+    {
+        "question":  "忘",
+        "answer1":  "Vong",
+        "answer2":  "quên"
+    },
+    {
+        "question":  "洗",
+        "answer1":  "Tiển",
+        "answer2":  "tẩy rửa"
+    },
+    {
+        "question":  "胸",
+        "answer1":  "Hung",
+        "answer2":  "ngực"
+    },
+    {
+        "question":  "脳",
+        "answer1":  "Não",
+        "answer2":  "bộ não"
+    },
+    {
+        "question":  "可",
+        "answer1":  "Khả",
+        "answer2":  "khả năng"
+    },
+    {
+        "question":  "許",
+        "answer1":  "Hứa",
+        "answer2":  "cho phép"
+    },
+    {
+        "question":  "枚",
+        "answer1":  "Mai",
+        "answer2":  "đêm tờ giấy"
+    },
+    {
+        "question":  "句",
+        "answer1":  "Cú",
+        "answer2":  "câu cú"
+    },
+    {
+        "question":  "禁",
+        "answer1":  "Cấm",
+        "answer2":  "nghiêm cấm"
+    },
+    {
+        "question":  "減",
+        "answer1":  "Giảm",
+        "answer2":  "giảm thiểu"
+    },
+    {
+        "question":  "容",
+        "answer1":  "Dung",
+        "answer2":  "bao dung"
+    }
+]

@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "学",
+        "answer1":  "Học",
+        "answer2":  "học sinh"
+    },
+    {
+        "question":  "室",
+        "answer1":  "Thất",
+        "answer2":  "phòng"
+    },
+    {
+        "question":  "家",
+        "answer1":  "Gia",
+        "answer2":  "gia đình, nhà"
+    },
+    {
+        "question":  "寺",
+        "answer1":  "Tự",
+        "answer2":  "Chùa"
+    },
+    {
+        "question":  "小",
+        "answer1":  "Tiểu",
+        "answer2":  "nhỏ"
+    },
+    {
+        "question":  "少",
+        "answer1":  "Thiểu",
+        "answer2":  "ít, thiểu số"
+    },
+    {
+        "question":  "山",
+        "answer1":  "Sơn",
+        "answer2":  "núi"
+    },
+    {
+        "question":  "岩",
+        "answer1":  "Nham",
+        "answer2":  "đất đá"
+    },
+    {
+        "question":  "川",
+        "answer1":  "Xuyên",
+        "answer2":  "sông"
+    },
+    {
+        "question":  "工",
+        "answer1":  "Công",
+        "answer2":  "công trường"
+    },
+    {
+        "question":  "左",
+        "answer1":  "Tả",
+        "answer2":  "bên trái"
+    },
+    {
+        "question":  "市",
+        "answer1":  "Thị",
+        "answer2":  "thành phố"
+    },
+    {
+        "question":  "帰",
+        "answer1":  "Quy",
+        "answer2":  "trở về"
+    },
+    {
+        "question":  "年",
+        "answer1":  "Niên",
+        "answer2":  "năm"
+    },
+    {
+        "question":  "広",
+        "answer1":  "Quảng",
+        "answer2":  "rộng"
+    },
+    {
+        "question":  "店",
+        "answer1":  "Điếm",
+        "answer2":  "cửa hàng"
+    },
+    {
+        "question":  "弓",
+        "answer1":  "Cung",
+        "answer2":  "cây cung"
+    },
+    {
+        "question":  "引",
+        "answer1":  "Dẫn",
+        "answer2":  "kéo"
+    },
+    {
+        "question":  "弟",
+        "answer1":  "Đệ",
+        "answer2":  "em trai"
+    },
+    {
+        "question":  "弱",
+        "answer1":  "Nhược",
+        "answer2":  "yếu"
+    },
+    {
+        "question":  "強",
+        "answer1":  "Cường",
+        "answer2":  "cường lực"
+    },
+    {
+        "question":  "当",
+        "answer1":  "Đương",
+        "answer2":  "đương thời"
+    },
+    {
+        "question":  "形",
+        "answer1":  "Hình",
+        "answer2":  "hình dạng"
+    },
+    {
+        "question":  "後",
+        "answer1":  "Hậu",
+        "answer2":  "phía sau"
+    },
+    {
+        "question":  "心",
+        "answer1":  "Tâm",
+        "answer2":  "tâm trạng, tâm lý"
+    }
+]

@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "種",
+        "answer1":  "Chủng",
+        "answer2":  "chủng loại"
+    },
+    {
+        "question":  "達",
+        "answer1":  "Đạt",
+        "answer2":  "hữu đạt, truyền đạt"
+    },
+    {
+        "question":  "類",
+        "answer1":  "Loại",
+        "answer2":  "chủng loại"
+    },
+    {
+        "question":  "等",
+        "answer1":  "Đẳng",
+        "answer2":  "bình đẳng"
+    },
+    {
+        "question":  "借",
+        "answer1":  "Tá",
+        "answer2":  "mượn"
+    },
+    {
+        "question":  "焼",
+        "answer1":  "Thiêu",
+        "answer2":  "thiêu đốt"
+    },
+    {
+        "question":  "験",
+        "answer1":  "Nghiệm",
+        "answer2":  "thực nghiệm"
+    },
+    {
+        "question":  "静",
+        "answer1":  "Tĩnh",
+        "answer2":  "yên tĩnh"
+    },
+    {
+        "question":  "加",
+        "answer1":  "Gia",
+        "answer2":  "tham gia"
+    },
+    {
+        "question":  "節",
+        "answer1":  "Tiết",
+        "answer2":  "tiết kiệm"
+    },
+    {
+        "question":  "順",
+        "answer1":  "Thuận",
+        "answer2":  "thuận lợi"
+    },
+    {
+        "question":  "歴",
+        "answer1":  "Lịch",
+        "answer2":  ""
+    },
+    {
+        "question":  "徒",
+        "answer1":  "Đồ",
+        "answer2":  ""
+    },
+    {
+        "question":  "得",
+        "answer1":  "Đắc",
+        "answer2":  "đắc ý"
+    },
+    {
+        "question":  "改",
+        "answer1":  "Cải",
+        "answer2":  "cải cách"
+    },
+    {
+        "question":  "続",
+        "answer1":  "Tục",
+        "answer2":  "liên tục"
+    },
+    {
+        "question":  "連",
+        "answer1":  "Liên",
+        "answer2":  "liên lạc"
+    },
+    {
+        "question":  "機",
+        "answer1":  "Cơ",
+        "answer2":  "cơ khí"
+    },
+    {
+        "question":  "飛",
+        "answer1":  "Phi",
+        "answer2":  "bay"
+    },
+    {
+        "question":  "害",
+        "answer1":  "Hại",
+        "answer2":  "tổn hại"
+    },
+    {
+        "question":  "械",
+        "answer1":  "Giới",
+        "answer2":  "cơ giới"
+    },
+    {
+        "question":  "産",
+        "answer1":  "Sản",
+        "answer2":  "sản nghiệp"
+    },
+    {
+        "question":  "議",
+        "answer1":  "Nghị",
+        "answer2":  "hội nghị"
+    },
+    {
+        "question":  "笛",
+        "answer1":  "Địch",
+        "answer2":  "cái sáo"
+    },
+    {
+        "question":  "史",
+        "answer1":  "Sử",
+        "answer2":  "lịch sử"
+    }
+]

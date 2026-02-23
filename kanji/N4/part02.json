@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "有",
+        "answer1":  "Hữu",
+        "answer2":  "có, tồn tại"
+    },
+    {
+        "question":  "次",
+        "answer1":  "Thứ",
+        "answer2":  "tiếp theo"
+    },
+    {
+        "question":  "死",
+        "answer1":  "Tử",
+        "answer2":  "chết"
+    },
+    {
+        "question":  "羊",
+        "answer1":  "Dương",
+        "answer2":  "con cừu"
+    },
+    {
+        "question":  "血",
+        "answer1":  "Huyết",
+        "answer2":  "máu"
+    },
+    {
+        "question":  "欠",
+        "answer1":  "Khuyết",
+        "answer2":  "thiếu"
+    },
+    {
+        "question":  "氏",
+        "answer1":  "Thị",
+        "answer2":  "tên họ"
+    },
+    {
+        "question":  "由",
+        "answer1":  "Do",
+        "answer2":  "tự do"
+    },
+    {
+        "question":  "札",
+        "answer1":  "Trát",
+        "answer2":  "tiền giấy"
+    },
+    {
+        "question":  "民",
+        "answer1":  "Dân",
+        "answer2":  "dân chúng"
+    },
+    {
+        "question":  "辺",
+        "answer1":  "Biên",
+        "answer2":  "biên giới"
+    },
+    {
+        "question":  "付",
+        "answer1":  "Phó",
+        "answer2":  "dính"
+    },
+    {
+        "question":  "以",
+        "answer1":  "Dĩ",
+        "answer2":  "cái mốc"
+    },
+    {
+        "question":  "失",
+        "answer1":  "Thất",
+        "answer2":  "thất bại"
+    },
+    {
+        "question":  "必",
+        "answer1":  "Tất",
+        "answer2":  "tất yếu"
+    },
+    {
+        "question":  "未",
+        "answer1":  "Vị",
+        "answer2":  "chưa đến"
+    },
+    {
+        "question":  "末",
+        "answer1":  "Mạt",
+        "answer2":  "cuối cùng"
+    },
+    {
+        "question":  "住",
+        "answer1":  "Trú",
+        "answer2":  "cư trú"
+    },
+    {
+        "question":  "助",
+        "answer1":  "Trợ",
+        "answer2":  "trợ giúp"
+    },
+    {
+        "question":  "医",
+        "answer1":  "y",
+        "answer2":  "y học"
+    },
+    {
+        "question":  "君",
+        "answer1":  "Quân",
+        "answer2":  "quân chủ"
+    },
+    {
+        "question":  "対",
+        "answer1":  "Đối",
+        "answer2":  "đối tượng, phản đối"
+    },
+    {
+        "question":  "局",
+        "answer1":  "cục",
+        "answer2":  "cục bộ"
+    },
+    {
+        "question":  "役",
+        "answer1":  "Dịch",
+        "answer2":  "dịch vụ"
+    },
+    {
+        "question":  "投",
+        "answer1":  "Đầu",
+        "answer2":  "ném, đầu tư"
+    }
+]

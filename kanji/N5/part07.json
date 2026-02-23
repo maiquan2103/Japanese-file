@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "理",
+        "answer1":  "Lý",
+        "answer2":  "vật lý, xử lý"
+    },
+    {
+        "question":  "生",
+        "answer1":  "Sinh",
+        "answer2":  "học sinh"
+    },
+    {
+        "question":  "用",
+        "answer1":  "Dụng",
+        "answer2":  "sử dụng"
+    },
+    {
+        "question":  "田",
+        "answer1":  "Điền",
+        "answer2":  "ruộng"
+    },
+    {
+        "question":  "男",
+        "answer1":  "Nam",
+        "answer2":  "con trai"
+    },
+    {
+        "question":  "町",
+        "answer1":  "Đinh",
+        "answer2":  "thị trấn"
+    },
+    {
+        "question":  "画",
+        "answer1":  "Họa/Hoạch",
+        "answer2":  "họa sĩ, kế hoạch"
+    },
+    {
+        "question":  "番",
+        "answer1":  "Phiên",
+        "answer2":  "lần lượt, ばんごう"
+    },
+    {
+        "question":  "白",
+        "answer1":  "Bạch",
+        "answer2":  "màu trắng"
+    },
+    {
+        "question":  "百",
+        "answer1":  "Bách",
+        "answer2":  "số 100"
+    },
+    {
+        "question":  "目",
+        "answer1":  "Mục",
+        "answer2":  "mắt, mục lục"
+    },
+    {
+        "question":  "直",
+        "answer1":  "Trực",
+        "answer2":  "sửa chữa, trực tiếp"
+    },
+    {
+        "question":  "矢",
+        "answer1":  "Thỉ",
+        "answer2":  "mũi tên"
+    },
+    {
+        "question":  "知",
+        "answer1":  "Tri",
+        "answer2":  "tri thức, hiểu biết"
+    },
+    {
+        "question":  "石",
+        "answer1":  "Thạch",
+        "answer2":  "đá"
+    },
+    {
+        "question":  "社",
+        "answer1":  "Xã",
+        "answer2":  "xã hội"
+    },
+    {
+        "question":  "秋",
+        "answer1":  "Thu",
+        "answer2":  "mùa thu"
+    },
+    {
+        "question":  "科",
+        "answer1":  "Khoa",
+        "answer2":  "khoa học, LIỆU"
+    },
+    {
+        "question":  "空",
+        "answer1":  "Không",
+        "answer2":  "không gian"
+    },
+    {
+        "question":  "立",
+        "answer1":  "Lập",
+        "answer2":  "đứng"
+    },
+    {
+        "question":  "竹",
+        "answer1":  "Trúc",
+        "answer2":  "cây trúc"
+    },
+    {
+        "question":  "答",
+        "answer1":  "Đáp",
+        "answer2":  "trả lời, đáp án"
+    },
+    {
+        "question":  "算",
+        "answer1":  "Toán",
+        "answer2":  "toán học"
+    },
+    {
+        "question":  "米",
+        "answer1":  "Mễ",
+        "answer2":  "gạo"
+    },
+    {
+        "question":  "糸",
+        "answer1":  "Mịch",
+        "answer2":  "sợi tơ"
+    }
+]

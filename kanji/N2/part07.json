@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "介",
+        "answer1":  "Giới",
+        "answer2":  "giới thiệu"
+    },
+    {
+        "question":  "互",
+        "answer1":  "Hỗ",
+        "answer2":  "hỗ trợ"
+    },
+    {
+        "question":  "剣",
+        "answer1":  "Kiếm",
+        "answer2":  "gươm"
+    },
+    {
+        "question":  "寿",
+        "answer1":  "Thọ",
+        "answer2":  "tuổi thọ"
+    },
+    {
+        "question":  "彼",
+        "answer1":  "Bỉ",
+        "answer2":  "anh ta"
+    },
+    {
+        "question":  "恥",
+        "answer1":  "Sỉ",
+        "answer2":  "xấu hổ"
+    },
+    {
+        "question":  "炎",
+        "answer1":  "Viêm",
+        "answer2":  "cháy lớn, bệnh viêm"
+    },
+    {
+        "question":  "為",
+        "answer1":  "Vi",
+        "answer2":  "hành vi"
+    },
+    {
+        "question":  "獄",
+        "answer1":  "Ngục",
+        "answer2":  "tù ngục"
+    },
+    {
+        "question":  "酔",
+        "answer1":  "Túy",
+        "answer2":  "say"
+    },
+    {
+        "question":  "払",
+        "answer1":  "Phất",
+        "answer2":  "trả tiền"
+    },
+    {
+        "question":  "姓",
+        "answer1":  "Tính",
+        "answer2":  "họ(trong họ tên)"
+    },
+    {
+        "question":  "伸",
+        "answer1":  "Thân",
+        "answer2":  "căng ra, duỗi ra"
+    },
+    {
+        "question":  "債",
+        "answer1":  "Trái",
+        "answer2":  "khoản nợ"
+    },
+    {
+        "question":  "及",
+        "answer1":  "Cập",
+        "answer2":  "phổ cập"
+    },
+    {
+        "question":  "幅",
+        "answer1":  "Phúc",
+        "answer2":  "chiều dày"
+    },
+    {
+        "question":  "甘",
+        "answer1":  "Cam",
+        "answer2":  "ngọt"
+    },
+    {
+        "question":  "換",
+        "answer1":  "Hoán",
+        "answer2":  "hoán đổi"
+    },
+    {
+        "question":  "摘",
+        "answer1":  "Trích",
+        "answer2":  "hái, trích xuất"
+    },
+    {
+        "question":  "沖",
+        "answer1":  "Trùng",
+        "answer2":  "rộng lớn, trống trải"
+    },
+    {
+        "question":  "療",
+        "answer1":  "Liệu",
+        "answer2":  "trị liệu"
+    },
+    {
+        "question":  "継",
+        "answer1":  "Kế",
+        "answer2":  "kế tục"
+    },
+    {
+        "question":  "維",
+        "answer1":  "Duy",
+        "answer2":  "buộc"
+    },
+    {
+        "question":  "舞",
+        "answer1":  "Vũ",
+        "answer2":  "nhảy, khiêu vũ"
+    },
+    {
+        "question":  "踏",
+        "answer1":  "Đạp",
+        "answer2":  "dẫm lên"
+    }
+]

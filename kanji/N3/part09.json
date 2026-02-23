@@ -1,0 +1,127 @@
+﻿[
+    {
+        "question":  "織",
+        "answer1":  "Chức",
+        "answer2":  "dệt vải"
+    },
+    {
+        "question":  "貸",
+        "answer1":  "Thải",
+        "answer2":  "cho vay"
+    },
+    {
+        "question":  "迷",
+        "answer1":  "Mê",
+        "answer2":  "lạc;, mê cung"
+    },
+    {
+        "question":  "就",
+        "answer1":  "Tựu",
+        "answer2":  "thành tựu"
+    },
+    {
+        "question":  "訪",
+        "answer1":  "Phỏng",
+        "answer2":  "viếng thăm"
+    },
+    {
+        "question":  "逆",
+        "answer1":  "Nghịch",
+        "answer2":  "phản nghịch"
+    },
+    {
+        "question":  "幼",
+        "answer1":  "Ấu",
+        "answer2":  "ấu thơ"
+    },
+    {
+        "question":  "処",
+        "answer1":  "Xử",
+        "answer2":  "xử lý"
+    },
+    {
+        "question":  "潔",
+        "answer1":  "Khiết",
+        "answer2":  "thanh khiết"
+    },
+    {
+        "question":  "修",
+        "answer1":  "Tu",
+        "answer2":  "tu sửa;, tu nghiệp"
+    },
+    {
+        "question":  "券",
+        "answer1":  "Khoán",
+        "answer2":  "chứng khoán"
+    },
+    {
+        "question":  "婦",
+        "answer1":  "Phụ",
+        "answer2":  "phụ nữ"
+    },
+    {
+        "question":  "益",
+        "answer1":  "Ích",
+        "answer2":  "lợi ích"
+    },
+    {
+        "question":  "移",
+        "answer1":  "Di",
+        "answer2":  "di chuyển"
+    },
+    {
+        "question":  "程",
+        "answer1":  "Trình",
+        "answer2":  "trình độ"
+    },
+    {
+        "question":  "精",
+        "answer1":  "Tinh",
+        "answer2":  "tinh luyện"
+    },
+    {
+        "question":  "絶",
+        "answer1":  "Tuyệt",
+        "answer2":  "cự tuyệt;, tuyệt giao"
+    },
+    {
+        "question":  "並",
+        "answer1":  "Tịnh",
+        "answer2":  "xếp hàng"
+    },
+    {
+        "question":  "憲",
+        "answer1":  "Hiến",
+        "answer2":  "hiến pháp"
+    },
+    {
+        "question":  "衆",
+        "answer1":  "Chúng",
+        "answer2":  "quần chúng"
+    },
+    {
+        "question":  "閣",
+        "answer1":  "Các",
+        "answer2":  "nội các"
+    },
+    {
+        "question":  "略",
+        "answer1":  "Lược",
+        "answer2":  "chiến lược;, sơ lược"
+    },
+    {
+        "question":  "寄",
+        "answer1":  "Kí",
+        "answer2":  "kí gửi, kí túc"
+    },
+    {
+        "question":  "宗",
+        "answer1":  "Tông",
+        "answer2":  "tôn giáo"
+    },
+    {
+        "question":  "系",
+        "answer1":  "Hệ",
+        "answer2":  "hệ thống"
+    }
+]
