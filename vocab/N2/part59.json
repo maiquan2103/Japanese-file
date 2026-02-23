@@ -1,0 +1,127 @@
+[
+  {
+    "question": "気がつく",
+    "answer1": "きがつく",
+    "answer2": "Nhận thấy, nhớ ra, để ý, chu đáo"
+  },
+  {
+    "question": "気が強い",
+    "answer1": "きがつよい",
+    "answer2": "Cá tính, mạnh mẽ"
+  },
+  {
+    "question": "気が小さい",
+    "answer1": "きがちいさい",
+    "answer2": "Nhỏ nhen, hẹp bụng"
+  },
+  {
+    "question": "気を遣う",
+    "answer1": "きをつかう",
+    "answer2": "Giữ ý, lo lắng"
+  },
+  {
+    "question": "気が進まない",
+    "answer1": "きがすすまない",
+    "answer2": "Không hứng thú"
+  },
+  {
+    "question": "気にかかる",
+    "answer1": "きにかかる",
+    "answer2": "Lo lắng"
+  },
+  {
+    "question": "気にくわない",
+    "answer1": "きにくわない",
+    "answer2": "Bất mãn, không ưa"
+  },
+  {
+    "question": "心が通う",
+    "answer1": "こころがかよう",
+    "answer2": "Thấu hiểu nhau"
+  },
+  {
+    "question": "心が狭い",
+    "answer1": "こころがせまい",
+    "answer2": "Hẹp lòng, hẹp hòi"
+  },
+  {
+    "question": "心が動く",
+    "answer1": "こころがうごく",
+    "answer2": "Dao động, xáo động"
+  },
+  {
+    "question": "心を配る",
+    "answer1": "こころをくばる",
+    "answer2": "Quan tâm, chu đáo"
+  },
+  {
+    "question": "心を引かれる",
+    "answer1": "こころをひかれる",
+    "answer2": "Bị thu hút"
+  },
+  {
+    "question": "心を許す",
+    "answer1": "こころをゆるす",
+    "answer2": "Tin tưởng, thật lòng"
+  },
+  {
+    "question": "胸が痛む",
+    "answer1": "むねがいたむ",
+    "answer2": "Đau lòng, xót xa"
+  },
+  {
+    "question": "胸が一杯になる",
+    "answer1": "むねがいっぱいになる",
+    "answer2": "Xúc động, cảm xúc dâng trào"
+  },
+  {
+    "question": "胸をはずませる",
+    "answer1": "むねをはずませる",
+    "answer2": "Hồi hộp, náo nức, lòng rộn ràng"
+  },
+  {
+    "question": "頭が痛い",
+    "answer1": "あたまがいたい",
+    "answer2": "Lo lắng, bận tâm, đau đầu"
+  },
+  {
+    "question": "頭が固い",
+    "answer1": "あたまがかたい",
+    "answer2": "Cứng đầu, bảo thủ"
+  },
+  {
+    "question": "頭にくる",
+    "answer1": "あたまにくる",
+    "answer2": "Bực mình, phát cáu"
+  },
+  {
+    "question": "頭が下がる",
+    "answer1": "あたまがさがる",
+    "answer2": "Khâm phục, kính trọng"
+  },
+  {
+    "question": "顔が広い",
+    "answer1": "かおがひろい",
+    "answer2": "Quen biết rộng"
+  },
+  {
+    "question": "顔を出す",
+    "answer1": "かおをだす",
+    "answer2": "Xuất hiện, ló mặt"
+  },
+  {
+    "question": "目がない",
+    "answer1": "めがない",
+    "answer2": "Mê, ghiền"
+  },
+  {
+    "question": "目が離せない",
+    "answer1": "めがはなせない",
+    "answer2": "Không thể rời mắt"
+  },
+  {
+    "question": "目が回る",
+    "answer1": "めがまわる",
+    "answer2": "Hoa mắt"
+  }
+]

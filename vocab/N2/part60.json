@@ -1,0 +1,127 @@
+[
+  {
+    "question": "目に浮かぶ",
+    "answer1": "めにうかぶ",
+    "answer2": "Hiện lên trước mắt"
+  },
+  {
+    "question": "目にする",
+    "answer1": "めにする",
+    "answer2": "Chứng kiến"
+  },
+  {
+    "question": "目に付く",
+    "answer1": "めにつく",
+    "answer2": "Đập vào mắt"
+  },
+  {
+    "question": "目を疑う",
+    "answer1": "めをうたがう",
+    "answer2": "Không tin vào mắt mình"
+  },
+  {
+    "question": "目を向ける",
+    "answer1": "めをむける",
+    "answer2": "Hướng tầm mắt"
+  },
+  {
+    "question": "目を通す",
+    "answer1": "めをとおす",
+    "answer2": "Xem lướt qua"
+  },
+  {
+    "question": "耳が痛い",
+    "answer1": "みみがいたい",
+    "answer2": "Nghe nhột tai"
+  },
+  {
+    "question": "耳が遠い",
+    "answer1": "みみがとおい",
+    "answer2": "Lãng tai"
+  },
+  {
+    "question": "耳にする",
+    "answer1": "みみにする",
+    "answer2": "Nghe thấy"
+  },
+  {
+    "question": "耳を傾ける",
+    "answer1": "みみをかたむける",
+    "answer2": "Lắng nghe"
+  },
+  {
+    "question": "耳を疑う",
+    "answer1": "みみをうたがう",
+    "answer2": "Không tin vào tai mình"
+  },
+  {
+    "question": "口がうまい",
+    "answer1": "くちがうまい",
+    "answer2": "Khéo ăn nói"
+  },
+  {
+    "question": "口が堅い",
+    "answer1": "くちがかたい",
+    "answer2": "Kín miệng"
+  },
+  {
+    "question": "口が軽い",
+    "answer1": "くちがかるい",
+    "answer2": "Ba hoa"
+  },
+  {
+    "question": "口が重い",
+    "answer1": "くちがおもい",
+    "answer2": "Ít nói"
+  },
+  {
+    "question": "口が滑る",
+    "answer1": "くちがすべる",
+    "answer2": "Lỡ lời"
+  },
+  {
+    "question": "口が悪い",
+    "answer1": "くちがわるい",
+    "answer2": "Độc miệng"
+  },
+  {
+    "question": "口にする",
+    "answer1": "くちにする",
+    "answer2": "Nói ra, ăn"
+  },
+  {
+    "question": "口に合う",
+    "answer1": "くちにあう",
+    "answer2": "Hợp khẩu vị"
+  },
+  {
+    "question": "口を出す",
+    "answer1": "くちをだす",
+    "answer2": "Xen vào"
+  },
+  {
+    "question": "手がふさがる",
+    "answer1": "てがふさがる",
+    "answer2": "Bận rộn"
+  },
+  {
+    "question": "手が空く",
+    "answer1": "てがあく",
+    "answer2": "Rảnh tay"
+  },
+  {
+    "question": "手がかかる",
+    "answer1": "てがかかる",
+    "answer2": "Tốn công"
+  },
+  {
+    "question": "手が離せない",
+    "answer1": "てがはなせない",
+    "answer2": "Không rời tay được"
+  },
+  {
+    "question": "手に入れる",
+    "answer1": "てにいれる",
+    "answer2": "Có được"
+  }
+]

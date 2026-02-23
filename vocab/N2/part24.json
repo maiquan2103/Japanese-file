@@ -1,0 +1,127 @@
+[
+  {
+    "question": "回収＜する＞",
+    "answer1": "かいしゅうする",
+    "answer2": "Thu hồi"
+  },
+  {
+    "question": "採点＜する＞",
+    "answer1": "さいてんする",
+    "answer2": "Chấm điểm"
+  },
+  {
+    "question": "確実な",
+    "answer1": "かくじつな",
+    "answer2": "Chắc chắn"
+  },
+  {
+    "question": "受講＜する＞",
+    "answer1": "じゅこうする",
+    "answer2": "Theo học"
+  },
+  {
+    "question": "書き留める",
+    "answer1": "かきとめる",
+    "answer2": "Ghi chép"
+  },
+  {
+    "question": "目標",
+    "answer1": "もくひょう",
+    "answer2": "Mục tiêu"
+  },
+  {
+    "question": "心構え",
+    "answer1": "こころがまえ",
+    "answer2": "Chuẩn bị tinh thần"
+  },
+  {
+    "question": "学問",
+    "answer1": "がくもん",
+    "answer2": "Học vấn"
+  },
+  {
+    "question": "分野",
+    "answer1": "ぶんや",
+    "answer2": "Lĩnh vực"
+  },
+  {
+    "question": "取り組む",
+    "answer1": "とりくむ",
+    "answer2": "Bắt tay làm"
+  },
+  {
+    "question": "意欲",
+    "answer1": "いよく",
+    "answer2": "Động lực"
+  },
+  {
+    "question": "思いつく",
+    "answer1": "おもいつく",
+    "answer2": "Nghĩ ra"
+  },
+  {
+    "question": "発明＜する＞",
+    "answer1": "はつめいする",
+    "answer2": "Phát minh"
+  },
+  {
+    "question": "分析＜する＞",
+    "answer1": "ぶんせきする",
+    "answer2": "Phân tích"
+  },
+  {
+    "question": "継続＜する＞",
+    "answer1": "けいぞくする",
+    "answer2": "Tiếp tục"
+  },
+  {
+    "question": "本の",
+    "answer1": "ほんの",
+    "answer2": "Chỉ"
+  },
+  {
+    "question": "受け入れる",
+    "answer1": "うけいれる",
+    "answer2": "Tiếp nhận"
+  },
+  {
+    "question": "キャンパス",
+    "answer1": "キャンパス",
+    "answer2": "Khuôn viên"
+  },
+  {
+    "question": "休講＜する＞",
+    "answer1": "きゅうこうする",
+    "answer2": "Nghỉ học"
+  },
+  {
+    "question": "講師",
+    "answer1": "こうし",
+    "answer2": "Giảng viên"
+  },
+  {
+    "question": "学会",
+    "answer1": "がっかい",
+    "answer2": "Học hội"
+  },
+  {
+    "question": "僅か[な/に]",
+    "answer1": "わずか",
+    "answer2": "Ít ỏi"
+  },
+  {
+    "question": "論理的な",
+    "answer1": "ろんりてきな",
+    "answer2": "Logic"
+  },
+  {
+    "question": "論じる",
+    "answer1": "ろんじる",
+    "answer2": "Bàn luận"
+  },
+  {
+    "question": "引用＜する＞",
+    "answer1": "いんようする",
+    "answer2": "Trích dẫn"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "ベテラン",
+    "answer1": "ベテラン",
+    "answer2": "Kỳ cựu"
+  },
+  {
+    "question": "平社員",
+    "answer1": "ひらしゃいん",
+    "answer2": "Nhân viên thường"
+  },
+  {
+    "question": "退職＜する＞",
+    "answer1": "たいしょくする",
+    "answer2": "Nghỉ việc"
+  },
+  {
+    "question": "転職＜する＞",
+    "answer1": "てんしょくする",
+    "answer2": "Chuyển việc"
+  },
+  {
+    "question": "首になる",
+    "answer1": "くびになる",
+    "answer2": "Bị sa thải"
+  },
+  {
+    "question": "リストラ＜為る＞",
+    "answer1": "リストラする",
+    "answer2": "Cắt giảm nhân sự"
+  },
+  {
+    "question": "独立＜する＞",
+    "answer1": "どくりつする",
+    "answer2": "Độc lập"
+  },
+  {
+    "question": "着々[と]",
+    "answer1": "ちゃくちゃく",
+    "answer2": "Từng bước"
+  },
+  {
+    "question": "フリー＜な＞",
+    "answer1": "フリーな",
+    "answer2": "Tự do"
+  },
+  {
+    "question": "不平",
+    "answer1": "ふへい",
+    "answer2": "Bất mãn"
+  },
+  {
+    "question": "満足＜な/する＞",
+    "answer1": "まんぞく",
+    "answer2": "Hài lòng"
+  },
+  {
+    "question": "辛抱＜する＞",
+    "answer1": "しんぼうする",
+    "answer2": "Chịu đựng"
+  },
+  {
+    "question": "ぐっと来る",
+    "answer1": "ぐっと",
+    "answer2": "Kìm nén"
+  },
+  {
+    "question": "負う",
+    "answer1": "おう",
+    "answer2": "Gánh chịu"
+  },
+  {
+    "question": "溶け込む",
+    "answer1": "とけこむ",
+    "answer2": "Hòa nhập"
+  },
+  {
+    "question": "やむを得ず",
+    "answer1": "やむをえず",
+    "answer2": "Bất đắc dĩ"
+  },
+  {
+    "question": "立ち上げる",
+    "answer1": "たちあげる",
+    "answer2": "Khởi nghiệp"
+  },
+  {
+    "question": "試みる",
+    "answer1": "こころみる",
+    "answer2": "Thử"
+  },
+  {
+    "question": "専念＜する＞",
+    "answer1": "せんねんする",
+    "answer2": "Chuyên tâm"
+  },
+  {
+    "question": "悔やむ",
+    "answer1": "くやむ",
+    "answer2": "Hối tiếc"
+  },
+  {
+    "question": "見送る",
+    "answer1": "みおくる",
+    "answer2": "Bỏ qua"
+  },
+  {
+    "question": "逃す",
+    "answer1": "のがす",
+    "answer2": "Bỏ lỡ"
+  },
+  {
+    "question": "重なる",
+    "answer1": "かさなる",
+    "answer2": "Chồng chất"
+  },
+  {
+    "question": "引き止める",
+    "answer1": "ひきとめる",
+    "answer2": "Giữ lại"
+  },
+  {
+    "question": "特殊＜な＞",
+    "answer1": "とくしゅな",
+    "answer2": "Đặc thù"
+  }
+]

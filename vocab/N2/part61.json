@@ -1,0 +1,127 @@
+[
+  {
+    "question": "手にする",
+    "answer1": "てにする",
+    "answer2": "Cầm lấy, đạt được"
+  },
+  {
+    "question": "手につかない",
+    "answer1": "てにつかない",
+    "answer2": "Không tập trung"
+  },
+  {
+    "question": "手をつける",
+    "answer1": "てをつける",
+    "answer2": "Bắt tay vào"
+  },
+  {
+    "question": "手を貸す",
+    "answer1": "てをかす",
+    "answer2": "Giúp đỡ"
+  },
+  {
+    "question": "手を休める",
+    "answer1": "てをやすめる",
+    "answer2": "Nghỉ tay"
+  },
+  {
+    "question": "手を抜く",
+    "answer1": "てをぬく",
+    "answer2": "Làm qua loa"
+  },
+  {
+    "question": "腕がいい",
+    "answer1": "うでがいい",
+    "answer2": "Tay nghề giỏi"
+  },
+  {
+    "question": "腕を磨く",
+    "answer1": "うでをみがく",
+    "answer2": "Rèn luyện tay nghề"
+  },
+  {
+    "question": "腕が上がる",
+    "answer1": "うでがあがる",
+    "answer2": "Tay nghề tiến bộ"
+  },
+  {
+    "question": "肩を落とす",
+    "answer1": "かたをおとす",
+    "answer2": "Thất vọng"
+  },
+  {
+    "question": "腹が立つ",
+    "answer1": "はらがたつ",
+    "answer2": "Tức giận"
+  },
+  {
+    "question": "腹を抱える",
+    "answer1": "はらをかかえる",
+    "answer2": "Cười đau bụng"
+  },
+  {
+    "question": "足が出る",
+    "answer1": "あしがでる",
+    "answer2": "Quá khả năng"
+  },
+  {
+    "question": "足を伸ばす",
+    "answer1": "あしをのばす",
+    "answer2": "Đi xa hơn"
+  },
+  {
+    "question": "足を運ぶ",
+    "answer1": "あしをはこぶ",
+    "answer2": "Đến thăm"
+  },
+  {
+    "question": "足を引っ張る",
+    "answer1": "あしをひっぱる",
+    "answer2": "Cản trở"
+  },
+  {
+    "question": "何かと",
+    "answer1": "なにかと",
+    "answer2": "Cách này hay cách khác"
+  },
+  {
+    "question": "何だかんだ",
+    "answer1": "なんだかんだ",
+    "answer2": "Chuyện này chuyện kia"
+  },
+  {
+    "question": "何故か",
+    "answer1": "",
+    "answer2": "Tại sao đó"
+  },
+  {
+    "question": "何だか",
+    "answer1": "なんだか",
+    "answer2": "Có gì đó"
+  },
+  {
+    "question": "何しろ",
+    "answer1": "なにしろ",
+    "answer2": "Dù gì đi nữa"
+  },
+  {
+    "question": "何とも（〜ない）",
+    "answer1": "なんとも",
+    "answer2": "Hoàn toàn không"
+  },
+  {
+    "question": "銅貨",
+    "answer1": "",
+    "answer2": "Vui lòng"
+  },
+  {
+    "question": "如何にかなる",
+    "answer1": "",
+    "answer2": "Bằng cách nào đó"
+  },
+  {
+    "question": "如何しても",
+    "answer1": "",
+    "answer2": "Bằng mọi giá"
+  }
+]

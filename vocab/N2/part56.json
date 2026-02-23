@@ -1,0 +1,127 @@
+[
+  {
+    "question": "計画＜する＞",
+    "answer1": "けいかく＜する＞",
+    "answer2": "Lập kế hoạch"
+  },
+  {
+    "question": "構想＜する＞",
+    "answer1": "こうそう＜する＞",
+    "answer2": "Phác thảo ý tưởng"
+  },
+  {
+    "question": "方針",
+    "answer1": "ほうしん",
+    "answer2": "Phương châm"
+  },
+  {
+    "question": "目標",
+    "answer1": "もくひょう",
+    "answer2": "Mục tiêu"
+  },
+  {
+    "question": "達成＜する＞",
+    "answer1": "たっせい＜する＞",
+    "answer2": "Đạt được"
+  },
+  {
+    "question": "実現＜する＞",
+    "answer1": "じつげん＜する＞",
+    "answer2": "Thực hiện"
+  },
+  {
+    "question": "遂行＜する＞",
+    "answer1": "すいこう＜する＞",
+    "answer2": "Tiến hành"
+  },
+  {
+    "question": "進行＜する＞",
+    "answer1": "しんこう＜する＞",
+    "answer2": "Tiến triển"
+  },
+  {
+    "question": "段階",
+    "answer1": "だんかい",
+    "answer2": "Giai đoạn"
+  },
+  {
+    "question": "手順",
+    "answer1": "てじゅん",
+    "answer2": "Trình tự"
+  },
+  {
+    "question": "工程",
+    "answer1": "こうてい",
+    "answer2": "Quy trình"
+  },
+  {
+    "question": "調整＜する＞",
+    "answer1": "ちょうせい＜する＞",
+    "answer2": "Điều chỉnh"
+  },
+  {
+    "question": "見直す",
+    "answer1": "みなおす",
+    "answer2": "Xem xét lại"
+  },
+  {
+    "question": "修正＜する＞",
+    "answer1": "しゅうせい＜する＞",
+    "answer2": "Sửa đổi"
+  },
+  {
+    "question": "変更＜する＞",
+    "answer1": "へんこう＜する＞",
+    "answer2": "Thay đổi"
+  },
+  {
+    "question": "中止＜する＞",
+    "answer1": "ちゅうし＜する＞",
+    "answer2": "Hủy bỏ"
+  },
+  {
+    "question": "延期＜する＞",
+    "answer1": "えんき＜する＞",
+    "answer2": "Hoãn lại"
+  },
+  {
+    "question": "対応＜する＞",
+    "answer1": "たいおう＜する＞",
+    "answer2": "Đối ứng"
+  },
+  {
+    "question": "対策",
+    "answer1": "たいさく",
+    "answer2": "Biện pháp"
+  },
+  {
+    "question": "想定外",
+    "answer1": "そうていがい",
+    "answer2": "Ngoài dự đoán"
+  },
+  {
+    "question": "最終的な",
+    "answer1": "さいしゅうてきな",
+    "answer2": "Cuối cùng"
+  },
+  {
+    "question": "実行＜する＞",
+    "answer1": "じっこう＜する＞",
+    "answer2": "Thực thi"
+  },
+  {
+    "question": "完了＜する＞",
+    "answer1": "かんりょう＜する＞",
+    "answer2": "Hoàn tất"
+  },
+  {
+    "question": "管理＜する＞",
+    "answer1": "かんり＜する＞",
+    "answer2": "Quản lý"
+  },
+  {
+    "question": "運営＜する＞",
+    "answer1": "うんえい＜する＞",
+    "answer2": "Vận hành"
+  }
+]

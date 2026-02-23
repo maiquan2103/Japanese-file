@@ -1,0 +1,127 @@
+[
+  {
+    "question": "少年",
+    "answer1": "しょうねん",
+    "answer2": "Thiếu niên"
+  },
+  {
+    "question": "取り締まり",
+    "answer1": "とりしまり",
+    "answer2": "Quản lý, kiểm soát"
+  },
+  {
+    "question": "防止＜する＞",
+    "answer1": "ぼうし＜する＞",
+    "answer2": "Phòng tránh"
+  },
+  {
+    "question": "事情",
+    "answer1": "じじょう",
+    "answer2": "Tình hình"
+  },
+  {
+    "question": "有無",
+    "answer1": "うむ",
+    "answer2": "Có hay không"
+  },
+  {
+    "question": "目撃＜する＞",
+    "answer1": "もくげき＜する＞",
+    "answer2": "Chứng kiến"
+  },
+  {
+    "question": "判断＜する＞",
+    "answer1": "はんだん＜する＞",
+    "answer2": "Phán đoán"
+  },
+  {
+    "question": "見逃す",
+    "answer1": "みのがす",
+    "answer2": "Bỏ sót"
+  },
+  {
+    "question": "行方",
+    "answer1": "ゆくえ",
+    "answer2": "Tung tích"
+  },
+  {
+    "question": "未だに",
+    "answer1": "いまだに",
+    "answer2": "Cho đến nay"
+  },
+  {
+    "question": "不明＜な＞",
+    "answer1": "ふめい",
+    "answer2": "Không rõ"
+  },
+  {
+    "question": "過失",
+    "answer1": "かしつ",
+    "answer2": "Sơ suất"
+  },
+  {
+    "question": "誤る",
+    "answer1": "あやまる",
+    "answer2": "Mắc lỗi"
+  },
+  {
+    "question": "揉める",
+    "answer1": "もめる",
+    "answer2": "Tranh chấp"
+  },
+  {
+    "question": "予期＜する＞",
+    "answer1": "よき＜する＞",
+    "answer2": "Dự đoán"
+  },
+  {
+    "question": "流す",
+    "answer1": "ながす",
+    "answer2": "Cho trôi"
+  },
+  {
+    "question": "爆発＜する＞",
+    "answer1": "ばくはつ＜する＞",
+    "answer2": "Nổ"
+  },
+  {
+    "question": "抜く",
+    "answer1": "ぬく",
+    "answer2": "Nhổ, rút"
+  },
+  {
+    "question": "火災",
+    "answer1": "かさい",
+    "answer2": "Hỏa hoạn"
+  },
+  {
+    "question": "消防車",
+    "answer1": "しょうぼうしゃ",
+    "answer2": "Xe cứu hỏa"
+  },
+  {
+    "question": "救助＜する＞",
+    "answer1": "きゅうじょ＜する＞",
+    "answer2": "Cứu hộ"
+  },
+  {
+    "question": "少なくとも",
+    "answer1": "すくなくとも",
+    "answer2": "Ít nhất"
+  },
+  {
+    "question": "政策",
+    "answer1": "せいさく",
+    "answer2": "Chính sách"
+  },
+  {
+    "question": "治める",
+    "answer1": "おさめる",
+    "answer2": "Cai trị"
+  },
+  {
+    "question": "政党",
+    "answer1": "せいとう",
+    "answer2": "Đảng chính trị"
+  }
+]

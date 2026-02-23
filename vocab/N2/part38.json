@@ -1,0 +1,127 @@
+[
+  {
+    "question": "吹雪",
+    "answer1": "ふぶき",
+    "answer2": "Bão tuyết"
+  },
+  {
+    "question": "凍える",
+    "answer1": "こごえる",
+    "answer2": "Đóng băng, cóng"
+  },
+  {
+    "question": "冷え込む",
+    "answer1": "ひえこむ",
+    "answer2": "Lạnh cóng"
+  },
+  {
+    "question": "陽気＜な＞",
+    "answer1": "ようき",
+    "answer2": "Tiết trời, vui vẻ"
+  },
+  {
+    "question": "日和",
+    "answer1": "ひより",
+    "answer2": "Thời tiết đẹp"
+  },
+  {
+    "question": "日差し",
+    "answer1": "ひざし",
+    "answer2": "Ánh nắng"
+  },
+  {
+    "question": "一層",
+    "answer1": "いっそう",
+    "answer2": "Hơn hẳn"
+  },
+  {
+    "question": "一段と",
+    "answer1": "いちだんと",
+    "answer2": "Hơn nữa"
+  },
+  {
+    "question": "急速な",
+    "answer1": "きゅうそくな",
+    "answer2": "Nhanh chóng"
+  },
+  {
+    "question": "ぐんぐん［と］",
+    "answer1": "ぐんぐん",
+    "answer2": "Nhanh mạnh"
+  },
+  {
+    "question": "幾分",
+    "answer1": "いくぶん",
+    "answer2": "Hơi, một chút"
+  },
+  {
+    "question": "めっきり",
+    "answer1": "めっきり",
+    "answer2": "Rõ rệt"
+  },
+  {
+    "question": "余りに［も］",
+    "answer1": "あまりに",
+    "answer2": "Quá mức"
+  },
+  {
+    "question": "差",
+    "answer1": "さ",
+    "answer2": "Sự khác biệt"
+  },
+  {
+    "question": "本来",
+    "answer1": "ほんらい",
+    "answer2": "Vốn dĩ"
+  },
+  {
+    "question": "接近＜する＞",
+    "answer1": "せっきん＜する＞",
+    "answer2": "Tiếp cận, đến gần"
+  },
+  {
+    "question": "備える",
+    "answer1": "そなえる",
+    "answer2": "Chuẩn bị, phòng bị"
+  },
+  {
+    "question": "砂",
+    "answer1": "すな",
+    "answer2": "Cát"
+  },
+  {
+    "question": "溢れる",
+    "answer1": "あふれる",
+    "answer2": "Tràn, ngập"
+  },
+  {
+    "question": "降水量",
+    "answer1": "こうすいりょう",
+    "answer2": "Lượng mưa"
+  },
+  {
+    "question": "観測＜する＞",
+    "answer1": "かんそく＜する＞",
+    "answer2": "Quan trắc"
+  },
+  {
+    "question": "大気",
+    "answer1": "たいき",
+    "answer2": "Không khí"
+  },
+  {
+    "question": "荒れる",
+    "answer1": "あれる",
+    "answer2": "(Biển) động"
+  },
+  {
+    "question": "傾く",
+    "answer1": "かたむく",
+    "answer2": "Nghiêng"
+  },
+  {
+    "question": "跨ぐ",
+    "answer1": "またぐ",
+    "answer2": "Vượt qua"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "守る",
+    "answer1": "まもる",
+    "answer2": "Bảo vệ"
+  },
+  {
+    "question": "評価＜する＞",
+    "answer1": "ひょうか＜する＞",
+    "answer2": "Đánh giá"
+  },
+  {
+    "question": "判断＜する＞",
+    "answer1": "はんだん＜する＞",
+    "answer2": "Phán đoán"
+  },
+  {
+    "question": "基準",
+    "answer1": "きじゅん",
+    "answer2": "Tiêu chuẩn"
+  },
+  {
+    "question": "客観的な",
+    "answer1": "きゃっかんてきな",
+    "answer2": "Khách quan"
+  },
+  {
+    "question": "主観的な",
+    "answer1": "しゅかんてきな",
+    "answer2": "Chủ quan"
+  },
+  {
+    "question": "正確な",
+    "answer1": "せいかくな",
+    "answer2": "Chính xác"
+  },
+  {
+    "question": "曖昧な",
+    "answer1": "あいまいな",
+    "answer2": "Mơ hồ"
+  },
+  {
+    "question": "確実な",
+    "answer1": "かくじつな",
+    "answer2": "Chắc chắn"
+  },
+  {
+    "question": "根拠",
+    "answer1": "こんきょ",
+    "answer2": "Căn cứ"
+  },
+  {
+    "question": "理由",
+    "answer1": "りゆう",
+    "answer2": "Lý do"
+  },
+  {
+    "question": "結論",
+    "answer1": "けつろん",
+    "answer2": "Kết luận"
+  },
+  {
+    "question": "結果",
+    "answer1": "けっか",
+    "answer2": "Kết quả"
+  },
+  {
+    "question": "影響＜する＞",
+    "answer1": "えいきょう＜する＞",
+    "answer2": "Ảnh hưởng"
+  },
+  {
+    "question": "左右＜する＞",
+    "answer1": "さゆう＜する＞",
+    "answer2": "Chi phối"
+  },
+  {
+    "question": "比較＜する＞",
+    "answer1": "ひかく＜する＞",
+    "answer2": "So sánh"
+  },
+  {
+    "question": "対照＜する＞",
+    "answer1": "たいしょう＜する＞",
+    "answer2": "Đối chiếu"
+  },
+  {
+    "question": "傾向",
+    "answer1": "けいこう",
+    "answer2": "Xu hướng"
+  },
+  {
+    "question": "全体",
+    "answer1": "ぜんたい",
+    "answer2": "Toàn thể"
+  },
+  {
+    "question": "部分",
+    "answer1": "ぶぶん",
+    "answer2": "Bộ phận"
+  },
+  {
+    "question": "一致＜する＞",
+    "answer1": "いっち＜する＞",
+    "answer2": "Trùng khớp"
+  },
+  {
+    "question": "相違＜する＞",
+    "answer1": "そうい＜する＞",
+    "answer2": "Khác biệt"
+  },
+  {
+    "question": "明確な",
+    "answer1": "めいかくな",
+    "answer2": "Rõ ràng"
+  },
+  {
+    "question": "妥当な",
+    "answer1": "だとうな",
+    "answer2": "Thỏa đáng"
+  },
+  {
+    "question": "判断材料",
+    "answer1": "はんだんざいりょう",
+    "answer2": "Tư liệu phán đoán"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "扱う",
+    "answer1": "あつかう",
+    "answer2": "Kinh doanh, xử lý"
+  },
+  {
+    "question": "買い換（替）える",
+    "answer1": "かいかえる",
+    "answer2": "Mua đổi"
+  },
+  {
+    "question": "売り出す",
+    "answer1": "うりだす",
+    "answer2": "Bán ra"
+  },
+  {
+    "question": "チラシ",
+    "answer1": "チラシ",
+    "answer2": "Tờ rơi"
+  },
+  {
+    "question": "切り取る",
+    "answer1": "きりとる",
+    "answer2": "Cắt ra"
+  },
+  {
+    "question": "パック＜為る＞",
+    "answer1": "パックする",
+    "answer2": "Đóng gói"
+  },
+  {
+    "question": "包装＜する＞",
+    "answer1": "ほうそうする",
+    "answer2": "Gói hàng"
+  },
+  {
+    "question": "試食＜する＞",
+    "answer1": "ししょくする",
+    "answer2": "Ăn thử"
+  },
+  {
+    "question": "試着＜する＞",
+    "answer1": "しちゃくする",
+    "answer2": "Mặc thử"
+  },
+  {
+    "question": "割合[に]",
+    "answer1": "わりあいに",
+    "answer2": "Tương đối"
+  },
+  {
+    "question": "ダブる",
+    "answer1": "ダブる",
+    "answer2": "Trùng"
+  },
+  {
+    "question": "止す",
+    "answer1": "よす",
+    "answer2": "Bỏ, thôi"
+  },
+  {
+    "question": "割と",
+    "answer1": "わりと",
+    "answer2": "Khá"
+  },
+  {
+    "question": "実物",
+    "answer1": "じつぶつ",
+    "answer2": "Hàng thật"
+  },
+  {
+    "question": "粒",
+    "answer1": "つぶ",
+    "answer2": "Hạt"
+  },
+  {
+    "question": "スペース",
+    "answer1": "スペース",
+    "answer2": "Không gian"
+  },
+  {
+    "question": "現在",
+    "answer1": "げんざい",
+    "answer2": "Hiện tại"
+  },
+  {
+    "question": "過去",
+    "answer1": "かこ",
+    "answer2": "Quá khứ"
+  },
+  {
+    "question": "年月",
+    "answer1": "ねんげつ",
+    "answer2": "Tháng năm"
+  },
+  {
+    "question": "月日",
+    "answer1": "つきひ",
+    "answer2": "Ngày tháng"
+  },
+  {
+    "question": "日時",
+    "answer1": "にちじ",
+    "answer2": "Ngày giờ"
+  },
+  {
+    "question": "今日",
+    "answer1": "こんにち",
+    "answer2": "Ngày nay"
+  },
+  {
+    "question": "年代",
+    "answer1": "ねんだい",
+    "answer2": "Thập kỷ"
+  },
+  {
+    "question": "年間",
+    "answer1": "ねんかん",
+    "answer2": "Trong năm"
+  },
+  {
+    "question": "年中",
+    "answer1": "ねんじゅう",
+    "answer2": "Quanh năm"
+  }
+]

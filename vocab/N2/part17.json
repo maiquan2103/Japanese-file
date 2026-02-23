@@ -1,0 +1,127 @@
+[
+  {
+    "question": "抽選＜する＞",
+    "answer1": "ちゅうせんする",
+    "answer2": "Bốc thăm"
+  },
+  {
+    "question": "避難＜する＞",
+    "answer1": "ひなんする",
+    "answer2": "Lánh nạn"
+  },
+  {
+    "question": "訓練＜する＞",
+    "answer1": "くんれんする",
+    "answer2": "Huấn luyện"
+  },
+  {
+    "question": "見回る",
+    "answer1": "みまわる",
+    "answer2": "Đi tuần tra"
+  },
+  {
+    "question": "築く",
+    "answer1": "きずく",
+    "answer2": "Xây dựng"
+  },
+  {
+    "question": "見当",
+    "answer1": "けんとう",
+    "answer2": "Phỏng đoán"
+  },
+  {
+    "question": "落書き＜する＞",
+    "answer1": "らくがきする",
+    "answer2": "Vẽ bậy"
+  },
+  {
+    "question": "強化＜する＞",
+    "answer1": "きょうかする",
+    "answer2": "Tăng cường"
+  },
+  {
+    "question": "自治体",
+    "answer1": "じちたい",
+    "answer2": "Tổ chức tự trị"
+  },
+  {
+    "question": "知事",
+    "answer1": "ちじ",
+    "answer2": "Tỉnh trưởng"
+  },
+  {
+    "question": "応える",
+    "answer1": "こたえる",
+    "answer2": "Đáp lại"
+  },
+  {
+    "question": "住民",
+    "answer1": "じゅうみん",
+    "answer2": "Người dân"
+  },
+  {
+    "question": "身分証明書",
+    "answer1": "みぶんしょうめいしょ",
+    "answer2": "Giấy chứng minh"
+  },
+  {
+    "question": "生年月日",
+    "answer1": "せいねんがっぴ",
+    "answer2": "Ngày tháng năm sinh"
+  },
+  {
+    "question": "署名＜する＞",
+    "answer1": "しょめいする",
+    "answer2": "Ký tên"
+  },
+  {
+    "question": "修正＜する＞",
+    "answer1": "しゅうせいする",
+    "answer2": "Chỉnh sửa"
+  },
+  {
+    "question": "年金",
+    "answer1": "ねんきん",
+    "answer2": "Lương hưu"
+  },
+  {
+    "question": "施設",
+    "answer1": "しせつ",
+    "answer2": "Cơ sở"
+  },
+  {
+    "question": "ロッカー",
+    "answer1": "ロッカー",
+    "answer2": "Tủ khóa"
+  },
+  {
+    "question": "建築＜する＞",
+    "answer1": "けんちくする",
+    "answer2": "Xây dựng"
+  },
+  {
+    "question": "リニューアル＜為る＞",
+    "answer1": "リニューアルする",
+    "answer2": "Cải tạo"
+  },
+  {
+    "question": "近づける",
+    "answer1": "ちかづける",
+    "answer2": "Làm cho gần"
+  },
+  {
+    "question": "福祉",
+    "answer1": "ふくし",
+    "answer2": "Phúc lợi"
+  },
+  {
+    "question": "年度",
+    "answer1": "ねんど",
+    "answer2": "Năm tài khóa"
+  },
+  {
+    "question": "交替＜する＞",
+    "answer1": "こうたいする",
+    "answer2": "Thay phiên"
+  }
+]

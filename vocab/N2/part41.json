@@ -1,0 +1,127 @@
+[
+  {
+    "question": "漕ぐ",
+    "answer1": "こぐ",
+    "answer2": "Chèo"
+  },
+  {
+    "question": "展覧会",
+    "answer1": "てんらんかい",
+    "answer2": "Triển lãm"
+  },
+  {
+    "question": "ばったり床几",
+    "answer1": "ばったり",
+    "answer2": "Tình cờ"
+  },
+  {
+    "question": "はらはら＜為る＞",
+    "answer1": "はらはら",
+    "answer2": "Hồi hộp"
+  },
+  {
+    "question": "［お］墓",
+    "answer1": "［お］はか",
+    "answer2": "Mộ"
+  },
+  {
+    "question": "突っ込む",
+    "answer1": "つっこむ",
+    "answer2": "Xông vào"
+  },
+  {
+    "question": "見渡す",
+    "answer1": "みわたす",
+    "answer2": "Nhìn bao quát"
+  },
+  {
+    "question": "眺める",
+    "answer1": "ながめる",
+    "answer2": "Ngắm"
+  },
+  {
+    "question": "眺め",
+    "answer1": "ながめ",
+    "answer2": "Cảnh"
+  },
+  {
+    "question": "微か",
+    "answer1": "かすかな",
+    "answer2": "Mờ nhạt"
+  },
+  {
+    "question": "負ぶう",
+    "answer1": "おぶう",
+    "answer2": "Cõng"
+  },
+  {
+    "question": "最適な",
+    "answer1": "さいてきな",
+    "answer2": "Thích hợp"
+  },
+  {
+    "question": "余裕",
+    "answer1": "よゆう",
+    "answer2": "Dư dả"
+  },
+  {
+    "question": "旅",
+    "answer1": "たび",
+    "answer2": "Chuyến đi"
+  },
+  {
+    "question": "レジャー",
+    "answer1": "レジャー",
+    "answer2": "Giải trí"
+  },
+  {
+    "question": "訪れる",
+    "answer1": "おとずれる",
+    "answer2": "Thăm"
+  },
+  {
+    "question": "体験＜する＞",
+    "answer1": "たいけん＜する＞",
+    "answer2": "Trải nghiệm"
+  },
+  {
+    "question": "冒険＜する＞",
+    "answer1": "ぼうけん＜する＞",
+    "answer2": "Phiêu lưu"
+  },
+  {
+    "question": "見聞き＜する＞",
+    "answer1": "みきき＜する＞",
+    "answer2": "Tai nghe mắt thấy"
+  },
+  {
+    "question": "巡る",
+    "answer1": "めぐる",
+    "answer2": "Đi vòng"
+  },
+  {
+    "question": "プラン",
+    "answer1": "プラン",
+    "answer2": "Kế hoạch"
+  },
+  {
+    "question": "思い立つ",
+    "answer1": "おもいたつ",
+    "answer2": "Nảy ra ý định"
+  },
+  {
+    "question": "豪華な",
+    "answer1": "ごうかな",
+    "answer2": "Xa hoa"
+  },
+  {
+    "question": "手配＜する＞",
+    "answer1": "てはい＜する＞",
+    "answer2": "Sắp xếp"
+  },
+  {
+    "question": "前もって",
+    "answer1": "まえもって",
+    "answer2": "Trước"
+  }
+]

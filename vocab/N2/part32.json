@@ -1,0 +1,127 @@
+[
+  {
+    "question": "身の回り",
+    "answer1": "みのまわり",
+    "answer2": "Xung quanh"
+  },
+  {
+    "question": "状況",
+    "answer1": "じょうきょう",
+    "answer2": "Tình trạng"
+  },
+  {
+    "question": "競技＜する＞",
+    "answer1": "きょうぎ＜する＞",
+    "answer2": "Bộ môn thi đấu"
+  },
+  {
+    "question": "競う",
+    "answer1": "きそう",
+    "answer2": "Cạnh tranh, ganh đua"
+  },
+  {
+    "question": "戦う",
+    "answer1": "たたかう",
+    "answer2": "Chiến đấu, giao tranh"
+  },
+  {
+    "question": "勝負＜する＞",
+    "answer1": "しょうぶ＜する＞",
+    "answer2": "Sự thắng bại, sự thi đấu"
+  },
+  {
+    "question": "勝敗",
+    "answer1": "しょうはい",
+    "answer2": "Sự thắng bại, kết quả thi đấu"
+  },
+  {
+    "question": "勝利＜する＞",
+    "answer1": "しょうり＜する＞",
+    "answer2": "Thắng lợi"
+  },
+  {
+    "question": "破る",
+    "answer1": "やぶる",
+    "answer2": "Đánh bại, xé rách"
+  },
+  {
+    "question": "遣っ付ける",
+    "answer1": "やっつける",
+    "answer2": "Đánh đuổi"
+  },
+  {
+    "question": "敗れる",
+    "answer1": "やぶれる",
+    "answer2": "Bị đánh bại, thua"
+  },
+  {
+    "question": "攻める",
+    "answer1": "せめる",
+    "answer2": "Tấn công"
+  },
+  {
+    "question": "逆転＜する＞",
+    "answer1": "ぎゃくてん＜する＞",
+    "answer2": "Sự xoay ngược tình thế"
+  },
+  {
+    "question": "開会＜する＞",
+    "answer1": "かいかい＜する＞",
+    "answer2": "Khai mạc"
+  },
+  {
+    "question": "中断＜する＞",
+    "answer1": "ちゅうだん＜する＞",
+    "answer2": "Gián đoạn"
+  },
+  {
+    "question": "延長＜する＞",
+    "answer1": "えんちょう＜する＞",
+    "answer2": "Kéo dài, đấu thêm giờ"
+  },
+  {
+    "question": "勇ましい",
+    "answer1": "いさましい",
+    "answer2": "Mạnh mẽ"
+  },
+  {
+    "question": "勢い",
+    "answer1": "いきおい",
+    "answer2": "Uy lực, sức mạnh"
+  },
+  {
+    "question": "流石[に]",
+    "answer1": "さすが",
+    "answer2": "Quả là"
+  },
+  {
+    "question": "観客",
+    "answer1": "かんきゃく",
+    "answer2": "Khán giả"
+  },
+  {
+    "question": "敵",
+    "answer1": "てき",
+    "answer2": "Đối phương, kẻ thù"
+  },
+  {
+    "question": "グラウンド",
+    "answer1": "グラウンド",
+    "answer2": "Sân thi đấu"
+  },
+  {
+    "question": "順位",
+    "answer1": "じゅんい",
+    "answer2": "Thứ hạng"
+  },
+  {
+    "question": "トレーナー",
+    "answer1": "トレーナー",
+    "answer2": "Huấn luyện viên"
+  },
+  {
+    "question": "指導＜する＞",
+    "answer1": "しどう＜する＞",
+    "answer2": "Chỉ đạo, hướng dẫn"
+  }
+]

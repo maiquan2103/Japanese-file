@@ -1,0 +1,127 @@
+[
+  {
+    "question": "監督＜する＞",
+    "answer1": "かんとく＜する＞",
+    "answer2": "Giám sát"
+  },
+  {
+    "question": "責任",
+    "answer1": "せきにん",
+    "answer2": "Trách nhiệm"
+  },
+  {
+    "question": "権限",
+    "answer1": "けんげん",
+    "answer2": "Quyền hạn"
+  },
+  {
+    "question": "分担＜する＞",
+    "answer1": "ぶんたん＜する＞",
+    "answer2": "Phân công"
+  },
+  {
+    "question": "役割",
+    "answer1": "やくわり",
+    "answer2": "Vai trò"
+  },
+  {
+    "question": "体制",
+    "answer1": "たいせい",
+    "answer2": "Hệ thống tổ chức"
+  },
+  {
+    "question": "組織",
+    "answer1": "そしき",
+    "answer2": "Tổ chức"
+  },
+  {
+    "question": "連携＜する＞",
+    "answer1": "れんけい＜する＞",
+    "answer2": "Liên kết"
+  },
+  {
+    "question": "統括＜する＞",
+    "answer1": "とうかつ＜する＞",
+    "answer2": "Tổng quản"
+  },
+  {
+    "question": "指示＜する＞",
+    "answer1": "しじ＜する＞",
+    "answer2": "Chỉ thị"
+  },
+  {
+    "question": "命令＜する＞",
+    "answer1": "めいれい＜する＞",
+    "answer2": "Ra lệnh"
+  },
+  {
+    "question": "遵守＜する＞",
+    "answer1": "じゅんしゅ＜する＞",
+    "answer2": "Tuân thủ"
+  },
+  {
+    "question": "規則",
+    "answer1": "きそく",
+    "answer2": "Quy tắc"
+  },
+  {
+    "question": "方策",
+    "answer1": "ほうさく",
+    "answer2": "Phương sách"
+  },
+  {
+    "question": "是正＜する＞",
+    "answer1": "ぜせい＜する＞",
+    "answer2": "Chấn chỉnh"
+  },
+  {
+    "question": "改善＜する＞",
+    "answer1": "かいぜん＜する＞",
+    "answer2": "Cải thiện"
+  },
+  {
+    "question": "効率",
+    "answer1": "こうりつ",
+    "answer2": "Hiệu suất"
+  },
+  {
+    "question": "円滑な",
+    "answer1": "えんかつな",
+    "answer2": "Trôi chảy"
+  },
+  {
+    "question": "負担",
+    "answer1": "ふたん",
+    "answer2": "Gánh nặng"
+  },
+  {
+    "question": "簡素な",
+    "answer1": "かんそな",
+    "answer2": "Đơn giản"
+  },
+  {
+    "question": "合理的な",
+    "answer1": "ごうりてきな",
+    "answer2": "Hợp lý"
+  },
+  {
+    "question": "最適化＜する＞",
+    "answer1": "さいてきか＜する＞",
+    "answer2": "Tối ưu hóa"
+  },
+  {
+    "question": "結果的に",
+    "answer1": "けっかてきに",
+    "answer2": "Kết quả là"
+  },
+  {
+    "question": "最終的に",
+    "answer1": "さいしゅうてきに",
+    "answer2": "Cuối cùng"
+  },
+  {
+    "question": "総合的な",
+    "answer1": "そうごうてきな",
+    "answer2": "Tổng hợp"
+  }
+]

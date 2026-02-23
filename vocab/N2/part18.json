@@ -1,0 +1,127 @@
+[
+  {
+    "question": "収集＜する＞",
+    "answer1": "しゅうしゅうする",
+    "answer2": "Thu thập"
+  },
+  {
+    "question": "配布＜する＞",
+    "answer1": "はいふする",
+    "answer2": "Phân phát"
+  },
+  {
+    "question": "処理＜する＞",
+    "answer1": "しょりする",
+    "answer2": "Xử lý"
+  },
+  {
+    "question": "需要",
+    "answer1": "じゅよう",
+    "answer2": "Nhu cầu"
+  },
+  {
+    "question": "提供＜する＞",
+    "answer1": "ていきょうする",
+    "answer2": "Cung cấp"
+  },
+  {
+    "question": "用途",
+    "answer1": "ようと",
+    "answer2": "Mục đích sử dụng"
+  },
+  {
+    "question": "故郷",
+    "answer1": "こきょう",
+    "answer2": "Quê hương"
+  },
+  {
+    "question": "地元",
+    "answer1": "じもと",
+    "answer2": "Địa phương"
+  },
+  {
+    "question": "離れる",
+    "answer1": "はなれる",
+    "answer2": "Rời xa"
+  },
+  {
+    "question": "掴む",
+    "answer1": "つかむ",
+    "answer2": "Nắm bắt"
+  },
+  {
+    "question": "帰省＜する＞",
+    "answer1": "きせいする",
+    "answer2": "Về quê"
+  },
+  {
+    "question": "アクセス＜為る＞",
+    "answer1": "アクセスする",
+    "answer2": "Tiếp cận"
+  },
+  {
+    "question": "改善＜する＞",
+    "answer1": "かいぜんする",
+    "answer2": "Cải thiện"
+  },
+  {
+    "question": "行事",
+    "answer1": "ぎょうじ",
+    "answer2": "Sự kiện"
+  },
+  {
+    "question": "遥か＜な＞",
+    "answer1": "はるかな",
+    "answer2": "Xa xôi"
+  },
+  {
+    "question": "誇り",
+    "answer1": "ほこり",
+    "answer2": "Niềm tự hào"
+  },
+  {
+    "question": "載る",
+    "answer1": "のる",
+    "answer2": "Đăng tải"
+  },
+  {
+    "question": "宣伝＜する＞",
+    "answer1": "せんでんする",
+    "answer2": "Quảng bá"
+  },
+  {
+    "question": "作成＜する＞",
+    "answer1": "さくせいする",
+    "answer2": "Tạo, soạn"
+  },
+  {
+    "question": "見慣れる",
+    "answer1": "みなれる",
+    "answer2": "Quen mắt"
+  },
+  {
+    "question": "近郊",
+    "answer1": "きんこう",
+    "answer2": "Ngoại ô"
+  },
+  {
+    "question": "描く",
+    "answer1": "えがく",
+    "answer2": "Miêu tả"
+  },
+  {
+    "question": "若者",
+    "answer1": "わかもの",
+    "answer2": "Thanh niên"
+  },
+  {
+    "question": "Uターン＜為る＞",
+    "answer1": "Uターンする",
+    "answer2": "Quay về quê"
+  },
+  {
+    "question": "行き来＜する＞",
+    "answer1": "いききする",
+    "answer2": "Đi lại"
+  }
+]

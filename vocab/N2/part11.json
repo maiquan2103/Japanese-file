@@ -1,0 +1,127 @@
+[
+  {
+    "question": "本年",
+    "answer1": "ほんねん",
+    "answer2": "Năm nay"
+  },
+  {
+    "question": "日中",
+    "answer1": "にっちゅう",
+    "answer2": "Ban ngày"
+  },
+  {
+    "question": "夜間",
+    "answer1": "やかん",
+    "answer2": "Ban đêm"
+  },
+  {
+    "question": "ただ今",
+    "answer1": "ただいま",
+    "answer2": "Bây giờ"
+  },
+  {
+    "question": "先ほど",
+    "answer1": "さきほど",
+    "answer2": "Lúc nãy"
+  },
+  {
+    "question": "近々",
+    "answer1": "ちかぢか",
+    "answer2": "Sắp tới"
+  },
+  {
+    "question": "後日",
+    "answer1": "ごじつ",
+    "answer2": "Sau này"
+  },
+  {
+    "question": "軈て",
+    "answer1": "やがて",
+    "answer2": "Chẳng mấy chốc"
+  },
+  {
+    "question": "何れ",
+    "answer1": "いずれ",
+    "answer2": "Rồi sẽ"
+  },
+  {
+    "question": "今後",
+    "answer1": "こんご",
+    "answer2": "Từ nay về sau"
+  },
+  {
+    "question": "既に",
+    "answer1": "すでに",
+    "answer2": "Đã"
+  },
+  {
+    "question": "予め",
+    "answer1": "あらかじめ",
+    "answer2": "Trước"
+  },
+  {
+    "question": "従来",
+    "answer1": "じゅうらい",
+    "answer2": "Trước đây"
+  },
+  {
+    "question": "明くる",
+    "answer1": "あくる",
+    "answer2": "Tiếp theo"
+  },
+  {
+    "question": "一時",
+    "answer1": "いちじ",
+    "answer2": "Tạm thời"
+  },
+  {
+    "question": "一生",
+    "answer1": "いっしょう",
+    "answer2": "Cả đời"
+  },
+  {
+    "question": "永遠に",
+    "answer1": "えいえんに",
+    "answer2": "Vĩnh viễn"
+  },
+  {
+    "question": "夜明け",
+    "answer1": "よあけ",
+    "answer2": "Ban mai, rạng sáng"
+  },
+  {
+    "question": "起床＜する＞",
+    "answer1": "きしょうする",
+    "answer2": "Thức dậy"
+  },
+  {
+    "question": "凭れる",
+    "answer1": "もたれる",
+    "answer2": "Dựa vào; bị nặng bụng"
+  },
+  {
+    "question": "フレッシュな",
+    "answer1": "フレッシュな",
+    "answer2": "Tươi mới"
+  },
+  {
+    "question": "乳製品",
+    "answer1": "にゅうせいひん",
+    "answer2": "Sản phẩm từ sữa"
+  },
+  {
+    "question": "洗い物",
+    "answer1": "あらいもの",
+    "answer2": "Đồ cần rửa, việc rửa"
+  },
+  {
+    "question": "欠かす",
+    "answer1": "かかす",
+    "answer2": "Thiếu, bỏ sót"
+  },
+  {
+    "question": "配達＜する＞",
+    "answer1": "はいたつする",
+    "answer2": "Phát, giao hàng"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "現地",
+    "answer1": "げんち",
+    "answer2": "Hiện trường, địa phương"
+  },
+  {
+    "question": "教わる",
+    "answer1": "おそわる",
+    "answer2": "Được dạy, học"
+  },
+  {
+    "question": "願書",
+    "answer1": "がんしょ",
+    "answer2": "Đơn, đơn xin"
+  },
+  {
+    "question": "推薦＜する＞",
+    "answer1": "すいせんする",
+    "answer2": "Tiến cử, giới thiệu"
+  },
+  {
+    "question": "狙う",
+    "answer1": "ねらう",
+    "answer2": "Nhắm đến"
+  },
+  {
+    "question": "意志",
+    "answer1": "いし",
+    "answer2": "Ý chí"
+  },
+  {
+    "question": "開始＜する＞",
+    "answer1": "かいしする",
+    "answer2": "Bắt đầu"
+  },
+  {
+    "question": "通常",
+    "answer1": "つうじょう",
+    "answer2": "Thông thường"
+  },
+  {
+    "question": "担任＜する＞",
+    "answer1": "たんにんする",
+    "answer2": "Làm chủ nhiệm"
+  },
+  {
+    "question": "受け持つ",
+    "answer1": "うけもつ",
+    "answer2": "Đảm nhiệm"
+  },
+  {
+    "question": "委員",
+    "answer1": "いいん",
+    "answer2": "Ủy viên, cán sự"
+  },
+  {
+    "question": "馴染む",
+    "answer1": "なじむ",
+    "answer2": "Quen, hòa nhập"
+  },
+  {
+    "question": "充実＜する＞",
+    "answer1": "じゅうじつする",
+    "answer2": "Đầy đủ, trọn vẹn"
+  },
+  {
+    "question": "高等＜な＞",
+    "answer1": "こうとうな",
+    "answer2": "Cao cấp"
+  },
+  {
+    "question": "ステップ",
+    "answer1": "ステップ",
+    "answer2": "Bước tiến"
+  },
+  {
+    "question": "過程",
+    "answer1": "かてい",
+    "answer2": "Quá trình"
+  },
+  {
+    "question": "取り上げる",
+    "answer1": "とりあげる",
+    "answer2": "Đưa ra, lấy đi"
+  },
+  {
+    "question": "欠ける",
+    "answer1": "かける",
+    "answer2": "Thiếu, khuyết"
+  },
+  {
+    "question": "優秀な",
+    "answer1": "ゆうしゅうな",
+    "answer2": "Ưu tú"
+  },
+  {
+    "question": "修了＜する＞",
+    "answer1": "しゅうりょうする",
+    "answer2": "Hoàn thành (việc học)"
+  },
+  {
+    "question": "相応しい",
+    "answer1": "ふさわしい",
+    "answer2": "Phù hợp"
+  },
+  {
+    "question": "認識＜する＞",
+    "answer1": "にんしきする",
+    "answer2": "Nhận thức"
+  },
+  {
+    "question": "語学学校",
+    "answer1": "ごがくがっこう",
+    "answer2": "Trường ngoại ngữ"
+  },
+  {
+    "question": "学ぶ",
+    "answer1": "まなぶ",
+    "answer2": "Học"
+  },
+  {
+    "question": "学習＜する＞",
+    "answer1": "がくしゅうする",
+    "answer2": "Học tập"
+  }
+]

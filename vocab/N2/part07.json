@@ -1,0 +1,127 @@
+[
+  {
+    "question": "頑丈な",
+    "answer1": "がんじょうな",
+    "answer2": "Chắc chắn"
+  },
+  {
+    "question": "点検＜する＞",
+    "answer1": "てんけんする",
+    "answer2": "Kiểm tra"
+  },
+  {
+    "question": "停止＜する＞",
+    "answer1": "ていしする",
+    "answer2": "Dừng, ngừng"
+  },
+  {
+    "question": "物音",
+    "answer1": "ものおと",
+    "answer2": "Tiếng động"
+  },
+  {
+    "question": "防犯",
+    "answer1": "ぼうはん",
+    "answer2": "Phòng chống tội phạm"
+  },
+  {
+    "question": "ぞっと＜為る＞",
+    "answer1": "ぞっとする",
+    "answer2": "Rùng mình"
+  },
+  {
+    "question": "警備＜する＞",
+    "answer1": "けいびする",
+    "answer2": "Bảo vệ"
+  },
+  {
+    "question": "新築＜する＞",
+    "answer1": "しんちくする",
+    "answer2": "Xây mới"
+  },
+  {
+    "question": "収入",
+    "answer1": "しゅうにゅう",
+    "answer2": "Thu nhập"
+  },
+  {
+    "question": "語句",
+    "answer1": "ごく",
+    "answer2": "Rất, cực kỳ"
+  },
+  {
+    "question": "精々",
+    "answer1": "せいぜい",
+    "answer2": "Nhiều nhất là"
+  },
+  {
+    "question": "出費＜する＞",
+    "answer1": "しゅっぴする",
+    "answer2": "Chi tiêu"
+  },
+  {
+    "question": "赤字",
+    "answer1": "あかじ",
+    "answer2": "Lỗ, thâm hụt"
+  },
+  {
+    "question": "大金",
+    "answer1": "たいきん",
+    "answer2": "Số tiền lớn"
+  },
+  {
+    "question": "税金",
+    "answer1": "ぜいきん",
+    "answer2": "Thuế"
+  },
+  {
+    "question": "納める",
+    "answer1": "おさめる",
+    "answer2": "Nộp (thuế)"
+  },
+  {
+    "question": "含む",
+    "answer1": "ふくむ",
+    "answer2": "Bao gồm"
+  },
+  {
+    "question": "公共料金",
+    "answer1": "こうきょうりょうきん",
+    "answer2": "Tiền điện nước, phí công cộng"
+  },
+  {
+    "question": "払い込む",
+    "answer1": "はらいこむ",
+    "answer2": "Nộp tiền"
+  },
+  {
+    "question": "引き落とし",
+    "answer1": "ひきおとし",
+    "answer2": "Trừ tiền (tự động)"
+  },
+  {
+    "question": "手数料",
+    "answer1": "てすうりょう",
+    "answer2": "Phí dịch vụ"
+  },
+  {
+    "question": "出し入れ＜する＞",
+    "answer1": "だしいれする",
+    "answer2": "Gửi và rút (tiền)"
+  },
+  {
+    "question": "高くつく",
+    "answer1": "たかくつく",
+    "answer2": "Tốn kém"
+  },
+  {
+    "question": "残高",
+    "answer1": "ざんだか",
+    "answer2": "Số dư"
+  },
+  {
+    "question": "せっせと",
+    "answer1": "せっせと",
+    "answer2": "Chăm chỉ"
+  }
+]

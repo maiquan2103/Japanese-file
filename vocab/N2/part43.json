@@ -1,0 +1,127 @@
+[
+  {
+    "question": "体力",
+    "answer1": "たいりょく",
+    "answer2": "Thể lực"
+  },
+  {
+    "question": "心身",
+    "answer1": "しんしん",
+    "answer2": "Tinh thần và thể chất"
+  },
+  {
+    "question": "健やかな",
+    "answer1": "すこやかな",
+    "answer2": "Khỏe mạnh"
+  },
+  {
+    "question": "偏る",
+    "answer1": "かたよる",
+    "answer2": "Chênh lệch, mất cân bằng"
+  },
+  {
+    "question": "小柄な",
+    "answer1": "こがらな",
+    "answer2": "Nhỏ con"
+  },
+  {
+    "question": "寿命",
+    "answer1": "じゅみょう",
+    "answer2": "Tuổi thọ"
+  },
+  {
+    "question": "一般に",
+    "answer1": "いっぱんに",
+    "answer2": "Thông thường"
+  },
+  {
+    "question": "手首",
+    "answer1": "てくび",
+    "answer2": "Cổ tay"
+  },
+  {
+    "question": "踵",
+    "answer1": "かかと",
+    "answer2": "Gót chân"
+  },
+  {
+    "question": "つま先",
+    "answer1": "つまさき",
+    "answer2": "Đầu ngón chân"
+  },
+  {
+    "question": "血管",
+    "answer1": "けっかん",
+    "answer2": "Huyết quản"
+  },
+  {
+    "question": "更々＜な/為る＞",
+    "answer1": "さらさら",
+    "answer2": "Mịn, thông suốt"
+  },
+  {
+    "question": "筋肉",
+    "answer1": "きんにく",
+    "answer2": "Cơ bắp"
+  },
+  {
+    "question": "障がい",
+    "answer1": "しょうがい",
+    "answer2": "Khuyết tật"
+  },
+  {
+    "question": "乗り越える",
+    "answer1": "のりこえる",
+    "answer2": "Vượt qua"
+  },
+  {
+    "question": "傷跡",
+    "answer1": "きずあと",
+    "answer2": "Vết sẹo"
+  },
+  {
+    "question": "鼾",
+    "answer1": "いびき",
+    "answer2": "Tiếng ngáy"
+  },
+  {
+    "question": "体が持つ",
+    "answer1": "からだがもつ",
+    "answer2": "Đủ sức"
+  },
+  {
+    "question": "休養＜する＞",
+    "answer1": "きゅうようする",
+    "answer2": "Nghỉ dưỡng, nghỉ ngơi"
+  },
+  {
+    "question": "疲労＜する＞",
+    "answer1": "ひろうする",
+    "answer2": "Mệt mỏi, lao lực"
+  },
+  {
+    "question": "不調＜な＞",
+    "answer1": "ふちょうな",
+    "answer2": "Không khỏe"
+  },
+  {
+    "question": "体調",
+    "answer1": "たいちょう",
+    "answer2": "Tình trạng sức khỏe"
+  },
+  {
+    "question": "稍",
+    "answer1": "やや",
+    "answer2": "Hơi"
+  },
+  {
+    "question": "寝心地",
+    "answer1": "ねごこち",
+    "answer2": "Cảm giác khi nằm"
+  },
+  {
+    "question": "大した",
+    "answer1": "たいした",
+    "answer2": "To tát, đáng kể"
+  }
+]

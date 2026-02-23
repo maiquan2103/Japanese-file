@@ -1,0 +1,127 @@
+[
+  {
+    "question": "一家",
+    "answer1": "いっか",
+    "answer2": "Một nhà, cả gia đình"
+  },
+  {
+    "question": "有難い",
+    "answer1": "ありがたい",
+    "answer2": "Biết ơn, đáng quý"
+  },
+  {
+    "question": "向き合う",
+    "answer1": "むきあう",
+    "answer2": "Đối diện, đối mặt"
+  },
+  {
+    "question": "熟[と]",
+    "answer1": "つくづく",
+    "answer2": "Thấm thía, sâu sắc"
+  },
+  {
+    "question": "養う",
+    "answer1": "やしなう",
+    "answer2": "Nuôi dưỡng"
+  },
+  {
+    "question": "役目",
+    "answer1": "やくめ",
+    "answer2": "Vai trò, trách nhiệm"
+  },
+  {
+    "question": "甘える",
+    "answer1": "あまえる",
+    "answer2": "Làm nũng"
+  },
+  {
+    "question": "世間知らず",
+    "answer1": "せけんしらず",
+    "answer2": "Ngây thơ, khờ khạo"
+  },
+  {
+    "question": "躾",
+    "answer1": "しつけ",
+    "answer2": "Dạy dỗ, nề nếp"
+  },
+  {
+    "question": "言いつける",
+    "answer1": "いいつける",
+    "answer2": "Méc, mách"
+  },
+  {
+    "question": "自立<する>",
+    "answer1": "じりつする",
+    "answer2": "Tự lập"
+  },
+  {
+    "question": "言い出す",
+    "answer1": "いいだす",
+    "answer2": "Bắt đầu nói ra"
+  },
+  {
+    "question": "意思",
+    "answer1": "いし",
+    "answer2": "Ý chí"
+  },
+  {
+    "question": "尊重<する>",
+    "answer1": "そんちょうする",
+    "answer2": "Tôn trọng"
+  },
+  {
+    "question": "説得<する>",
+    "answer1": "せっとくする",
+    "answer2": "Thuyết phục"
+  },
+  {
+    "question": "納得<する>",
+    "answer1": "なっとくする",
+    "answer2": "Chấp nhận, đồng ý"
+  },
+  {
+    "question": "逆らう",
+    "answer1": "さからう",
+    "answer2": "Chống đối"
+  },
+  {
+    "question": "反省<する>",
+    "answer1": "はんせいする",
+    "answer2": "Tự kiểm điểm"
+  },
+  {
+    "question": "放っておく",
+    "answer1": "ほうっておく",
+    "answer2": "Bỏ mặc"
+  },
+  {
+    "question": "介護<する>",
+    "answer1": "かいごする",
+    "answer2": "Chăm sóc, điều dưỡng"
+  },
+  {
+    "question": "ホームヘルパー",
+    "answer1": "ホームヘルパー",
+    "answer2": "Người chăm sóc tại nhà"
+  },
+  {
+    "question": "世代",
+    "answer1": "せだい",
+    "answer2": "Thế hệ"
+  },
+  {
+    "question": "継ぐ",
+    "answer1": "つぐ",
+    "answer2": "Kế thừa"
+  },
+  {
+    "question": "妊娠<する>",
+    "answer1": "にんしんする",
+    "answer2": "Mang thai"
+  },
+  {
+    "question": "出産<する>",
+    "answer1": "しゅっさんする",
+    "answer2": "Sinh con"
+  }
+]

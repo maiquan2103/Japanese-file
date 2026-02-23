@@ -1,0 +1,127 @@
+[
+  {
+    "question": "抱く",
+    "answer1": "いだく",
+    "answer2": "Ôm ấp"
+  },
+  {
+    "question": "打ち合わせ＜する＞",
+    "answer1": "うちあわせする",
+    "answer2": "Họp bàn"
+  },
+  {
+    "question": "アポイント",
+    "answer1": "アポイント",
+    "answer2": "Cuộc hẹn"
+  },
+  {
+    "question": "応対＜する＞",
+    "answer1": "おうたいする",
+    "answer2": "Tiếp khách"
+  },
+  {
+    "question": "伝言＜する＞",
+    "answer1": "でんごんする",
+    "answer2": "Nhắn lời"
+  },
+  {
+    "question": "改めて",
+    "answer1": "あらためて",
+    "answer2": "Lại lần nữa"
+  },
+  {
+    "question": "直に",
+    "answer1": "じかに",
+    "answer2": "Trực tiếp"
+  },
+  {
+    "question": "プロジェクト",
+    "answer1": "プロジェクト",
+    "answer2": "Dự án"
+  },
+  {
+    "question": "意図＜する＞",
+    "answer1": "いとする",
+    "answer2": "Có ý định"
+  },
+  {
+    "question": "新たな",
+    "answer1": "あらたな",
+    "answer2": "Mới"
+  },
+  {
+    "question": "組む",
+    "answer1": "くむ",
+    "answer2": "Phối hợp"
+  },
+  {
+    "question": "取り引き＜する＞",
+    "answer1": "とりひきする",
+    "answer2": "Giao dịch"
+  },
+  {
+    "question": "依頼＜する＞",
+    "answer1": "いらいする",
+    "answer2": "Yêu cầu"
+  },
+  {
+    "question": "任せる",
+    "answer1": "まかせる",
+    "answer2": "Giao phó"
+  },
+  {
+    "question": "引き受ける",
+    "answer1": "ひきうける",
+    "answer2": "Nhận làm"
+  },
+  {
+    "question": "熟す",
+    "answer1": "こなす",
+    "answer2": "Xử lý tốt"
+  },
+  {
+    "question": "成果",
+    "answer1": "せいか",
+    "answer2": "Kết quả"
+  },
+  {
+    "question": "達成＜する＞",
+    "answer1": "たっせいする",
+    "answer2": "Đạt được"
+  },
+  {
+    "question": "作業＜する＞",
+    "answer1": "さぎょうする",
+    "answer2": "Làm việc"
+  },
+  {
+    "question": "保留＜する＞",
+    "answer1": "ほりゅうする",
+    "answer2": "Tạm hoãn"
+  },
+  {
+    "question": "やり直す",
+    "answer1": "やりなおす",
+    "answer2": "Làm lại"
+  },
+  {
+    "question": "件",
+    "answer1": "けん",
+    "answer2": "Vụ việc"
+  },
+  {
+    "question": "急用",
+    "answer1": "きゅうよう",
+    "answer2": "Việc gấp"
+  },
+  {
+    "question": "至急",
+    "answer1": "しきゅう",
+    "answer2": "Khẩn cấp"
+  },
+  {
+    "question": "手順",
+    "answer1": "てじゅん",
+    "answer2": "Trình tự"
+  }
+]

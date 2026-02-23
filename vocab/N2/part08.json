@@ -1,0 +1,127 @@
+[
+  {
+    "question": "大まかな",
+    "answer1": "おおまかな",
+    "answer2": "Đại khái"
+  },
+  {
+    "question": "差し引く",
+    "answer1": "さしひく",
+    "answer2": "Trừ đi"
+  },
+  {
+    "question": "努める",
+    "answer1": "つとめる",
+    "answer2": "Cố gắng"
+  },
+  {
+    "question": "立て替える",
+    "answer1": "たてかえる",
+    "answer2": "Ứng trước"
+  },
+  {
+    "question": "援助＜する＞",
+    "answer1": "えんじょする",
+    "answer2": "Viện trợ"
+  },
+  {
+    "question": "返済＜する＞",
+    "answer1": "へんさいする",
+    "answer2": "Hoàn trả"
+  },
+  {
+    "question": "安定＜する＞",
+    "answer1": "あんていする",
+    "answer2": "Ổn định"
+  },
+  {
+    "question": "好き嫌い",
+    "answer1": "すききらい",
+    "answer2": "Kén chọn"
+  },
+  {
+    "question": "好物",
+    "answer1": "こうぶつ",
+    "answer2": "Món ưa thích"
+  },
+  {
+    "question": "飽きる",
+    "answer1": "あきる",
+    "answer2": "Ngán"
+  },
+  {
+    "question": "物足りない",
+    "answer1": "ものたりない",
+    "answer2": "Chưa thỏa mãn"
+  },
+  {
+    "question": "ボリューム",
+    "answer1": "ボリューム",
+    "answer2": "Khối lượng, phần ăn"
+  },
+  {
+    "question": "一口",
+    "answer1": "ひとくち",
+    "answer2": "Một miếng"
+  },
+  {
+    "question": "齧る",
+    "answer1": "かじる",
+    "answer2": "Cắn"
+  },
+  {
+    "question": "一度",
+    "answer1": "ひとたび",
+    "answer2": "Một lần"
+  },
+  {
+    "question": "上手い",
+    "answer1": "うまい",
+    "answer2": "Ngon"
+  },
+  {
+    "question": "生ける",
+    "answer1": "いける",
+    "answer2": "Có thể, ổn"
+  },
+  {
+    "question": "渋い",
+    "answer1": "しぶい",
+    "answer2": "Chát, đậm"
+  },
+  {
+    "question": "諄い",
+    "answer1": "くどい",
+    "answer2": "Ngấy"
+  },
+  {
+    "question": "ファミレス",
+    "answer1": "ファミレス",
+    "answer2": "Nhà hàng gia đình"
+  },
+  {
+    "question": "フルコース",
+    "answer1": "フルコース",
+    "answer2": "Bữa ăn đầy đủ món"
+  },
+  {
+    "question": "オーダー＜為る＞",
+    "answer1": "オーダーする",
+    "answer2": "Gọi món"
+  },
+  {
+    "question": "催促＜する＞",
+    "answer1": "さいそくする",
+    "answer2": "Thúc giục"
+  },
+  {
+    "question": "会計＜する＞",
+    "answer1": "かいけいする",
+    "answer2": "Tính tiền"
+  },
+  {
+    "question": "バイキング",
+    "answer1": "バイキング",
+    "answer2": "Buffet"
+  }
+]

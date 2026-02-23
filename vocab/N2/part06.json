@@ -1,0 +1,127 @@
+[
+  {
+    "question": "台無し",
+    "answer1": "だいなし",
+    "answer2": "Hỏng bét"
+  },
+  {
+    "question": "恨む",
+    "answer1": "うらむ",
+    "answer2": "Oán hận"
+  },
+  {
+    "question": "追い出す",
+    "answer1": "おいだす",
+    "answer2": "Đuổi đi"
+  },
+  {
+    "question": "仲間外れ",
+    "answer1": "なかまはずれ",
+    "answer2": "Bị cô lập"
+  },
+  {
+    "question": "彼奴",
+    "answer1": "あいつ",
+    "answer2": "Hắn, nó"
+  },
+  {
+    "question": "他人",
+    "answer1": "たにん",
+    "answer2": "Người dưng"
+  },
+  {
+    "question": "一人住まい",
+    "answer1": "ひとりずまい",
+    "answer2": "Sống một mình"
+  },
+  {
+    "question": "賃貸",
+    "answer1": "ちんたい",
+    "answer2": "Cho thuê"
+  },
+  {
+    "question": "敷金",
+    "answer1": "しききん",
+    "answer2": "Tiền đặt cọc"
+  },
+  {
+    "question": "更新＜する＞",
+    "answer1": "こうしんする",
+    "answer2": "Gia hạn (hợp đồng)"
+  },
+  {
+    "question": "ローン",
+    "answer1": "ローン",
+    "answer2": "Khoản vay"
+  },
+  {
+    "question": "決まり",
+    "answer1": "きまり",
+    "answer2": "Quy định"
+  },
+  {
+    "question": "一戸建て",
+    "answer1": "いっこだて",
+    "answer2": "Nhà riêng"
+  },
+  {
+    "question": "マイホーム",
+    "answer1": "マイホーム",
+    "answer2": "Nhà riêng (của mình)"
+  },
+  {
+    "question": "我が家",
+    "answer1": "わがや",
+    "answer2": "Nhà mình"
+  },
+  {
+    "question": "家屋",
+    "answer1": "かおく",
+    "answer2": "Nhà cửa"
+  },
+  {
+    "question": "屋根",
+    "answer1": "やね",
+    "answer2": "Mái nhà"
+  },
+  {
+    "question": "洗面所",
+    "answer1": "せんめんじょ",
+    "answer2": "Phòng rửa mặt"
+  },
+  {
+    "question": "物置",
+    "answer1": "ものおき",
+    "answer2": "Kho chứa đồ"
+  },
+  {
+    "question": "間取り",
+    "answer1": "まどり",
+    "answer2": "Cách bố trí phòng"
+  },
+  {
+    "question": "空間",
+    "answer1": "くうかん",
+    "answer2": "Không gian"
+  },
+  {
+    "question": "奥",
+    "answer1": "おく",
+    "answer2": "Bên trong, phía sâu"
+  },
+  {
+    "question": "手前",
+    "answer1": "てまえ",
+    "answer2": "Phía trước"
+  },
+  {
+    "question": "南向き",
+    "answer1": "みなみむき",
+    "answer2": "Hướng nam"
+  },
+  {
+    "question": "温もり",
+    "answer1": "ぬくもり",
+    "answer2": "Sự ấm áp"
+  }
+]

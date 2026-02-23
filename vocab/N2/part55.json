@@ -1,0 +1,127 @@
+[
+  {
+    "question": "調査＜する＞",
+    "answer1": "ちょうさ＜する＞",
+    "answer2": "Điều tra"
+  },
+  {
+    "question": "分析＜する＞",
+    "answer1": "ぶんせき＜する＞",
+    "answer2": "Phân tích"
+  },
+  {
+    "question": "検討＜する＞",
+    "answer1": "けんとう＜する＞",
+    "answer2": "Xem xét"
+  },
+  {
+    "question": "確認＜する＞",
+    "answer1": "かくにん＜する＞",
+    "answer2": "Xác nhận"
+  },
+  {
+    "question": "仮定＜する＞",
+    "answer1": "かてい＜する＞",
+    "answer2": "Giả định"
+  },
+  {
+    "question": "推測＜する＞",
+    "answer1": "すいそく＜する＞",
+    "answer2": "Suy đoán"
+  },
+  {
+    "question": "想定＜する＞",
+    "answer1": "そうてい＜する＞",
+    "answer2": "Giả định trước"
+  },
+  {
+    "question": "把握＜する＞",
+    "answer1": "はあく＜する＞",
+    "answer2": "Nắm bắt"
+  },
+  {
+    "question": "判断基準",
+    "answer1": "はんだんきじゅん",
+    "answer2": "Tiêu chí đánh giá"
+  },
+  {
+    "question": "信頼＜する＞",
+    "answer1": "しんらい＜する＞",
+    "answer2": "Tin cậy"
+  },
+  {
+    "question": "信用＜する＞",
+    "answer1": "しんよう＜する＞",
+    "answer2": "Tín nhiệm"
+  },
+  {
+    "question": "裏付け",
+    "answer1": "うらづけ",
+    "answer2": "Bằng chứng"
+  },
+  {
+    "question": "証拠",
+    "answer1": "しょうこ",
+    "answer2": "Chứng cứ"
+  },
+  {
+    "question": "事例",
+    "answer1": "じれい",
+    "answer2": "Ví dụ"
+  },
+  {
+    "question": "実態",
+    "answer1": "じったい",
+    "answer2": "Thực trạng"
+  },
+  {
+    "question": "傾く",
+    "answer1": "かたむく",
+    "answer2": "Nghiêng"
+  },
+  {
+    "question": "偏る",
+    "answer1": "かたよる",
+    "answer2": "Thiên lệch"
+  },
+  {
+    "question": "正す",
+    "answer1": "ただす",
+    "answer2": "Sửa cho đúng"
+  },
+  {
+    "question": "導く",
+    "answer1": "みちびく",
+    "answer2": "Dẫn dắt"
+  },
+  {
+    "question": "結び付く",
+    "answer1": "むすびつく",
+    "answer2": "Liên kết"
+  },
+  {
+    "question": "成り立つ",
+    "answer1": "なりたつ",
+    "answer2": "Hình thành"
+  },
+  {
+    "question": "成り立ち",
+    "answer1": "なりたち",
+    "answer2": "Nguồn gốc"
+  },
+  {
+    "question": "妥協＜する＞",
+    "answer1": "だきょう＜する＞",
+    "answer2": "Thỏa hiệp"
+  },
+  {
+    "question": "仮説",
+    "answer1": "かせつ",
+    "answer2": "Giả thuyết"
+  },
+  {
+    "question": "見解",
+    "answer1": "けんかい",
+    "answer2": "Quan điểm"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "全般的に",
+    "answer1": "ぜんぱんてきに",
+    "answer2": "Nhìn chung"
+  },
+  {
+    "question": "一連の",
+    "answer1": "いちれんの",
+    "answer2": "Một loạt"
+  },
+  {
+    "question": "一括＜する＞",
+    "answer1": "いっかつ＜する＞",
+    "answer2": "Gộp lại"
+  },
+  {
+    "question": "段取り",
+    "answer1": "だんどり",
+    "answer2": "Sắp xếp"
+  },
+  {
+    "question": "手配＜する＞",
+    "answer1": "てはい＜する＞",
+    "answer2": "Chuẩn bị"
+  },
+  {
+    "question": "対応策",
+    "answer1": "たいおうさく",
+    "answer2": "Biện pháp đối ứng"
+  },
+  {
+    "question": "想定",
+    "answer1": "そうてい",
+    "answer2": "Giả định"
+  },
+  {
+    "question": "想定内",
+    "answer1": "そうていない",
+    "answer2": "Trong dự đoán"
+  },
+  {
+    "question": "想定外",
+    "answer1": "そうていがい",
+    "answer2": "Ngoài dự đoán"
+  },
+  {
+    "question": "見通し",
+    "answer1": "みとおし",
+    "answer2": "Triển vọng"
+  },
+  {
+    "question": "目安",
+    "answer1": "めやす",
+    "answer2": "Mốc tham chiếu"
+  },
+  {
+    "question": "方角",
+    "answer1": "ほうがく",
+    "answer2": "Phương hướng"
+  },
+  {
+    "question": "観点",
+    "answer1": "かんてん",
+    "answer2": "Góc nhìn"
+  },
+  {
+    "question": "焦点",
+    "answer1": "しょうてん",
+    "answer2": "Trọng tâm"
+  },
+  {
+    "question": "着目＜する＞",
+    "answer1": "ちゃくもく＜する＞",
+    "answer2": "Chú ý"
+  },
+  {
+    "question": "重視＜する＞",
+    "answer1": "じゅうし＜する＞",
+    "answer2": "Coi trọng"
+  },
+  {
+    "question": "軽視＜する＞",
+    "answer1": "けいし＜する＞",
+    "answer2": "Xem nhẹ"
+  },
+  {
+    "question": "即座に",
+    "answer1": "そくざに",
+    "answer2": "Ngay lập tức"
+  },
+  {
+    "question": "柔軟な",
+    "answer1": "じゅうなんな",
+    "answer2": "Linh hoạt"
+  },
+  {
+    "question": "慎重な",
+    "answer1": "しんちょうな",
+    "answer2": "Thận trọng"
+  },
+  {
+    "question": "的確な",
+    "answer1": "てきかくな",
+    "answer2": "Chuẩn xác"
+  },
+  {
+    "question": "気が早い",
+    "answer1": "きがはやい",
+    "answer2": "Nôn nóng"
+  },
+  {
+    "question": "気が重い",
+    "answer1": "きがおもい",
+    "answer2": "Cảm thấy chán nản, nặng nề"
+  },
+  {
+    "question": "気が合う",
+    "answer1": "きがあう",
+    "answer2": "Hợp tính"
+  },
+  {
+    "question": "気が利く",
+    "answer1": "きがきく",
+    "answer2": "Chu đáo, quan tâm, ân cần"
+  }
+]

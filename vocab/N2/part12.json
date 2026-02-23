@@ -1,0 +1,127 @@
+[
+  {
+    "question": "見出し",
+    "answer1": "みだし",
+    "answer2": "Tiêu đề"
+  },
+  {
+    "question": "一切（〜ない）",
+    "answer1": "いっさい（〜ない）",
+    "answer2": "Hoàn toàn (không)"
+  },
+  {
+    "question": "合間",
+    "answer1": "あいま",
+    "answer2": "Khoảng thời gian trống"
+  },
+  {
+    "question": "てきぱき[と]＜為る＞",
+    "answer1": "てきぱきする",
+    "answer2": "Nhanh nhẹn, gọn gàng"
+  },
+  {
+    "question": "間",
+    "answer1": "ま",
+    "answer2": "Khoảng thời gian"
+  },
+  {
+    "question": "周辺",
+    "answer1": "しゅうへん",
+    "answer2": "Xung quanh"
+  },
+  {
+    "question": "周囲",
+    "answer1": "しゅうい",
+    "answer2": "Vùng xung quanh"
+  },
+  {
+    "question": "跡",
+    "answer1": "あと",
+    "answer2": "Sau, còn nữa"
+  },
+  {
+    "question": "すれ違う",
+    "answer1": "すれちがう",
+    "answer2": "Đi lướt qua nhau"
+  },
+  {
+    "question": "這う",
+    "answer1": "はう",
+    "answer2": "Bò, trườn"
+  },
+  {
+    "question": "替える",
+    "answer1": "かえる",
+    "answer2": "Thay"
+  },
+  {
+    "question": "整える",
+    "answer1": "ととのえる",
+    "answer2": "Sắp xếp, chỉnh đốn"
+  },
+  {
+    "question": "碌に（〜無い）",
+    "answer1": "ろくに（〜ない）",
+    "answer2": "Không đầy đủ, không ra gì"
+  },
+  {
+    "question": "減り張り",
+    "answer1": "めりはり",
+    "answer2": "Nhịp độ rõ ràng, có chừng mực"
+  },
+  {
+    "question": "何度も",
+    "answer1": "なんども",
+    "answer2": "Nhiều lần"
+  },
+  {
+    "question": "略",
+    "answer1": "ほぼ",
+    "answer2": "Hầu như"
+  },
+  {
+    "question": "寄り道＜する＞",
+    "answer1": "よりみちする",
+    "answer2": "Ghé đường, ghé ngang"
+  },
+  {
+    "question": "食物",
+    "answer1": "しょくもつ",
+    "answer2": "Đồ ăn"
+  },
+  {
+    "question": "換気＜する＞",
+    "answer1": "かんきする",
+    "answer2": "Thông gió"
+  },
+  {
+    "question": "一旦",
+    "answer1": "いったん",
+    "answer2": "Tạm thời, một lần"
+  },
+  {
+    "question": "物干し",
+    "answer1": "ものほし",
+    "answer2": "Chỗ phơi đồ"
+  },
+  {
+    "question": "食卓",
+    "answer1": "しょくたく",
+    "answer2": "Bàn ăn"
+  },
+  {
+    "question": "後回し",
+    "answer1": "あとまわし",
+    "answer2": "Để sau"
+  },
+  {
+    "question": "削る",
+    "answer1": "けずる",
+    "answer2": "Cắt bớt"
+  },
+  {
+    "question": "叶える",
+    "answer1": "かなえる",
+    "answer2": "Đạt được"
+  }
+]

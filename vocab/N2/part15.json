@@ -1,0 +1,127 @@
+[
+  {
+    "question": "粗大ごみ",
+    "answer1": "そだいごみ",
+    "answer2": "Rác cỡ lớn"
+  },
+  {
+    "question": "古新聞",
+    "answer1": "ふるしんぶん",
+    "answer2": "Báo cũ"
+  },
+  {
+    "question": "分別＜する＞",
+    "answer1": "ぶんべつする",
+    "answer2": "Phân loại"
+  },
+  {
+    "question": "ごみ袋",
+    "answer1": "ごみぶくろ",
+    "answer2": "Túi rác"
+  },
+  {
+    "question": "生臭い",
+    "answer1": "なまぐさい",
+    "answer2": "Tanh hôi"
+  },
+  {
+    "question": "大小",
+    "answer1": "だいしょう",
+    "answer2": "Lớn nhỏ"
+  },
+  {
+    "question": "しゃぶる",
+    "answer1": "しゃぶる",
+    "answer2": "Mút, ngậm"
+  },
+  {
+    "question": "お襁褓",
+    "answer1": "おむつ",
+    "answer2": "Tã"
+  },
+  {
+    "question": "双子",
+    "answer1": "ふたご",
+    "answer2": "Song sinh"
+  },
+  {
+    "question": "衣類",
+    "answer1": "いるい",
+    "answer2": "Quần áo"
+  },
+  {
+    "question": "入れ替える",
+    "answer1": "いれかえる",
+    "answer2": "Thay thế"
+  },
+  {
+    "question": "狂う",
+    "answer1": "くるう",
+    "answer2": "Rối loạn, trục trặc"
+  },
+  {
+    "question": "処分＜する＞",
+    "answer1": "しょぶんする",
+    "answer2": "Xử lý, bỏ đi"
+  },
+  {
+    "question": "不用品",
+    "answer1": "ふようひん",
+    "answer2": "Đồ không cần thiết"
+  },
+  {
+    "question": "剥がす",
+    "answer1": "はがす",
+    "answer2": "Gỡ ra"
+  },
+  {
+    "question": "束",
+    "answer1": "たば",
+    "answer2": "Bó"
+  },
+  {
+    "question": "縛る",
+    "answer1": "しばる",
+    "answer2": "Buộc"
+  },
+  {
+    "question": "段ボール",
+    "answer1": "だんボール",
+    "answer2": "Thùng carton"
+  },
+  {
+    "question": "ガムテープ",
+    "answer1": "ガムテープ",
+    "answer2": "Băng keo"
+  },
+  {
+    "question": "押し込む",
+    "answer1": "おしこむ",
+    "answer2": "Nhét vào"
+  },
+  {
+    "question": "リスト",
+    "answer1": "リスト",
+    "answer2": "Danh sách"
+  },
+  {
+    "question": "引っ掛かる",
+    "answer1": "ひっかかる",
+    "answer2": "Mắc, vướng"
+  },
+  {
+    "question": "持ち上げる",
+    "answer1": "もちあげる",
+    "answer2": "Nâng lên"
+  },
+  {
+    "question": "担ぐ",
+    "answer1": "かつぐ",
+    "answer2": "Vác"
+  },
+  {
+    "question": "草臥れる",
+    "answer1": "くたびれる",
+    "answer2": "Mệt nhoài"
+  }
+]

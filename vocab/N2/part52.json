@@ -1,0 +1,127 @@
+[
+  {
+    "question": "個人情報",
+    "answer1": "こじんじょうほう",
+    "answer2": "Thông tin cá nhân"
+  },
+  {
+    "question": "プライバシー",
+    "answer1": "プライバシー",
+    "answer2": "Riêng tư"
+  },
+  {
+    "question": "定着＜する＞",
+    "answer1": "ていちゃく＜する＞",
+    "answer2": "Định hình"
+  },
+  {
+    "question": "両立＜する＞",
+    "answer1": "りょうりつ＜する＞",
+    "answer2": "Song song tồn tại"
+  },
+  {
+    "question": "システム",
+    "answer1": "システム",
+    "answer2": "Hệ thống"
+  },
+  {
+    "question": "煙",
+    "answer1": "けむり",
+    "answer2": "Khói"
+  },
+  {
+    "question": "公",
+    "answer1": "おおやけ",
+    "answer2": "Công cộng"
+  },
+  {
+    "question": "マスコミ",
+    "answer1": "マスコミ",
+    "answer2": "Truyền thông"
+  },
+  {
+    "question": "メディア",
+    "answer1": "メディア",
+    "answer2": "Phương tiện truyền thông"
+  },
+  {
+    "question": "取材＜する＞",
+    "answer1": "しゅざい＜する＞",
+    "answer2": "Phỏng vấn"
+  },
+  {
+    "question": "報道＜する＞",
+    "answer1": "ほうどう＜する＞",
+    "answer2": "Đưa tin"
+  },
+  {
+    "question": "中継＜する＞",
+    "answer1": "ちゅうけい＜する＞",
+    "answer2": "Phát sóng trực tiếp"
+  },
+  {
+    "question": "訂正＜する＞",
+    "answer1": "ていせい＜する＞",
+    "answer2": "Đính chính"
+  },
+  {
+    "question": "直ちに",
+    "answer1": "ただちに",
+    "answer2": "Ngay lập tức"
+  },
+  {
+    "question": "コマーシャル",
+    "answer1": "コマーシャル",
+    "answer2": "Quảng cáo"
+  },
+  {
+    "question": "国旗",
+    "answer1": "こっき",
+    "answer2": "Quốc kỳ"
+  },
+  {
+    "question": "様々な",
+    "answer1": "さまざまな",
+    "answer2": "Đa dạng"
+  },
+  {
+    "question": "国籍",
+    "answer1": "こくせき",
+    "answer2": "Quốc tịch"
+  },
+  {
+    "question": "先進国",
+    "answer1": "せんしんこく",
+    "answer2": "Nước phát triển"
+  },
+  {
+    "question": "呼称",
+    "answer1": "こしょう",
+    "answer2": "Cách gọi"
+  },
+  {
+    "question": "宗教",
+    "answer1": "しゅうきょう",
+    "answer2": "Tôn giáo"
+  },
+  {
+    "question": "異文化",
+    "answer1": "いぶんか",
+    "answer2": "Khác văn hóa"
+  },
+  {
+    "question": "否定＜する＞",
+    "answer1": "ひてい＜する＞",
+    "answer2": "Phủ định"
+  },
+  {
+    "question": "移民＜する＞",
+    "answer1": "いみん＜する＞",
+    "answer2": "Di cư"
+  },
+  {
+    "question": "見方",
+    "answer1": "みかた",
+    "answer2": "Cách nhìn"
+  }
+]

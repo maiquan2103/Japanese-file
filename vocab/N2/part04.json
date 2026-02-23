@@ -1,0 +1,127 @@
+[
+  {
+    "question": "カップル",
+    "answer1": "カップル",
+    "answer2": "Cặp đôi"
+  },
+  {
+    "question": "愛",
+    "answer1": "あい",
+    "answer2": "Tình yêu"
+  },
+  {
+    "question": "同士",
+    "answer1": "どうし",
+    "answer2": "Cùng chí hướng"
+  },
+  {
+    "question": "[お]互い[に]",
+    "answer1": "[お]たがいに",
+    "answer2": "Lẫn nhau"
+  },
+  {
+    "question": "つり合う",
+    "answer1": "つりあう",
+    "answer2": "Cân xứng"
+  },
+  {
+    "question": "寧ろ",
+    "answer1": "むしろ",
+    "answer2": "Ngược lại"
+  },
+  {
+    "question": "言わば",
+    "answer1": "いわば",
+    "answer2": "Có thể nói là"
+  },
+  {
+    "question": "視線",
+    "answer1": "しせん",
+    "answer2": "Ánh nhìn"
+  },
+  {
+    "question": "見つめる",
+    "answer1": "みつめる",
+    "answer2": "Nhìn chăm chú"
+  },
+  {
+    "question": "逸らす",
+    "answer1": "そらす",
+    "answer2": "Lảng tránh"
+  },
+  {
+    "question": "ちらっと見る",
+    "answer1": "ちらっと",
+    "answer2": "Liếc nhìn"
+  },
+  {
+    "question": "若しかすると",
+    "answer1": "もしかすると",
+    "answer2": "Biết đâu"
+  },
+  {
+    "question": "探る",
+    "answer1": "さぐる",
+    "answer2": "Thăm dò"
+  },
+  {
+    "question": "示す",
+    "answer1": "しめす",
+    "answer2": "Thể hiện"
+  },
+  {
+    "question": "口実",
+    "answer1": "こうじつ",
+    "answer2": "Cái cớ"
+  },
+  {
+    "question": "俯く",
+    "answer1": "うつむく",
+    "answer2": "Cúi mặt"
+  },
+  {
+    "question": "こそこそ泥棒<為る>",
+    "answer1": "こそこそする",
+    "answer2": "Lén lút"
+  },
+  {
+    "question": "囁く",
+    "answer1": "ささやく",
+    "answer2": "Thì thầm"
+  },
+  {
+    "question": "禁物",
+    "answer1": "きんもつ",
+    "answer2": "Điều cấm kỵ"
+  },
+  {
+    "question": "許す",
+    "answer1": "ゆるす",
+    "answer2": "Tha thứ"
+  },
+  {
+    "question": "合コン",
+    "answer1": "ごうコン",
+    "answer2": "Gặp mặt làm quen"
+  },
+  {
+    "question": "アプローチ<為る>",
+    "answer1": "アプローチする",
+    "answer2": "Tiếp cận"
+  },
+  {
+    "question": "運命",
+    "answer1": "うんめい",
+    "answer2": "Số phận"
+  },
+  {
+    "question": "決意<する>",
+    "answer1": "けついする",
+    "answer2": "Quyết tâm"
+  },
+  {
+    "question": "プロポーズ<為る>",
+    "answer1": "プロポーズする",
+    "answer2": "Cầu hôn"
+  }
+]

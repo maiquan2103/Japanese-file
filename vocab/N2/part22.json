@@ -1,0 +1,127 @@
+[
+  {
+    "question": "学力",
+    "answer1": "がくりょく",
+    "answer2": "Học lực"
+  },
+  {
+    "question": "教養",
+    "answer1": "きょうよう",
+    "answer2": "Giáo dưỡng"
+  },
+  {
+    "question": "参考書",
+    "answer1": "さんこうしょ",
+    "answer2": "Sách tham khảo"
+  },
+  {
+    "question": "書き込む",
+    "answer1": "かきこむ",
+    "answer2": "Viết vào"
+  },
+  {
+    "question": "書き取る",
+    "answer1": "かきとる",
+    "answer2": "Nghe và viết"
+  },
+  {
+    "question": "記号",
+    "answer1": "きごう",
+    "answer2": "Ký hiệu"
+  },
+  {
+    "question": "図",
+    "answer1": "ず",
+    "answer2": "Hình vẽ"
+  },
+  {
+    "question": "下線",
+    "answer1": "かせん",
+    "answer2": "Gạch dưới"
+  },
+  {
+    "question": "法則",
+    "answer1": "ほうそく",
+    "answer2": "Quy luật"
+  },
+  {
+    "question": "志す",
+    "answer1": "こころざす",
+    "answer2": "Khao khát"
+  },
+  {
+    "question": "徹夜＜する＞",
+    "answer1": "てつやする",
+    "answer2": "Thức trắng đêm"
+  },
+  {
+    "question": "上達＜する＞",
+    "answer1": "じょうたつする",
+    "answer2": "Tiến bộ"
+  },
+  {
+    "question": "こつこつ働く[と]",
+    "answer1": "こつこつ",
+    "answer2": "Từng chút một"
+  },
+  {
+    "question": "地道な",
+    "answer1": "じみちな",
+    "answer2": "Bền bỉ"
+  },
+  {
+    "question": "根気",
+    "answer1": "こんき",
+    "answer2": "Kiên nhẫn"
+  },
+  {
+    "question": "効率的な",
+    "answer1": "こうりつてきな",
+    "answer2": "Hiệu quả"
+  },
+  {
+    "question": "旺盛な",
+    "answer1": "おうせいな",
+    "answer2": "Mạnh mẽ"
+  },
+  {
+    "question": "基礎",
+    "answer1": "きそ",
+    "answer2": "Cơ sở"
+  },
+  {
+    "question": "基本",
+    "answer1": "きほん",
+    "answer2": "Căn bản"
+  },
+  {
+    "question": "除く",
+    "answer1": "のぞく",
+    "answer2": "Loại trừ"
+  },
+  {
+    "question": "現状",
+    "answer1": "げんじょう",
+    "answer2": "Hiện trạng"
+  },
+  {
+    "question": "疎か",
+    "answer1": "おろそかな",
+    "answer2": "Sao nhãng"
+  },
+  {
+    "question": "可能＜な＞",
+    "answer1": "かのうな",
+    "answer2": "Có thể"
+  },
+  {
+    "question": "実現＜する＞",
+    "answer1": "じつげんする",
+    "answer2": "Thực hiện"
+  },
+  {
+    "question": "混同＜する＞",
+    "answer1": "こんどうする",
+    "answer2": "Nhầm lẫn"
+  }
+]

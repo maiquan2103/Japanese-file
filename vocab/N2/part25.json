@@ -1,0 +1,127 @@
+[
+  {
+    "question": "訳す",
+    "answer1": "やくす",
+    "answer2": "Dịch"
+  },
+  {
+    "question": "編集＜する＞",
+    "answer1": "へんしゅうする",
+    "answer2": "Biên tập"
+  },
+  {
+    "question": "要旨",
+    "answer1": "ようし",
+    "answer2": "Tóm tắt"
+  },
+  {
+    "question": "明確な",
+    "answer1": "めいかくな",
+    "answer2": "Rõ ràng"
+  },
+  {
+    "question": "挙げる",
+    "answer1": "あげる",
+    "answer2": "Nêu ra"
+  },
+  {
+    "question": "用いる",
+    "answer1": "もちいる",
+    "answer2": "Sử dụng"
+  },
+  {
+    "question": "手書き",
+    "answer1": "てがき",
+    "answer2": "Viết tay"
+  },
+  {
+    "question": "一気に",
+    "answer1": "いっきに",
+    "answer2": "Một mạch"
+  },
+  {
+    "question": "完成＜する＞",
+    "answer1": "かんせいする",
+    "answer2": "Hoàn thành"
+  },
+  {
+    "question": "起動＜する＞",
+    "answer1": "きどうする",
+    "answer2": "Khởi động"
+  },
+  {
+    "question": "本体",
+    "answer1": "ほんたい",
+    "answer2": "Thân máy"
+  },
+  {
+    "question": "キーボード",
+    "answer1": "キーボード",
+    "answer2": "Bàn phím"
+  },
+  {
+    "question": "ディスプレイ",
+    "answer1": "ディスプレイ",
+    "answer2": "Màn hình"
+  },
+  {
+    "question": "接続＜する＞",
+    "answer1": "せつぞくする",
+    "answer2": "Kết nối"
+  },
+  {
+    "question": "検索＜する＞",
+    "answer1": "けんさくする",
+    "answer2": "Tìm kiếm"
+  },
+  {
+    "question": "転送＜する＞",
+    "answer1": "てんそうする",
+    "answer2": "Chuyển tiếp"
+  },
+  {
+    "question": "文書",
+    "answer1": "ぶんしょ",
+    "answer2": "Văn bản"
+  },
+  {
+    "question": "設定＜する＞",
+    "answer1": "せっていする",
+    "answer2": "Cài đặt"
+  },
+  {
+    "question": "余白",
+    "answer1": "よはく",
+    "answer2": "Lề"
+  },
+  {
+    "question": "フォント",
+    "answer1": "フォント",
+    "answer2": "Phông chữ"
+  },
+  {
+    "question": "カーソル",
+    "answer1": "カーソル",
+    "answer2": "Con trỏ"
+  },
+  {
+    "question": "改行＜する＞",
+    "answer1": "かいぎょうする",
+    "answer2": "Xuống dòng"
+  },
+  {
+    "question": "区切る",
+    "answer1": "くぎる",
+    "answer2": "Ngắt đoạn"
+  },
+  {
+    "question": "貼り付ける",
+    "answer1": "はりつける",
+    "answer2": "Dán"
+  },
+  {
+    "question": "強調＜する＞",
+    "answer1": "きょうちょうする",
+    "answer2": "Nhấn mạnh"
+  }
+]
