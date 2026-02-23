@@ -1,0 +1,127 @@
+[
+  {
+    "question": "強ち[〜無い]",
+    "answer1": "あながち[〜ない]",
+    "answer2": "Không hẳn là"
+  },
+  {
+    "question": "いざ知らず",
+    "answer1": "いざしらず",
+    "answer2": "Không biết thế nào… nhưng"
+  },
+  {
+    "question": "多かれ少なかれ",
+    "answer1": "おおかれすくなかれ",
+    "answer2": "Dù ít hay nhiều"
+  },
+  {
+    "question": "遅かれ早かれ",
+    "answer1": "おそかれはやかれ",
+    "answer2": "Sớm hay muộn"
+  },
+  {
+    "question": "適性",
+    "answer1": "てきせい",
+    "answer2": "Thích hợp, năng lực"
+  },
+  {
+    "question": "捗る",
+    "answer1": "はかどる",
+    "answer2": "Tiến triển thuận lợi"
+  },
+  {
+    "question": "手掛ける",
+    "answer1": "てがける",
+    "answer2": "Bắt tay vào làm"
+  },
+  {
+    "question": "打ち込む",
+    "answer1": "うちこむ",
+    "answer2": "Tập trung vào/Ném, liệng"
+  },
+  {
+    "question": "負う",
+    "answer1": "おう",
+    "answer2": "Gánh vác"
+  },
+  {
+    "question": "先方",
+    "answer1": "せんぽう",
+    "answer2": "Bên đối phương"
+  },
+  {
+    "question": "議題",
+    "answer1": "ぎだい",
+    "answer2": "Đề án, chủ đề"
+  },
+  {
+    "question": "了承＜する＞",
+    "answer1": "りょうしょう＜する＞",
+    "answer2": "Chấp thuận"
+  },
+  {
+    "question": "出向く",
+    "answer1": "でむく",
+    "answer2": "Đi tới"
+  },
+  {
+    "question": "手数",
+    "answer1": "てすう",
+    "answer2": "Tốn công"
+  },
+  {
+    "question": "承る",
+    "answer1": "うけたまわる",
+    "answer2": "Tiếp nhận (khiêm nhường ngữ)"
+  },
+  {
+    "question": "例の",
+    "answer1": "れいの",
+    "answer2": "Đã nói trước đó"
+  },
+  {
+    "question": "取り急ぎ",
+    "answer1": "とりいそぎ",
+    "answer2": "Gấp gáp"
+  },
+  {
+    "question": "企画＜する＞",
+    "answer1": "きかく＜する＞",
+    "answer2": "Lập kế hoạch"
+  },
+  {
+    "question": "受け持つ",
+    "answer1": "うけもつ",
+    "answer2": "Đảm nhiệm"
+  },
+  {
+    "question": "分担＜する＞",
+    "answer1": "ぶんたん＜する＞",
+    "answer2": "Phân chia"
+  },
+  {
+    "question": "連携＜する＞",
+    "answer1": "れんけい＜する＞",
+    "answer2": "Liên kết"
+  },
+  {
+    "question": "連帯＜する＞",
+    "answer1": "れんたい＜する＞",
+    "answer2": "Đoàn kết"
+  },
+  {
+    "question": "組み込む",
+    "answer1": "くみこむ",
+    "answer2": "Nhúng vào"
+  },
+  {
+    "question": "根回し＜する＞",
+    "answer1": "ねまわし＜する＞",
+    "answer2": "Thương lượng trước"
+  },
+  {
+    "question": "出社＜する＞",
+    "answer1": "しゅっしゃ＜する＞",
+    "answer2": "Đến công ty"
+  }
+]

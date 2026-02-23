@@ -1,0 +1,127 @@
+[
+  {
+    "question": "きっかり",
+    "answer1": "きっかり",
+    "answer2": "Chính xác, hoàn hảo, đúng"
+  },
+  {
+    "question": "株",
+    "answer1": "かぶ",
+    "answer2": "Cổ phiếu"
+  },
+  {
+    "question": "何でもかんでも",
+    "answer1": "なんでもかんでも",
+    "answer2": "bất cứ cái gì"
+  },
+  {
+    "question": "何だかんだ[と]",
+    "answer1": "なんだかんだ[と]",
+    "answer2": "Bất cứ cái gì"
+  },
+  {
+    "question": "人並み",
+    "answer1": "ひとなみ",
+    "answer2": "Như bất cứ ai khác"
+  },
+  {
+    "question": "老後",
+    "answer1": "ろうご",
+    "answer2": "Tuổi già"
+  },
+  {
+    "question": "尽きる",
+    "answer1": "つきる",
+    "answer2": "Cạn kiệt, hết sức, bị dùng hết"
+  },
+  {
+    "question": "滞納＜する＞",
+    "answer1": "たいのう＜する＞",
+    "answer2": "Nộp muộn, không trả"
+  },
+  {
+    "question": "首が回らない",
+    "answer1": "くびがまわらない",
+    "answer2": "Ngập trong nợ nần"
+  },
+  {
+    "question": "買い込む",
+    "answer1": "かいこむ",
+    "answer2": "Mua vào, trữ"
+  },
+  {
+    "question": "先着＜する＞",
+    "answer1": "せんちゃく＜する＞",
+    "answer2": "Đến trước"
+  },
+  {
+    "question": "キャンペーン",
+    "answer1": "キャンペーン",
+    "answer2": "Chiến dịch"
+  },
+  {
+    "question": "一律",
+    "answer1": "いちりつ",
+    "answer2": "Ngang bằng, giống nhau, không thay đổi"
+  },
+  {
+    "question": "値打ち",
+    "answer1": "ねうち",
+    "answer2": "Giá trị, đáng giá"
+  },
+  {
+    "question": "値する",
+    "answer1": "あたいする",
+    "answer2": "Xứng đáng"
+  },
+  {
+    "question": "良心的な",
+    "answer1": "りょうしんてきな",
+    "answer2": "Biết điều, vừa phải, phải chăng"
+  },
+  {
+    "question": "正味",
+    "answer1": "しょうみ",
+    "answer2": "Trọng lượng (tịnh)"
+  },
+  {
+    "question": "国産",
+    "answer1": "こくさん",
+    "answer2": "Sản xuất ở trong nước"
+  },
+  {
+    "question": "在庫",
+    "answer1": "ざいこ",
+    "answer2": "Tồn kho, dự trữ"
+  },
+  {
+    "question": "有効＜な＞",
+    "answer1": "ゆうこう＜な＞",
+    "answer2": "Hiệu lực, có hiệu quả"
+  },
+  {
+    "question": "名義",
+    "answer1": "めいぎ",
+    "answer2": "Tên"
+  },
+  {
+    "question": "一括＜する＞",
+    "answer1": "いっかつ＜する＞",
+    "answer2": "Gộp, một lần, tổng hợp"
+  },
+  {
+    "question": "換算＜する＞",
+    "answer1": "かんさん＜する＞",
+    "answer2": "Hoán đổi, quy đổi"
+  },
+  {
+    "question": "ピン殻キリ迄",
+    "answer1": "ピンからキリまで",
+    "answer2": "Toàn bộ từ việc bé tới việc lớn, từ A đến Z, tất cả các loại"
+  },
+  {
+    "question": "切りがない",
+    "answer1": "きりがない",
+    "answer2": "Không làm sao hết được"
+  }
+]

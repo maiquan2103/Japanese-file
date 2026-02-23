@@ -1,0 +1,127 @@
+[
+  {
+    "question": "和やかな",
+    "answer1": "なごやかな",
+    "answer2": "thân mật, thư thái"
+  },
+  {
+    "question": "和気あいあいと",
+    "answer1": "わきあいあいと",
+    "answer2": "thân mật, vui vẻ"
+  },
+  {
+    "question": "喜ばしい",
+    "answer1": "よろこばしい",
+    "answer2": "vui mừng"
+  },
+  {
+    "question": "華々しい",
+    "answer1": "はなばなしい",
+    "answer2": "rực rỡ, tráng lệ"
+  },
+  {
+    "question": "いそいそと",
+    "answer1": "いそいそと",
+    "answer2": "háo hức"
+  },
+  {
+    "question": "浮き浮き＜為る＞",
+    "answer1": "うきうき＜する＞",
+    "answer2": "háo hức"
+  },
+  {
+    "question": "時めく",
+    "answer1": "ときめく",
+    "answer2": "rung động"
+  },
+  {
+    "question": "意気揚々[と]",
+    "answer1": "いきようよう[と]",
+    "answer2": "hân hoan"
+  },
+  {
+    "question": "得意満面＜な＞",
+    "answer1": "とくいまんめん＜な＞",
+    "answer2": "khuôn mặt đắc ý"
+  },
+  {
+    "question": "心が躍る",
+    "answer1": "こころがおどる",
+    "answer2": "hưng phấn"
+  },
+  {
+    "question": "待ち遠しい",
+    "answer1": "まちどおしい",
+    "answer2": "mong ngóng, mong đợi"
+  },
+  {
+    "question": "精製",
+    "answer1": "せいせいする",
+    "answer2": "sảng khoái"
+  },
+  {
+    "question": "さばさば＜為る＞",
+    "answer1": "さばさば＜する＞",
+    "answer2": "nhẹ nhõm"
+  },
+  {
+    "question": "乗り気＜な＞",
+    "answer1": "のりき＜な＞",
+    "answer2": "nhiệt tình"
+  },
+  {
+    "question": "テンション",
+    "answer1": "テンション",
+    "answer2": "tâm trạng"
+  },
+  {
+    "question": "喜怒哀楽",
+    "answer1": "きどあいらく",
+    "answer2": "cảm xúc"
+  },
+  {
+    "question": "鬱陶しい",
+    "answer1": "うっとうしい",
+    "answer2": "tối tăm, giận dữ"
+  },
+  {
+    "question": "切ない",
+    "answer1": "せつない",
+    "answer2": "đau buồn"
+  },
+  {
+    "question": "遣る瀬無い",
+    "answer1": "やるせない",
+    "answer2": "đau khổ"
+  },
+  {
+    "question": "しゃくに障る",
+    "answer1": "しゃくにさわる",
+    "answer2": "đáng giận"
+  },
+  {
+    "question": "凹む",
+    "answer1": "へこむ",
+    "answer2": "thất vọng"
+  },
+  {
+    "question": "くよくよ＜為る＞",
+    "answer1": "くよくよ＜する＞",
+    "answer2": "lo lắng"
+  },
+  {
+    "question": "心苦しい",
+    "answer1": "こころぐるしい",
+    "answer2": "áy náy, đau khổ, hối hận"
+  },
+  {
+    "question": "虚しい",
+    "answer1": "むなしい",
+    "answer2": "buồn chán, trống rỗng"
+  },
+  {
+    "question": "憂うつ＜な＞",
+    "answer1": "ゆううつ＜な＞",
+    "answer2": "u uất, thất vọng"
+  }
+]

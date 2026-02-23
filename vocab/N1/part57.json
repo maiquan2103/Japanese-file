@@ -1,0 +1,127 @@
+[
+  {
+    "question": "身元",
+    "answer1": "みもと",
+    "answer2": "lai lịch, thân phận"
+  },
+  {
+    "question": "当人",
+    "answer1": "とうにん",
+    "answer2": "đương sự"
+  },
+  {
+    "question": "痛ましい",
+    "answer1": "いたましい",
+    "answer2": "đau đớn, đáng tiếc"
+  },
+  {
+    "question": "憤る",
+    "answer1": "いきどおる",
+    "answer2": "phẫn uất"
+  },
+  {
+    "question": "見抜く",
+    "answer1": "みぬく",
+    "answer2": "nhìn thấu"
+  },
+  {
+    "question": "究明＜する＞",
+    "answer1": "きゅうめい＜する＞",
+    "answer2": "điều tra làm rõ"
+  },
+  {
+    "question": "合致＜する＞",
+    "answer1": "がっち＜する＞",
+    "answer2": "phù hợp, thống nhất"
+  },
+  {
+    "question": "自首＜する＞",
+    "answer1": "じしゅ＜する＞",
+    "answer2": "tự thú"
+  },
+  {
+    "question": "手抜き＜する＞",
+    "answer1": "てぬき＜する＞",
+    "answer2": "làm ẩu"
+  },
+  {
+    "question": "再現＜する＞",
+    "answer1": "さいげん＜する＞",
+    "answer2": "tái hiện"
+  },
+  {
+    "question": "賠償＜する＞",
+    "answer1": "ばいしょう＜する＞",
+    "answer2": "bồi thường"
+  },
+  {
+    "question": "再三",
+    "answer1": "さいさん",
+    "answer2": "nhiều lần"
+  },
+  {
+    "question": "後を絶たない",
+    "answer1": "あとをたたない",
+    "answer2": "không dứt, liên tục"
+  },
+  {
+    "question": "脅す",
+    "answer1": "おどす",
+    "answer2": "đe dọa"
+  },
+  {
+    "question": "不審＜な＞",
+    "answer1": "ふしん＜な＞",
+    "answer2": "đáng nghi"
+  },
+  {
+    "question": "手口",
+    "answer1": "てぐち",
+    "answer2": "thủ đoạn"
+  },
+  {
+    "question": "巧妙な",
+    "answer1": "こうみょうな",
+    "answer2": "tinh vi"
+  },
+  {
+    "question": "偽造＜する＞",
+    "answer1": "ぎぞう＜する＞",
+    "answer2": "làm giả"
+  },
+  {
+    "question": "目論む",
+    "answer1": "もくろむ",
+    "answer2": "âm mưu"
+  },
+  {
+    "question": "悪どい",
+    "answer1": "あくどい",
+    "answer2": "vô lương tâm"
+  },
+  {
+    "question": "浅ましい",
+    "answer1": "あさましい",
+    "answer2": "đáng khinh"
+  },
+  {
+    "question": "逃れる",
+    "answer1": "のがれる",
+    "answer2": "thoát khỏi"
+  },
+  {
+    "question": "逃げ出す",
+    "answer1": "にげだす",
+    "answer2": "chạy trốn"
+  },
+  {
+    "question": "逃す",
+    "answer1": "のがす",
+    "answer2": "để sổng"
+  },
+  {
+    "question": "足掻く",
+    "answer1": "あがく",
+    "answer2": "vật lộn"
+  }
+]

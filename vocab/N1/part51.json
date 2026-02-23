@@ -1,0 +1,127 @@
+[
+  {
+    "question": "ダム",
+    "answer1": "ダム",
+    "answer2": "Đập nước"
+  },
+  {
+    "question": "強まる",
+    "answer1": "つよまる",
+    "answer2": "Khoẻ mạnh, tăng lên, mạnh lên"
+  },
+  {
+    "question": "弱まる",
+    "answer1": "よわまる",
+    "answer2": "Suy yếu, giảm đi"
+  },
+  {
+    "question": "舞う",
+    "answer1": "まう",
+    "answer2": "Nhảy, bay"
+  },
+  {
+    "question": "兆候",
+    "answer1": "ちょうこう",
+    "answer2": "Triệu chứng, dấu hiệu"
+  },
+  {
+    "question": "暑苦しい",
+    "answer1": "あつくるしい",
+    "answer2": "Nóng nực, bức bối"
+  },
+  {
+    "question": "寝苦しい",
+    "answer1": "ねぐるしい",
+    "answer2": "Khó ngủ"
+  },
+  {
+    "question": "じめじめ[と]＜為る＞",
+    "answer1": "じめじめ[と]＜する＞",
+    "answer2": "Ẩm ướt, nhớp nháp"
+  },
+  {
+    "question": "看過",
+    "answer1": "かんかんな",
+    "answer2": "Chói chang/ điên tiết, giận dữ"
+  },
+  {
+    "question": "気がめいる",
+    "answer1": "きがめいる",
+    "answer2": "Chán nản"
+  },
+  {
+    "question": "自棄になる",
+    "answer1": "やけに",
+    "answer2": "Kinh khủng, khủng khiếp"
+  },
+  {
+    "question": "最中",
+    "answer1": "さなか",
+    "answer2": "Giữa"
+  },
+  {
+    "question": "気まぐれ＜な＞",
+    "answer1": "きまぐれ＜な＞",
+    "answer2": "Dễ thay đổi, thất thường"
+  },
+  {
+    "question": "遮る",
+    "answer1": "さえぎる",
+    "answer2": "Chặn đứng, cắt ngang"
+  },
+  {
+    "question": "避ける",
+    "answer1": "さける",
+    "answer2": "Tránh"
+  },
+  {
+    "question": "警報",
+    "answer1": "けいほう",
+    "answer2": "Cảnh báo, báo động"
+  },
+  {
+    "question": "注意報",
+    "answer1": "ちゅういほう",
+    "answer2": "Cảnh báo"
+  },
+  {
+    "question": "震源地",
+    "answer1": "しんげんち",
+    "answer2": "Tâm chấn"
+  },
+  {
+    "question": "震度",
+    "answer1": "しんど",
+    "answer2": "Độ địa chấn"
+  },
+  {
+    "question": "緊急＜な＞",
+    "answer1": "きんきゅう＜な＞",
+    "answer2": "Cấp cứu, khẩn cấp"
+  },
+  {
+    "question": "速やかな",
+    "answer1": "すみやかな",
+    "answer2": "Nhanh chóng"
+  },
+  {
+    "question": "強烈な",
+    "answer1": "きょうれつな",
+    "answer2": "Mạnh mẽ, quyết liệt"
+  },
+  {
+    "question": "猛烈な",
+    "answer1": "もうれつな",
+    "answer2": "Dữ dội, hung bạo, kinh khủng"
+  },
+  {
+    "question": "驚異的な",
+    "answer1": "きょういてきな",
+    "answer2": "Phá kỉ lục"
+  },
+  {
+    "question": "甚だしい",
+    "answer1": "はなはだしい",
+    "answer2": "Mãnh liệt, kinh khủng"
+  }
+]

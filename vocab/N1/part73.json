@@ -1,0 +1,127 @@
+[
+  {
+    "question": "手に余る",
+    "answer1": "てにあまる",
+    "answer2": "bó tay"
+  },
+  {
+    "question": "手に負えない",
+    "answer1": "てにおえない",
+    "answer2": "không thể xoay xở"
+  },
+  {
+    "question": "手も足も出ない",
+    "answer1": "てもあしもでない",
+    "answer2": "không thể làm gì"
+  },
+  {
+    "question": "手を焼く",
+    "answer1": "てをやく",
+    "answer2": "không thể kiểm soát, bó tay"
+  },
+  {
+    "question": "足が早い",
+    "answer1": "あしがはやい",
+    "answer2": "nhanh hỏng"
+  },
+  {
+    "question": "足が出る",
+    "answer1": "あしがでる",
+    "answer2": "quá hạn mức"
+  },
+  {
+    "question": "足が棒になる",
+    "answer1": "あしがぼうになる",
+    "answer2": "chân cứng đơ"
+  },
+  {
+    "question": "足を引っ張る",
+    "answer1": "あしをひっぱる",
+    "answer2": "làm vướng chân"
+  },
+  {
+    "question": "息が切れる",
+    "answer1": "いきがきれる",
+    "answer2": "mệt đứt hơi"
+  },
+  {
+    "question": "息が詰まる",
+    "answer1": "いきがつまる",
+    "answer2": "nghẹt thở, bức bối"
+  },
+  {
+    "question": "息が長い",
+    "answer1": "いきがながい",
+    "answer2": "kỳ cựu, có kinh nghiệm"
+  },
+  {
+    "question": "息を抜く",
+    "answer1": "いきをぬく",
+    "answer2": "nghỉ ngơi"
+  },
+  {
+    "question": "息をつく",
+    "answer1": "いきをつく",
+    "answer2": "thở"
+  },
+  {
+    "question": "息をのむ",
+    "answer1": "いきをのむ",
+    "answer2": "nín thở"
+  },
+  {
+    "question": "気が気でない",
+    "answer1": "きがきでない",
+    "answer2": "bồn chồn, bứt rứt"
+  },
+  {
+    "question": "気が済む",
+    "answer1": "きがすむ",
+    "answer2": "thấy khá hơn"
+  },
+  {
+    "question": "馬が合う",
+    "answer1": "うまがあう",
+    "answer2": "hòa hợp"
+  },
+  {
+    "question": "うなぎ登り",
+    "answer1": "うなぎのぼり",
+    "answer2": "thúc đẩy nhanh, tăng vùn vụt"
+  },
+  {
+    "question": "猫に小判",
+    "answer1": "ねこにこばん",
+    "answer2": "đàn gảy tai trâu"
+  },
+  {
+    "question": "猫をかぶる",
+    "answer1": "ねこをかぶる",
+    "answer2": "giả nai"
+  },
+  {
+    "question": "猫の手も借りたい",
+    "answer1": "ねこのてもかりたい",
+    "answer2": "bận túi bụi"
+  },
+  {
+    "question": "猿も木から落ちる",
+    "answer1": "さるもきからおちる",
+    "answer2": "nhân vô thập toàn"
+  },
+  {
+    "question": "犬猿の仲",
+    "answer1": "けんえんのなか",
+    "answer2": "ghét nhau như chó với mèo"
+  },
+  {
+    "question": "一長一短",
+    "answer1": "いっちょういったん",
+    "answer2": "ưu điểm và khuyết điểm"
+  },
+  {
+    "question": "一石二鳥",
+    "answer1": "いっせきにちょう",
+    "answer2": "một mũi tên trúng hai con chim"
+  }
+]

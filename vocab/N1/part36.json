@@ -1,0 +1,127 @@
+[
+  {
+    "question": "気管支炎",
+    "answer1": "きかんしえん",
+    "answer2": "bệnh viêm phế quản"
+  },
+  {
+    "question": "ぜん息",
+    "answer1": "ぜんそく",
+    "answer2": "bệnh hen suyễn"
+  },
+  {
+    "question": "皮膚炎",
+    "answer1": "ひふえん",
+    "answer2": "viêm da"
+  },
+  {
+    "question": "アトピー",
+    "answer1": "アトピー",
+    "answer2": "chứng dị ứng"
+  },
+  {
+    "question": "うつ病",
+    "answer1": "うつびょう",
+    "answer2": "trầm cảm"
+  },
+  {
+    "question": "認知症",
+    "answer1": "にんちしょう",
+    "answer2": "chứng mất trí nhớ"
+  },
+  {
+    "question": "発病＜する＞",
+    "answer1": "はつびょう＜する＞",
+    "answer2": "phát bệnh"
+  },
+  {
+    "question": "慢性",
+    "answer1": "まんせい",
+    "answer2": "mãn tính"
+  },
+  {
+    "question": "中毒",
+    "answer1": "ちゅうどく",
+    "answer2": "nhiễm độc"
+  },
+  {
+    "question": "応急",
+    "answer1": "おうきゅう",
+    "answer2": "sơ cứu"
+  },
+  {
+    "question": "稀",
+    "answer1": "まれな",
+    "answer2": "hiếm"
+  },
+  {
+    "question": "うつ伏せ",
+    "answer1": "うつぶせ",
+    "answer2": "nằm sấp"
+  },
+  {
+    "question": "カルテ",
+    "answer1": "カルテ",
+    "answer2": "hồ sơ bệnh án"
+  },
+  {
+    "question": "冷却＜する＞",
+    "answer1": "れいきゃく＜する＞",
+    "answer2": "làm lạnh"
+  },
+  {
+    "question": "和らげる",
+    "answer1": "やわらげる",
+    "answer2": "làm dịu"
+  },
+  {
+    "question": "矯正＜する＞",
+    "answer1": "きょうせい＜する＞",
+    "answer2": "chỉnh hình"
+  },
+  {
+    "question": "告知＜する＞",
+    "answer1": "こくち＜する＞",
+    "answer2": "thông báo"
+  },
+  {
+    "question": "同意＜する＞",
+    "answer1": "どうい＜する＞",
+    "answer2": "đồng ý"
+  },
+  {
+    "question": "面会＜する＞",
+    "answer1": "めんかい＜する＞",
+    "answer2": "thăm gặp"
+  },
+  {
+    "question": "付き添う",
+    "answer1": "つきそう",
+    "answer2": "đi cùng"
+  },
+  {
+    "question": "安静",
+    "answer1": "あんせい",
+    "answer2": "nghỉ ngơi"
+  },
+  {
+    "question": "尽くす",
+    "answer1": "つくす",
+    "answer2": "tận tâm"
+  },
+  {
+    "question": "踏み切る",
+    "answer1": "ふみきる",
+    "answer2": "quyết định"
+  },
+  {
+    "question": "手遅れ",
+    "answer1": "ておくれ",
+    "answer2": "quá muộn"
+  },
+  {
+    "question": "経過",
+    "answer1": "けいか",
+    "answer2": "diễn tiến"
+  }
+]

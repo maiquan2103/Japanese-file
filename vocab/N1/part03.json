@@ -1,0 +1,127 @@
+[
+  {
+    "question": "庇う",
+    "answer1": "かばう",
+    "answer2": "bao che/che dấu, bảo hộ/bảo vệ"
+  },
+  {
+    "question": "敢えて",
+    "answer1": "あえて",
+    "answer2": "dám, mất công"
+  },
+  {
+    "question": "頻繁な",
+    "answer1": "ひんぱんな",
+    "answer2": "Tấp nập, thường xuyên"
+  },
+  {
+    "question": "タイミング",
+    "answer1": "タイミング",
+    "answer2": "thời điểm, giờ giấc phù hợp"
+  },
+  {
+    "question": "じゃん拳＜為る＞",
+    "answer1": "じゃんけん＜する＞",
+    "answer2": "trò oản tù tì/búa kéo bao"
+  },
+  {
+    "question": "[お]愛顧",
+    "answer1": "[お]あいこ",
+    "answer2": "Sự yêu thương, bao bọc, chở che"
+  },
+  {
+    "question": "繋がる",
+    "answer1": "つながる",
+    "answer2": "nối liền, buộc vào, liên hệ, liên quan"
+  },
+  {
+    "question": "矢鱈[な/と]",
+    "answer1": "やたら[な/と]",
+    "answer2": "hoang phí/lãng phí, nhiều/dồi dào, như mưa"
+  },
+  {
+    "question": "嘸",
+    "answer1": "さぞ",
+    "answer2": "chắc chắn, hiển nhiên, không có gì phải nghi ngờ"
+  },
+  {
+    "question": "抑",
+    "answer1": "そもそも",
+    "answer2": "Đầu tiên, ngay từ ban đầu"
+  },
+  {
+    "question": "よもやま話[〜無い]",
+    "answer1": "よもや[〜ない]",
+    "answer2": "Chắc chắn, không bao giờ có chuyện.."
+  },
+  {
+    "question": "縁",
+    "answer1": "えん",
+    "answer2": "Định mệnh, duyên, giao tình"
+  },
+  {
+    "question": "一見＜する＞",
+    "answer1": "いっけん＜する＞",
+    "answer2": "Thoáng qua"
+  },
+  {
+    "question": "恐縮＜する＞",
+    "answer1": "きょうしゅく＜する＞",
+    "answer2": "Không dám, xin bỏ qua cho/Cảm ơn vì…"
+  },
+  {
+    "question": "思いやり",
+    "answer1": "おもいやり",
+    "answer2": "Quan tâm, để ý, sự thông cảm, cảm thông"
+  },
+  {
+    "question": "気配り＜する＞",
+    "answer1": "きくばり＜する＞",
+    "answer2": "ân cần, chu đáo, quan tâm"
+  },
+  {
+    "question": "打ち解ける",
+    "answer1": "うちとける",
+    "answer2": "mở lòng, cởi mở thân quen (gỡ bỏ sự cảnh giác ngại ngùng, trở nên thân thiết)"
+  },
+  {
+    "question": "好意",
+    "answer1": "こうい",
+    "answer2": "có thiện ý, có cảm tình"
+  },
+  {
+    "question": "色気",
+    "answer1": "いろけ",
+    "answer2": "có sức hút, sức lôi cuốn, sức hấp dẫn, mê hoặc"
+  },
+  {
+    "question": "見栄",
+    "answer1": "みえ",
+    "answer2": "diện mạo, dáng điệu, dáng vẻ, thể hiện ra"
+  },
+  {
+    "question": "見栄っ張り",
+    "answer1": "みえっぱり",
+    "answer2": "phô trương, khoe khoang khoác lác, muốn thể hiện, nổ, rỗng tuếch"
+  },
+  {
+    "question": "人違い",
+    "answer1": "ひとちがい",
+    "answer2": "nhầm người"
+  },
+  {
+    "question": "勘違い＜する＞",
+    "answer1": "かんちがい＜する＞",
+    "answer2": "phán đoán sai lầm, nhận lầm, hiểu nhầm"
+  },
+  {
+    "question": "根も葉もない",
+    "answer1": "ねもはもない",
+    "answer2": "vô căn cứ, không có cơ sở"
+  },
+  {
+    "question": "初耳",
+    "answer1": "はつみみ",
+    "answer2": "cái mới nghe lần đầu"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "条例",
+    "answer1": "じょうれい",
+    "answer2": "quy định, điều lệ"
+  },
+  {
+    "question": "現行",
+    "answer1": "げんこう",
+    "answer2": "hiện hành"
+  },
+  {
+    "question": "事例",
+    "answer1": "じれい",
+    "answer2": "ví dụ, tiền lệ"
+  },
+  {
+    "question": "実情",
+    "answer1": "じつじょう",
+    "answer2": "tình hình thực tế"
+  },
+  {
+    "question": "立候補＜する＞",
+    "answer1": "りっこうほ＜する＞",
+    "answer2": "sự ứng cử"
+  },
+  {
+    "question": "申請＜する＞",
+    "answer1": "しんせい＜する＞",
+    "answer2": "đăng kí, thỉnh cầu, yêu cầu"
+  },
+  {
+    "question": "該当＜する＞",
+    "answer1": "がいとう＜する＞",
+    "answer2": "sự tương ứng, liên quan, tương thích"
+  },
+  {
+    "question": "視察＜する＞",
+    "answer1": "しさつ＜する＞",
+    "answer2": "thị sát, khảo sát"
+  },
+  {
+    "question": "回収＜する＞",
+    "answer1": "かいしゅう＜する＞",
+    "answer2": "thu hồi, thu lại"
+  },
+  {
+    "question": "廃止＜する＞",
+    "answer1": "はいし＜する＞",
+    "answer2": "sự bãi bỏ, đình chỉ"
+  },
+  {
+    "question": "回答＜する＞",
+    "answer1": "かいとう＜する＞",
+    "answer2": "trả lời, hồi đáp"
+  },
+  {
+    "question": "設置＜する＞",
+    "answer1": "せっち＜する＞",
+    "answer2": "lắp đặt, thiết lập"
+  },
+  {
+    "question": "対処＜する＞",
+    "answer1": "たいしょ＜する＞",
+    "answer2": "đối xử"
+  },
+  {
+    "question": "設ける",
+    "answer1": "もうける",
+    "answer2": "sự thiết lập, trang bị, xây dựng"
+  },
+  {
+    "question": "是非",
+    "answer1": "ぜひ",
+    "answer2": "đúng hay sai, nhất định"
+  },
+  {
+    "question": "見解",
+    "answer1": "けんかい",
+    "answer2": "quan điểm, cách nghĩ, đánh giá"
+  },
+  {
+    "question": "融通",
+    "answer1": "ゆうずう",
+    "answer2": "sự linh hoạt"
+  },
+  {
+    "question": "身近＜な＞",
+    "answer1": "みぢか＜な＞",
+    "answer2": "thân cận, thân thuộc"
+  },
+  {
+    "question": "大幅な",
+    "answer1": "おおはばな",
+    "answer2": "tương đối lớn, đáng kể"
+  },
+  {
+    "question": "革新的",
+    "answer1": "かくしんてき",
+    "answer2": "cải tiến, sáng tạo"
+  },
+  {
+    "question": "大方",
+    "answer1": "おおかた",
+    "answer2": "phần lớn, đa phần"
+  },
+  {
+    "question": "大まかな",
+    "answer1": "おおまかな",
+    "answer2": "thô"
+  },
+  {
+    "question": "路線",
+    "answer1": "ろせん",
+    "answer2": "tuyến đường"
+  },
+  {
+    "question": "沿線",
+    "answer1": "えんせん",
+    "answer2": "dọc tuyến đường"
+  },
+  {
+    "question": "最寄り",
+    "answer1": "もより",
+    "answer2": "gần nhất, bên cạnh"
+  }
+]

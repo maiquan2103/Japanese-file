@@ -1,0 +1,127 @@
+[
+  {
+    "question": "取り立てる",
+    "answer1": "とりたてる",
+    "answer2": "Tập hợp, chú ý"
+  },
+  {
+    "question": "身の回り",
+    "answer1": "みのまわり",
+    "answer2": "Những việc thường ngày"
+  },
+  {
+    "question": "実践＜する＞",
+    "answer1": "じっせん＜する＞",
+    "answer2": "Thực tiễn, thực hành"
+  },
+  {
+    "question": "終日",
+    "answer1": "しゅうじつ",
+    "answer2": "Cả ngày"
+  },
+  {
+    "question": "四六時中",
+    "answer1": "しろくじちゅう",
+    "answer2": "Suốt ngày đêm, mọi lúc"
+  },
+  {
+    "question": "日夜",
+    "answer1": "にちや",
+    "answer2": "Ngày và đêm, lúc nào cũng"
+  },
+  {
+    "question": "日々",
+    "answer1": "ひび",
+    "answer2": "Hàng ngày"
+  },
+  {
+    "question": "夕闇",
+    "answer1": "ゆうやみ",
+    "answer2": "Hoàng hôn, lúc chạng vạng"
+  },
+  {
+    "question": "暮れる",
+    "answer1": "くれる",
+    "answer2": "Lặn (mặt trời), hết (ngày, năm)"
+  },
+  {
+    "question": "日没",
+    "answer1": "にちぼつ",
+    "answer2": "Hoàng hôn"
+  },
+  {
+    "question": "夜分",
+    "answer1": "やぶん",
+    "answer2": "Giờ muộn, tối đêm"
+  },
+  {
+    "question": "夜更け",
+    "answer1": "よふけ",
+    "answer2": "Đêm khuya"
+  },
+  {
+    "question": "更ける",
+    "answer1": "ふける",
+    "answer2": "Về khuya, đêm"
+  },
+  {
+    "question": "未明",
+    "answer1": "みめい",
+    "answer2": "Rạng sáng, ban mai"
+  },
+  {
+    "question": "先頃",
+    "answer1": "さきごろ",
+    "answer2": "Gần đây, vài ngày trước"
+  },
+  {
+    "question": "時折",
+    "answer1": "ときおり",
+    "answer2": "Thỉnh thoảng, có lúc"
+  },
+  {
+    "question": "矢先",
+    "answer1": "やさき",
+    "answer2": "Ngay sau khi, đúng khi"
+  },
+  {
+    "question": "長々[と]",
+    "answer1": "ながなが[と]",
+    "answer2": "Dài dòng, dài, lâu"
+  },
+  {
+    "question": "隔月",
+    "answer1": "かくげつ",
+    "answer2": "Cách tháng"
+  },
+  {
+    "question": "隔週",
+    "answer1": "かくしゅう",
+    "answer2": "Cách tuần"
+  },
+  {
+    "question": "隔日",
+    "answer1": "かくじつ",
+    "answer2": "Cách ngày, 2 ngày 1 lần"
+  },
+  {
+    "question": "来る",
+    "answer1": "きたる",
+    "answer2": "Đến, tới"
+  },
+  {
+    "question": "去る",
+    "answer1": "さる",
+    "answer2": "Bỏ đi, qua, ra đi (chết)"
+  },
+  {
+    "question": "外観",
+    "answer1": "がいかん",
+    "answer2": "Bề ngoài"
+  },
+  {
+    "question": "設計＜する＞",
+    "answer1": "せっけい＜する＞",
+    "answer2": "Thiết kế, thiết lập"
+  }
+]

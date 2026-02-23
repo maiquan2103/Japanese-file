@@ -1,0 +1,127 @@
+[
+  {
+    "question": "貫く",
+    "answer1": "つらぬく",
+    "answer2": "Xuyên qua, thủng qua"
+  },
+  {
+    "question": "潜る",
+    "answer1": "くぐる",
+    "answer2": "Đi qua, băng qua"
+  },
+  {
+    "question": "叶う",
+    "answer1": "かなう",
+    "answer2": "Hoàn thành, đáp ứng"
+  },
+  {
+    "question": "手中",
+    "answer1": "しゅちゅう",
+    "answer2": "Trong tầm tay"
+  },
+  {
+    "question": "すんなり[と]＜為る＞",
+    "answer1": "すんなり[と]＜する＞",
+    "answer2": "Dễ dàng, thanh thoát"
+  },
+  {
+    "question": "取得＜する＞",
+    "answer1": "しゅとく＜する＞",
+    "answer2": "Đạt được, có được"
+  },
+  {
+    "question": "申し分[が]ない",
+    "answer1": "もうしぶん[が]ない",
+    "answer2": "Hoàn hảo, không chê vào đâu được"
+  },
+  {
+    "question": "免除＜する＞",
+    "answer1": "めんじょ＜する＞",
+    "answer2": "Miễn trừ, miễn giảm"
+  },
+  {
+    "question": "不備＜な＞",
+    "answer1": "ふび＜な＞",
+    "answer2": "Không hoàn chỉnh, không vẹn toàn"
+  },
+  {
+    "question": "貴校",
+    "answer1": "きこう",
+    "answer2": "Trường học"
+  },
+  {
+    "question": "不利＜な＞",
+    "answer1": "ふり＜な＞",
+    "answer2": "Không có lợi, bất lợi"
+  },
+  {
+    "question": "何れ",
+    "answer1": "いずれ",
+    "answer2": "Suy cho cùng, sớm muộn thì"
+  },
+  {
+    "question": "仮に",
+    "answer1": "かりに",
+    "answer2": "Giả sử, cứ cho là"
+  },
+  {
+    "question": "立ち直る",
+    "answer1": "たちなおる",
+    "answer2": "Khôi phục lại, lấy lại thăng bằng"
+  },
+  {
+    "question": "首席",
+    "answer1": "しゅせき",
+    "answer2": "Bàn đầu tiên, thủ khoa"
+  },
+  {
+    "question": "雲をつかむような",
+    "answer1": "くもをつかむような",
+    "answer2": "Vô vọng, mơ hồ, không rõ ràng"
+  },
+  {
+    "question": "勧誘＜する＞",
+    "answer1": "かんゆう＜する＞",
+    "answer2": "Thu hút, mời mọc"
+  },
+  {
+    "question": "機種",
+    "answer1": "きしゅ",
+    "answer2": "Kiểu máy, mẫu"
+  },
+  {
+    "question": "端末",
+    "answer1": "たんまつ",
+    "answer2": "Thiết bị đầu cuối"
+  },
+  {
+    "question": "最先端",
+    "answer1": "さいせんたん",
+    "answer2": "Hiện đại, tiên tiến nhất"
+  },
+  {
+    "question": "性能",
+    "answer1": "せいのう",
+    "answer2": "Tính năng"
+  },
+  {
+    "question": "アップ＜為る＞",
+    "answer1": "アップ＜する＞",
+    "answer2": "Tải lên"
+  },
+  {
+    "question": "バージョンアップ＜為る＞",
+    "answer1": "バージョンアップ＜する＞",
+    "answer2": "Cập nhật phiên bản (phần mềm)"
+  },
+  {
+    "question": "使いこなす",
+    "answer1": "つかいこなす",
+    "answer2": "Thành thạo, sử dụng thành thạo"
+  },
+  {
+    "question": "使い分ける",
+    "answer1": "つかいわける",
+    "answer2": "Chọn dùng cho từng mục đích, sử dụng đúng cách"
+  }
+]

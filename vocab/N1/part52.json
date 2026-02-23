@@ -1,0 +1,127 @@
+[
+  {
+    "question": "竜巻",
+    "answer1": "たつまき",
+    "answer2": "Lốc xoáy"
+  },
+  {
+    "question": "土砂",
+    "answer1": "どしゃ",
+    "answer2": "Đất và cát"
+  },
+  {
+    "question": "浸水＜する＞",
+    "answer1": "しんすい＜する＞",
+    "answer2": "Lũ lụt"
+  },
+  {
+    "question": "雪崩",
+    "answer1": "なだれ",
+    "answer2": "Tuyết lở"
+  },
+  {
+    "question": "噴火＜する＞",
+    "answer1": "ふんか＜する＞",
+    "answer2": "Phun trào"
+  },
+  {
+    "question": "災い",
+    "answer1": "わざわい",
+    "answer2": "Tai họa, tai ương"
+  },
+  {
+    "question": "被災＜する＞",
+    "answer1": "ひさい＜する＞",
+    "answer2": "Bị thiên tai"
+  },
+  {
+    "question": "損害",
+    "answer1": "そんがい",
+    "answer2": "Thiệt hại"
+  },
+  {
+    "question": "異変",
+    "answer1": "いへん",
+    "answer2": "Biến cố"
+  },
+  {
+    "question": "襲う",
+    "answer1": "おそう",
+    "answer2": "Tấn công"
+  },
+  {
+    "question": "避ける",
+    "answer1": "さける",
+    "answer2": "Tránh"
+  },
+  {
+    "question": "いざという時",
+    "answer1": "いざというとき",
+    "answer2": "Khi cần"
+  },
+  {
+    "question": "破壊＜する＞",
+    "answer1": "はかい＜する＞",
+    "answer2": "Phá hủy"
+  },
+  {
+    "question": "荒らす",
+    "answer1": "あらす",
+    "answer2": "Tàn phá"
+  },
+  {
+    "question": "有り様",
+    "answer1": "ありさま",
+    "answer2": "Trạng thái"
+  },
+  {
+    "question": "実況＜する＞",
+    "answer1": "じっきょう＜する＞",
+    "answer2": "Tường thuật trực tiếp"
+  },
+  {
+    "question": "根こそぎ",
+    "answer1": "ねこそぎ",
+    "answer2": "Không còn lại gì"
+  },
+  {
+    "question": "悉く",
+    "answer1": "ことごとく",
+    "answer2": "Toàn bộ"
+  },
+  {
+    "question": "歪み",
+    "answer1": "ひずみ",
+    "answer2": "Sự méo mó"
+  },
+  {
+    "question": "ぐにゃぐにゃ＜な/為る＞",
+    "answer1": "ぐにゃぐにゃ＜な/する＞",
+    "answer2": "Mềm nhũn"
+  },
+  {
+    "question": "くっきり[と]＜為る＞",
+    "answer1": "くっきり[と]＜する＞",
+    "answer2": "Rõ ràng"
+  },
+  {
+    "question": "一帯",
+    "answer1": "いったい",
+    "answer2": "Toàn vùng"
+  },
+  {
+    "question": "仮定＜する＞",
+    "answer1": "かてい＜する＞",
+    "answer2": "Giả định"
+  },
+  {
+    "question": "配給＜する＞",
+    "answer1": "はいきゅう＜する＞",
+    "answer2": "Cung cấp"
+  },
+  {
+    "question": "分配＜する＞",
+    "answer1": "ぶんぱい＜する＞",
+    "answer2": "Phân phát"
+  }
+]
