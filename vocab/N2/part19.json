@@ -1,127 +1,127 @@
 [
-  {
-    "question": "担う",
-    "answer1": "になう",
-    "answer2": "Gánh vác"
-  },
-  {
-    "question": "行き先",
-    "answer1": "いきさき",
-    "answer2": "Nơi đến"
-  },
-  {
-    "question": "方面",
-    "answer1": "ほうめん",
-    "answer2": "Hướng"
-  },
-  {
-    "question": "行き帰り",
-    "answer1": "いきかえり",
-    "answer2": "Đi và về"
-  },
-  {
-    "question": "横断＜する＞",
-    "answer1": "おうだんする",
-    "answer2": "Băng qua"
-  },
-  {
-    "question": "通行＜する＞",
-    "answer1": "つうこうする",
-    "answer2": "Lưu thông"
-  },
-  {
-    "question": "歩行者",
-    "answer1": "ほこうしゃ",
-    "answer2": "Người đi bộ"
-  },
-  {
-    "question": "絶えず",
-    "answer1": "たえず",
-    "answer2": "Không ngừng"
-  },
-  {
-    "question": "手段",
-    "answer1": "しゅだん",
-    "answer2": "Phương tiện"
-  },
-  {
-    "question": "公共",
-    "answer1": "こうきょう",
-    "answer2": "Công cộng"
-  },
-  {
-    "question": "運賃",
-    "answer1": "うんちん",
-    "answer2": "Cước phí"
-  },
-  {
-    "question": "捕まる",
-    "answer1": "つかまる",
-    "answer2": "Nắm"
-  },
-  {
-    "question": "アナウンス＜為る＞",
-    "answer1": "アナウンスする",
-    "answer2": "Thông báo"
-  },
-  {
-    "question": "見合わせる",
-    "answer1": "みあわせる",
-    "answer2": "Hoãn"
-  },
-  {
-    "question": "乱れる",
-    "answer1": "みだれる",
-    "answer2": "Rối loạn"
-  },
-  {
-    "question": "再開＜する＞",
-    "answer1": "さいかいする",
-    "answer2": "Hoạt động lại"
-  },
-  {
-    "question": "ICカード",
-    "answer1": "アイシーカード",
-    "answer2": "Thẻ IC"
-  },
-  {
-    "question": "免許",
-    "answer1": "めんきょ",
-    "answer2": "Giấy phép"
-  },
-  {
-    "question": "左右",
-    "answer1": "さゆう",
-    "answer2": "Trái phải"
-  },
-  {
-    "question": "直線",
-    "answer1": "ちょくせん",
-    "answer2": "Đường thẳng"
-  },
-  {
-    "question": "なだらかな",
-    "answer1": "なだらかな",
-    "answer2": "Thoai thoải"
-  },
-  {
-    "question": "間隔",
-    "answer1": "かんかく",
-    "answer2": "Khoảng cách"
-  },
-  {
-    "question": "スムーズな",
-    "answer1": "スムーズな",
-    "answer2": "Trôi chảy"
-  },
-  {
-    "question": "指す",
-    "answer1": "さす",
-    "answer2": "Chỉ"
-  },
-  {
-    "question": "のろのろ＜な／為る＞",
-    "answer1": "のろのろ",
-    "answer2": "Chậm chạp"
-  }
+    {
+        "question":  "担う",
+        "answer1":  "になう",
+        "answer2":  "Gánh vác"
+    },
+    {
+        "question":  "行き先",
+        "answer1":  "いきさき",
+        "answer2":  "Nơi đến"
+    },
+    {
+        "question":  "方面",
+        "answer1":  "ほうめん",
+        "answer2":  "Hướng"
+    },
+    {
+        "question":  "行き帰り",
+        "answer1":  "いきかえり",
+        "answer2":  "Đi và về"
+    },
+    {
+        "question":  "横断＜する＞",
+        "answer1":  "おうだんする",
+        "answer2":  "Băng qua"
+    },
+    {
+        "question":  "通行＜する＞",
+        "answer1":  "つうこうする",
+        "answer2":  "Lưu thông"
+    },
+    {
+        "question":  "歩行者",
+        "answer1":  "ほこうしゃ",
+        "answer2":  "Người đi bộ"
+    },
+    {
+        "question":  "絶えず",
+        "answer1":  "たえず",
+        "answer2":  "Không ngừng"
+    },
+    {
+        "question":  "手段",
+        "answer1":  "しゅだん",
+        "answer2":  "Phương tiện"
+    },
+    {
+        "question":  "公共",
+        "answer1":  "こうきょう",
+        "answer2":  "Công cộng"
+    },
+    {
+        "question":  "運賃",
+        "answer1":  "うんちん",
+        "answer2":  "Cước phí"
+    },
+    {
+        "question":  "捕まる",
+        "answer1":  "つかまる",
+        "answer2":  "Nắm"
+    },
+    {
+        "question":  "アナウンス＜する＞",
+        "answer1":  "アナウンスする",
+        "answer2":  "Thông báo"
+    },
+    {
+        "question":  "見合わせる",
+        "answer1":  "みあわせる",
+        "answer2":  "Hoãn"
+    },
+    {
+        "question":  "乱れる",
+        "answer1":  "みだれる",
+        "answer2":  "Rối loạn"
+    },
+    {
+        "question":  "再開＜する＞",
+        "answer1":  "さいかいする",
+        "answer2":  "Hoạt động lại"
+    },
+    {
+        "question":  "ICカード",
+        "answer1":  "アイシーカード",
+        "answer2":  "Thẻ IC"
+    },
+    {
+        "question":  "免許",
+        "answer1":  "めんきょ",
+        "answer2":  "Giấy phép"
+    },
+    {
+        "question":  "左右",
+        "answer1":  "さゆう",
+        "answer2":  "Trái phải"
+    },
+    {
+        "question":  "直線",
+        "answer1":  "ちょくせん",
+        "answer2":  "Đường thẳng"
+    },
+    {
+        "question":  "なだらかな",
+        "answer1":  "なだらかな",
+        "answer2":  "Thoai thoải"
+    },
+    {
+        "question":  "間隔",
+        "answer1":  "かんかく",
+        "answer2":  "Khoảng cách"
+    },
+    {
+        "question":  "スムーズな",
+        "answer1":  "スムーズな",
+        "answer2":  "Trôi chảy"
+    },
+    {
+        "question":  "指す",
+        "answer1":  "さす",
+        "answer2":  "Chỉ"
+    },
+    {
+        "question":  "のろのろ＜な／する＞",
+        "answer1":  "のろのろ",
+        "answer2":  "Chậm chạp"
+    }
 ]

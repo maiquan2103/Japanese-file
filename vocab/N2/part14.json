@@ -1,127 +1,127 @@
 [
-  {
-    "question": "舐める",
-    "answer1": "なめる",
-    "answer2": "Nếm, liếm"
-  },
-  {
-    "question": "臭い",
-    "answer1": "くさい",
-    "answer2": "Hôi"
-  },
-  {
-    "question": "冷める",
-    "answer1": "さめる",
-    "answer2": "Nguội"
-  },
-  {
-    "question": "余分な",
-    "answer1": "よぶんな",
-    "answer2": "Dư thừa"
-  },
-  {
-    "question": "容器",
-    "answer1": "ようき",
-    "answer2": "Đồ đựng"
-  },
-  {
-    "question": "賞味期限",
-    "answer1": "しょうみきげん",
-    "answer2": "Hạn sử dụng"
-  },
-  {
-    "question": "手作り",
-    "answer1": "てづくり",
-    "answer2": "Làm thủ công"
-  },
-  {
-    "question": "持て成す",
-    "answer1": "もてなす",
-    "answer2": "Tiếp đãi"
-  },
-  {
-    "question": "漏れる",
-    "answer1": "もれる",
-    "answer2": "Rò rỉ, bị lộ"
-  },
-  {
-    "question": "ごちゃごちゃ＜な・為る＞",
-    "answer1": "ごちゃごちゃな／する",
-    "answer2": "Lộn xộn"
-  },
-  {
-    "question": "元",
-    "answer1": "もと",
-    "answer2": "Ban đầu"
-  },
-  {
-    "question": "自動的な",
-    "answer1": "じどうてきな",
-    "answer2": "Tự động"
-  },
-  {
-    "question": "颯と",
-    "answer1": "さっと",
-    "answer2": "Nhanh chóng"
-  },
-  {
-    "question": "清掃＜する＞",
-    "answer1": "せいそうする",
-    "answer2": "Dọn dẹp"
-  },
-  {
-    "question": "取り除く",
-    "answer1": "とりのぞく",
-    "answer2": "Loại bỏ"
-  },
-  {
-    "question": "素材",
-    "answer1": "そざい",
-    "answer2": "Chất liệu"
-  },
-  {
-    "question": "表示＜する＞",
-    "answer1": "ひょうじする",
-    "answer2": "Biểu thị"
-  },
-  {
-    "question": "分類＜する＞",
-    "answer1": "ぶんるいする",
-    "answer2": "Phân loại"
-  },
-  {
-    "question": "濯ぐ",
-    "answer1": "すすぐ",
-    "answer2": "Xả, tráng"
-  },
-  {
-    "question": "ネット",
-    "answer1": "ネット",
-    "answer2": "Lưới"
-  },
-  {
-    "question": "吸収＜する＞",
-    "answer1": "きゅうしゅうする",
-    "answer2": "Hấp thụ"
-  },
-  {
-    "question": "泥",
-    "answer1": "どろ",
-    "answer2": "Bùn"
-  },
-  {
-    "question": "知恵",
-    "answer1": "ちえ",
-    "answer2": "Trí khôn"
-  },
-  {
-    "question": "可燃ごみ",
-    "answer1": "かねんごみ",
-    "answer2": "Rác đốt được"
-  },
-  {
-    "question": "資源ごみ",
-    "answer1": "しげんごみ",
-    "answer2": "Rác tái chế"
-  }
+    {
+        "question":  "舐める",
+        "answer1":  "なめる",
+        "answer2":  "Nếm, liếm"
+    },
+    {
+        "question":  "臭い",
+        "answer1":  "くさい",
+        "answer2":  "Hôi"
+    },
+    {
+        "question":  "冷める",
+        "answer1":  "さめる",
+        "answer2":  "Nguội"
+    },
+    {
+        "question":  "余分な",
+        "answer1":  "よぶんな",
+        "answer2":  "Dư thừa"
+    },
+    {
+        "question":  "容器",
+        "answer1":  "ようき",
+        "answer2":  "Đồ đựng"
+    },
+    {
+        "question":  "賞味期限",
+        "answer1":  "しょうみきげん",
+        "answer2":  "Hạn sử dụng"
+    },
+    {
+        "question":  "手作り",
+        "answer1":  "てづくり",
+        "answer2":  "Làm thủ công"
+    },
+    {
+        "question":  "持て成す",
+        "answer1":  "もてなす",
+        "answer2":  "Tiếp đãi"
+    },
+    {
+        "question":  "漏れる",
+        "answer1":  "もれる",
+        "answer2":  "Rò rỉ, bị lộ"
+    },
+    {
+        "question":  "ごちゃごちゃ＜な・する＞",
+        "answer1":  "ごちゃごちゃな／する",
+        "answer2":  "Lộn xộn"
+    },
+    {
+        "question":  "元",
+        "answer1":  "もと",
+        "answer2":  "Ban đầu"
+    },
+    {
+        "question":  "自動的な",
+        "answer1":  "じどうてきな",
+        "answer2":  "Tự động"
+    },
+    {
+        "question":  "颯と",
+        "answer1":  "さっと",
+        "answer2":  "Nhanh chóng"
+    },
+    {
+        "question":  "清掃＜する＞",
+        "answer1":  "せいそうする",
+        "answer2":  "Dọn dẹp"
+    },
+    {
+        "question":  "取り除く",
+        "answer1":  "とりのぞく",
+        "answer2":  "Loại bỏ"
+    },
+    {
+        "question":  "素材",
+        "answer1":  "そざい",
+        "answer2":  "Chất liệu"
+    },
+    {
+        "question":  "表示＜する＞",
+        "answer1":  "ひょうじする",
+        "answer2":  "Biểu thị"
+    },
+    {
+        "question":  "分類＜する＞",
+        "answer1":  "ぶんるいする",
+        "answer2":  "Phân loại"
+    },
+    {
+        "question":  "濯ぐ",
+        "answer1":  "すすぐ",
+        "answer2":  "Xả, tráng"
+    },
+    {
+        "question":  "ネット",
+        "answer1":  "ネット",
+        "answer2":  "Lưới"
+    },
+    {
+        "question":  "吸収＜する＞",
+        "answer1":  "きゅうしゅうする",
+        "answer2":  "Hấp thụ"
+    },
+    {
+        "question":  "泥",
+        "answer1":  "どろ",
+        "answer2":  "Bùn"
+    },
+    {
+        "question":  "知恵",
+        "answer1":  "ちえ",
+        "answer2":  "Trí khôn"
+    },
+    {
+        "question":  "可燃ごみ",
+        "answer1":  "かねんごみ",
+        "answer2":  "Rác đốt được"
+    },
+    {
+        "question":  "資源ごみ",
+        "answer1":  "しげんごみ",
+        "answer2":  "Rác tái chế"
+    }
 ]

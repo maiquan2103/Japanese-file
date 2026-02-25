@@ -1,127 +1,127 @@
 [
-  {
-    "question": "移動＜する＞",
-    "answer1": "いどうする",
-    "answer2": "Di chuyển"
-  },
-  {
-    "question": "大工",
-    "answer1": "だいく",
-    "answer2": "Thợ mộc, thợ xây"
-  },
-  {
-    "question": "ガードマン",
-    "answer1": "ガードマン",
-    "answer2": "Người bảo vệ"
-  },
-  {
-    "question": "地位",
-    "answer1": "ちい",
-    "answer2": "Địa vị"
-  },
-  {
-    "question": "目上",
-    "answer1": "めうえ",
-    "answer2": "Người trên"
-  },
-  {
-    "question": "敬意",
-    "answer1": "けいい",
-    "answer2": "Sự kính trọng"
-  },
-  {
-    "question": "敬う",
-    "answer1": "うやまう",
-    "answer2": "Tôn kính"
-  },
-  {
-    "question": "的確な",
-    "answer1": "てきかくな",
-    "answer2": "Chính xác"
-  },
-  {
-    "question": "忠告＜する＞",
-    "answer1": "ちゅうこくする",
-    "answer2": "Khuyên bảo"
-  },
-  {
-    "question": "サポート＜為る＞",
-    "answer1": "サポートする",
-    "answer2": "Hỗ trợ"
-  },
-  {
-    "question": "威張る",
-    "answer1": "いばる",
-    "answer2": "Kiêu căng"
-  },
-  {
-    "question": "押し付ける",
-    "answer1": "おしつける",
-    "answer2": "Áp đặt"
-  },
-  {
-    "question": "ご無沙汰＜する＞",
-    "answer1": "ごぶさたする",
-    "answer2": "Lâu không liên lạc"
-  },
-  {
-    "question": "恐縮＜する＞",
-    "answer1": "きょうしゅくする",
-    "answer2": "Ngại ngùng"
-  },
-  {
-    "question": "信頼＜する＞",
-    "answer1": "しんらいする",
-    "answer2": "Tin cậy"
-  },
-  {
-    "question": "従う",
-    "answer1": "したがう",
-    "answer2": "Tuân theo"
-  },
-  {
-    "question": "頷く",
-    "answer1": "うなずく",
-    "answer2": "Gật đầu"
-  },
-  {
-    "question": "反論＜する＞",
-    "answer1": "はんろんする",
-    "answer2": "Phản biện"
-  },
-  {
-    "question": "詫びる",
-    "answer1": "わびる",
-    "answer2": "Xin lỗi"
-  },
-  {
-    "question": "やる気",
-    "answer1": "やるき",
-    "answer2": "Động lực"
-  },
-  {
-    "question": "お世辞",
-    "answer1": "おせじ",
-    "answer2": "Nịnh hót"
-  },
-  {
-    "question": "胡麻を擂る",
-    "answer1": "ごまをする",
-    "answer2": "Xu nịnh"
-  },
-  {
-    "question": "上等な",
-    "answer1": "じょうとうな",
-    "answer2": "Cao cấp"
-  },
-  {
-    "question": "苦痛",
-    "answer1": "くつう",
-    "answer2": "Đau khổ"
-  },
-  {
-    "question": "夫人",
-    "answer1": "ふじん",
-    "answer2": "Phu nhân"
-  }
+    {
+        "question":  "移動＜する＞",
+        "answer1":  "いどうする",
+        "answer2":  "Di chuyển"
+    },
+    {
+        "question":  "大工",
+        "answer1":  "だいく",
+        "answer2":  "Thợ mộc, thợ xây"
+    },
+    {
+        "question":  "ガードマン",
+        "answer1":  "ガードマン",
+        "answer2":  "Người bảo vệ"
+    },
+    {
+        "question":  "地位",
+        "answer1":  "ちい",
+        "answer2":  "Địa vị"
+    },
+    {
+        "question":  "目上",
+        "answer1":  "めうえ",
+        "answer2":  "Người trên"
+    },
+    {
+        "question":  "敬意",
+        "answer1":  "けいい",
+        "answer2":  "Sự kính trọng"
+    },
+    {
+        "question":  "敬う",
+        "answer1":  "うやまう",
+        "answer2":  "Tôn kính"
+    },
+    {
+        "question":  "的確な",
+        "answer1":  "てきかくな",
+        "answer2":  "Chính xác"
+    },
+    {
+        "question":  "忠告＜する＞",
+        "answer1":  "ちゅうこくする",
+        "answer2":  "Khuyên bảo"
+    },
+    {
+        "question":  "サポート＜する＞",
+        "answer1":  "サポートする",
+        "answer2":  "Hỗ trợ"
+    },
+    {
+        "question":  "威張る",
+        "answer1":  "いばる",
+        "answer2":  "Kiêu căng"
+    },
+    {
+        "question":  "押し付ける",
+        "answer1":  "おしつける",
+        "answer2":  "Áp đặt"
+    },
+    {
+        "question":  "ご無沙汰＜する＞",
+        "answer1":  "ごぶさたする",
+        "answer2":  "Lâu không liên lạc"
+    },
+    {
+        "question":  "恐縮＜する＞",
+        "answer1":  "きょうしゅくする",
+        "answer2":  "Ngại ngùng"
+    },
+    {
+        "question":  "信頼＜する＞",
+        "answer1":  "しんらいする",
+        "answer2":  "Tin cậy"
+    },
+    {
+        "question":  "従う",
+        "answer1":  "したがう",
+        "answer2":  "Tuân theo"
+    },
+    {
+        "question":  "頷く",
+        "answer1":  "うなずく",
+        "answer2":  "Gật đầu"
+    },
+    {
+        "question":  "反論＜する＞",
+        "answer1":  "はんろんする",
+        "answer2":  "Phản biện"
+    },
+    {
+        "question":  "詫びる",
+        "answer1":  "わびる",
+        "answer2":  "Xin lỗi"
+    },
+    {
+        "question":  "やる気",
+        "answer1":  "やるき",
+        "answer2":  "Động lực"
+    },
+    {
+        "question":  "お世辞",
+        "answer1":  "おせじ",
+        "answer2":  "Nịnh hót"
+    },
+    {
+        "question":  "胡麻を擂る",
+        "answer1":  "ごまをする",
+        "answer2":  "Xu nịnh"
+    },
+    {
+        "question":  "上等な",
+        "answer1":  "じょうとうな",
+        "answer2":  "Cao cấp"
+    },
+    {
+        "question":  "苦痛",
+        "answer1":  "くつう",
+        "answer2":  "Đau khổ"
+    },
+    {
+        "question":  "夫人",
+        "answer1":  "ふじん",
+        "answer2":  "Phu nhân"
+    }
 ]

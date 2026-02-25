@@ -1,127 +1,127 @@
 [
-  {
-    "question": "すき間",
-    "answer1": "すきま",
-    "answer2": "Khe hở"
-  },
-  {
-    "question": "中身",
-    "answer1": "なかみ",
-    "answer2": "Bên trong"
-  },
-  {
-    "question": "さっさと＜為る＞",
-    "answer1": "さっさとする",
-    "answer2": "Làm nhanh"
-  },
-  {
-    "question": "吊るす",
-    "answer1": "つるす",
-    "answer2": "Treo"
-  },
-  {
-    "question": "正に",
-    "answer1": "まさに",
-    "answer2": "Quả đúng là"
-  },
-  {
-    "question": "居心地",
-    "answer1": "いごこち",
-    "answer2": "Cảm giác dễ chịu"
-  },
-  {
-    "question": "一変＜する＞",
-    "answer1": "いっぺんする",
-    "answer2": "Thay đổi hoàn toàn"
-  },
-  {
-    "question": "アンテナ",
-    "answer1": "アンテナ",
-    "answer2": "Ăng-ten"
-  },
-  {
-    "question": "一層",
-    "answer1": "いっそ",
-    "answer2": "Thà rằng"
-  },
-  {
-    "question": "街",
-    "answer1": "まち",
-    "answer2": "Phố, khu phố, thị trấn"
-  },
-  {
-    "question": "都市",
-    "answer1": "とし",
-    "answer2": "Thành phố, đô thị"
-  },
-  {
-    "question": "下町",
-    "answer1": "したまち",
-    "answer2": "Khu phố cổ"
-  },
-  {
-    "question": "土地",
-    "answer1": "とち",
-    "answer2": "Đất, đất đai"
-  },
-  {
-    "question": "活気",
-    "answer1": "かっき",
-    "answer2": "Sức sống, hoạt bát"
-  },
-  {
-    "question": "人通り",
-    "answer1": "ひとどおり",
-    "answer2": "Người qua lại"
-  },
-  {
-    "question": "絶える",
-    "answer1": "たえる",
-    "answer2": "Bị cắt đứt, chấm dứt"
-  },
-  {
-    "question": "坂",
-    "answer1": "さか",
-    "answer2": "Dốc"
-  },
-  {
-    "question": "辺り",
-    "answer1": "あたり",
-    "answer2": "Xung quanh"
-  },
-  {
-    "question": "付近",
-    "answer1": "ふきん",
-    "answer2": "Khu vực lân cận"
-  },
-  {
-    "question": "住宅",
-    "answer1": "じゅうたく",
-    "answer2": "Nhà ở"
-  },
-  {
-    "question": "地区",
-    "answer1": "ちく",
-    "answer2": "Khu vực"
-  },
-  {
-    "question": "エリア",
-    "answer1": "エリア",
-    "answer2": "Khu vực"
-  },
-  {
-    "question": "中間",
-    "answer1": "ちゅうかん",
-    "answer2": "Khoảng giữa"
-  },
-  {
-    "question": "境",
-    "answer1": "さかい",
-    "answer2": "Ranh giới"
-  },
-  {
-    "question": "斜め＜な＞",
-    "answer1": "ななめ",
-    "answer2": "Xéo, chéo"
-  }
+    {
+        "question":  "すき間",
+        "answer1":  "すきま",
+        "answer2":  "Khe hở"
+    },
+    {
+        "question":  "中身",
+        "answer1":  "なかみ",
+        "answer2":  "Bên trong"
+    },
+    {
+        "question":  "さっさと＜する＞",
+        "answer1":  "さっさとする",
+        "answer2":  "Làm nhanh"
+    },
+    {
+        "question":  "吊るす",
+        "answer1":  "つるす",
+        "answer2":  "Treo"
+    },
+    {
+        "question":  "正に",
+        "answer1":  "まさに",
+        "answer2":  "Quả đúng là"
+    },
+    {
+        "question":  "居心地",
+        "answer1":  "いごこち",
+        "answer2":  "Cảm giác dễ chịu"
+    },
+    {
+        "question":  "一変＜する＞",
+        "answer1":  "いっぺんする",
+        "answer2":  "Thay đổi hoàn toàn"
+    },
+    {
+        "question":  "アンテナ",
+        "answer1":  "アンテナ",
+        "answer2":  "Ăng-ten"
+    },
+    {
+        "question":  "一層",
+        "answer1":  "いっそ",
+        "answer2":  "Thà rằng"
+    },
+    {
+        "question":  "街",
+        "answer1":  "まち",
+        "answer2":  "Phố, khu phố, thị trấn"
+    },
+    {
+        "question":  "都市",
+        "answer1":  "とし",
+        "answer2":  "Thành phố, đô thị"
+    },
+    {
+        "question":  "下町",
+        "answer1":  "したまち",
+        "answer2":  "Khu phố cổ"
+    },
+    {
+        "question":  "土地",
+        "answer1":  "とち",
+        "answer2":  "Đất, đất đai"
+    },
+    {
+        "question":  "活気",
+        "answer1":  "かっき",
+        "answer2":  "Sức sống, hoạt bát"
+    },
+    {
+        "question":  "人通り",
+        "answer1":  "ひとどおり",
+        "answer2":  "Người qua lại"
+    },
+    {
+        "question":  "絶える",
+        "answer1":  "たえる",
+        "answer2":  "Bị cắt đứt, chấm dứt"
+    },
+    {
+        "question":  "坂",
+        "answer1":  "さか",
+        "answer2":  "Dốc"
+    },
+    {
+        "question":  "辺り",
+        "answer1":  "あたり",
+        "answer2":  "Xung quanh"
+    },
+    {
+        "question":  "付近",
+        "answer1":  "ふきん",
+        "answer2":  "Khu vực lân cận"
+    },
+    {
+        "question":  "住宅",
+        "answer1":  "じゅうたく",
+        "answer2":  "Nhà ở"
+    },
+    {
+        "question":  "地区",
+        "answer1":  "ちく",
+        "answer2":  "Khu vực"
+    },
+    {
+        "question":  "エリア",
+        "answer1":  "エリア",
+        "answer2":  "Khu vực"
+    },
+    {
+        "question":  "中間",
+        "answer1":  "ちゅうかん",
+        "answer2":  "Khoảng giữa"
+    },
+    {
+        "question":  "境",
+        "answer1":  "さかい",
+        "answer2":  "Ranh giới"
+    },
+    {
+        "question":  "斜め＜な＞",
+        "answer1":  "ななめ",
+        "answer2":  "Xéo, chéo"
+    }
 ]

@@ -1,127 +1,127 @@
 [
-  {
-    "question": "念のため",
-    "answer1": "ねんのため",
-    "answer2": "Để chắc chắn"
-  },
-  {
-    "question": "通院＜する＞",
-    "answer1": "つういんする",
-    "answer2": "Đi khám bệnh"
-  },
-  {
-    "question": "レントゲン",
-    "answer1": "レントゲン",
-    "answer2": "X-quang"
-  },
-  {
-    "question": "更に",
-    "answer1": "さらに",
-    "answer2": "Hơn nữa"
-  },
-  {
-    "question": "衰える",
-    "answer1": "おとろえる",
-    "answer2": "Sa sút"
-  },
-  {
-    "question": "鍛える",
-    "answer1": "きたえる",
-    "answer2": "Rèn luyện"
-  },
-  {
-    "question": "適度な",
-    "answer1": "てきどな",
-    "answer2": "Vừa phải"
-  },
-  {
-    "question": "予防＜する＞",
-    "answer1": "よぼうする",
-    "answer2": "Phòng ngừa"
-  },
-  {
-    "question": "補給＜する＞",
-    "answer1": "ほきゅうする",
-    "answer2": "Bổ sung"
-  },
-  {
-    "question": "不足＜する＞",
-    "answer1": "ふそくする",
-    "answer2": "Thiếu"
-  },
-  {
-    "question": "サプリメント",
-    "answer1": "サプリメント",
-    "answer2": "Thực phẩm bổ sung"
-  },
-  {
-    "question": "取り戻す",
-    "answer1": "とりもどす",
-    "answer2": "Lấy lại"
-  },
-  {
-    "question": "ワクチン",
-    "answer1": "ワクチン",
-    "answer2": "Vắc-xin"
-  },
-  {
-    "question": "加入＜する＞",
-    "answer1": "かにゅうする",
-    "answer2": "Tham gia"
-  },
-  {
-    "question": "医師",
-    "answer1": "いし",
-    "answer2": "Bác sĩ"
-  },
-  {
-    "question": "呉れ呉れも",
-    "answer1": "くれぐれも",
-    "answer2": "Nhớ kỹ, cẩn thận"
-  },
-  {
-    "question": "具体的な",
-    "answer1": "ぐたいてきな",
-    "answer2": "Cụ thể"
-  },
-  {
-    "question": "程度",
-    "answer1": "ていど",
-    "answer2": "Mức độ"
-  },
-  {
-    "question": "ぼうっと＜為る＞",
-    "answer1": "ぼうっとする",
-    "answer2": "Lờ mờ, thẫn thờ"
-  },
-  {
-    "question": "ふらふら＜な/為る＞",
-    "answer1": "ふらふら",
-    "answer2": "Choáng váng"
-  },
-  {
-    "question": "意識",
-    "answer1": "いしき",
-    "answer2": "Ý thức"
-  },
-  {
-    "question": "しゃがむ",
-    "answer1": "しゃがむ",
-    "answer2": "Khuỵu xuống"
-  },
-  {
-    "question": "視野",
-    "answer1": "しや",
-    "answer2": "Tầm nhìn"
-  },
-  {
-    "question": "呼吸＜する＞",
-    "answer1": "こきゅうする",
-    "answer2": "Hô hấp"
-  },
-  {
-    "question": "詰まる",
-    "answer1": "つまる",
-    "answer2": "Nghẹt"
-  }
+    {
+        "question":  "念のため",
+        "answer1":  "ねんのため",
+        "answer2":  "Để chắc chắn"
+    },
+    {
+        "question":  "通院＜する＞",
+        "answer1":  "つういんする",
+        "answer2":  "Đi khám bệnh"
+    },
+    {
+        "question":  "レントゲン",
+        "answer1":  "レントゲン",
+        "answer2":  "X-quang"
+    },
+    {
+        "question":  "更に",
+        "answer1":  "さらに",
+        "answer2":  "Hơn nữa"
+    },
+    {
+        "question":  "衰える",
+        "answer1":  "おとろえる",
+        "answer2":  "Sa sút"
+    },
+    {
+        "question":  "鍛える",
+        "answer1":  "きたえる",
+        "answer2":  "Rèn luyện"
+    },
+    {
+        "question":  "適度な",
+        "answer1":  "てきどな",
+        "answer2":  "Vừa phải"
+    },
+    {
+        "question":  "予防＜する＞",
+        "answer1":  "よぼうする",
+        "answer2":  "Phòng ngừa"
+    },
+    {
+        "question":  "補給＜する＞",
+        "answer1":  "ほきゅうする",
+        "answer2":  "Bổ sung"
+    },
+    {
+        "question":  "不足＜する＞",
+        "answer1":  "ふそくする",
+        "answer2":  "Thiếu"
+    },
+    {
+        "question":  "サプリメント",
+        "answer1":  "サプリメント",
+        "answer2":  "Thực phẩm bổ sung"
+    },
+    {
+        "question":  "取り戻す",
+        "answer1":  "とりもどす",
+        "answer2":  "Lấy lại"
+    },
+    {
+        "question":  "ワクチン",
+        "answer1":  "ワクチン",
+        "answer2":  "Vắc-xin"
+    },
+    {
+        "question":  "加入＜する＞",
+        "answer1":  "かにゅうする",
+        "answer2":  "Tham gia"
+    },
+    {
+        "question":  "医師",
+        "answer1":  "いし",
+        "answer2":  "Bác sĩ"
+    },
+    {
+        "question":  "呉れ呉れも",
+        "answer1":  "くれぐれも",
+        "answer2":  "Nhớ kỹ, cẩn thận"
+    },
+    {
+        "question":  "具体的な",
+        "answer1":  "ぐたいてきな",
+        "answer2":  "Cụ thể"
+    },
+    {
+        "question":  "程度",
+        "answer1":  "ていど",
+        "answer2":  "Mức độ"
+    },
+    {
+        "question":  "ぼうっと＜する＞",
+        "answer1":  "ぼうっとする",
+        "answer2":  "Lờ mờ, thẫn thờ"
+    },
+    {
+        "question":  "ふらふら＜な/する＞",
+        "answer1":  "ふらふら",
+        "answer2":  "Choáng váng"
+    },
+    {
+        "question":  "意識",
+        "answer1":  "いしき",
+        "answer2":  "Ý thức"
+    },
+    {
+        "question":  "しゃがむ",
+        "answer1":  "しゃがむ",
+        "answer2":  "Khuỵu xuống"
+    },
+    {
+        "question":  "視野",
+        "answer1":  "しや",
+        "answer2":  "Tầm nhìn"
+    },
+    {
+        "question":  "呼吸＜する＞",
+        "answer1":  "こきゅうする",
+        "answer2":  "Hô hấp"
+    },
+    {
+        "question":  "詰まる",
+        "answer1":  "つまる",
+        "answer2":  "Nghẹt"
+    }
 ]

@@ -1,127 +1,127 @@
 [
-  {
-    "question": "尽くす",
-    "answer1": "つくす",
-    "answer2": "Dốc hết"
-  },
-  {
-    "question": "薬品",
-    "answer1": "やくひん",
-    "answer2": "Dược phẩm"
-  },
-  {
-    "question": "作用＜する＞",
-    "answer1": "さようする",
-    "answer2": "Tác dụng"
-  },
-  {
-    "question": "目安",
-    "answer1": "めやす",
-    "answer2": "Tiêu chuẩn"
-  },
-  {
-    "question": "副作用",
-    "answer1": "ふくさよう",
-    "answer2": "Tác dụng phụ"
-  },
-  {
-    "question": "余計［に］",
-    "answer1": "よけいに",
-    "answer2": "Thừa"
-  },
-  {
-    "question": "余計な",
-    "answer1": "よけいな",
-    "answer2": "Không cần thiết"
-  },
-  {
-    "question": "揉む",
-    "answer1": "もむ",
-    "answer2": "Xoa bóp"
-  },
-  {
-    "question": "告げる",
-    "answer1": "つげる",
-    "answer2": "Báo"
-  },
-  {
-    "question": "覚悟＜する＞",
-    "answer1": "かくごする",
-    "answer2": "Chuẩn bị tinh thần"
-  },
-  {
-    "question": "看病＜する＞",
-    "answer1": "かんびょうする",
-    "answer2": "Chăm bệnh"
-  },
-  {
-    "question": "配慮＜する＞",
-    "answer1": "はいりょする",
-    "answer2": "Quan tâm"
-  },
-  {
-    "question": "遺伝＜する＞",
-    "answer1": "いでんする",
-    "answer2": "Di truyền"
-  },
-  {
-    "question": "克服＜する＞",
-    "answer1": "こくふくする",
-    "answer2": "Khắc phục"
-  },
-  {
-    "question": "リハビリ",
-    "answer1": "リハビリ",
-    "answer2": "Phục hồi chức năng"
-  },
-  {
-    "question": "肌",
-    "answer1": "はだ",
-    "answer2": "Da"
-  },
-  {
-    "question": "手入れ＜する＞",
-    "answer1": "ていれする",
-    "answer2": "Chăm sóc"
-  },
-  {
-    "question": "ケア＜為る＞",
-    "answer1": "ケアする",
-    "answer2": "Chăm sóc"
-  },
-  {
-    "question": "維持＜する＞",
-    "answer1": "いじする",
-    "answer2": "Duy trì"
-  },
-  {
-    "question": "機能＜する＞",
-    "answer1": "きのうする",
-    "answer2": "Chức năng"
-  },
-  {
-    "question": "却って",
-    "answer1": "かえって",
-    "answer2": "Ngược lại"
-  },
-  {
-    "question": "刺激",
-    "answer1": "しげき",
-    "answer2": "Kích thích"
-  },
-  {
-    "question": "かさかさ鳴る＜な/為る＞",
-    "answer1": "かさかさ",
-    "answer2": "Khô ráp"
-  },
-  {
-    "question": "低下＜する＞",
-    "answer1": "ていかする",
-    "answer2": "Suy giảm"
-  },
-  {
-    "question": "くっきり＜為る＞",
-    "answer1": "くっきりする",
-    "answer2": "Rõ nét"
-  }
+    {
+        "question":  "尽くす",
+        "answer1":  "つくす",
+        "answer2":  "Dốc hết"
+    },
+    {
+        "question":  "薬品",
+        "answer1":  "やくひん",
+        "answer2":  "Dược phẩm"
+    },
+    {
+        "question":  "作用＜する＞",
+        "answer1":  "さようする",
+        "answer2":  "Tác dụng"
+    },
+    {
+        "question":  "目安",
+        "answer1":  "めやす",
+        "answer2":  "Tiêu chuẩn"
+    },
+    {
+        "question":  "副作用",
+        "answer1":  "ふくさよう",
+        "answer2":  "Tác dụng phụ"
+    },
+    {
+        "question":  "余計［に］",
+        "answer1":  "よけいに",
+        "answer2":  "Thừa"
+    },
+    {
+        "question":  "余計な",
+        "answer1":  "よけいな",
+        "answer2":  "Không cần thiết"
+    },
+    {
+        "question":  "揉む",
+        "answer1":  "もむ",
+        "answer2":  "Xoa bóp"
+    },
+    {
+        "question":  "告げる",
+        "answer1":  "つげる",
+        "answer2":  "Báo"
+    },
+    {
+        "question":  "覚悟＜する＞",
+        "answer1":  "かくごする",
+        "answer2":  "Chuẩn bị tinh thần"
+    },
+    {
+        "question":  "看病＜する＞",
+        "answer1":  "かんびょうする",
+        "answer2":  "Chăm bệnh"
+    },
+    {
+        "question":  "配慮＜する＞",
+        "answer1":  "はいりょする",
+        "answer2":  "Quan tâm"
+    },
+    {
+        "question":  "遺伝＜する＞",
+        "answer1":  "いでんする",
+        "answer2":  "Di truyền"
+    },
+    {
+        "question":  "克服＜する＞",
+        "answer1":  "こくふくする",
+        "answer2":  "Khắc phục"
+    },
+    {
+        "question":  "リハビリ",
+        "answer1":  "リハビリ",
+        "answer2":  "Phục hồi chức năng"
+    },
+    {
+        "question":  "肌",
+        "answer1":  "はだ",
+        "answer2":  "Da"
+    },
+    {
+        "question":  "手入れ＜する＞",
+        "answer1":  "ていれする",
+        "answer2":  "Chăm sóc"
+    },
+    {
+        "question":  "ケア＜する＞",
+        "answer1":  "ケアする",
+        "answer2":  "Chăm sóc"
+    },
+    {
+        "question":  "維持＜する＞",
+        "answer1":  "いじする",
+        "answer2":  "Duy trì"
+    },
+    {
+        "question":  "機能＜する＞",
+        "answer1":  "きのうする",
+        "answer2":  "Chức năng"
+    },
+    {
+        "question":  "却って",
+        "answer1":  "かえって",
+        "answer2":  "Ngược lại"
+    },
+    {
+        "question":  "刺激",
+        "answer1":  "しげき",
+        "answer2":  "Kích thích"
+    },
+    {
+        "question":  "かさかさ鳴る＜な/する＞",
+        "answer1":  "かさかさ",
+        "answer2":  "Khô ráp"
+    },
+    {
+        "question":  "低下＜する＞",
+        "answer1":  "ていかする",
+        "answer2":  "Suy giảm"
+    },
+    {
+        "question":  "くっきり＜する＞",
+        "answer1":  "くっきりする",
+        "answer2":  "Rõ nét"
+    }
 ]

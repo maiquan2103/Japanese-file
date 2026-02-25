@@ -1,127 +1,127 @@
 [
-  {
-    "question": "ぐるぐる巻き[と]",
-    "answer1": "ぐるぐる",
-    "answer2": "Quanh quẩn"
-  },
-  {
-    "question": "パンク＜為る＞",
-    "answer1": "パンクする",
-    "answer2": "Nổ lốp"
-  },
-  {
-    "question": "慎重な",
-    "answer1": "しんちょうな",
-    "answer2": "Thận trọng"
-  },
-  {
-    "question": "気を抜く",
-    "answer1": "きをぬく",
-    "answer2": "Lơ là"
-  },
-  {
-    "question": "生産＜する＞",
-    "answer1": "せいさんする",
-    "answer2": "Sản xuất"
-  },
-  {
-    "question": "供給＜する＞",
-    "answer1": "きょうきゅうする",
-    "answer2": "Cung cấp"
-  },
-  {
-    "question": "栽培＜する＞",
-    "answer1": "さいばいする",
-    "answer2": "Trồng trọt"
-  },
-  {
-    "question": "農家",
-    "answer1": "のうか",
-    "answer2": "Nông dân"
-  },
-  {
-    "question": "作物",
-    "answer1": "さくもつ",
-    "answer2": "Cây trồng"
-  },
-  {
-    "question": "漁業",
-    "answer1": "ぎょぎょう",
-    "answer2": "Ngư nghiệp"
-  },
-  {
-    "question": "栄える",
-    "answer1": "さかえる",
-    "answer2": "Hưng thịnh"
-  },
-  {
-    "question": "普及＜する＞",
-    "answer1": "ふきゅうする",
-    "answer2": "Phổ biến"
-  },
-  {
-    "question": "急増＜する＞",
-    "answer1": "きゅうぞうする",
-    "answer2": "Tăng nhanh"
-  },
-  {
-    "question": "情緒",
-    "answer1": "じょうちょ",
-    "answer2": "Cảm xúc"
-  },
-  {
-    "question": "向上＜する＞",
-    "answer1": "こうじょうする",
-    "answer2": "Nâng cao"
-  },
-  {
-    "question": "構成＜する＞",
-    "answer1": "こうせいする",
-    "answer2": "Cấu thành"
-  },
-  {
-    "question": "重視＜する＞",
-    "answer1": "じゅうしする",
-    "answer2": "Coi trọng"
-  },
-  {
-    "question": "提案＜する＞",
-    "answer1": "ていあんする",
-    "answer2": "Đề xuất"
-  },
-  {
-    "question": "検討＜する＞",
-    "answer1": "けんとうする",
-    "answer2": "Xem xét"
-  },
-  {
-    "question": "不可欠な",
-    "answer1": "ふかけつな",
-    "answer2": "Không thể thiếu"
-  },
-  {
-    "question": "妨げる",
-    "answer1": "さまたげる",
-    "answer2": "Cản trở"
-  },
-  {
-    "question": "生える",
-    "answer1": "はえる",
-    "answer2": "Mọc"
-  },
-  {
-    "question": "著しい",
-    "answer1": "いちじるしい",
-    "answer2": "Đáng kể"
-  },
-  {
-    "question": "参考",
-    "answer1": "さんこう",
-    "answer2": "Tham khảo"
-  },
-  {
-    "question": "リスク",
-    "answer1": "リスク",
-    "answer2": "Rủi ro"
-  }
+    {
+        "question":  "ぐるぐる巻き[と]",
+        "answer1":  "ぐるぐる",
+        "answer2":  "Quanh quẩn"
+    },
+    {
+        "question":  "パンク＜する＞",
+        "answer1":  "パンクする",
+        "answer2":  "Nổ lốp"
+    },
+    {
+        "question":  "慎重な",
+        "answer1":  "しんちょうな",
+        "answer2":  "Thận trọng"
+    },
+    {
+        "question":  "気を抜く",
+        "answer1":  "きをぬく",
+        "answer2":  "Lơ là"
+    },
+    {
+        "question":  "生産＜する＞",
+        "answer1":  "せいさんする",
+        "answer2":  "Sản xuất"
+    },
+    {
+        "question":  "供給＜する＞",
+        "answer1":  "きょうきゅうする",
+        "answer2":  "Cung cấp"
+    },
+    {
+        "question":  "栽培＜する＞",
+        "answer1":  "さいばいする",
+        "answer2":  "Trồng trọt"
+    },
+    {
+        "question":  "農家",
+        "answer1":  "のうか",
+        "answer2":  "Nông dân"
+    },
+    {
+        "question":  "作物",
+        "answer1":  "さくもつ",
+        "answer2":  "Cây trồng"
+    },
+    {
+        "question":  "漁業",
+        "answer1":  "ぎょぎょう",
+        "answer2":  "Ngư nghiệp"
+    },
+    {
+        "question":  "栄える",
+        "answer1":  "さかえる",
+        "answer2":  "Hưng thịnh"
+    },
+    {
+        "question":  "普及＜する＞",
+        "answer1":  "ふきゅうする",
+        "answer2":  "Phổ biến"
+    },
+    {
+        "question":  "急増＜する＞",
+        "answer1":  "きゅうぞうする",
+        "answer2":  "Tăng nhanh"
+    },
+    {
+        "question":  "情緒",
+        "answer1":  "じょうちょ",
+        "answer2":  "Cảm xúc"
+    },
+    {
+        "question":  "向上＜する＞",
+        "answer1":  "こうじょうする",
+        "answer2":  "Nâng cao"
+    },
+    {
+        "question":  "構成＜する＞",
+        "answer1":  "こうせいする",
+        "answer2":  "Cấu thành"
+    },
+    {
+        "question":  "重視＜する＞",
+        "answer1":  "じゅうしする",
+        "answer2":  "Coi trọng"
+    },
+    {
+        "question":  "提案＜する＞",
+        "answer1":  "ていあんする",
+        "answer2":  "Đề xuất"
+    },
+    {
+        "question":  "検討＜する＞",
+        "answer1":  "けんとうする",
+        "answer2":  "Xem xét"
+    },
+    {
+        "question":  "不可欠な",
+        "answer1":  "ふかけつな",
+        "answer2":  "Không thể thiếu"
+    },
+    {
+        "question":  "妨げる",
+        "answer1":  "さまたげる",
+        "answer2":  "Cản trở"
+    },
+    {
+        "question":  "生える",
+        "answer1":  "はえる",
+        "answer2":  "Mọc"
+    },
+    {
+        "question":  "著しい",
+        "answer1":  "いちじるしい",
+        "answer2":  "Đáng kể"
+    },
+    {
+        "question":  "参考",
+        "answer1":  "さんこう",
+        "answer2":  "Tham khảo"
+    },
+    {
+        "question":  "リスク",
+        "answer1":  "リスク",
+        "answer2":  "Rủi ro"
+    }
 ]

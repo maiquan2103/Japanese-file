@@ -1,127 +1,127 @@
 [
-  {
-    "question": "調節＜する＞",
-    "answer1": "ちょうせつする",
-    "answer2": "Điều chỉnh"
-  },
-  {
-    "question": "ゆったり[と]＜為る＞",
-    "answer1": "ゆったりする",
-    "answer2": "Thoải mái, thong thả"
-  },
-  {
-    "question": "売り買い＜する＞",
-    "answer1": "うりかいする",
-    "answer2": "Mua bán"
-  },
-  {
-    "question": "思い浮かべる",
-    "answer1": "おもいうかべる",
-    "answer2": "Nghĩ ra, nhớ ra"
-  },
-  {
-    "question": "独り言",
-    "answer1": "ひとりごと",
-    "answer2": "Nói một mình"
-  },
-  {
-    "question": "風呂場",
-    "answer1": "ふろば",
-    "answer2": "Phòng tắm"
-  },
-  {
-    "question": "家具",
-    "answer1": "かぐ",
-    "answer2": "Ngửi"
-  },
-  {
-    "question": "寝つき",
-    "answer1": "ねつき",
-    "answer2": "Giấc ngủ (dễ/ngủ)"
-  },
-  {
-    "question": "用心＜する＞",
-    "answer1": "ようじんする",
-    "answer2": "Cẩn thận"
-  },
-  {
-    "question": "メッセージ",
-    "answer1": "メッセージ",
-    "answer2": "Tin nhắn"
-  },
-  {
-    "question": "炊事＜する＞",
-    "answer1": "すいじする",
-    "answer2": "Nấu ăn, việc bếp núc"
-  },
-  {
-    "question": "献立",
-    "answer1": "こんだて",
-    "answer2": "Thực đơn"
-  },
-  {
-    "question": "リクエスト＜為る＞",
-    "answer1": "リクエストする",
-    "answer2": "Yêu cầu"
-  },
-  {
-    "question": "流し",
-    "answer1": "ながし",
-    "answer2": "Bồn rửa"
-  },
-  {
-    "question": "千切る",
-    "answer1": "ちぎる",
-    "answer2": "Xé"
-  },
-  {
-    "question": "冷ます",
-    "answer1": "さます",
-    "answer2": "Làm nguội"
-  },
-  {
-    "question": "煮える",
-    "answer1": "にえる",
-    "answer2": "Nấu chín"
-  },
-  {
-    "question": "味付け＜する＞",
-    "answer1": "あじつけする",
-    "answer2": "Nêm nếm"
-  },
-  {
-    "question": "薄める",
-    "answer1": "うすめる",
-    "answer2": "Làm loãng"
-  },
-  {
-    "question": "甘み",
-    "answer1": "あまみ",
-    "answer2": "Vị ngọt"
-  },
-  {
-    "question": "工夫＜する＞",
-    "answer1": "くふうする",
-    "answer2": "Sáng tạo, khéo léo"
-  },
-  {
-    "question": "添える",
-    "answer1": "そえる",
-    "answer2": "Thêm vào"
-  },
-  {
-    "question": "挟む",
-    "answer1": "はさむ",
-    "answer2": "Kẹp"
-  },
-  {
-    "question": "加減＜する＞",
-    "answer1": "かげんする",
-    "answer2": "Điều chỉnh mức độ"
-  },
-  {
-    "question": "固まる",
-    "answer1": "かたまる",
-    "answer2": "Đông lại"
-  }
+    {
+        "question":  "調節＜する＞",
+        "answer1":  "ちょうせつする",
+        "answer2":  "Điều chỉnh"
+    },
+    {
+        "question":  "ゆったり[と]＜する＞",
+        "answer1":  "ゆったりする",
+        "answer2":  "Thoải mái, thong thả"
+    },
+    {
+        "question":  "売り買い＜する＞",
+        "answer1":  "うりかいする",
+        "answer2":  "Mua bán"
+    },
+    {
+        "question":  "思い浮かべる",
+        "answer1":  "おもいうかべる",
+        "answer2":  "Nghĩ ra, nhớ ra"
+    },
+    {
+        "question":  "独り言",
+        "answer1":  "ひとりごと",
+        "answer2":  "Nói một mình"
+    },
+    {
+        "question":  "風呂場",
+        "answer1":  "ふろば",
+        "answer2":  "Phòng tắm"
+    },
+    {
+        "question":  "家具",
+        "answer1":  "かぐ",
+        "answer2":  "Ngửi"
+    },
+    {
+        "question":  "寝つき",
+        "answer1":  "ねつき",
+        "answer2":  "Giấc ngủ (dễ/ngủ)"
+    },
+    {
+        "question":  "用心＜する＞",
+        "answer1":  "ようじんする",
+        "answer2":  "Cẩn thận"
+    },
+    {
+        "question":  "メッセージ",
+        "answer1":  "メッセージ",
+        "answer2":  "Tin nhắn"
+    },
+    {
+        "question":  "炊事＜する＞",
+        "answer1":  "すいじする",
+        "answer2":  "Nấu ăn, việc bếp núc"
+    },
+    {
+        "question":  "献立",
+        "answer1":  "こんだて",
+        "answer2":  "Thực đơn"
+    },
+    {
+        "question":  "リクエスト＜する＞",
+        "answer1":  "リクエストする",
+        "answer2":  "Yêu cầu"
+    },
+    {
+        "question":  "流し",
+        "answer1":  "ながし",
+        "answer2":  "Bồn rửa"
+    },
+    {
+        "question":  "千切る",
+        "answer1":  "ちぎる",
+        "answer2":  "Xé"
+    },
+    {
+        "question":  "冷ます",
+        "answer1":  "さます",
+        "answer2":  "Làm nguội"
+    },
+    {
+        "question":  "煮える",
+        "answer1":  "にえる",
+        "answer2":  "Nấu chín"
+    },
+    {
+        "question":  "味付け＜する＞",
+        "answer1":  "あじつけする",
+        "answer2":  "Nêm nếm"
+    },
+    {
+        "question":  "薄める",
+        "answer1":  "うすめる",
+        "answer2":  "Làm loãng"
+    },
+    {
+        "question":  "甘み",
+        "answer1":  "あまみ",
+        "answer2":  "Vị ngọt"
+    },
+    {
+        "question":  "工夫＜する＞",
+        "answer1":  "くふうする",
+        "answer2":  "Sáng tạo, khéo léo"
+    },
+    {
+        "question":  "添える",
+        "answer1":  "そえる",
+        "answer2":  "Thêm vào"
+    },
+    {
+        "question":  "挟む",
+        "answer1":  "はさむ",
+        "answer2":  "Kẹp"
+    },
+    {
+        "question":  "加減＜する＞",
+        "answer1":  "かげんする",
+        "answer2":  "Điều chỉnh mức độ"
+    },
+    {
+        "question":  "固まる",
+        "answer1":  "かたまる",
+        "answer2":  "Đông lại"
+    }
 ]

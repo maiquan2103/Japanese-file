@@ -1,127 +1,127 @@
 [
-  {
-    "question": "発想＜する＞",
-    "answer1": "はっそう＜する＞",
-    "answer2": "Ý tưởng"
-  },
-  {
-    "question": "由来＜する＞",
-    "answer1": "ゆらい＜する＞",
-    "answer2": "Nguồn gốc"
-  },
-  {
-    "question": "空想＜する＞",
-    "answer1": "くうそう＜する＞",
-    "answer2": "Không tưởng"
-  },
-  {
-    "question": "連想＜する＞",
-    "answer1": "れんそう＜する＞",
-    "answer2": "Liên tưởng"
-  },
-  {
-    "question": "解釈＜する＞",
-    "answer1": "かいしゃく＜する＞",
-    "answer2": "Diễn giải"
-  },
-  {
-    "question": "発行＜する＞",
-    "answer1": "はっこう＜する＞",
-    "answer2": "Phát hành"
-  },
-  {
-    "question": "生み出す",
-    "answer1": "うみだす",
-    "answer2": "Sáng tạo ra"
-  },
-  {
-    "question": "読書家",
-    "answer1": "どくしょか",
-    "answer2": "Người mê đọc sách"
-  },
-  {
-    "question": "習い事",
-    "answer1": "ならいごと",
-    "answer2": "Học ngoại khóa"
-  },
-  {
-    "question": "拘る",
-    "answer1": "こだわる",
-    "answer2": "Câu nệ"
-  },
-  {
-    "question": "拘り",
-    "answer1": "こだわり",
-    "answer2": "Đặc trưng"
-  },
-  {
-    "question": "凝る",
-    "answer1": "こる",
-    "answer2": "Say mê"
-  },
-  {
-    "question": "熱中＜する＞",
-    "answer1": "ねっちゅう＜する＞",
-    "answer2": "Say mê"
-  },
-  {
-    "question": "コレクション＜為る＞",
-    "answer1": "コレクション＜する＞",
-    "answer2": "Sưu tầm"
-  },
-  {
-    "question": "多彩な",
-    "answer1": "たさいな",
-    "answer2": "Đa dạng"
-  },
-  {
-    "question": "素人",
-    "answer1": "しろうと",
-    "answer2": "Nghiệp dư"
-  },
-  {
-    "question": "初心者",
-    "answer1": "しょしんしゃ",
-    "answer2": "Người mới"
-  },
-  {
-    "question": "本格的な",
-    "answer1": "ほんかくてきな",
-    "answer2": "Bài bản"
-  },
-  {
-    "question": "名人",
-    "answer1": "めいじん",
-    "answer2": "Cao thủ"
-  },
-  {
-    "question": "共通＜する＞",
-    "answer1": "きょうつう＜する＞",
-    "answer2": "Chung"
-  },
-  {
-    "question": "ブーム",
-    "answer1": "ブーム",
-    "answer2": "Trào lưu"
-  },
-  {
-    "question": "アウトドア",
-    "answer1": "アウトドア",
-    "answer2": "Ngoài trời"
-  },
-  {
-    "question": "編み物",
-    "answer1": "あみもの",
-    "answer2": "Đồ đan"
-  },
-  {
-    "question": "手品",
-    "answer1": "てじな",
-    "answer2": "Ảo thuật"
-  },
-  {
-    "question": "占い",
-    "answer1": "うらない",
-    "answer2": "Bói toán"
-  }
+    {
+        "question":  "発想＜する＞",
+        "answer1":  "はっそう＜する＞",
+        "answer2":  "Ý tưởng"
+    },
+    {
+        "question":  "由来＜する＞",
+        "answer1":  "ゆらい＜する＞",
+        "answer2":  "Nguồn gốc"
+    },
+    {
+        "question":  "空想＜する＞",
+        "answer1":  "くうそう＜する＞",
+        "answer2":  "Không tưởng"
+    },
+    {
+        "question":  "連想＜する＞",
+        "answer1":  "れんそう＜する＞",
+        "answer2":  "Liên tưởng"
+    },
+    {
+        "question":  "解釈＜する＞",
+        "answer1":  "かいしゃく＜する＞",
+        "answer2":  "Diễn giải"
+    },
+    {
+        "question":  "発行＜する＞",
+        "answer1":  "はっこう＜する＞",
+        "answer2":  "Phát hành"
+    },
+    {
+        "question":  "生み出す",
+        "answer1":  "うみだす",
+        "answer2":  "Sáng tạo ra"
+    },
+    {
+        "question":  "読書家",
+        "answer1":  "どくしょか",
+        "answer2":  "Người mê đọc sách"
+    },
+    {
+        "question":  "習い事",
+        "answer1":  "ならいごと",
+        "answer2":  "Học ngoại khóa"
+    },
+    {
+        "question":  "拘る",
+        "answer1":  "こだわる",
+        "answer2":  "Câu nệ"
+    },
+    {
+        "question":  "拘り",
+        "answer1":  "こだわり",
+        "answer2":  "Đặc trưng"
+    },
+    {
+        "question":  "凝る",
+        "answer1":  "こる",
+        "answer2":  "Say mê"
+    },
+    {
+        "question":  "熱中＜する＞",
+        "answer1":  "ねっちゅう＜する＞",
+        "answer2":  "Say mê"
+    },
+    {
+        "question":  "コレクション＜する＞",
+        "answer1":  "コレクション＜する＞",
+        "answer2":  "Sưu tầm"
+    },
+    {
+        "question":  "多彩な",
+        "answer1":  "たさいな",
+        "answer2":  "Đa dạng"
+    },
+    {
+        "question":  "素人",
+        "answer1":  "しろうと",
+        "answer2":  "Nghiệp dư"
+    },
+    {
+        "question":  "初心者",
+        "answer1":  "しょしんしゃ",
+        "answer2":  "Người mới"
+    },
+    {
+        "question":  "本格的な",
+        "answer1":  "ほんかくてきな",
+        "answer2":  "Bài bản"
+    },
+    {
+        "question":  "名人",
+        "answer1":  "めいじん",
+        "answer2":  "Cao thủ"
+    },
+    {
+        "question":  "共通＜する＞",
+        "answer1":  "きょうつう＜する＞",
+        "answer2":  "Chung"
+    },
+    {
+        "question":  "ブーム",
+        "answer1":  "ブーム",
+        "answer2":  "Trào lưu"
+    },
+    {
+        "question":  "アウトドア",
+        "answer1":  "アウトドア",
+        "answer2":  "Ngoài trời"
+    },
+    {
+        "question":  "編み物",
+        "answer1":  "あみもの",
+        "answer2":  "Đồ đan"
+    },
+    {
+        "question":  "手品",
+        "answer1":  "てじな",
+        "answer2":  "Ảo thuật"
+    },
+    {
+        "question":  "占い",
+        "answer1":  "うらない",
+        "answer2":  "Bói toán"
+    }
 ]

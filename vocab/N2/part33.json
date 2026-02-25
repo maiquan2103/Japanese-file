@@ -1,127 +1,127 @@
 [
-  {
-    "question": "取り入れる",
-    "answer1": "とりいれる",
-    "answer2": "Đưa vào"
-  },
-  {
-    "question": "ハードな",
-    "answer1": "ハードな",
-    "answer2": "Khắc nghiệt"
-  },
-  {
-    "question": "通用＜する＞",
-    "answer1": "つうよう＜する＞",
-    "answer2": "Được chấp nhận"
-  },
-  {
-    "question": "技",
-    "answer1": "わざ",
-    "answer2": "Kỹ năng, chiêu thức"
-  },
-  {
-    "question": "今に",
-    "answer1": "いまに",
-    "answer2": "Chẳng mấy chốc"
-  },
-  {
-    "question": "格好",
-    "answer1": "かっこう",
-    "answer2": "Hình thức, bộ dạng"
-  },
-  {
-    "question": "持ち物",
-    "answer1": "もちもの",
-    "answer2": "Vật dụng"
-  },
-  {
-    "question": "身につける",
-    "answer1": "みにつける",
-    "answer2": "Mặc, đeo, tiếp thu"
-  },
-  {
-    "question": "センス",
-    "answer1": "センス",
-    "answer2": "Gu thẩm mỹ"
-  },
-  {
-    "question": "ダサい",
-    "answer1": "ダサい",
-    "answer2": "Xấu, quê"
-  },
-  {
-    "question": "今ひとつ",
-    "answer1": "いまひとつ",
-    "answer2": "Thiếu một chút"
-  },
-  {
-    "question": "スタイル",
-    "answer1": "スタイル",
-    "answer2": "Phong cách"
-  },
-  {
-    "question": "足元（足下）",
-    "answer1": "あしもと",
-    "answer2": "Dưới chân"
-  },
-  {
-    "question": "ウエスト",
-    "answer1": "ウエスト",
-    "answer2": "Vòng eo"
-  },
-  {
-    "question": "見た目",
-    "answer1": "みため",
-    "answer2": "Bề ngoài"
-  },
-  {
-    "question": "人目",
-    "answer1": "ひとめ",
-    "answer2": "Ánh nhìn người khác"
-  },
-  {
-    "question": "色彩",
-    "answer1": "しきさい",
-    "answer2": "Màu sắc"
-  },
-  {
-    "question": "華やかな",
-    "answer1": "はなやかな",
-    "answer2": "Lộng lẫy"
-  },
-  {
-    "question": "鮮やかな",
-    "answer1": "あざやかな",
-    "answer2": "Rực rỡ"
-  },
-  {
-    "question": "統一＜する＞",
-    "answer1": "とういつ＜する＞",
-    "answer2": "Thống nhất"
-  },
-  {
-    "question": "フリーサイズ",
-    "answer1": "フリーサイズ",
-    "answer2": "Một cỡ"
-  },
-  {
-    "question": "ぶかぶか＜な／為る＞",
-    "answer1": "ぶかぶか",
-    "answer2": "Thùng thình"
-  },
-  {
-    "question": "生地",
-    "answer1": "きじ",
-    "answer2": "Vải"
-  },
-  {
-    "question": "綿",
-    "answer1": "めん",
-    "answer2": "Cotton"
-  },
-  {
-    "question": "オーダーメイド",
-    "answer1": "オーダーメイド",
-    "answer2": "Hàng đặt may"
-  }
+    {
+        "question":  "取り入れる",
+        "answer1":  "とりいれる",
+        "answer2":  "Đưa vào"
+    },
+    {
+        "question":  "ハードな",
+        "answer1":  "ハードな",
+        "answer2":  "Khắc nghiệt"
+    },
+    {
+        "question":  "通用＜する＞",
+        "answer1":  "つうよう＜する＞",
+        "answer2":  "Được chấp nhận"
+    },
+    {
+        "question":  "技",
+        "answer1":  "わざ",
+        "answer2":  "Kỹ năng, chiêu thức"
+    },
+    {
+        "question":  "今に",
+        "answer1":  "いまに",
+        "answer2":  "Chẳng mấy chốc"
+    },
+    {
+        "question":  "格好",
+        "answer1":  "かっこう",
+        "answer2":  "Hình thức, bộ dạng"
+    },
+    {
+        "question":  "持ち物",
+        "answer1":  "もちもの",
+        "answer2":  "Vật dụng"
+    },
+    {
+        "question":  "身につける",
+        "answer1":  "みにつける",
+        "answer2":  "Mặc, đeo, tiếp thu"
+    },
+    {
+        "question":  "センス",
+        "answer1":  "センス",
+        "answer2":  "Gu thẩm mỹ"
+    },
+    {
+        "question":  "ダサい",
+        "answer1":  "ダサい",
+        "answer2":  "Xấu, quê"
+    },
+    {
+        "question":  "今ひとつ",
+        "answer1":  "いまひとつ",
+        "answer2":  "Thiếu một chút"
+    },
+    {
+        "question":  "スタイル",
+        "answer1":  "スタイル",
+        "answer2":  "Phong cách"
+    },
+    {
+        "question":  "足元（足下）",
+        "answer1":  "あしもと",
+        "answer2":  "Dưới chân"
+    },
+    {
+        "question":  "ウエスト",
+        "answer1":  "ウエスト",
+        "answer2":  "Vòng eo"
+    },
+    {
+        "question":  "見た目",
+        "answer1":  "みため",
+        "answer2":  "Bề ngoài"
+    },
+    {
+        "question":  "人目",
+        "answer1":  "ひとめ",
+        "answer2":  "Ánh nhìn người khác"
+    },
+    {
+        "question":  "色彩",
+        "answer1":  "しきさい",
+        "answer2":  "Màu sắc"
+    },
+    {
+        "question":  "華やかな",
+        "answer1":  "はなやかな",
+        "answer2":  "Lộng lẫy"
+    },
+    {
+        "question":  "鮮やかな",
+        "answer1":  "あざやかな",
+        "answer2":  "Rực rỡ"
+    },
+    {
+        "question":  "統一＜する＞",
+        "answer1":  "とういつ＜する＞",
+        "answer2":  "Thống nhất"
+    },
+    {
+        "question":  "フリーサイズ",
+        "answer1":  "フリーサイズ",
+        "answer2":  "Một cỡ"
+    },
+    {
+        "question":  "ぶかぶか＜な／する＞",
+        "answer1":  "ぶかぶか",
+        "answer2":  "Thùng thình"
+    },
+    {
+        "question":  "生地",
+        "answer1":  "きじ",
+        "answer2":  "Vải"
+    },
+    {
+        "question":  "綿",
+        "answer1":  "めん",
+        "answer2":  "Cotton"
+    },
+    {
+        "question":  "オーダーメイド",
+        "answer1":  "オーダーメイド",
+        "answer2":  "Hàng đặt may"
+    }
 ]

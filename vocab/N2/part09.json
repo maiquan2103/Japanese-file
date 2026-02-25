@@ -1,127 +1,127 @@
 [
-  {
-    "question": "トレイ",
-    "answer1": "トレイ",
-    "answer2": "Khay"
-  },
-  {
-    "question": "器",
-    "answer1": "うつわ",
-    "answer2": "Đồ đựng"
-  },
-  {
-    "question": "重ねる",
-    "answer1": "かさねる",
-    "answer2": "Xếp chồng"
-  },
-  {
-    "question": "ずらり[と]",
-    "answer1": "ずらり",
-    "answer2": "Xếp hàng dài"
-  },
-  {
-    "question": "主食",
-    "answer1": "しゅしょく",
-    "answer2": "Món chính"
-  },
-  {
-    "question": "生",
-    "answer1": "なま",
-    "answer2": "Sống"
-  },
-  {
-    "question": "なま物",
-    "answer1": "なまもの",
-    "answer2": "Đồ sống"
-  },
-  {
-    "question": "特製",
-    "answer1": "とくせい",
-    "answer2": "Đặc chế"
-  },
-  {
-    "question": "粗末な",
-    "answer1": "そまつな",
-    "answer2": "Đạm bạc"
-  },
-  {
-    "question": "購入＜する＞",
-    "answer1": "こうにゅうする",
-    "answer2": "Mua"
-  },
-  {
-    "question": "[お]買い得",
-    "answer1": "[お]かいどく",
-    "answer2": "Mua hời"
-  },
-  {
-    "question": "手頃な",
-    "answer1": "てごろな",
-    "answer2": "Vừa giá"
-  },
-  {
-    "question": "値引き＜する＞",
-    "answer1": "ねびきする",
-    "answer2": "Giảm giá"
-  },
-  {
-    "question": "お負け＜為る＞",
-    "answer1": "おまけする",
-    "answer2": "Khuyến mãi"
-  },
-  {
-    "question": "返品＜する＞",
-    "answer1": "へんぴんする",
-    "answer2": "Trả hàng"
-  },
-  {
-    "question": "返金＜する＞",
-    "answer1": "へんきんする",
-    "answer2": "Hoàn tiền"
-  },
-  {
-    "question": "価格",
-    "answer1": "かかく",
-    "answer2": "Giá cả"
-  },
-  {
-    "question": "高価な",
-    "answer1": "こうかな",
-    "answer2": "Đắt tiền"
-  },
-  {
-    "question": "金額",
-    "answer1": "きんがく",
-    "answer2": "Số tiền"
-  },
-  {
-    "question": "価値",
-    "answer1": "かち",
-    "answer2": "Giá trị"
-  },
-  {
-    "question": "品質",
-    "answer1": "ひんしつ",
-    "answer2": "Chất lượng"
-  },
-  {
-    "question": "消費税",
-    "answer1": "しょうひぜい",
-    "answer2": "Thuế tiêu dùng"
-  },
-  {
-    "question": "ネットオークション",
-    "answer1": "ネットオークション",
-    "answer2": "Đấu giá online"
-  },
-  {
-    "question": "名物",
-    "answer1": "めいぶつ",
-    "answer2": "Đặc sản"
-  },
-  {
-    "question": "取り寄せる",
-    "answer1": "とりよせる",
-    "answer2": "Đặt hàng"
-  }
+    {
+        "question":  "トレイ",
+        "answer1":  "トレイ",
+        "answer2":  "Khay"
+    },
+    {
+        "question":  "器",
+        "answer1":  "うつわ",
+        "answer2":  "Đồ đựng"
+    },
+    {
+        "question":  "重ねる",
+        "answer1":  "かさねる",
+        "answer2":  "Xếp chồng"
+    },
+    {
+        "question":  "ずらり[と]",
+        "answer1":  "ずらり",
+        "answer2":  "Xếp hàng dài"
+    },
+    {
+        "question":  "主食",
+        "answer1":  "しゅしょく",
+        "answer2":  "Món chính"
+    },
+    {
+        "question":  "生",
+        "answer1":  "なま",
+        "answer2":  "Sống"
+    },
+    {
+        "question":  "なま物",
+        "answer1":  "なまもの",
+        "answer2":  "Đồ sống"
+    },
+    {
+        "question":  "特製",
+        "answer1":  "とくせい",
+        "answer2":  "Đặc chế"
+    },
+    {
+        "question":  "粗末な",
+        "answer1":  "そまつな",
+        "answer2":  "Đạm bạc"
+    },
+    {
+        "question":  "購入＜する＞",
+        "answer1":  "こうにゅうする",
+        "answer2":  "Mua"
+    },
+    {
+        "question":  "[お]買い得",
+        "answer1":  "[お]かいどく",
+        "answer2":  "Mua hời"
+    },
+    {
+        "question":  "手頃な",
+        "answer1":  "てごろな",
+        "answer2":  "Vừa giá"
+    },
+    {
+        "question":  "値引き＜する＞",
+        "answer1":  "ねびきする",
+        "answer2":  "Giảm giá"
+    },
+    {
+        "question":  "お負け＜する＞",
+        "answer1":  "おまけする",
+        "answer2":  "Khuyến mãi"
+    },
+    {
+        "question":  "返品＜する＞",
+        "answer1":  "へんぴんする",
+        "answer2":  "Trả hàng"
+    },
+    {
+        "question":  "返金＜する＞",
+        "answer1":  "へんきんする",
+        "answer2":  "Hoàn tiền"
+    },
+    {
+        "question":  "価格",
+        "answer1":  "かかく",
+        "answer2":  "Giá cả"
+    },
+    {
+        "question":  "高価な",
+        "answer1":  "こうかな",
+        "answer2":  "Đắt tiền"
+    },
+    {
+        "question":  "金額",
+        "answer1":  "きんがく",
+        "answer2":  "Số tiền"
+    },
+    {
+        "question":  "価値",
+        "answer1":  "かち",
+        "answer2":  "Giá trị"
+    },
+    {
+        "question":  "品質",
+        "answer1":  "ひんしつ",
+        "answer2":  "Chất lượng"
+    },
+    {
+        "question":  "消費税",
+        "answer1":  "しょうひぜい",
+        "answer2":  "Thuế tiêu dùng"
+    },
+    {
+        "question":  "ネットオークション",
+        "answer1":  "ネットオークション",
+        "answer2":  "Đấu giá online"
+    },
+    {
+        "question":  "名物",
+        "answer1":  "めいぶつ",
+        "answer2":  "Đặc sản"
+    },
+    {
+        "question":  "取り寄せる",
+        "answer1":  "とりよせる",
+        "answer2":  "Đặt hàng"
+    }
 ]

@@ -80,7 +80,7 @@
     "answer2": "Cúi mặt"
   },
   {
-    "question": "こそこそ泥棒<為る>",
+    "question": "こそこそ泥棒<する>",
     "answer1": "こそこそする",
     "answer2": "Lén lút"
   },
@@ -105,7 +105,7 @@
     "answer2": "Gặp mặt làm quen"
   },
   {
-    "question": "アプローチ<為る>",
+    "question": "アプローチ<する>",
     "answer1": "アプローチする",
     "answer2": "Tiếp cận"
   },
@@ -120,7 +120,7 @@
     "answer2": "Quyết tâm"
   },
   {
-    "question": "プロポーズ<為る>",
+    "question": "プロポーズ<する>",
     "answer1": "プロポーズする",
     "answer2": "Cầu hôn"
   }
