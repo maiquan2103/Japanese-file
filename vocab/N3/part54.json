@@ -1,6 +1,6 @@
 [
   {
-    "question": "生き生き[と]<為る>",
+    "question": "生き生き[と]<する>",
     "answer1": "いきいきする",
     "answer2": "Sinh động"
   },
@@ -25,7 +25,7 @@
     "answer2": "Nổi bật"
   },
   {
-    "question": "きらきら星<為る>",
+    "question": "きらきら星<する>",
     "answer1": "きらきらする",
     "answer2": "Lấp lánh"
   },
@@ -40,7 +40,7 @@
     "answer2": "Khác"
   },
   {
-    "question": "ぼんやり[と]<為る>",
+    "question": "ぼんやり[と]<する>",
     "answer1": "ぼんやりする",
     "answer2": "Mờ mờ"
   },
@@ -70,7 +70,7 @@
     "answer2": "Hoàn hảo"
   },
   {
-    "question": "たっぷり[と]<為る>",
+    "question": "たっぷり[と]<する>",
     "answer1": "たっぷりする",
     "answer2": "Đầy"
   },

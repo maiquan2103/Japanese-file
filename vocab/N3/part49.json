@@ -1,127 +1,127 @@
 [
-  {
-    "question": "単純＜な＞",
-    "answer1": "たんじゅんな",
-    "answer2": "Đơn giản"
-  },
-  {
-    "question": "????",
-    "answer1": "オーバーな",
-    "answer2": "Thái quá"
-  },
-  {
-    "question": "欠点",
-    "answer1": "けってん",
-    "answer2": "Khuyết điểm"
-  },
-  {
-    "question": "癖",
-    "answer1": "くせ",
-    "answer2": "Tật"
-  },
-  {
-    "question": "器用な",
-    "answer1": "きような",
-    "answer2": "Khéo léo"
-  },
-  {
-    "question": "感情",
-    "answer1": "かんじょう",
-    "answer2": "Cảm xúc"
-  },
-  {
-    "question": "憧れる",
-    "answer1": "あこがれる",
-    "answer2": "Ngưỡng mộ"
-  },
-  {
-    "question": "羨ましい",
-    "answer1": "うらやましい",
-    "answer2": "Ghen tị"
-  },
-  {
-    "question": "落ち着く",
-    "answer1": "おちつく",
-    "answer2": "Bình tĩnh"
-  },
-  {
-    "question": "感激＜する＞",
-    "answer1": "かんげきする",
-    "answer2": "Cảm kích"
-  },
-  {
-    "question": "感動＜する＞",
-    "answer1": "かんどうする",
-    "answer2": "Cảm động"
-  },
-  {
-    "question": "感心＜する＞",
-    "answer1": "かんしんする",
-    "answer2": "Khâm phục"
-  },
-  {
-    "question": "懐かしい",
-    "answer1": "なつかしい",
-    "answer2": "Nhớ nhung"
-  },
-  {
-    "question": "気軽な",
-    "answer1": "きがるな",
-    "answer2": "Thoải mái"
-  },
-  {
-    "question": "気楽な",
-    "answer1": "きらくな",
-    "answer2": "Nhẹ nhõm"
-  },
-  {
-    "question": "幸せ＜な＞",
-    "answer1": "しあわせな",
-    "answer2": "Hạnh phúc"
-  },
-  {
-    "question": "冗談",
-    "answer1": "じょうだん",
-    "answer2": "Đùa"
-  },
-  {
-    "question": "ユーモア",
-    "answer1": "ユーモア",
-    "answer2": "Hài hước"
-  },
-  {
-    "question": "ゆかいな牧場",
-    "answer1": "ゆかいな",
-    "answer2": "Vui vẻ"
-  },
-  {
-    "question": "愛する",
-    "answer1": "あいする",
-    "answer2": "Yêu"
-  },
-  {
-    "question": "真剣な",
-    "answer1": "しんけんな",
-    "answer2": "Nghiêm túc"
-  },
-  {
-    "question": "どきどき魔女神判!＜為る＞",
-    "answer1": "どきどきする",
-    "answer2": "Hồi hộp"
-  },
-  {
-    "question": "わくわく＜為る＞",
-    "answer1": "わくわくする",
-    "answer2": "Phấn khích"
-  },
-  {
-    "question": "放っとく＜為る＞",
-    "answer1": "ほっとする",
-    "answer2": "Nhẹ nhõm"
-  },
-  {
-    "question": "のんびり屋＜為る＞",
-    "answer1": "のんびりする",
-    "answer2": "Thư thả"
-  }
+    {
+        "question":  "単純＜な＞",
+        "answer1":  "たんじゅんな",
+        "answer2":  "Đơn giản"
+    },
+    {
+        "question":  "????",
+        "answer1":  "オーバーな",
+        "answer2":  "Thái quá"
+    },
+    {
+        "question":  "欠点",
+        "answer1":  "けってん",
+        "answer2":  "Khuyết điểm"
+    },
+    {
+        "question":  "癖",
+        "answer1":  "くせ",
+        "answer2":  "Tật"
+    },
+    {
+        "question":  "器用な",
+        "answer1":  "きような",
+        "answer2":  "Khéo léo"
+    },
+    {
+        "question":  "感情",
+        "answer1":  "かんじょう",
+        "answer2":  "Cảm xúc"
+    },
+    {
+        "question":  "憧れる",
+        "answer1":  "あこがれる",
+        "answer2":  "Ngưỡng mộ"
+    },
+    {
+        "question":  "羨ましい",
+        "answer1":  "うらやましい",
+        "answer2":  "Ghen tị"
+    },
+    {
+        "question":  "落ち着く",
+        "answer1":  "おちつく",
+        "answer2":  "Bình tĩnh"
+    },
+    {
+        "question":  "感激＜する＞",
+        "answer1":  "かんげきする",
+        "answer2":  "Cảm kích"
+    },
+    {
+        "question":  "感動＜する＞",
+        "answer1":  "かんどうする",
+        "answer2":  "Cảm động"
+    },
+    {
+        "question":  "感心＜する＞",
+        "answer1":  "かんしんする",
+        "answer2":  "Khâm phục"
+    },
+    {
+        "question":  "懐かしい",
+        "answer1":  "なつかしい",
+        "answer2":  "Nhớ nhung"
+    },
+    {
+        "question":  "気軽な",
+        "answer1":  "きがるな",
+        "answer2":  "Thoải mái"
+    },
+    {
+        "question":  "気楽な",
+        "answer1":  "きらくな",
+        "answer2":  "Nhẹ nhõm"
+    },
+    {
+        "question":  "幸せ＜な＞",
+        "answer1":  "しあわせな",
+        "answer2":  "Hạnh phúc"
+    },
+    {
+        "question":  "冗談",
+        "answer1":  "じょうだん",
+        "answer2":  "Đùa"
+    },
+    {
+        "question":  "ユーモア",
+        "answer1":  "ユーモア",
+        "answer2":  "Hài hước"
+    },
+    {
+        "question":  "ゆかいな牧場",
+        "answer1":  "ゆかいな",
+        "answer2":  "Vui vẻ"
+    },
+    {
+        "question":  "愛する",
+        "answer1":  "あいする",
+        "answer2":  "Yêu"
+    },
+    {
+        "question":  "真剣な",
+        "answer1":  "しんけんな",
+        "answer2":  "Nghiêm túc"
+    },
+    {
+        "question":  "どきどき魔女神判!＜する＞",
+        "answer1":  "どきどきする",
+        "answer2":  "Hồi hộp"
+    },
+    {
+        "question":  "わくわく＜する＞",
+        "answer1":  "わくわくする",
+        "answer2":  "Phấn khích"
+    },
+    {
+        "question":  "放っとく＜する＞",
+        "answer1":  "ほっとする",
+        "answer2":  "Nhẹ nhõm"
+    },
+    {
+        "question":  "のんびり屋＜する＞",
+        "answer1":  "のんびりする",
+        "answer2":  "Thư thả"
+    }
 ]

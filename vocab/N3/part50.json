@@ -1,127 +1,127 @@
 [
-  {
-    "question": "微笑む",
-    "answer1": "ほほえむ",
-    "answer2": "Mỉm cười"
-  },
-  {
-    "question": "夢中＜な＞",
-    "answer1": "むちゅうな",
-    "answer2": "Say mê"
-  },
-  {
-    "question": "勇気",
-    "answer1": "ゆうき",
-    "answer2": "Dũng khí"
-  },
-  {
-    "question": "飽きる",
-    "answer1": "あきる",
-    "answer2": "Chán"
-  },
-  {
-    "question": "嫌がる",
-    "answer1": "いやがる",
-    "answer2": "Ghét"
-  },
-  {
-    "question": "落ち込む",
-    "answer1": "おちこむ",
-    "answer2": "Chán nản"
-  },
-  {
-    "question": "がっかり＜為る＞",
-    "answer1": "がっかりする",
-    "answer2": "Thất vọng"
-  },
-  {
-    "question": "悲しむ",
-    "answer1": "かなしむ",
-    "answer2": "Buồn"
-  },
-  {
-    "question": "????",
-    "answer1": "かわいそうな",
-    "answer2": "Tội nghiệp"
-  },
-  {
-    "question": "気の毒な",
-    "answer1": "きのどくな",
-    "answer2": "Đáng thương"
-  },
-  {
-    "question": "喫飲",
-    "answer1": "きつい",
-    "answer2": "Khó khăn"
-  },
-  {
-    "question": "恐怖",
-    "answer1": "きょうふ",
-    "answer2": "Nỗi sợ"
-  },
-  {
-    "question": "ショック",
-    "answer1": "ショック",
-    "answer2": "Cú sốc"
-  },
-  {
-    "question": "後悔＜する＞",
-    "answer1": "こうかいする",
-    "answer2": "Hối hận"
-  },
-  {
-    "question": "悩む",
-    "answer1": "なやむ",
-    "answer2": "Trăn trở"
-  },
-  {
-    "question": "悩み",
-    "answer1": "なやみ",
-    "answer2": "Nỗi lo"
-  },
-  {
-    "question": "不安＜な＞",
-    "answer1": "ふあんな",
-    "answer2": "Bất an"
-  },
-  {
-    "question": "迷惑＜な/する＞",
-    "answer1": "めいわくな／する",
-    "answer2": "Phiền phức"
-  },
-  {
-    "question": "面倒＜な＞",
-    "answer1": "めんどうな",
-    "answer2": "Phiền toái"
-  },
-  {
-    "question": "面倒くさい",
-    "answer1": "めんどうくさい",
-    "answer2": "Rắc rối"
-  },
-  {
-    "question": "物々交換",
-    "answer1": "ぶつぶつ",
-    "answer2": "Lầm bầm"
-  },
-  {
-    "question": "一々",
-    "answer1": "いちいち",
-    "answer2": "Tí chút cũng"
-  },
-  {
-    "question": "喧しい",
-    "answer1": "やかましい",
-    "answer2": "Ồn ào"
-  },
-  {
-    "question": "心から",
-    "answer1": "こころから",
-    "answer2": "Từ đáy lòng"
-  },
-  {
-    "question": "祈る",
-    "answer1": "いのる",
-    "answer2": "Cầu nguyện"
-  }
+    {
+        "question":  "微笑む",
+        "answer1":  "ほほえむ",
+        "answer2":  "Mỉm cười"
+    },
+    {
+        "question":  "夢中＜な＞",
+        "answer1":  "むちゅうな",
+        "answer2":  "Say mê"
+    },
+    {
+        "question":  "勇気",
+        "answer1":  "ゆうき",
+        "answer2":  "Dũng khí"
+    },
+    {
+        "question":  "飽きる",
+        "answer1":  "あきる",
+        "answer2":  "Chán"
+    },
+    {
+        "question":  "嫌がる",
+        "answer1":  "いやがる",
+        "answer2":  "Ghét"
+    },
+    {
+        "question":  "落ち込む",
+        "answer1":  "おちこむ",
+        "answer2":  "Chán nản"
+    },
+    {
+        "question":  "がっかり＜する＞",
+        "answer1":  "がっかりする",
+        "answer2":  "Thất vọng"
+    },
+    {
+        "question":  "悲しむ",
+        "answer1":  "かなしむ",
+        "answer2":  "Buồn"
+    },
+    {
+        "question":  "????",
+        "answer1":  "かわいそうな",
+        "answer2":  "Tội nghiệp"
+    },
+    {
+        "question":  "気の毒な",
+        "answer1":  "きのどくな",
+        "answer2":  "Đáng thương"
+    },
+    {
+        "question":  "喫飲",
+        "answer1":  "きつい",
+        "answer2":  "Khó khăn"
+    },
+    {
+        "question":  "恐怖",
+        "answer1":  "きょうふ",
+        "answer2":  "Nỗi sợ"
+    },
+    {
+        "question":  "ショック",
+        "answer1":  "ショック",
+        "answer2":  "Cú sốc"
+    },
+    {
+        "question":  "後悔＜する＞",
+        "answer1":  "こうかいする",
+        "answer2":  "Hối hận"
+    },
+    {
+        "question":  "悩む",
+        "answer1":  "なやむ",
+        "answer2":  "Trăn trở"
+    },
+    {
+        "question":  "悩み",
+        "answer1":  "なやみ",
+        "answer2":  "Nỗi lo"
+    },
+    {
+        "question":  "不安＜な＞",
+        "answer1":  "ふあんな",
+        "answer2":  "Bất an"
+    },
+    {
+        "question":  "迷惑＜な/する＞",
+        "answer1":  "めいわくな／する",
+        "answer2":  "Phiền phức"
+    },
+    {
+        "question":  "面倒＜な＞",
+        "answer1":  "めんどうな",
+        "answer2":  "Phiền toái"
+    },
+    {
+        "question":  "面倒くさい",
+        "answer1":  "めんどうくさい",
+        "answer2":  "Rắc rối"
+    },
+    {
+        "question":  "物々交換",
+        "answer1":  "ぶつぶつ",
+        "answer2":  "Lầm bầm"
+    },
+    {
+        "question":  "一々",
+        "answer1":  "いちいち",
+        "answer2":  "Tí chút cũng"
+    },
+    {
+        "question":  "喧しい",
+        "answer1":  "やかましい",
+        "answer2":  "Ồn ào"
+    },
+    {
+        "question":  "心から",
+        "answer1":  "こころから",
+        "answer2":  "Từ đáy lòng"
+    },
+    {
+        "question":  "祈る",
+        "answer1":  "いのる",
+        "answer2":  "Cầu nguyện"
+    }
 ]

@@ -1,127 +1,127 @@
 [
-  {
-    "question": "希望＜する＞",
-    "answer1": "きぼうする",
-    "answer2": "Hy vọng"
-  },
-  {
-    "question": "願う",
-    "answer1": "ねがう",
-    "answer2": "Cầu mong"
-  },
-  {
-    "question": "願い",
-    "answer1": "ねがい",
-    "answer2": "Ước nguyện"
-  },
-  {
-    "question": "感じる",
-    "answer1": "かんじる",
-    "answer2": "Cảm nhận"
-  },
-  {
-    "question": "曖昧",
-    "answer1": "あいまいな",
-    "answer2": "Mơ hồ"
-  },
-  {
-    "question": "案外",
-    "answer1": "あんがい",
-    "answer2": "Không ngờ"
-  },
-  {
-    "question": "うっかり者＜為る＞",
-    "answer1": "うっかりする",
-    "answer2": "Lơ đãng"
-  },
-  {
-    "question": "銅貨",
-    "answer1": "どうか",
-    "answer2": "Mong sao"
-  },
-  {
-    "question": "何とか",
-    "answer1": "なんとか",
-    "answer2": "Bằng cách nào đó"
-  },
-  {
-    "question": "何となく",
-    "answer1": "なんとなく",
-    "answer2": "Có vẻ"
-  },
-  {
-    "question": "物凄い",
-    "answer1": "ものすごい",
-    "answer2": "Rất"
-  },
-  {
-    "question": "態々",
-    "answer1": "わざわざ",
-    "answer2": "Cất công"
-  },
-  {
-    "question": "???",
-    "answer1": "こっそり",
-    "answer2": "Lén lút"
-  },
-  {
-    "question": "不図",
-    "answer1": "ふと",
-    "answer2": "Bỗng"
-  },
-  {
-    "question": "一体",
-    "answer1": "いったい",
-    "answer2": "Rốt cuộc"
-  },
-  {
-    "question": "表現＜する＞",
-    "answer1": "ひょうげんする",
-    "answer2": "Diễn đạt"
-  },
-  {
-    "question": "上がる",
-    "answer1": "あがる",
-    "answer2": "Hồi hộp"
-  },
-  {
-    "question": "焦る",
-    "answer1": "あせる",
-    "answer2": "Cuống"
-  },
-  {
-    "question": "そわそわ＜為る＞",
-    "answer1": "そわそわする",
-    "answer2": "Bồn chồn"
-  },
-  {
-    "question": "我慢＜する＞",
-    "answer1": "がまんする",
-    "answer2": "Chịu đựng"
-  },
-  {
-    "question": "自慢＜する＞",
-    "answer1": "じまんする",
-    "answer2": "Tự hào"
-  },
-  {
-    "question": "関心",
-    "answer1": "かんしん",
-    "answer2": "Quan tâm"
-  },
-  {
-    "question": "機嫌",
-    "answer1": "きげん",
-    "answer2": "Tâm trạng"
-  },
-  {
-    "question": "平気＜な＞",
-    "answer1": "へいきな",
-    "answer2": "Bình thản"
-  },
-  {
-    "question": "本気＜な＞",
-    "answer1": "ほんきな",
-    "answer2": "Nghiêm túc"
-  }
+    {
+        "question":  "希望＜する＞",
+        "answer1":  "きぼうする",
+        "answer2":  "Hy vọng"
+    },
+    {
+        "question":  "願う",
+        "answer1":  "ねがう",
+        "answer2":  "Cầu mong"
+    },
+    {
+        "question":  "願い",
+        "answer1":  "ねがい",
+        "answer2":  "Ước nguyện"
+    },
+    {
+        "question":  "感じる",
+        "answer1":  "かんじる",
+        "answer2":  "Cảm nhận"
+    },
+    {
+        "question":  "曖昧",
+        "answer1":  "あいまいな",
+        "answer2":  "Mơ hồ"
+    },
+    {
+        "question":  "案外",
+        "answer1":  "あんがい",
+        "answer2":  "Không ngờ"
+    },
+    {
+        "question":  "うっかり者＜する＞",
+        "answer1":  "うっかりする",
+        "answer2":  "Lơ đãng"
+    },
+    {
+        "question":  "銅貨",
+        "answer1":  "どうか",
+        "answer2":  "Mong sao"
+    },
+    {
+        "question":  "何とか",
+        "answer1":  "なんとか",
+        "answer2":  "Bằng cách nào đó"
+    },
+    {
+        "question":  "何となく",
+        "answer1":  "なんとなく",
+        "answer2":  "Có vẻ"
+    },
+    {
+        "question":  "物凄い",
+        "answer1":  "ものすごい",
+        "answer2":  "Rất"
+    },
+    {
+        "question":  "態々",
+        "answer1":  "わざわざ",
+        "answer2":  "Cất công"
+    },
+    {
+        "question":  "???",
+        "answer1":  "こっそり",
+        "answer2":  "Lén lút"
+    },
+    {
+        "question":  "不図",
+        "answer1":  "ふと",
+        "answer2":  "Bỗng"
+    },
+    {
+        "question":  "一体",
+        "answer1":  "いったい",
+        "answer2":  "Rốt cuộc"
+    },
+    {
+        "question":  "表現＜する＞",
+        "answer1":  "ひょうげんする",
+        "answer2":  "Diễn đạt"
+    },
+    {
+        "question":  "上がる",
+        "answer1":  "あがる",
+        "answer2":  "Hồi hộp"
+    },
+    {
+        "question":  "焦る",
+        "answer1":  "あせる",
+        "answer2":  "Cuống"
+    },
+    {
+        "question":  "そわそわ＜する＞",
+        "answer1":  "そわそわする",
+        "answer2":  "Bồn chồn"
+    },
+    {
+        "question":  "我慢＜する＞",
+        "answer1":  "がまんする",
+        "answer2":  "Chịu đựng"
+    },
+    {
+        "question":  "自慢＜する＞",
+        "answer1":  "じまんする",
+        "answer2":  "Tự hào"
+    },
+    {
+        "question":  "関心",
+        "answer1":  "かんしん",
+        "answer2":  "Quan tâm"
+    },
+    {
+        "question":  "機嫌",
+        "answer1":  "きげん",
+        "answer2":  "Tâm trạng"
+    },
+    {
+        "question":  "平気＜な＞",
+        "answer1":  "へいきな",
+        "answer2":  "Bình thản"
+    },
+    {
+        "question":  "本気＜な＞",
+        "answer1":  "ほんきな",
+        "answer2":  "Nghiêm túc"
+    }
 ]

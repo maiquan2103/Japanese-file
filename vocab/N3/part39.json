@@ -1,127 +1,127 @@
 [
-  {
-    "question": "検査＜する＞",
-    "answer1": "けんさする",
-    "answer2": "Xét nghiệm"
-  },
-  {
-    "question": "治療＜する＞",
-    "answer1": "ちりょうする",
-    "answer2": "Điều trị"
-  },
-  {
-    "question": "健康診断",
-    "answer1": "けんこうしんだん",
-    "answer2": "Khám sức khỏe"
-  },
-  {
-    "question": "内科",
-    "answer1": "ないか",
-    "answer2": "Khoa nội"
-  },
-  {
-    "question": "外科",
-    "answer1": "げか",
-    "answer2": "Khoa ngoại"
-  },
-  {
-    "question": "小児科",
-    "answer1": "しょうにか",
-    "answer2": "Khoa nhi"
-  },
-  {
-    "question": "保険",
-    "answer1": "ほけん",
-    "answer2": "Bảo hiểm"
-  },
-  {
-    "question": "保険証",
-    "answer1": "ほけんしょう",
-    "answer2": "Thẻ bảo hiểm"
-  },
-  {
-    "question": "効く",
-    "answer1": "きく",
-    "answer2": "Có tác dụng"
-  },
-  {
-    "question": "注射＜する＞",
-    "answer1": "ちゅうしゃする",
-    "answer2": "Tiêm"
-  },
-  {
-    "question": "負んぶ＜為る＞",
-    "answer1": "おんぶする",
-    "answer2": "Cõng"
-  },
-  {
-    "question": "抱っこ＜為る＞",
-    "answer1": "だっこする",
-    "answer2": "Bế"
-  },
-  {
-    "question": "栄養",
-    "answer1": "えいよう",
-    "answer2": "Dinh dưỡng"
-  },
-  {
-    "question": "回復＜する＞",
-    "answer1": "かいふくする",
-    "answer2": "Hồi phục"
-  },
-  {
-    "question": "証明＜する＞",
-    "answer1": "しょうめいする",
-    "answer2": "Chứng minh"
-  },
-  {
-    "question": "率土＜為る＞",
-    "answer1": "そっとする",
-    "answer2": "Nhẹ nhàng"
-  },
-  {
-    "question": "凝乎と＜為る＞",
-    "answer1": "じっとする",
-    "answer2": "Đứng im"
-  },
-  {
-    "question": "手術＜する＞",
-    "answer1": "しゅじゅつする",
-    "answer2": "Phẫu thuật"
-  },
-  {
-    "question": "包帯",
-    "answer1": "ほうたい",
-    "answer2": "Băng bó"
-  },
-  {
-    "question": "巻く",
-    "answer1": "まく",
-    "answer2": "Quấn"
-  },
-  {
-    "question": "長生き＜する＞",
-    "answer1": "ながいきする",
-    "answer2": "Sống lâu"
-  },
-  {
-    "question": "豊かな",
-    "answer1": "ゆたかな",
-    "answer2": "Phong phú"
-  },
-  {
-    "question": "資源",
-    "answer1": "しげん",
-    "answer2": "Tài nguyên"
-  },
-  {
-    "question": "種類",
-    "answer1": "しゅるい",
-    "answer2": "Chủng loại"
-  },
-  {
-    "question": "枯れる",
-    "answer1": "かれる",
-    "answer2": "Héo, tàn"
-  }
+    {
+        "question":  "検査＜する＞",
+        "answer1":  "けんさする",
+        "answer2":  "Xét nghiệm"
+    },
+    {
+        "question":  "治療＜する＞",
+        "answer1":  "ちりょうする",
+        "answer2":  "Điều trị"
+    },
+    {
+        "question":  "健康診断",
+        "answer1":  "けんこうしんだん",
+        "answer2":  "Khám sức khỏe"
+    },
+    {
+        "question":  "内科",
+        "answer1":  "ないか",
+        "answer2":  "Khoa nội"
+    },
+    {
+        "question":  "外科",
+        "answer1":  "げか",
+        "answer2":  "Khoa ngoại"
+    },
+    {
+        "question":  "小児科",
+        "answer1":  "しょうにか",
+        "answer2":  "Khoa nhi"
+    },
+    {
+        "question":  "保険",
+        "answer1":  "ほけん",
+        "answer2":  "Bảo hiểm"
+    },
+    {
+        "question":  "保険証",
+        "answer1":  "ほけんしょう",
+        "answer2":  "Thẻ bảo hiểm"
+    },
+    {
+        "question":  "効く",
+        "answer1":  "きく",
+        "answer2":  "Có tác dụng"
+    },
+    {
+        "question":  "注射＜する＞",
+        "answer1":  "ちゅうしゃする",
+        "answer2":  "Tiêm"
+    },
+    {
+        "question":  "負んぶ＜する＞",
+        "answer1":  "おんぶする",
+        "answer2":  "Cõng"
+    },
+    {
+        "question":  "抱っこ＜する＞",
+        "answer1":  "だっこする",
+        "answer2":  "Bế"
+    },
+    {
+        "question":  "栄養",
+        "answer1":  "えいよう",
+        "answer2":  "Dinh dưỡng"
+    },
+    {
+        "question":  "回復＜する＞",
+        "answer1":  "かいふくする",
+        "answer2":  "Hồi phục"
+    },
+    {
+        "question":  "証明＜する＞",
+        "answer1":  "しょうめいする",
+        "answer2":  "Chứng minh"
+    },
+    {
+        "question":  "率土＜する＞",
+        "answer1":  "そっとする",
+        "answer2":  "Nhẹ nhàng"
+    },
+    {
+        "question":  "凝乎と＜する＞",
+        "answer1":  "じっとする",
+        "answer2":  "Đứng im"
+    },
+    {
+        "question":  "手術＜する＞",
+        "answer1":  "しゅじゅつする",
+        "answer2":  "Phẫu thuật"
+    },
+    {
+        "question":  "包帯",
+        "answer1":  "ほうたい",
+        "answer2":  "Băng bó"
+    },
+    {
+        "question":  "巻く",
+        "answer1":  "まく",
+        "answer2":  "Quấn"
+    },
+    {
+        "question":  "長生き＜する＞",
+        "answer1":  "ながいきする",
+        "answer2":  "Sống lâu"
+    },
+    {
+        "question":  "豊かな",
+        "answer1":  "ゆたかな",
+        "answer2":  "Phong phú"
+    },
+    {
+        "question":  "資源",
+        "answer1":  "しげん",
+        "answer2":  "Tài nguyên"
+    },
+    {
+        "question":  "種類",
+        "answer1":  "しゅるい",
+        "answer2":  "Chủng loại"
+    },
+    {
+        "question":  "枯れる",
+        "answer1":  "かれる",
+        "answer2":  "Héo, tàn"
+    }
 ]

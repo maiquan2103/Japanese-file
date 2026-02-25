@@ -1,127 +1,127 @@
 [
-  {
-    "question": "交換＜する＞",
-    "answer1": "こうかんする",
-    "answer2": "Trao đổi"
-  },
-  {
-    "question": "交流＜する＞",
-    "answer1": "こうりゅうする",
-    "answer2": "Giao lưu"
-  },
-  {
-    "question": "断る",
-    "answer1": "ことわる",
-    "answer2": "Từ chối"
-  },
-  {
-    "question": "預ける",
-    "answer1": "あずける",
-    "answer2": "Gửi"
-  },
-  {
-    "question": "預かる",
-    "answer1": "あずかる",
-    "answer2": "Giữ hộ"
-  },
-  {
-    "question": "可愛がる",
-    "answer1": "かわいがる",
-    "answer2": "Cưng chiều"
-  },
-  {
-    "question": "甘やかす",
-    "answer1": "あまやかす",
-    "answer2": "Nuông chiều"
-  },
-  {
-    "question": "ついて来る",
-    "answer1": "ついてくる",
-    "answer2": "Đi theo"
-  },
-  {
-    "question": "抱く",
-    "answer1": "だく",
-    "answer2": "Ôm"
-  },
-  {
-    "question": "話しかける",
-    "answer1": "はなしかける",
-    "answer2": "Bắt chuyện"
-  },
-  {
-    "question": "無視＜する＞",
-    "answer1": "むしする",
-    "answer2": "Làm ngơ"
-  },
-  {
-    "question": "振り向く",
-    "answer1": "ふりむく",
-    "answer2": "Quay lại"
-  },
-  {
-    "question": "頂く",
-    "answer1": "いただく",
-    "answer2": "Nhận (khiêm nhường)"
-  },
-  {
-    "question": "下さる",
-    "answer1": "くださる",
-    "answer2": "Cho (kính ngữ)"
-  },
-  {
-    "question": "差し上げる",
-    "answer1": "さしあげる",
-    "answer2": "Biếu, tặng"
-  },
-  {
-    "question": "遣る",
-    "answer1": "やる",
-    "answer2": "Cho"
-  },
-  {
-    "question": "与える",
-    "answer1": "あたえる",
-    "answer2": "Ban cho"
-  },
-  {
-    "question": "味方＜する＞",
-    "answer1": "みかたする",
-    "answer2": "Về phe"
-  },
-  {
-    "question": "悪口",
-    "answer1": "わるぐち",
-    "answer2": "Nói xấu"
-  },
-  {
-    "question": "我々",
-    "answer1": "われわれ",
-    "answer2": "Chúng tôi"
-  },
-  {
-    "question": "真似＜為る＞",
-    "answer1": "まねする",
-    "answer2": "Bắt chước"
-  },
-  {
-    "question": "名字",
-    "answer1": "みょうじ",
-    "answer2": "Họ"
-  },
-  {
-    "question": "性別",
-    "answer1": "せいべつ",
-    "answer2": "Giới tính"
-  },
-  {
-    "question": "年齢",
-    "answer1": "ねんれい",
-    "answer2": "Tuổi"
-  },
-  {
-    "question": "高齢",
-    "answer1": "こうれい",
-    "answer2": "Cao tuổi"
-  }
+    {
+        "question":  "交換＜する＞",
+        "answer1":  "こうかんする",
+        "answer2":  "Trao đổi"
+    },
+    {
+        "question":  "交流＜する＞",
+        "answer1":  "こうりゅうする",
+        "answer2":  "Giao lưu"
+    },
+    {
+        "question":  "断る",
+        "answer1":  "ことわる",
+        "answer2":  "Từ chối"
+    },
+    {
+        "question":  "預ける",
+        "answer1":  "あずける",
+        "answer2":  "Gửi"
+    },
+    {
+        "question":  "預かる",
+        "answer1":  "あずかる",
+        "answer2":  "Giữ hộ"
+    },
+    {
+        "question":  "可愛がる",
+        "answer1":  "かわいがる",
+        "answer2":  "Cưng chiều"
+    },
+    {
+        "question":  "甘やかす",
+        "answer1":  "あまやかす",
+        "answer2":  "Nuông chiều"
+    },
+    {
+        "question":  "ついて来る",
+        "answer1":  "ついてくる",
+        "answer2":  "Đi theo"
+    },
+    {
+        "question":  "抱く",
+        "answer1":  "だく",
+        "answer2":  "Ôm"
+    },
+    {
+        "question":  "話しかける",
+        "answer1":  "はなしかける",
+        "answer2":  "Bắt chuyện"
+    },
+    {
+        "question":  "無視＜する＞",
+        "answer1":  "むしする",
+        "answer2":  "Làm ngơ"
+    },
+    {
+        "question":  "振り向く",
+        "answer1":  "ふりむく",
+        "answer2":  "Quay lại"
+    },
+    {
+        "question":  "頂く",
+        "answer1":  "いただく",
+        "answer2":  "Nhận (khiêm nhường)"
+    },
+    {
+        "question":  "下さる",
+        "answer1":  "くださる",
+        "answer2":  "Cho (kính ngữ)"
+    },
+    {
+        "question":  "差し上げる",
+        "answer1":  "さしあげる",
+        "answer2":  "Biếu, tặng"
+    },
+    {
+        "question":  "遣る",
+        "answer1":  "やる",
+        "answer2":  "Cho"
+    },
+    {
+        "question":  "与える",
+        "answer1":  "あたえる",
+        "answer2":  "Ban cho"
+    },
+    {
+        "question":  "味方＜する＞",
+        "answer1":  "みかたする",
+        "answer2":  "Về phe"
+    },
+    {
+        "question":  "悪口",
+        "answer1":  "わるぐち",
+        "answer2":  "Nói xấu"
+    },
+    {
+        "question":  "我々",
+        "answer1":  "われわれ",
+        "answer2":  "Chúng tôi"
+    },
+    {
+        "question":  "真似＜する＞",
+        "answer1":  "まねする",
+        "answer2":  "Bắt chước"
+    },
+    {
+        "question":  "名字",
+        "answer1":  "みょうじ",
+        "answer2":  "Họ"
+    },
+    {
+        "question":  "性別",
+        "answer1":  "せいべつ",
+        "answer2":  "Giới tính"
+    },
+    {
+        "question":  "年齢",
+        "answer1":  "ねんれい",
+        "answer2":  "Tuổi"
+    },
+    {
+        "question":  "高齢",
+        "answer1":  "こうれい",
+        "answer2":  "Cao tuổi"
+    }
 ]

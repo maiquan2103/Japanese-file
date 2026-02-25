@@ -25,7 +25,7 @@
     "answer2": "Quầy lễ tân"
   },
   {
-    "question": "ミーティング<為る>",
+    "question": "ミーティング<する>",
     "answer1": "ミーティングする",
     "answer2": "Họp"
   },
@@ -85,7 +85,7 @@
     "answer2": "Con dấu"
   },
   {
-    "question": "インタビュー<為る>",
+    "question": "インタビュー<する>",
     "answer1": "インタビューする",
     "answer2": "Phỏng vấn"
   },
@@ -100,7 +100,7 @@
     "answer2": "Trả lời"
   },
   {
-    "question": "ノック<為る>",
+    "question": "ノック<する>",
     "answer1": "ノックする",
     "answer2": "Gõ cửa"
   },

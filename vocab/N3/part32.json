@@ -55,7 +55,7 @@
     "answer2": "Nhịp độ"
   },
   {
-    "question": "ゴール<為る>",
+    "question": "ゴール<する>",
     "answer1": "ゴールする",
     "answer2": "Về đích"
   },
@@ -90,7 +90,7 @@
     "answer2": "Thể dục"
   },
   {
-    "question": "トレーニング<為る>",
+    "question": "トレーニング<する>",
     "answer1": "トレーニングする",
     "answer2": "Luyện tập"
   },
@@ -110,7 +110,7 @@
     "answer2": "Chuyên nghiệp"
   },
   {
-    "question": "プレー<為る>",
+    "question": "プレー<する>",
     "answer1": "プレーする",
     "answer2": "Thi đấu"
   },

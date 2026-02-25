@@ -15,12 +15,12 @@
     "answer2": "(Trời) tối"
   },
   {
-    "question": "お喋り<為る>",
+    "question": "お喋り<する>",
     "answer1": "おしゃべりする",
     "answer2": "Tán gẫu"
   },
   {
-    "question": "リラックス<為る>",
+    "question": "リラックス<する>",
     "answer1": "リラックスする",
     "answer2": "Thư giãn"
   },
@@ -60,7 +60,7 @@
     "answer2": "Sạc điện"
   },
   {
-    "question": "セット<為る>",
+    "question": "セット<する>",
     "answer1": "セットする",
     "answer2": "Cài đặt"
   },

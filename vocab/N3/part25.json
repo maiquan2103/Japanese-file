@@ -1,127 +1,127 @@
 [
-  {
-    "question": "結果",
-    "answer1": "けっか",
-    "answer2": "Kết quả"
-  },
-  {
-    "question": "少数",
-    "answer1": "しょうすう",
-    "answer2": "Số ít"
-  },
-  {
-    "question": "可能性",
-    "answer1": "かのうせい",
-    "answer2": "Khả năng"
-  },
-  {
-    "question": "諦める",
-    "answer1": "あきらめる",
-    "answer2": "Bỏ cuộc"
-  },
-  {
-    "question": "掲示板",
-    "answer1": "けいじばん",
-    "answer2": "Bảng thông báo"
-  },
-  {
-    "question": "知識",
-    "answer1": "ちしき",
-    "answer2": "Kiến thức"
-  },
-  {
-    "question": "理解＜する＞",
-    "answer1": "りかいする",
-    "answer2": "Hiểu"
-  },
-  {
-    "question": "目指す",
-    "answer1": "めざす",
-    "answer2": "Nhắm tới"
-  },
-  {
-    "question": "試す",
-    "answer1": "ためす",
-    "answer2": "Thử"
-  },
-  {
-    "question": "自信",
-    "answer1": "じしん",
-    "answer2": "Tự tin"
-  },
-  {
-    "question": "やる気",
-    "answer1": "やるき",
-    "answer2": "Hứng làm"
-  },
-  {
-    "question": "悔しい",
-    "answer1": "くやしい",
-    "answer2": "Cay cú, tiếc"
-  },
-  {
-    "question": "レベル",
-    "answer1": "レベル",
-    "answer2": "Trình độ"
-  },
-  {
-    "question": "利口＜な＞",
-    "answer1": "りこうな",
-    "answer2": "Khôn ngoan"
-  },
-  {
-    "question": "早速",
-    "answer1": "さっそく",
-    "answer2": "Ngay"
-  },
-  {
-    "question": "雑踏",
-    "answer1": "ざっと",
-    "answer2": "Lướt qua"
-  },
-  {
-    "question": "確り[と]＜為る＞",
-    "answer1": "しっかりする",
-    "answer2": "Nghiêm chỉnh"
-  },
-  {
-    "question": "??",
-    "answer1": "じっくり",
-    "answer2": "Thong thả"
-  },
-  {
-    "question": "相当＜な＞",
-    "answer1": "そうとうな",
-    "answer2": "Tương đối"
-  },
-  {
-    "question": "?????",
-    "answer1": "まあまあな",
-    "answer2": "Tạm được"
-  },
-  {
-    "question": "努力＜する＞",
-    "answer1": "どりょくする",
-    "answer2": "Nỗ lực"
-  },
-  {
-    "question": "怠ける",
-    "answer1": "なまける",
-    "answer2": "Lười"
-  },
-  {
-    "question": "得意な",
-    "answer1": "とくいな",
-    "answer2": "Giỏi"
-  },
-  {
-    "question": "苦手な",
-    "answer1": "にがてな",
-    "answer2": "Yếu"
-  },
-  {
-    "question": "マスター＜為る＞",
-    "answer1": "マスターする",
-    "answer2": "Thành thạo"
-  }
+    {
+        "question":  "結果",
+        "answer1":  "けっか",
+        "answer2":  "Kết quả"
+    },
+    {
+        "question":  "少数",
+        "answer1":  "しょうすう",
+        "answer2":  "Số ít"
+    },
+    {
+        "question":  "可能性",
+        "answer1":  "かのうせい",
+        "answer2":  "Khả năng"
+    },
+    {
+        "question":  "諦める",
+        "answer1":  "あきらめる",
+        "answer2":  "Bỏ cuộc"
+    },
+    {
+        "question":  "掲示板",
+        "answer1":  "けいじばん",
+        "answer2":  "Bảng thông báo"
+    },
+    {
+        "question":  "知識",
+        "answer1":  "ちしき",
+        "answer2":  "Kiến thức"
+    },
+    {
+        "question":  "理解＜する＞",
+        "answer1":  "りかいする",
+        "answer2":  "Hiểu"
+    },
+    {
+        "question":  "目指す",
+        "answer1":  "めざす",
+        "answer2":  "Nhắm tới"
+    },
+    {
+        "question":  "試す",
+        "answer1":  "ためす",
+        "answer2":  "Thử"
+    },
+    {
+        "question":  "自信",
+        "answer1":  "じしん",
+        "answer2":  "Tự tin"
+    },
+    {
+        "question":  "やる気",
+        "answer1":  "やるき",
+        "answer2":  "Hứng làm"
+    },
+    {
+        "question":  "悔しい",
+        "answer1":  "くやしい",
+        "answer2":  "Cay cú, tiếc"
+    },
+    {
+        "question":  "レベル",
+        "answer1":  "レベル",
+        "answer2":  "Trình độ"
+    },
+    {
+        "question":  "利口＜な＞",
+        "answer1":  "りこうな",
+        "answer2":  "Khôn ngoan"
+    },
+    {
+        "question":  "早速",
+        "answer1":  "さっそく",
+        "answer2":  "Ngay"
+    },
+    {
+        "question":  "雑踏",
+        "answer1":  "ざっと",
+        "answer2":  "Lướt qua"
+    },
+    {
+        "question":  "確り[と]＜する＞",
+        "answer1":  "しっかりする",
+        "answer2":  "Nghiêm chỉnh"
+    },
+    {
+        "question":  "??",
+        "answer1":  "じっくり",
+        "answer2":  "Thong thả"
+    },
+    {
+        "question":  "相当＜な＞",
+        "answer1":  "そうとうな",
+        "answer2":  "Tương đối"
+    },
+    {
+        "question":  "?????",
+        "answer1":  "まあまあな",
+        "answer2":  "Tạm được"
+    },
+    {
+        "question":  "努力＜する＞",
+        "answer1":  "どりょくする",
+        "answer2":  "Nỗ lực"
+    },
+    {
+        "question":  "怠ける",
+        "answer1":  "なまける",
+        "answer2":  "Lười"
+    },
+    {
+        "question":  "得意な",
+        "answer1":  "とくいな",
+        "answer2":  "Giỏi"
+    },
+    {
+        "question":  "苦手な",
+        "answer1":  "にがてな",
+        "answer2":  "Yếu"
+    },
+    {
+        "question":  "マスター＜する＞",
+        "answer1":  "マスターする",
+        "answer2":  "Thành thạo"
+    }
 ]

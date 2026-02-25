@@ -1,127 +1,127 @@
 [
-  {
-    "question": "アルバイト＜為る＞",
-    "answer1": "アルバイトする",
-    "answer2": "Làm thêm"
-  },
-  {
-    "question": "時給",
-    "answer1": "じきゅう",
-    "answer2": "Lương theo giờ"
-  },
-  {
-    "question": "寮",
-    "answer1": "りょう",
-    "answer2": "Ký túc xá"
-  },
-  {
-    "question": "休学＜する＞",
-    "answer1": "きゅうがくする",
-    "answer2": "Nghỉ học"
-  },
-  {
-    "question": "退学＜する＞",
-    "answer1": "たいがくする",
-    "answer2": "Thôi học"
-  },
-  {
-    "question": "受験＜する＞",
-    "answer1": "じゅけんする",
-    "answer2": "Dự thi"
-  },
-  {
-    "question": "受験生",
-    "answer1": "じゅけんせい",
-    "answer2": "Thí sinh"
-  },
-  {
-    "question": "合格＜する＞",
-    "answer1": "ごうかくする",
-    "answer2": "Thi đỗ"
-  },
-  {
-    "question": "配る",
-    "answer1": "くばる",
-    "answer2": "Phát"
-  },
-  {
-    "question": "氏名",
-    "answer1": "しめい",
-    "answer2": "Họ tên"
-  },
-  {
-    "question": "裏返す",
-    "answer1": "うらがえす",
-    "answer2": "Lật, úp"
-  },
-  {
-    "question": "問い",
-    "answer1": "とい",
-    "answer2": "Câu hỏi"
-  },
-  {
-    "question": "解く",
-    "answer1": "とく",
-    "answer2": "Giải"
-  },
-  {
-    "question": "正解＜する＞",
-    "answer1": "せいかいする",
-    "answer2": "Câu trả lời đúng"
-  },
-  {
-    "question": "正確＜な＞",
-    "answer1": "せいかくな",
-    "answer2": "Chính xác"
-  },
-  {
-    "question": "??",
-    "answer1": "すらすら",
-    "answer2": "Trôi chảy"
-  },
-  {
-    "question": "些とも",
-    "answer1": "ちっとも",
-    "answer2": "Tí nào"
-  },
-  {
-    "question": "カンニング＜為る＞",
-    "answer1": "カンニングする",
-    "answer2": "Quay cóp"
-  },
-  {
-    "question": "限り限り＜な＞",
-    "answer1": "ぎりぎりな",
-    "answer2": "Vừa kịp"
-  },
-  {
-    "question": "余る",
-    "answer1": "あまる",
-    "answer2": "Thừa"
-  },
-  {
-    "question": "適当な",
-    "answer1": "てきとうな",
-    "answer2": "Phù hợp, đại khái"
-  },
-  {
-    "question": "出鱈目＜な＞",
-    "answer1": "でたらめな",
-    "answer2": "Linh tinh"
-  },
-  {
-    "question": "間違い",
-    "answer1": "まちがい",
-    "answer2": "Chỗ sai"
-  },
-  {
-    "question": "優れる",
-    "answer1": "すぐれる",
-    "answer2": "Xuất sắc"
-  },
-  {
-    "question": "実力",
-    "answer1": "じつりょく",
-    "answer2": "Thực lực"
-  }
+    {
+        "question":  "アルバイト＜する＞",
+        "answer1":  "アルバイトする",
+        "answer2":  "Làm thêm"
+    },
+    {
+        "question":  "時給",
+        "answer1":  "じきゅう",
+        "answer2":  "Lương theo giờ"
+    },
+    {
+        "question":  "寮",
+        "answer1":  "りょう",
+        "answer2":  "Ký túc xá"
+    },
+    {
+        "question":  "休学＜する＞",
+        "answer1":  "きゅうがくする",
+        "answer2":  "Nghỉ học"
+    },
+    {
+        "question":  "退学＜する＞",
+        "answer1":  "たいがくする",
+        "answer2":  "Thôi học"
+    },
+    {
+        "question":  "受験＜する＞",
+        "answer1":  "じゅけんする",
+        "answer2":  "Dự thi"
+    },
+    {
+        "question":  "受験生",
+        "answer1":  "じゅけんせい",
+        "answer2":  "Thí sinh"
+    },
+    {
+        "question":  "合格＜する＞",
+        "answer1":  "ごうかくする",
+        "answer2":  "Thi đỗ"
+    },
+    {
+        "question":  "配る",
+        "answer1":  "くばる",
+        "answer2":  "Phát"
+    },
+    {
+        "question":  "氏名",
+        "answer1":  "しめい",
+        "answer2":  "Họ tên"
+    },
+    {
+        "question":  "裏返す",
+        "answer1":  "うらがえす",
+        "answer2":  "Lật, úp"
+    },
+    {
+        "question":  "問い",
+        "answer1":  "とい",
+        "answer2":  "Câu hỏi"
+    },
+    {
+        "question":  "解く",
+        "answer1":  "とく",
+        "answer2":  "Giải"
+    },
+    {
+        "question":  "正解＜する＞",
+        "answer1":  "せいかいする",
+        "answer2":  "Câu trả lời đúng"
+    },
+    {
+        "question":  "正確＜な＞",
+        "answer1":  "せいかくな",
+        "answer2":  "Chính xác"
+    },
+    {
+        "question":  "??",
+        "answer1":  "すらすら",
+        "answer2":  "Trôi chảy"
+    },
+    {
+        "question":  "些とも",
+        "answer1":  "ちっとも",
+        "answer2":  "Tí nào"
+    },
+    {
+        "question":  "カンニング＜する＞",
+        "answer1":  "カンニングする",
+        "answer2":  "Quay cóp"
+    },
+    {
+        "question":  "限り限り＜な＞",
+        "answer1":  "ぎりぎりな",
+        "answer2":  "Vừa kịp"
+    },
+    {
+        "question":  "余る",
+        "answer1":  "あまる",
+        "answer2":  "Thừa"
+    },
+    {
+        "question":  "適当な",
+        "answer1":  "てきとうな",
+        "answer2":  "Phù hợp, đại khái"
+    },
+    {
+        "question":  "出鱈目＜な＞",
+        "answer1":  "でたらめな",
+        "answer2":  "Linh tinh"
+    },
+    {
+        "question":  "間違い",
+        "answer1":  "まちがい",
+        "answer2":  "Chỗ sai"
+    },
+    {
+        "question":  "優れる",
+        "answer1":  "すぐれる",
+        "answer2":  "Xuất sắc"
+    },
+    {
+        "question":  "実力",
+        "answer1":  "じつりょく",
+        "answer2":  "Thực lực"
+    }
 ]

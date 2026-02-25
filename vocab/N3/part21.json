@@ -1,127 +1,127 @@
 [
-  {
-    "question": "遅刻＜する＞",
-    "answer1": "ちこくする",
-    "answer2": "Sự đi trễ, đi muộn"
-  },
-  {
-    "question": "???",
-    "answer1": "サボる",
-    "answer2": "Trốn học, trốn việc"
-  },
-  {
-    "question": "集中＜する＞",
-    "answer1": "しゅうちゅうする",
-    "answer2": "Sự tập trung"
-  },
-  {
-    "question": "疎々しい[と]＜為る＞",
-    "answer1": "うとうとする",
-    "answer2": "Ngủ gà gật, lơ mơ ngủ"
-  },
-  {
-    "question": "居眠り＜する＞",
-    "answer1": "いねむりする",
-    "answer2": "Sự ngủ gật"
-  },
-  {
-    "question": "寝不足＜な＞",
-    "answer1": "ねぶそくな",
-    "answer2": "Thiếu ngủ"
-  },
-  {
-    "question": "期間",
-    "answer1": "きかん",
-    "answer2": "Thời gian, thời kỳ"
-  },
-  {
-    "question": "期限",
-    "answer1": "きげん",
-    "answer2": "Thời hạn"
-  },
-  {
-    "question": "時間割",
-    "answer1": "じかんわり",
-    "answer2": "Thời gian biểu"
-  },
-  {
-    "question": "項目",
-    "answer1": "こうもく",
-    "answer2": "Mục, khoản"
-  },
-  {
-    "question": "座席",
-    "answer1": "ざせき",
-    "answer2": "Chỗ ngồi"
-  },
-  {
-    "question": "締め切り",
-    "answer1": "しめきり",
-    "answer2": "Hạn chót"
-  },
-  {
-    "question": "開く",
-    "answer1": "ひらく",
-    "answer2": "Mở"
-  },
-  {
-    "question": "一応",
-    "answer1": "いちおう",
-    "answer2": "Tạm thời, trước mắt"
-  },
-  {
-    "question": "きちんと＜為る＞",
-    "answer1": "きちんとする",
-    "answer2": "Cẩn thận, nghiêm chỉnh"
-  },
-  {
-    "question": "切っ掛け",
-    "answer1": "きっかけ",
-    "answer2": "Nguyên cớ, động cơ"
-  },
-  {
-    "question": "賢い",
-    "answer1": "かしこい",
-    "answer2": "Thông minh, khôn ngoan"
-  },
-  {
-    "question": "貸し出し",
-    "answer1": "かしだし",
-    "answer2": "(Sự) cho mượn"
-  },
-  {
-    "question": "返却＜する＞",
-    "answer1": "へんきゃくする",
-    "answer2": "Sự trả lại"
-  },
-  {
-    "question": "名札",
-    "answer1": "なふだ",
-    "answer2": "Thẻ tên"
-  },
-  {
-    "question": "給食",
-    "answer1": "きゅうしょく",
-    "answer2": "Bữa ăn trưa ở trường"
-  },
-  {
-    "question": "体育",
-    "answer1": "たいいく",
-    "answer2": "Môn thể dục"
-  },
-  {
-    "question": "単語",
-    "answer1": "たんご",
-    "answer2": "Từ"
-  },
-  {
-    "question": "アクセント",
-    "answer1": "アクセント",
-    "answer2": "Trọng âm"
-  },
-  {
-    "question": "暗記＜する＞",
-    "answer1": "あんきする",
-    "answer2": "Sự học thuộc lòng"
-  }
+    {
+        "question":  "遅刻＜する＞",
+        "answer1":  "ちこくする",
+        "answer2":  "Sự đi trễ, đi muộn"
+    },
+    {
+        "question":  "???",
+        "answer1":  "サボる",
+        "answer2":  "Trốn học, trốn việc"
+    },
+    {
+        "question":  "集中＜する＞",
+        "answer1":  "しゅうちゅうする",
+        "answer2":  "Sự tập trung"
+    },
+    {
+        "question":  "疎々しい[と]＜する＞",
+        "answer1":  "うとうとする",
+        "answer2":  "Ngủ gà gật, lơ mơ ngủ"
+    },
+    {
+        "question":  "居眠り＜する＞",
+        "answer1":  "いねむりする",
+        "answer2":  "Sự ngủ gật"
+    },
+    {
+        "question":  "寝不足＜な＞",
+        "answer1":  "ねぶそくな",
+        "answer2":  "Thiếu ngủ"
+    },
+    {
+        "question":  "期間",
+        "answer1":  "きかん",
+        "answer2":  "Thời gian, thời kỳ"
+    },
+    {
+        "question":  "期限",
+        "answer1":  "きげん",
+        "answer2":  "Thời hạn"
+    },
+    {
+        "question":  "時間割",
+        "answer1":  "じかんわり",
+        "answer2":  "Thời gian biểu"
+    },
+    {
+        "question":  "項目",
+        "answer1":  "こうもく",
+        "answer2":  "Mục, khoản"
+    },
+    {
+        "question":  "座席",
+        "answer1":  "ざせき",
+        "answer2":  "Chỗ ngồi"
+    },
+    {
+        "question":  "締め切り",
+        "answer1":  "しめきり",
+        "answer2":  "Hạn chót"
+    },
+    {
+        "question":  "開く",
+        "answer1":  "ひらく",
+        "answer2":  "Mở"
+    },
+    {
+        "question":  "一応",
+        "answer1":  "いちおう",
+        "answer2":  "Tạm thời, trước mắt"
+    },
+    {
+        "question":  "きちんと＜する＞",
+        "answer1":  "きちんとする",
+        "answer2":  "Cẩn thận, nghiêm chỉnh"
+    },
+    {
+        "question":  "切っ掛け",
+        "answer1":  "きっかけ",
+        "answer2":  "Nguyên cớ, động cơ"
+    },
+    {
+        "question":  "賢い",
+        "answer1":  "かしこい",
+        "answer2":  "Thông minh, khôn ngoan"
+    },
+    {
+        "question":  "貸し出し",
+        "answer1":  "かしだし",
+        "answer2":  "(Sự) cho mượn"
+    },
+    {
+        "question":  "返却＜する＞",
+        "answer1":  "へんきゃくする",
+        "answer2":  "Sự trả lại"
+    },
+    {
+        "question":  "名札",
+        "answer1":  "なふだ",
+        "answer2":  "Thẻ tên"
+    },
+    {
+        "question":  "給食",
+        "answer1":  "きゅうしょく",
+        "answer2":  "Bữa ăn trưa ở trường"
+    },
+    {
+        "question":  "体育",
+        "answer1":  "たいいく",
+        "answer2":  "Môn thể dục"
+    },
+    {
+        "question":  "単語",
+        "answer1":  "たんご",
+        "answer2":  "Từ"
+    },
+    {
+        "question":  "アクセント",
+        "answer1":  "アクセント",
+        "answer2":  "Trọng âm"
+    },
+    {
+        "question":  "暗記＜する＞",
+        "answer1":  "あんきする",
+        "answer2":  "Sự học thuộc lòng"
+    }
 ]

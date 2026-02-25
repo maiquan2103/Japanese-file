@@ -1,6 +1,6 @@
 [
   {
-    "question": "すっきり[と]<為る>",
+    "question": "すっきり[と]<する>",
     "answer1": "すっきりする",
     "answer2": "Gọn gàng, thanh thoát"
   },
@@ -105,22 +105,22 @@
     "answer2": "Sảng khoái"
   },
   {
-    "question": "さっぱり<為る>",
+    "question": "さっぱり<する>",
     "answer1": "さっぱりする",
     "answer2": "Thoải mái, gọn gàng"
   },
   {
-    "question": "にっこり笑う[と]<為る>",
+    "question": "にっこり笑う[と]<する>",
     "answer1": "にっこりする",
     "answer2": "Mỉm cười"
   },
   {
-    "question": "ニコニコ顔<為る>",
+    "question": "ニコニコ顔<する>",
     "answer1": "にこにこする",
     "answer2": "Tươi cười"
   },
   {
-    "question": "にやにや<為る>",
+    "question": "にやにや<する>",
     "answer1": "にやにやする",
     "answer2": "Cười khẩy"
   }
