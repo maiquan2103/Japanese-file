@@ -1,127 +1,127 @@
 [
-  {
-    "question": "身内",
-    "answer1": "みうち",
-    "answer2": "họ hàng, bà con thân thuộc"
-  },
-  {
-    "question": "肉親",
-    "answer1": "にくしん",
-    "answer2": "mối quan hệ máu mủ, gần gũi"
-  },
-  {
-    "question": "配偶者",
-    "answer1": "はいぐうしゃ",
-    "answer2": "Người phối ngẫu (vợ hoặc chồng)"
-  },
-  {
-    "question": "家系",
-    "answer1": "かけい",
-    "answer2": "dòng họ, nòi giống/dòng dõi gia đình, 家系図: sơ đồ gia hệ (gia phả)"
-  },
-  {
-    "question": "お袋",
-    "answer1": "おふくろ",
-    "answer2": "mẹ, mẹ đẻ"
-  },
-  {
-    "question": "親父",
-    "answer1": "おやじ",
-    "answer2": "Bố, bố đẻ"
-  },
-  {
-    "question": "寄越す",
-    "answer1": "よこす",
-    "answer2": "Chuyển đến, gửi đến, cử đi"
-  },
-  {
-    "question": "女房",
-    "answer1": "にょうぼう",
-    "answer2": "vợ mình"
-  },
-  {
-    "question": "亭主",
-    "answer1": "ていしゅ",
-    "answer2": "Chồng mình"
-  },
-  {
-    "question": "温もり",
-    "answer1": "ぬくもり",
-    "answer2": "Sự ấm áp"
-  },
-  {
-    "question": "授かる",
-    "answer1": "さずかる",
-    "answer2": "thu được, lĩnh được"
-  },
-  {
-    "question": "名付ける",
-    "answer1": "なづける",
-    "answer2": "Đặt tên, gọi tên"
-  },
-  {
-    "question": "すやすや",
-    "answer1": "すやすや",
-    "answer2": "ngủ say, ngủ ngon (chỉ giấc ngủ của em bé). Ngoài ra còn diễn tả âm thanh lúc ngủ của trẻ nhỏ (nhẹ nhàng, yên lặng)"
-  },
-  {
-    "question": "仕草",
-    "answer1": "しぐさ",
-    "answer2": "điệu bộ, cử chỉ"
-  },
-  {
-    "question": "愛しい",
-    "answer1": "いとしい",
-    "answer2": "Đáng yêu, dễ mến"
-  },
-  {
-    "question": "懐く",
-    "answer1": "なつく",
-    "answer2": "thân quen, quấn quít, bám lấy"
-  },
-  {
-    "question": "強請る",
-    "answer1": "[ 強請る ]",
-    "answer2": "Nằn nì xin xỏ, kì kèo xin xỏ"
-  },
-  {
-    "question": "拗ねる",
-    "answer1": "拗ねる",
-    "answer2": "hờn dỗi"
-  },
-  {
-    "question": "指図＜する＞",
-    "answer1": "さしず＜する＞",
-    "answer2": "mệnh lệnh, chỉ huy, chỉ thị"
-  },
-  {
-    "question": "横取り＜する＞",
-    "answer1": "よこどり＜する＞",
-    "answer2": "sự cưỡng đoạt, chiếm đoạt"
-  },
-  {
-    "question": "反発＜する＞",
-    "answer1": "はんぱつ＜する＞",
-    "answer2": "chống đối/cự tuyệt, khước từ/ từ chối"
-  },
-  {
-    "question": "家出＜する＞",
-    "answer1": "いえで＜する＞",
-    "answer2": "bỏ nhà ra đi/ra khỏi nhà"
-  },
-  {
-    "question": "ぎくしゃく＜為る＞",
-    "answer1": "ぎくしゃく＜する＞",
-    "answer2": "cảm giác căng thẳng"
-  },
-  {
-    "question": "言い返す",
-    "answer1": "いいかえす",
-    "answer2": "Nói lại, cãi lại"
-  },
-  {
-    "question": "言い張る",
-    "answer1": "いいはる",
-    "answer2": "khăng khăng, cố nài nỉ"
-  }
+    {
+        "question":  "身内",
+        "answer1":  "みうち",
+        "answer2":  "họ hàng, bà con thân thuộc"
+    },
+    {
+        "question":  "肉親",
+        "answer1":  "にくしん",
+        "answer2":  "mối quan hệ máu mủ, gần gũi"
+    },
+    {
+        "question":  "配偶者",
+        "answer1":  "はいぐうしゃ",
+        "answer2":  "Người phối ngẫu (vợ hoặc chồng)"
+    },
+    {
+        "question":  "家系",
+        "answer1":  "かけい",
+        "answer2":  "dòng họ, nòi giống/dòng dõi gia đình, 家系図: sơ đồ gia hệ (gia phả)"
+    },
+    {
+        "question":  "お袋",
+        "answer1":  "おふくろ",
+        "answer2":  "mẹ, mẹ đẻ"
+    },
+    {
+        "question":  "親父",
+        "answer1":  "おやじ",
+        "answer2":  "Bố, bố đẻ"
+    },
+    {
+        "question":  "寄越す",
+        "answer1":  "よこす",
+        "answer2":  "Chuyển đến, gửi đến, cử đi"
+    },
+    {
+        "question":  "女房",
+        "answer1":  "にょうぼう",
+        "answer2":  "vợ mình"
+    },
+    {
+        "question":  "亭主",
+        "answer1":  "ていしゅ",
+        "answer2":  "Chồng mình"
+    },
+    {
+        "question":  "温もり",
+        "answer1":  "ぬくもり",
+        "answer2":  "Sự ấm áp"
+    },
+    {
+        "question":  "授かる",
+        "answer1":  "さずかる",
+        "answer2":  "thu được, lĩnh được"
+    },
+    {
+        "question":  "名付ける",
+        "answer1":  "なづける",
+        "answer2":  "Đặt tên, gọi tên"
+    },
+    {
+        "question":  "すやすや",
+        "answer1":  "すやすや",
+        "answer2":  "ngủ say, ngủ ngon (chỉ giấc ngủ của em bé). Ngoài ra còn diễn tả âm thanh lúc ngủ của trẻ nhỏ (nhẹ nhàng, yên lặng)"
+    },
+    {
+        "question":  "仕草",
+        "answer1":  "しぐさ",
+        "answer2":  "điệu bộ, cử chỉ"
+    },
+    {
+        "question":  "愛しい",
+        "answer1":  "いとしい",
+        "answer2":  "Đáng yêu, dễ mến"
+    },
+    {
+        "question":  "懐く",
+        "answer1":  "なつく",
+        "answer2":  "thân quen, quấn quít, bám lấy"
+    },
+    {
+        "question":  "強請る",
+        "answer1":  "[ 強請る ]",
+        "answer2":  "Nằn nì xin xỏ, kì kèo xin xỏ"
+    },
+    {
+        "question":  "拗ねる",
+        "answer1":  "拗ねる",
+        "answer2":  "hờn dỗi"
+    },
+    {
+        "question":  "指図＜する＞",
+        "answer1":  "さしず＜する＞",
+        "answer2":  "mệnh lệnh, chỉ huy, chỉ thị"
+    },
+    {
+        "question":  "横取り＜する＞",
+        "answer1":  "よこどり＜する＞",
+        "answer2":  "sự cưỡng đoạt, chiếm đoạt"
+    },
+    {
+        "question":  "反発＜する＞",
+        "answer1":  "はんぱつ＜する＞",
+        "answer2":  "chống đối/cự tuyệt, khước từ/ từ chối"
+    },
+    {
+        "question":  "家出＜する＞",
+        "answer1":  "いえで＜する＞",
+        "answer2":  "bỏ nhà ra đi/ra khỏi nhà"
+    },
+    {
+        "question":  "ぎくしゃく＜する＞",
+        "answer1":  "ぎくしゃく＜する＞",
+        "answer2":  "cảm giác căng thẳng"
+    },
+    {
+        "question":  "言い返す",
+        "answer1":  "いいかえす",
+        "answer2":  "Nói lại, cãi lại"
+    },
+    {
+        "question":  "言い張る",
+        "answer1":  "いいはる",
+        "answer2":  "khăng khăng, cố nài nỉ"
+    }
 ]

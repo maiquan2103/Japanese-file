@@ -1,127 +1,127 @@
 [
-  {
-    "question": "兎や角",
-    "answer1": "とやかく",
-    "answer2": "nói này nói nọ"
-  },
-  {
-    "question": "嫌に",
-    "answer1": "いやに",
-    "answer2": "khủng khiếp"
-  },
-  {
-    "question": "殊の外",
-    "answer1": "ことのほか",
-    "answer2": "khác thường"
-  },
-  {
-    "question": "余程",
-    "answer1": "よほど",
-    "answer2": "nhiều, lắm"
-  },
-  {
-    "question": "何れにしても",
-    "answer1": "いずれにしても",
-    "answer2": "dù trong trường hợp nào"
-  },
-  {
-    "question": "何と",
-    "answer1": "なんと",
-    "answer2": "quá mức"
-  },
-  {
-    "question": "ぴりぴり＜為る＞",
-    "answer1": "ぴりぴり＜する＞",
-    "answer2": "căng thẳng"
-  },
-  {
-    "question": "直に",
-    "answer1": "じかに",
-    "answer2": "trực tiếp"
-  },
-  {
-    "question": "体操＜な＞",
-    "answer1": "たいそう＜な＞",
-    "answer2": "rất, quá"
-  },
-  {
-    "question": "断固",
-    "answer1": "だんこ",
-    "answer2": "kiên quyết"
-  },
-  {
-    "question": "なんと言っても",
-    "answer1": "なんといっても",
-    "answer2": "dù nói thế nào"
-  },
-  {
-    "question": "何としても",
-    "answer1": "なんとしても",
-    "answer2": "bằng mọi giá"
-  },
-  {
-    "question": "事によると",
-    "answer1": "ことによると",
-    "answer2": "rất có thể"
-  },
-  {
-    "question": "にわか成金",
-    "answer1": "にわかな",
-    "answer2": "đột ngột"
-  },
-  {
-    "question": "制作＜する＞",
-    "answer1": "せいさく＜する＞",
-    "answer2": "chế tạo"
-  },
-  {
-    "question": "製作＜する＞",
-    "answer1": "せいさく＜する＞",
-    "answer2": "chế tạo, sản xuất"
-  },
-  {
-    "question": "押さえる",
-    "answer1": "おさえる",
-    "answer2": "giữ, che"
-  },
-  {
-    "question": "抑える",
-    "answer1": "おさえる",
-    "answer2": "kiềm chế"
-  },
-  {
-    "question": "精算＜する＞",
-    "answer1": "せいさん＜する＞",
-    "answer2": "tính toán"
-  },
-  {
-    "question": "清算＜する＞",
-    "answer1": "せいさん＜する＞",
-    "answer2": "thanh toán, giải quyết"
-  },
-  {
-    "question": "終始＜する＞",
-    "answer1": "しゅうし＜する＞",
-    "answer2": "từ đầu đến cuối"
-  },
-  {
-    "question": "始終",
-    "answer1": "しじゅう",
-    "answer2": "thường xuyên"
-  },
-  {
-    "question": "冒す",
-    "answer1": "おかす",
-    "answer2": "liều mình"
-  },
-  {
-    "question": "侵す",
-    "answer1": "おかす",
-    "answer2": "xâm nhập"
-  },
-  {
-    "question": "犯す",
-    "answer1": "おかす",
-    "answer2": "phạm tội"
-  }
+    {
+        "question":  "兎や角",
+        "answer1":  "とやかく",
+        "answer2":  "nói này nói nọ"
+    },
+    {
+        "question":  "嫌に",
+        "answer1":  "いやに",
+        "answer2":  "khủng khiếp"
+    },
+    {
+        "question":  "殊の外",
+        "answer1":  "ことのほか",
+        "answer2":  "khác thường"
+    },
+    {
+        "question":  "余程",
+        "answer1":  "よほど",
+        "answer2":  "nhiều, lắm"
+    },
+    {
+        "question":  "何れにしても",
+        "answer1":  "いずれにしても",
+        "answer2":  "dù trong trường hợp nào"
+    },
+    {
+        "question":  "何と",
+        "answer1":  "なんと",
+        "answer2":  "quá mức"
+    },
+    {
+        "question":  "ぴりぴり＜する＞",
+        "answer1":  "ぴりぴり＜する＞",
+        "answer2":  "căng thẳng"
+    },
+    {
+        "question":  "直に",
+        "answer1":  "じかに",
+        "answer2":  "trực tiếp"
+    },
+    {
+        "question":  "体操＜な＞",
+        "answer1":  "たいそう＜な＞",
+        "answer2":  "rất, quá"
+    },
+    {
+        "question":  "断固",
+        "answer1":  "だんこ",
+        "answer2":  "kiên quyết"
+    },
+    {
+        "question":  "なんと言っても",
+        "answer1":  "なんといっても",
+        "answer2":  "dù nói thế nào"
+    },
+    {
+        "question":  "何としても",
+        "answer1":  "なんとしても",
+        "answer2":  "bằng mọi giá"
+    },
+    {
+        "question":  "事によると",
+        "answer1":  "ことによると",
+        "answer2":  "rất có thể"
+    },
+    {
+        "question":  "にわか成金",
+        "answer1":  "にわかな",
+        "answer2":  "đột ngột"
+    },
+    {
+        "question":  "制作＜する＞",
+        "answer1":  "せいさく＜する＞",
+        "answer2":  "chế tạo"
+    },
+    {
+        "question":  "製作＜する＞",
+        "answer1":  "せいさく＜する＞",
+        "answer2":  "chế tạo, sản xuất"
+    },
+    {
+        "question":  "押さえる",
+        "answer1":  "おさえる",
+        "answer2":  "giữ, che"
+    },
+    {
+        "question":  "抑える",
+        "answer1":  "おさえる",
+        "answer2":  "kiềm chế"
+    },
+    {
+        "question":  "精算＜する＞",
+        "answer1":  "せいさん＜する＞",
+        "answer2":  "tính toán"
+    },
+    {
+        "question":  "清算＜する＞",
+        "answer1":  "せいさん＜する＞",
+        "answer2":  "thanh toán, giải quyết"
+    },
+    {
+        "question":  "終始＜する＞",
+        "answer1":  "しゅうし＜する＞",
+        "answer2":  "từ đầu đến cuối"
+    },
+    {
+        "question":  "始終",
+        "answer1":  "しじゅう",
+        "answer2":  "thường xuyên"
+    },
+    {
+        "question":  "冒す",
+        "answer1":  "おかす",
+        "answer2":  "liều mình"
+    },
+    {
+        "question":  "侵す",
+        "answer1":  "おかす",
+        "answer2":  "xâm nhập"
+    },
+    {
+        "question":  "犯す",
+        "answer1":  "おかす",
+        "answer2":  "phạm tội"
+    }
 ]

@@ -1,127 +1,127 @@
 [
-  {
-    "question": "冴える",
-    "answer1": "さえる",
-    "answer2": "Minh mẫn/Tươi sáng, trong trẻo"
-  },
-  {
-    "question": "度忘れ＜する＞",
-    "answer1": "どわすれ＜する＞",
-    "answer2": "Bất chợt quên, đãng trí"
-  },
-  {
-    "question": "所々",
-    "answer1": "ところどころ",
-    "answer2": "Đôi chỗ, vài chỗ"
-  },
-  {
-    "question": "アベコベ時代",
-    "answer1": "あべこべな",
-    "answer2": "Đối diện, trái ngược"
-  },
-  {
-    "question": "見落とす",
-    "answer1": "みおとす",
-    "answer2": "Bỏ sót"
-  },
-  {
-    "question": "持参＜する＞",
-    "answer1": "じさん＜する＞",
-    "answer2": "Mang theo"
-  },
-  {
-    "question": "案の定",
-    "answer1": "あんのじょう",
-    "answer2": "Quả nhiên đúng như dự tính (kết quả xấu)"
-  },
-  {
-    "question": "不正＜な＞",
-    "answer1": "ふせい＜な＞",
-    "answer2": "Bất chính, không chính đáng"
-  },
-  {
-    "question": "即刻",
-    "answer1": "そっこく",
-    "answer2": "Tức khắc, ngay lập tức"
-  },
-  {
-    "question": "失格＜する＞",
-    "answer1": "しっかく＜する＞",
-    "answer2": "Mất tư cách"
-  },
-  {
-    "question": "誤り",
-    "answer1": "あやまり",
-    "answer2": "Nhầm lẫn, lỗi lầm"
-  },
-  {
-    "question": "内心",
-    "answer1": "ないしん",
-    "answer2": "Trong lòng, trong tâm"
-  },
-  {
-    "question": "念じる",
-    "answer1": "ねんじる",
-    "answer2": "Cầu nguyện, ước"
-  },
-  {
-    "question": "歴然と＜する＞",
-    "answer1": "れきぜんと＜する＞",
-    "answer2": "Hiển nhiên, rõ ràng"
-  },
-  {
-    "question": "落胆＜する＞",
-    "answer1": "らくたん＜する＞",
-    "answer2": "Mất hết can đảm, nản lòng"
-  },
-  {
-    "question": "がっくり[と]＜為る＞",
-    "answer1": "がっくり[と]＜する＞",
-    "answer2": "Thất vọng"
-  },
-  {
-    "question": "辛うじて",
-    "answer1": "かろうじて",
-    "answer2": "Khó khăn lắm mới"
-  },
-  {
-    "question": "志す",
-    "answer1": "こころざす",
-    "answer2": "Khao khát, mong muốn đạt được cái gì"
-  },
-  {
-    "question": "満たす",
-    "answer1": "みたす",
-    "answer2": "Đầy, thỏa mãn"
-  },
-  {
-    "question": "枠",
-    "answer1": "わく",
-    "answer2": "Hạn chế, giới hạn/Khung, viền"
-  },
-  {
-    "question": "偏差値",
-    "answer1": "へんさち",
-    "answer2": "Điểm chuẩn"
-  },
-  {
-    "question": "善し悪し",
-    "answer1": "よしあし",
-    "answer2": "Tốt hay xấu"
-  },
-  {
-    "question": "見極める",
-    "answer1": "みきわめる",
-    "answer2": "Nhìn thấu suốt, nhận rõ chắc chắn"
-  },
-  {
-    "question": "独自＜する＞",
-    "answer1": "どくじ＜する＞",
-    "answer2": "Nguyên gốc, độc đáo, độc quyền"
-  },
-  {
-    "question": "見当",
-    "answer1": "けんとう",
-    "answer2": "Ước lượng, dự tính, đoán"
-  }
+    {
+        "question":  "冴える",
+        "answer1":  "さえる",
+        "answer2":  "Minh mẫn/Tươi sáng, trong trẻo"
+    },
+    {
+        "question":  "度忘れ＜する＞",
+        "answer1":  "どわすれ＜する＞",
+        "answer2":  "Bất chợt quên, đãng trí"
+    },
+    {
+        "question":  "所々",
+        "answer1":  "ところどころ",
+        "answer2":  "Đôi chỗ, vài chỗ"
+    },
+    {
+        "question":  "アベコベ時代",
+        "answer1":  "あべこべな",
+        "answer2":  "Đối diện, trái ngược"
+    },
+    {
+        "question":  "見落とす",
+        "answer1":  "みおとす",
+        "answer2":  "Bỏ sót"
+    },
+    {
+        "question":  "持参＜する＞",
+        "answer1":  "じさん＜する＞",
+        "answer2":  "Mang theo"
+    },
+    {
+        "question":  "案の定",
+        "answer1":  "あんのじょう",
+        "answer2":  "Quả nhiên đúng như dự tính (kết quả xấu)"
+    },
+    {
+        "question":  "不正＜な＞",
+        "answer1":  "ふせい＜な＞",
+        "answer2":  "Bất chính, không chính đáng"
+    },
+    {
+        "question":  "即刻",
+        "answer1":  "そっこく",
+        "answer2":  "Tức khắc, ngay lập tức"
+    },
+    {
+        "question":  "失格＜する＞",
+        "answer1":  "しっかく＜する＞",
+        "answer2":  "Mất tư cách"
+    },
+    {
+        "question":  "誤り",
+        "answer1":  "あやまり",
+        "answer2":  "Nhầm lẫn, lỗi lầm"
+    },
+    {
+        "question":  "内心",
+        "answer1":  "ないしん",
+        "answer2":  "Trong lòng, trong tâm"
+    },
+    {
+        "question":  "念じる",
+        "answer1":  "ねんじる",
+        "answer2":  "Cầu nguyện, ước"
+    },
+    {
+        "question":  "歴然と＜する＞",
+        "answer1":  "れきぜんと＜する＞",
+        "answer2":  "Hiển nhiên, rõ ràng"
+    },
+    {
+        "question":  "落胆＜する＞",
+        "answer1":  "らくたん＜する＞",
+        "answer2":  "Mất hết can đảm, nản lòng"
+    },
+    {
+        "question":  "がっくり[と]＜する＞",
+        "answer1":  "がっくり[と]＜する＞",
+        "answer2":  "Thất vọng"
+    },
+    {
+        "question":  "辛うじて",
+        "answer1":  "かろうじて",
+        "answer2":  "Khó khăn lắm mới"
+    },
+    {
+        "question":  "志す",
+        "answer1":  "こころざす",
+        "answer2":  "Khao khát, mong muốn đạt được cái gì"
+    },
+    {
+        "question":  "満たす",
+        "answer1":  "みたす",
+        "answer2":  "Đầy, thỏa mãn"
+    },
+    {
+        "question":  "枠",
+        "answer1":  "わく",
+        "answer2":  "Hạn chế, giới hạn/Khung, viền"
+    },
+    {
+        "question":  "偏差値",
+        "answer1":  "へんさち",
+        "answer2":  "Điểm chuẩn"
+    },
+    {
+        "question":  "善し悪し",
+        "answer1":  "よしあし",
+        "answer2":  "Tốt hay xấu"
+    },
+    {
+        "question":  "見極める",
+        "answer1":  "みきわめる",
+        "answer2":  "Nhìn thấu suốt, nhận rõ chắc chắn"
+    },
+    {
+        "question":  "独自＜する＞",
+        "answer1":  "どくじ＜する＞",
+        "answer2":  "Nguyên gốc, độc đáo, độc quyền"
+    },
+    {
+        "question":  "見当",
+        "answer1":  "けんとう",
+        "answer2":  "Ước lượng, dự tính, đoán"
+    }
 ]

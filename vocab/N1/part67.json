@@ -1,127 +1,127 @@
 [
-  {
-    "question": "生ぬるい",
-    "answer1": "なまぬるい",
-    "answer2": "nhạt nhẽo, mềm mỏng"
-  },
-  {
-    "question": "無礼＜な＞",
-    "answer1": "ぶれい＜な＞",
-    "answer2": "bất lịch sự"
-  },
-  {
-    "question": "気取る",
-    "answer1": "きどる",
-    "answer2": "kênh kiệu"
-  },
-  {
-    "question": "近寄りがたい",
-    "answer1": "ちかよりがたい",
-    "answer2": "khó gần"
-  },
-  {
-    "question": "ちやほや＜為る＞",
-    "answer1": "ちやほや＜する＞",
-    "answer2": "nuông chiều"
-  },
-  {
-    "question": "窮屈な",
-    "answer1": "きゅうくつな",
-    "answer2": "chật chội, không thoải mái"
-  },
-  {
-    "question": "ヤバい",
-    "answer1": "ヤバい",
-    "answer2": "rất tệ"
-  },
-  {
-    "question": "どん底",
-    "answer1": "どんぞこ",
-    "answer2": "tận đáy"
-  },
-  {
-    "question": "くすくす笑う",
-    "answer1": "くすくす",
-    "answer2": "khúc khích"
-  },
-  {
-    "question": "げらげら笑う",
-    "answer1": "げらげら",
-    "answer2": "cười ha hả"
-  },
-  {
-    "question": "そこそこ",
-    "answer1": "そこそこ",
-    "answer2": "vội vã"
-  },
-  {
-    "question": "ぺこぺこ＜為る＞",
-    "answer1": "ぺこぺこ＜する＞",
-    "answer2": "cúi chào liên tục"
-  },
-  {
-    "question": "犇々[と]",
-    "answer1": "ひしひし[と]",
-    "answer2": "sâu sắc, rõ ràng"
-  },
-  {
-    "question": "バラバラ事件[と]",
-    "answer1": "ばらばら[と]",
-    "answer2": "rời rạc"
-  },
-  {
-    "question": "パラパラ漫画",
-    "answer1": "ぱらぱら[と]",
-    "answer2": "rải rác, lướt qua"
-  },
-  {
-    "question": "ぞろぞろ[と]",
-    "answer1": "ぞろぞろ[と]",
-    "answer2": "nối đuôi nhau"
-  },
-  {
-    "question": "ぼちぼち",
-    "answer1": "ぼちぼち",
-    "answer2": "từ từ, chuẩn bị"
-  },
-  {
-    "question": "ずるずる[と]",
-    "answer1": "ずるずる[と]",
-    "answer2": "kéo dài, lê thê"
-  },
-  {
-    "question": "ちくちく痛む[と]＜為る＞",
-    "answer1": "ちくちく[と]＜する＞",
-    "answer2": "châm chích, ngứa"
-  },
-  {
-    "question": "のこのこ",
-    "answer1": "のこのこ",
-    "answer2": "hững hờ"
-  },
-  {
-    "question": "くらくら[と]＜為る＞",
-    "answer1": "くらくら[と]＜する＞",
-    "answer2": "hoa mắt"
-  },
-  {
-    "question": "ちょくちょく",
-    "answer1": "ちょくちょく",
-    "answer2": "thường xuyên"
-  },
-  {
-    "question": "ふわふわ[と]＜為る＞",
-    "answer1": "ふわふわ[と]＜する＞",
-    "answer2": "bồng bềnh"
-  },
-  {
-    "question": "ちらほら[と]＜為る＞",
-    "answer1": "ちらほら[と]＜する＞",
-    "answer2": "lắt nhắt"
-  },
-  {
-    "question": "ふらりと",
-    "answer1": "ふらりと",
-    "answer2": "không mục đích, vu vơ"
-  }
+    {
+        "question":  "生ぬるい",
+        "answer1":  "なまぬるい",
+        "answer2":  "nhạt nhẽo, mềm mỏng"
+    },
+    {
+        "question":  "無礼＜な＞",
+        "answer1":  "ぶれい＜な＞",
+        "answer2":  "bất lịch sự"
+    },
+    {
+        "question":  "気取る",
+        "answer1":  "きどる",
+        "answer2":  "kênh kiệu"
+    },
+    {
+        "question":  "近寄りがたい",
+        "answer1":  "ちかよりがたい",
+        "answer2":  "khó gần"
+    },
+    {
+        "question":  "ちやほや＜する＞",
+        "answer1":  "ちやほや＜する＞",
+        "answer2":  "nuông chiều"
+    },
+    {
+        "question":  "窮屈な",
+        "answer1":  "きゅうくつな",
+        "answer2":  "chật chội, không thoải mái"
+    },
+    {
+        "question":  "ヤバい",
+        "answer1":  "ヤバい",
+        "answer2":  "rất tệ"
+    },
+    {
+        "question":  "どん底",
+        "answer1":  "どんぞこ",
+        "answer2":  "tận đáy"
+    },
+    {
+        "question":  "くすくす笑う",
+        "answer1":  "くすくす",
+        "answer2":  "khúc khích"
+    },
+    {
+        "question":  "げらげら笑う",
+        "answer1":  "げらげら",
+        "answer2":  "cười ha hả"
+    },
+    {
+        "question":  "そこそこ",
+        "answer1":  "そこそこ",
+        "answer2":  "vội vã"
+    },
+    {
+        "question":  "ぺこぺこ＜する＞",
+        "answer1":  "ぺこぺこ＜する＞",
+        "answer2":  "cúi chào liên tục"
+    },
+    {
+        "question":  "犇々[と]",
+        "answer1":  "ひしひし[と]",
+        "answer2":  "sâu sắc, rõ ràng"
+    },
+    {
+        "question":  "バラバラ事件[と]",
+        "answer1":  "ばらばら[と]",
+        "answer2":  "rời rạc"
+    },
+    {
+        "question":  "パラパラ漫画",
+        "answer1":  "ぱらぱら[と]",
+        "answer2":  "rải rác, lướt qua"
+    },
+    {
+        "question":  "ぞろぞろ[と]",
+        "answer1":  "ぞろぞろ[と]",
+        "answer2":  "nối đuôi nhau"
+    },
+    {
+        "question":  "ぼちぼち",
+        "answer1":  "ぼちぼち",
+        "answer2":  "từ từ, chuẩn bị"
+    },
+    {
+        "question":  "ずるずる[と]",
+        "answer1":  "ずるずる[と]",
+        "answer2":  "kéo dài, lê thê"
+    },
+    {
+        "question":  "ちくちく痛む[と]＜する＞",
+        "answer1":  "ちくちく[と]＜する＞",
+        "answer2":  "châm chích, ngứa"
+    },
+    {
+        "question":  "のこのこ",
+        "answer1":  "のこのこ",
+        "answer2":  "hững hờ"
+    },
+    {
+        "question":  "くらくら[と]＜する＞",
+        "answer1":  "くらくら[と]＜する＞",
+        "answer2":  "hoa mắt"
+    },
+    {
+        "question":  "ちょくちょく",
+        "answer1":  "ちょくちょく",
+        "answer2":  "thường xuyên"
+    },
+    {
+        "question":  "ふわふわ[と]＜する＞",
+        "answer1":  "ふわふわ[と]＜する＞",
+        "answer2":  "bồng bềnh"
+    },
+    {
+        "question":  "ちらほら[と]＜する＞",
+        "answer1":  "ちらほら[と]＜する＞",
+        "answer2":  "lắt nhắt"
+    },
+    {
+        "question":  "ふらりと",
+        "answer1":  "ふらりと",
+        "answer2":  "không mục đích, vu vơ"
+    }
 ]

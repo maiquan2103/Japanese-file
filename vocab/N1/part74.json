@@ -1,137 +1,137 @@
 [
-  {
-    "question": "明るい",
-    "answer1": "あかるい",
-    "answer2": "①sáng ②sáng sủa ③sành sỏi"
-  },
-  {
-    "question": "甘い",
-    "answer1": "あまい",
-    "answer2": "①ngọt ②chiều ③ngây thơ"
-  },
-  {
-    "question": "硬い",
-    "answer1": "かたい",
-    "answer2": "①cứng ②mạnh ③cứng nhắc"
-  },
-  {
-    "question": "不味い",
-    "answer1": "まずい",
-    "answer2": "①không ngon ②tệ ③chết rồi"
-  },
-  {
-    "question": "強い",
-    "answer1": "つよい",
-    "answer2": "①giỏi về ②mạnh mẽ ③chống chọi"
-  },
-  {
-    "question": "重い",
-    "answer1": "おもい",
-    "answer2": "①nặng ②nặng nề ③ít nói ④nghiêm trọng"
-  },
-  {
-    "question": "波",
-    "answer1": "なみ",
-    "answer2": "①sóng ②dao động ③cơn sóng"
-  },
-  {
-    "question": "根",
-    "answer1": "ね",
-    "answer2": "①rễ ②chính ③bản chất"
-  },
-  {
-    "question": "筋",
-    "answer1": "すじ",
-    "answer2": "①gân ②mạch ③tố chất"
-  },
-  {
-    "question": "ポイント",
-    "answer1": "ポイント",
-    "answer2": "①điểm mấu chốt ②điểm ③địa điểm ④điểm"
-  },
-  {
-    "question": "道",
-    "answer1": "みち",
-    "answer2": "①con phố ②con đường ③quỹ đạo ④lĩnh vực"
-  },
-  {
-    "question": "さっぱり＜為る＞",
-    "answer1": "さっぱり＜する＞",
-    "answer2": "①sảng khoái ②nhẹ nhàng ③thoải mái"
-  },
-  {
-    "question": "起こす",
-    "answer1": "おこす",
-    "answer2": "①thức dậy ②gây ra ③trở thành ④bắt đầu"
-  },
-  {
-    "question": "寝かす",
-    "answer1": "ねかす",
-    "answer2": "①cho đi ngủ ②đặt xuống ③đặt sang bên cạnh"
-  },
-  {
-    "question": "受ける",
-    "answer1": "うける",
-    "answer2": "①nhận ②chịu ③tham gia ④nổi tiếng"
-  },
-  {
-    "question": "滑る",
-    "answer1": "すべる",
-    "answer2": "①trượt ②trượt ③trượt ④lỡ"
-  },
-  {
-    "question": "切れる",
-    "answer1": "きれる",
-    "answer2": "①cắt ②cắt đứt ③hết"
-  },
-  {
-    "question": "嵌まる",
-    "answer1": "はまる",
-    "answer2": "①thích hợp ②nghiện ③sập bẫy ④cố định"
-  },
-  {
-    "question": "迫る",
-    "answer1": "せまる",
-    "answer2": "①tiến gần ②lại gần hơn ③thúc giục ④ép"
-  },
-  {
-    "question": "通る",
-    "answer1": "とおる",
-    "answer2": "①chạy qua ②băng qua ③đỗ ④thông qua"
-  },
-  {
-    "question": "飛ぶ",
-    "answer1": "とぶ",
-    "answer2": "①bay ②bay qua ③lan truyền ④nhảy"
-  },
-  {
-    "question": "抜く",
-    "answer1": "ぬく",
-    "answer2": "①nhổ ②rút ③bỏ ④đánh bại"
-  },
-  {
-    "question": "乗る",
-    "answer1": "のる",
-    "answer2": "①leo lên ②lên ③tham gia ④hưng phấn"
-  },
-  {
-    "question": "弾む",
-    "answer1": "はずむ",
-    "answer2": "①nảy ②hào hứng ③hết hơi ④trả rất nhiều"
-  },
-  {
-    "question": "控える",
-    "answer1": "ひかえる",
-    "answer2": "①cắt giảm ②trước ③viết"
-  },
-  {
-    "question": "引く",
-    "answer1": "ひく",
-    "answer2": "①kéo ②tìm kiếm ③tra ④rút ⑤trừ ⑥bao phủ ⑦thừa hưởng"
-  },
-  {
-    "question": "回す",
-    "answer1": "まわす",
-    "answer2": "①bật lên ②để dành ③nhường ④để sau"
-  }
+    {
+        "question":  "明るい",
+        "answer1":  "あかるい",
+        "answer2":  "①sáng ②sáng sủa ③sành sỏi"
+    },
+    {
+        "question":  "甘い",
+        "answer1":  "あまい",
+        "answer2":  "①ngọt ②chiều ③ngây thơ"
+    },
+    {
+        "question":  "硬い",
+        "answer1":  "かたい",
+        "answer2":  "①cứng ②mạnh ③cứng nhắc"
+    },
+    {
+        "question":  "不味い",
+        "answer1":  "まずい",
+        "answer2":  "①không ngon ②tệ ③chết rồi"
+    },
+    {
+        "question":  "強い",
+        "answer1":  "つよい",
+        "answer2":  "①giỏi về ②mạnh mẽ ③chống chọi"
+    },
+    {
+        "question":  "重い",
+        "answer1":  "おもい",
+        "answer2":  "①nặng ②nặng nề ③ít nói ④nghiêm trọng"
+    },
+    {
+        "question":  "波",
+        "answer1":  "なみ",
+        "answer2":  "①sóng ②dao động ③cơn sóng"
+    },
+    {
+        "question":  "根",
+        "answer1":  "ね",
+        "answer2":  "①rễ ②chính ③bản chất"
+    },
+    {
+        "question":  "筋",
+        "answer1":  "すじ",
+        "answer2":  "①gân ②mạch ③tố chất"
+    },
+    {
+        "question":  "ポイント",
+        "answer1":  "ポイント",
+        "answer2":  "①điểm mấu chốt ②điểm ③địa điểm ④điểm"
+    },
+    {
+        "question":  "道",
+        "answer1":  "みち",
+        "answer2":  "①con phố ②con đường ③quỹ đạo ④lĩnh vực"
+    },
+    {
+        "question":  "さっぱり＜する＞",
+        "answer1":  "さっぱり＜する＞",
+        "answer2":  "①sảng khoái ②nhẹ nhàng ③thoải mái"
+    },
+    {
+        "question":  "起こす",
+        "answer1":  "おこす",
+        "answer2":  "①thức dậy ②gây ra ③trở thành ④bắt đầu"
+    },
+    {
+        "question":  "寝かす",
+        "answer1":  "ねかす",
+        "answer2":  "①cho đi ngủ ②đặt xuống ③đặt sang bên cạnh"
+    },
+    {
+        "question":  "受ける",
+        "answer1":  "うける",
+        "answer2":  "①nhận ②chịu ③tham gia ④nổi tiếng"
+    },
+    {
+        "question":  "滑る",
+        "answer1":  "すべる",
+        "answer2":  "①trượt ②trượt ③trượt ④lỡ"
+    },
+    {
+        "question":  "切れる",
+        "answer1":  "きれる",
+        "answer2":  "①cắt ②cắt đứt ③hết"
+    },
+    {
+        "question":  "嵌まる",
+        "answer1":  "はまる",
+        "answer2":  "①thích hợp ②nghiện ③sập bẫy ④cố định"
+    },
+    {
+        "question":  "迫る",
+        "answer1":  "せまる",
+        "answer2":  "①tiến gần ②lại gần hơn ③thúc giục ④ép"
+    },
+    {
+        "question":  "通る",
+        "answer1":  "とおる",
+        "answer2":  "①chạy qua ②băng qua ③đỗ ④thông qua"
+    },
+    {
+        "question":  "飛ぶ",
+        "answer1":  "とぶ",
+        "answer2":  "①bay ②bay qua ③lan truyền ④nhảy"
+    },
+    {
+        "question":  "抜く",
+        "answer1":  "ぬく",
+        "answer2":  "①nhổ ②rút ③bỏ ④đánh bại"
+    },
+    {
+        "question":  "乗る",
+        "answer1":  "のる",
+        "answer2":  "①leo lên ②lên ③tham gia ④hưng phấn"
+    },
+    {
+        "question":  "弾む",
+        "answer1":  "はずむ",
+        "answer2":  "①nảy ②hào hứng ③hết hơi ④trả rất nhiều"
+    },
+    {
+        "question":  "控える",
+        "answer1":  "ひかえる",
+        "answer2":  "①cắt giảm ②trước ③viết"
+    },
+    {
+        "question":  "引く",
+        "answer1":  "ひく",
+        "answer2":  "①kéo ②tìm kiếm ③tra ④rút ⑤trừ ⑥bao phủ ⑦thừa hưởng"
+    },
+    {
+        "question":  "回す",
+        "answer1":  "まわす",
+        "answer2":  "①bật lên ②để dành ③nhường ④để sau"
+    }
 ]

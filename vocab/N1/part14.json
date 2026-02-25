@@ -1,127 +1,127 @@
 [
-  {
-    "question": "香辛料",
-    "answer1": "こうしんりょう",
-    "answer2": "Hương vị, gia vị"
-  },
-  {
-    "question": "シール",
-    "answer1": "シール",
-    "answer2": "Tem, nhãn, màng bọc niêm phong"
-  },
-  {
-    "question": "吟味＜する＞",
-    "answer1": "ぎんみ＜する＞",
-    "answer2": "Nếm thử, thử nghiệm, kiểm định"
-  },
-  {
-    "question": "不可欠な",
-    "answer1": "ふかけつな",
-    "answer2": "Không thể thiếu"
-  },
-  {
-    "question": "代用＜する＞",
-    "answer1": "だいよう＜する＞",
-    "answer2": "Thay thế"
-  },
-  {
-    "question": "加工＜する＞",
-    "answer1": "かこう＜する＞",
-    "answer2": "Gia công, sản xuất"
-  },
-  {
-    "question": "浸す",
-    "answer1": "ひたす",
-    "answer2": "Nhúng vào, ngâm vào"
-  },
-  {
-    "question": "毟る",
-    "answer1": "むしる",
-    "answer2": "Nhổ, hái, kéo, bóc"
-  },
-  {
-    "question": "しんなり[と]＜為る＞",
-    "answer1": "しんなり[と]＜する＞",
-    "answer2": "Mềm, dẻo, nhũn"
-  },
-  {
-    "question": "妬む",
-    "answer1": "ねた",
-    "answer2": "Nguyên liệu, thành phần/Câu chuyện"
-  },
-  {
-    "question": "練る",
-    "answer1": "ねる",
-    "answer2": "①Trộn, nhào nặn ②Đầu tư trí óc và trau chuốt"
-  },
-  {
-    "question": "丸める",
-    "answer1": "まるめる",
-    "answer2": "Cuộn tròn, vo tròn"
-  },
-  {
-    "question": "丸ごと",
-    "answer1": "まるごと",
-    "answer2": "Nguyên vẹn, toàn bộ"
-  },
-  {
-    "question": "蕩ける",
-    "answer1": "とろける",
-    "answer2": "Tan chảy"
-  },
-  {
-    "question": "沸騰＜する＞",
-    "answer1": "ふっとう＜する＞",
-    "answer2": "Sôi, sủi tăm"
-  },
-  {
-    "question": "かき回す",
-    "answer1": "かきまわす",
-    "answer2": "Xào, khuấy đảo, khuấy"
-  },
-  {
-    "question": "腕前",
-    "answer1": "うでまえ",
-    "answer2": "Khả năng, năng khiếu"
-  },
-  {
-    "question": "口ずさむ",
-    "answer1": "くちずさむ",
-    "answer2": "Hát thầm, nhẩm theo"
-  },
-  {
-    "question": "手際",
-    "answer1": "てぎわ",
-    "answer2": "Khéo léo"
-  },
-  {
-    "question": "漂う",
-    "answer1": "ただよう",
-    "answer2": "Toát ra, tỏa ra"
-  },
-  {
-    "question": "焦げ臭い",
-    "answer1": "こげくさい",
-    "answer2": "Mùi khét"
-  },
-  {
-    "question": "うんともすんとも言わない",
-    "answer1": "うんと",
-    "answer2": "Nhiều, rất nhiều"
-  },
-  {
-    "question": "濃厚な",
-    "answer1": "のうこうな",
-    "answer2": "Đậm, dày"
-  },
-  {
-    "question": "摘む",
-    "answer1": "つまむ",
-    "answer2": "Nhón tay, nhéo, bịt (mũi)"
-  },
-  {
-    "question": "口が肥える",
-    "answer1": "くちがこえる",
-    "answer2": "Sành ăn"
-  }
+    {
+        "question":  "香辛料",
+        "answer1":  "こうしんりょう",
+        "answer2":  "Hương vị, gia vị"
+    },
+    {
+        "question":  "シール",
+        "answer1":  "シール",
+        "answer2":  "Tem, nhãn, màng bọc niêm phong"
+    },
+    {
+        "question":  "吟味＜する＞",
+        "answer1":  "ぎんみ＜する＞",
+        "answer2":  "Nếm thử, thử nghiệm, kiểm định"
+    },
+    {
+        "question":  "不可欠な",
+        "answer1":  "ふかけつな",
+        "answer2":  "Không thể thiếu"
+    },
+    {
+        "question":  "代用＜する＞",
+        "answer1":  "だいよう＜する＞",
+        "answer2":  "Thay thế"
+    },
+    {
+        "question":  "加工＜する＞",
+        "answer1":  "かこう＜する＞",
+        "answer2":  "Gia công, sản xuất"
+    },
+    {
+        "question":  "浸す",
+        "answer1":  "ひたす",
+        "answer2":  "Nhúng vào, ngâm vào"
+    },
+    {
+        "question":  "毟る",
+        "answer1":  "むしる",
+        "answer2":  "Nhổ, hái, kéo, bóc"
+    },
+    {
+        "question":  "しんなり[と]＜する＞",
+        "answer1":  "しんなり[と]＜する＞",
+        "answer2":  "Mềm, dẻo, nhũn"
+    },
+    {
+        "question":  "妬む",
+        "answer1":  "ねた",
+        "answer2":  "Nguyên liệu, thành phần/Câu chuyện"
+    },
+    {
+        "question":  "練る",
+        "answer1":  "ねる",
+        "answer2":  "①Trộn, nhào nặn ②Đầu tư trí óc và trau chuốt"
+    },
+    {
+        "question":  "丸める",
+        "answer1":  "まるめる",
+        "answer2":  "Cuộn tròn, vo tròn"
+    },
+    {
+        "question":  "丸ごと",
+        "answer1":  "まるごと",
+        "answer2":  "Nguyên vẹn, toàn bộ"
+    },
+    {
+        "question":  "蕩ける",
+        "answer1":  "とろける",
+        "answer2":  "Tan chảy"
+    },
+    {
+        "question":  "沸騰＜する＞",
+        "answer1":  "ふっとう＜する＞",
+        "answer2":  "Sôi, sủi tăm"
+    },
+    {
+        "question":  "かき回す",
+        "answer1":  "かきまわす",
+        "answer2":  "Xào, khuấy đảo, khuấy"
+    },
+    {
+        "question":  "腕前",
+        "answer1":  "うでまえ",
+        "answer2":  "Khả năng, năng khiếu"
+    },
+    {
+        "question":  "口ずさむ",
+        "answer1":  "くちずさむ",
+        "answer2":  "Hát thầm, nhẩm theo"
+    },
+    {
+        "question":  "手際",
+        "answer1":  "てぎわ",
+        "answer2":  "Khéo léo"
+    },
+    {
+        "question":  "漂う",
+        "answer1":  "ただよう",
+        "answer2":  "Toát ra, tỏa ra"
+    },
+    {
+        "question":  "焦げ臭い",
+        "answer1":  "こげくさい",
+        "answer2":  "Mùi khét"
+    },
+    {
+        "question":  "うんともすんとも言わない",
+        "answer1":  "うんと",
+        "answer2":  "Nhiều, rất nhiều"
+    },
+    {
+        "question":  "濃厚な",
+        "answer1":  "のうこうな",
+        "answer2":  "Đậm, dày"
+    },
+    {
+        "question":  "摘む",
+        "answer1":  "つまむ",
+        "answer2":  "Nhón tay, nhéo, bịt (mũi)"
+    },
+    {
+        "question":  "口が肥える",
+        "answer1":  "くちがこえる",
+        "answer2":  "Sành ăn"
+    }
 ]

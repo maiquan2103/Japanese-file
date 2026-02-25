@@ -1,127 +1,127 @@
 [
-  {
-    "question": "片時",
-    "answer1": "かたとき",
-    "answer2": "một chốc, ngay tức khắc, từng giây từng phút, dù chỉ 1 giây"
-  },
-  {
-    "question": "隅に置けない",
-    "answer1": "すみにおけない",
-    "answer2": "Dí dỏm và hiểu biết"
-  },
-  {
-    "question": "張り合う",
-    "answer1": "はりあう",
-    "answer2": "chiến đấu"
-  },
-  {
-    "question": "有頂天な",
-    "answer1": "うちょうてんな",
-    "answer2": "Ngây ngất"
-  },
-  {
-    "question": "[お]揃い",
-    "answer1": "[お]そろい",
-    "answer2": "Kết hợp, cặp đôi"
-  },
-  {
-    "question": "冷やかす",
-    "answer1": "ひやかす",
-    "answer2": "Trêu chọc"
-  },
-  {
-    "question": "もの好き＜な＞",
-    "answer1": "ものずき＜な＞",
-    "answer2": "Hiếu kỳ, sở thích lạ, lập dị"
-  },
-  {
-    "question": "そっぽを向く",
-    "answer1": "そっぽをむく",
-    "answer2": "Quay đi"
-  },
-  {
-    "question": "束縛＜する＞",
-    "answer1": "そくばく＜する＞",
-    "answer2": "Hạn chế, ràng buộc"
-  },
-  {
-    "question": "嫉妬＜する＞",
-    "answer1": "しっと＜する＞",
-    "answer2": "Ghen, ganh tị"
-  },
-  {
-    "question": "浮気＜する＞",
-    "answer1": "うわき＜する＞",
-    "answer2": "Không chung thuỷ"
-  },
-  {
-    "question": "発覚＜する＞",
-    "answer1": "はっかく＜する＞",
-    "answer2": "Phát hiện"
-  },
-  {
-    "question": "弁解＜する＞",
-    "answer1": "べんかい＜する＞",
-    "answer2": "Giải thích"
-  },
-  {
-    "question": "未練",
-    "answer1": "みれん",
-    "answer2": "Tiếc nuối; quyến luyến; lưu luyến"
-  },
-  {
-    "question": "ぽっかり[と]",
-    "answer1": "ぽっかり[と]",
-    "answer2": "Lâng lâng, trống rỗng, trống vắng"
-  },
-  {
-    "question": "前提",
-    "answer1": "ぜんてい",
-    "answer2": "Tiền đề"
-  },
-  {
-    "question": "誠意",
-    "answer1": "せいい",
-    "answer2": "Chân thành"
-  },
-  {
-    "question": "馴れ初め",
-    "answer1": "なれそめ",
-    "answer2": "Sự bắt đầu của tình yêu"
-  },
-  {
-    "question": "縁談",
-    "answer1": "えんだん",
-    "answer2": "Mai mối"
-  },
-  {
-    "question": "ゴールイン＜為る＞",
-    "answer1": "ゴールイン＜する＞",
-    "answer2": "Kết hôn"
-  },
-  {
-    "question": "日取り",
-    "answer1": "ひどり",
-    "answer2": "Một ngày"
-  },
-  {
-    "question": "披露＜する＞",
-    "answer1": "ひろう＜する＞",
-    "answer2": "công khai"
-  },
-  {
-    "question": "厳かな",
-    "answer1": "おごそかな",
-    "answer2": "nghiêm nghị"
-  },
-  {
-    "question": "一同",
-    "answer1": "いちどう",
-    "answer2": "tất cả"
-  },
-  {
-    "question": "潤む",
-    "answer1": "うるむ",
-    "answer2": "nhoè nước mắt"
-  }
+    {
+        "question":  "片時",
+        "answer1":  "かたとき",
+        "answer2":  "một chốc, ngay tức khắc, từng giây từng phút, dù chỉ 1 giây"
+    },
+    {
+        "question":  "隅に置けない",
+        "answer1":  "すみにおけない",
+        "answer2":  "Dí dỏm và hiểu biết"
+    },
+    {
+        "question":  "張り合う",
+        "answer1":  "はりあう",
+        "answer2":  "chiến đấu"
+    },
+    {
+        "question":  "有頂天な",
+        "answer1":  "うちょうてんな",
+        "answer2":  "Ngây ngất"
+    },
+    {
+        "question":  "[お]揃い",
+        "answer1":  "[お]そろい",
+        "answer2":  "Kết hợp, cặp đôi"
+    },
+    {
+        "question":  "冷やかす",
+        "answer1":  "ひやかす",
+        "answer2":  "Trêu chọc"
+    },
+    {
+        "question":  "もの好き＜な＞",
+        "answer1":  "ものずき＜な＞",
+        "answer2":  "Hiếu kỳ, sở thích lạ, lập dị"
+    },
+    {
+        "question":  "そっぽを向く",
+        "answer1":  "そっぽをむく",
+        "answer2":  "Quay đi"
+    },
+    {
+        "question":  "束縛＜する＞",
+        "answer1":  "そくばく＜する＞",
+        "answer2":  "Hạn chế, ràng buộc"
+    },
+    {
+        "question":  "嫉妬＜する＞",
+        "answer1":  "しっと＜する＞",
+        "answer2":  "Ghen, ganh tị"
+    },
+    {
+        "question":  "浮気＜する＞",
+        "answer1":  "うわき＜する＞",
+        "answer2":  "Không chung thuỷ"
+    },
+    {
+        "question":  "発覚＜する＞",
+        "answer1":  "はっかく＜する＞",
+        "answer2":  "Phát hiện"
+    },
+    {
+        "question":  "弁解＜する＞",
+        "answer1":  "べんかい＜する＞",
+        "answer2":  "Giải thích"
+    },
+    {
+        "question":  "未練",
+        "answer1":  "みれん",
+        "answer2":  "Tiếc nuối; quyến luyến; lưu luyến"
+    },
+    {
+        "question":  "ぽっかり[と]",
+        "answer1":  "ぽっかり[と]",
+        "answer2":  "Lâng lâng, trống rỗng, trống vắng"
+    },
+    {
+        "question":  "前提",
+        "answer1":  "ぜんてい",
+        "answer2":  "Tiền đề"
+    },
+    {
+        "question":  "誠意",
+        "answer1":  "せいい",
+        "answer2":  "Chân thành"
+    },
+    {
+        "question":  "馴れ初め",
+        "answer1":  "なれそめ",
+        "answer2":  "Sự bắt đầu của tình yêu"
+    },
+    {
+        "question":  "縁談",
+        "answer1":  "えんだん",
+        "answer2":  "Mai mối"
+    },
+    {
+        "question":  "ゴールイン＜する＞",
+        "answer1":  "ゴールイン＜する＞",
+        "answer2":  "Kết hôn"
+    },
+    {
+        "question":  "日取り",
+        "answer1":  "ひどり",
+        "answer2":  "Một ngày"
+    },
+    {
+        "question":  "披露＜する＞",
+        "answer1":  "ひろう＜する＞",
+        "answer2":  "công khai"
+    },
+    {
+        "question":  "厳かな",
+        "answer1":  "おごそかな",
+        "answer2":  "nghiêm nghị"
+    },
+    {
+        "question":  "一同",
+        "answer1":  "いちどう",
+        "answer2":  "tất cả"
+    },
+    {
+        "question":  "潤む",
+        "answer1":  "うるむ",
+        "answer2":  "nhoè nước mắt"
+    }
 ]

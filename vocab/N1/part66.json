@@ -1,127 +1,127 @@
 [
-  {
-    "question": "抜群な",
-    "answer1": "ばつぐんな",
-    "answer2": "nổi bật"
-  },
-  {
-    "question": "すばしっこい",
-    "answer1": "すばしっこい",
-    "answer2": "nhanh trí, lanh lợi"
-  },
-  {
-    "question": "恥じらう",
-    "answer1": "はじらう",
-    "answer2": "xấu hổ"
-  },
-  {
-    "question": "容易い",
-    "answer1": "たやすい",
-    "answer2": "đơn giản, dễ dàng"
-  },
-  {
-    "question": "悠々[と]",
-    "answer1": "ゆうゆう[と]",
-    "answer2": "dư giả"
-  },
-  {
-    "question": "めきめき[と]",
-    "answer1": "めきめき[と]",
-    "answer2": "tiến bộ nhanh chóng"
-  },
-  {
-    "question": "至れり尽くせり",
-    "answer1": "いたれりつくせり",
-    "answer2": "tận tình"
-  },
-  {
-    "question": "ネガティブ表示",
-    "answer1": "ネガティブな",
-    "answer2": "tiêu cực"
-  },
-  {
-    "question": "見苦しい",
-    "answer1": "みぐるしい",
-    "answer2": "xấu, vô duyên"
-  },
-  {
-    "question": "ややこしい",
-    "answer1": "ややこしい",
-    "answer2": "lộn xộn"
-  },
-  {
-    "question": "悲惨な",
-    "answer1": "ひさんな",
-    "answer2": "bi thảm"
-  },
-  {
-    "question": "見すぼらしい",
-    "answer1": "みすぼらしい",
-    "answer2": "khốn khổ, nghèo nàn"
-  },
-  {
-    "question": "乏しい",
-    "answer1": "とぼしい",
-    "answer2": "thiếu sót"
-  },
-  {
-    "question": "貧弱な",
-    "answer1": "ひんじゃくな",
-    "answer2": "nghèo đói"
-  },
-  {
-    "question": "汚らわしい",
-    "answer1": "けがらわしい",
-    "answer2": "bẩn thỉu"
-  },
-  {
-    "question": "嫌らしい",
-    "answer1": "いやらしい",
-    "answer2": "đáng ghét, thô lỗ"
-  },
-  {
-    "question": "卑しい",
-    "answer1": "いやしい",
-    "answer2": "đê tiện, thấp kém"
-  },
-  {
-    "question": "希薄な",
-    "answer1": "きはくな",
-    "answer2": "mỏng manh, yếu ớt"
-  },
-  {
-    "question": "月並み",
-    "answer1": "つきなみな",
-    "answer2": "nhàm chán, tầm thường"
-  },
-  {
-    "question": "ぶっきら棒",
-    "answer1": "ぶっきらぼうな",
-    "answer2": "lỗ mãng, cộc cằn"
-  },
-  {
-    "question": "むっつり助平[と]＜為る＞",
-    "answer1": "むっつり[と]＜する＞",
-    "answer2": "ít nói, lạnh lùng"
-  },
-  {
-    "question": "不細工な",
-    "answer1": "ぶさいくな",
-    "answer2": "xấu xí"
-  },
-  {
-    "question": "つれない",
-    "answer1": "つれない",
-    "answer2": "lãnh đạm, thờ ơ"
-  },
-  {
-    "question": "萎む",
-    "answer1": "しぼむ",
-    "answer2": "héo tàn"
-  },
-  {
-    "question": "あやふやな",
-    "answer1": "あやふやな",
-    "answer2": "mập mờ"
-  }
+    {
+        "question":  "抜群な",
+        "answer1":  "ばつぐんな",
+        "answer2":  "nổi bật"
+    },
+    {
+        "question":  "すばしっこい",
+        "answer1":  "すばしっこい",
+        "answer2":  "nhanh trí, lanh lợi"
+    },
+    {
+        "question":  "恥じらう",
+        "answer1":  "はじらう",
+        "answer2":  "xấu hổ"
+    },
+    {
+        "question":  "容易い",
+        "answer1":  "たやすい",
+        "answer2":  "đơn giản, dễ dàng"
+    },
+    {
+        "question":  "悠々[と]",
+        "answer1":  "ゆうゆう[と]",
+        "answer2":  "dư giả"
+    },
+    {
+        "question":  "めきめき[と]",
+        "answer1":  "めきめき[と]",
+        "answer2":  "tiến bộ nhanh chóng"
+    },
+    {
+        "question":  "至れり尽くせり",
+        "answer1":  "いたれりつくせり",
+        "answer2":  "tận tình"
+    },
+    {
+        "question":  "ネガティブ表示",
+        "answer1":  "ネガティブな",
+        "answer2":  "tiêu cực"
+    },
+    {
+        "question":  "見苦しい",
+        "answer1":  "みぐるしい",
+        "answer2":  "xấu, vô duyên"
+    },
+    {
+        "question":  "ややこしい",
+        "answer1":  "ややこしい",
+        "answer2":  "lộn xộn"
+    },
+    {
+        "question":  "悲惨な",
+        "answer1":  "ひさんな",
+        "answer2":  "bi thảm"
+    },
+    {
+        "question":  "見すぼらしい",
+        "answer1":  "みすぼらしい",
+        "answer2":  "khốn khổ, nghèo nàn"
+    },
+    {
+        "question":  "乏しい",
+        "answer1":  "とぼしい",
+        "answer2":  "thiếu sót"
+    },
+    {
+        "question":  "貧弱な",
+        "answer1":  "ひんじゃくな",
+        "answer2":  "nghèo đói"
+    },
+    {
+        "question":  "汚らわしい",
+        "answer1":  "けがらわしい",
+        "answer2":  "bẩn thỉu"
+    },
+    {
+        "question":  "嫌らしい",
+        "answer1":  "いやらしい",
+        "answer2":  "đáng ghét, thô lỗ"
+    },
+    {
+        "question":  "卑しい",
+        "answer1":  "いやしい",
+        "answer2":  "đê tiện, thấp kém"
+    },
+    {
+        "question":  "希薄な",
+        "answer1":  "きはくな",
+        "answer2":  "mỏng manh, yếu ớt"
+    },
+    {
+        "question":  "月並み",
+        "answer1":  "つきなみな",
+        "answer2":  "nhàm chán, tầm thường"
+    },
+    {
+        "question":  "ぶっきら棒",
+        "answer1":  "ぶっきらぼうな",
+        "answer2":  "lỗ mãng, cộc cằn"
+    },
+    {
+        "question":  "むっつり助平[と]＜する＞",
+        "answer1":  "むっつり[と]＜する＞",
+        "answer2":  "ít nói, lạnh lùng"
+    },
+    {
+        "question":  "不細工な",
+        "answer1":  "ぶさいくな",
+        "answer2":  "xấu xí"
+    },
+    {
+        "question":  "つれない",
+        "answer1":  "つれない",
+        "answer2":  "lãnh đạm, thờ ơ"
+    },
+    {
+        "question":  "萎む",
+        "answer1":  "しぼむ",
+        "answer2":  "héo tàn"
+    },
+    {
+        "question":  "あやふやな",
+        "answer1":  "あやふやな",
+        "answer2":  "mập mờ"
+    }
 ]

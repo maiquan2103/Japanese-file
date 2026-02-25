@@ -1,127 +1,127 @@
 [
-  {
-    "question": "負けず嫌いな",
-    "answer1": "まけずぎらいな",
-    "answer2": "ghét bị thua"
-  },
-  {
-    "question": "しぶとい",
-    "answer1": "しぶとい",
-    "answer2": "bướng bỉnh, ngoan cường"
-  },
-  {
-    "question": "顔つき",
-    "answer1": "かおつき",
-    "answer2": "vẻ mặt"
-  },
-  {
-    "question": "健闘＜する＞",
-    "answer1": "けんとう＜する＞",
-    "answer2": "đấu tranh dũng cảm, kiên cường"
-  },
-  {
-    "question": "手加減＜する＞",
-    "answer1": "てかげん＜する＞",
-    "answer2": "nương tay, nhẹ tay"
-  },
-  {
-    "question": "補充＜する＞",
-    "answer1": "ほじゅう＜する＞",
-    "answer2": "bổ sung"
-  },
-  {
-    "question": "反則",
-    "answer1": "はんそく",
-    "answer2": "phạm luật"
-  },
-  {
-    "question": "抗議＜する＞",
-    "answer1": "こうぎ＜する＞",
-    "answer2": "phản đối, khiếu nại"
-  },
-  {
-    "question": "喪失＜する＞",
-    "answer1": "そうしつ＜する＞",
-    "answer2": "sự mất, thiệt hại"
-  },
-  {
-    "question": "お手上げ",
-    "answer1": "おてあげ",
-    "answer2": "bó tay, đầu hàng"
-  },
-  {
-    "question": "行進＜する＞",
-    "answer1": "こうしん＜する＞",
-    "answer2": "diễu hành"
-  },
-  {
-    "question": "ポジション",
-    "answer1": "ポジション",
-    "answer2": "vị trí"
-  },
-  {
-    "question": "技",
-    "answer1": "わざ",
-    "answer2": "kỹ thuật"
-  },
-  {
-    "question": "屋内",
-    "answer1": "おくない",
-    "answer2": "trong nhà"
-  },
-  {
-    "question": "観戦＜する＞",
-    "answer1": "かんせん＜する＞",
-    "answer2": "xem thi đấu"
-  },
-  {
-    "question": "声援＜する＞",
-    "answer1": "せいえん＜する＞",
-    "answer2": "cổ vũ"
-  },
-  {
-    "question": "ぼうぜんと＜為る＞",
-    "answer1": "ぼうぜんと＜する＞",
-    "answer2": "thất thần"
-  },
-  {
-    "question": "掛ける",
-    "answer1": "かける",
-    "answer2": "đánh cược"
-  },
-  {
-    "question": "化ける",
-    "answer1": "ばける",
-    "answer2": "lột xác"
-  },
-  {
-    "question": "育成＜する＞",
-    "answer1": "いくせい＜する＞",
-    "answer2": "đào tạo"
-  },
-  {
-    "question": "人知れず",
-    "answer1": "ひとしれず",
-    "answer2": "âm thầm"
-  },
-  {
-    "question": "実る",
-    "answer1": "みのる",
-    "answer2": "kết trái"
-  },
-  {
-    "question": "一躍",
-    "answer1": "いちやく",
-    "answer2": "vụt lên"
-  },
-  {
-    "question": "転落＜する＞",
-    "answer1": "てんらく＜する＞",
-    "answer2": "sa sút"
-  },
-  {
-    "question": "栄光",
-    "answer1": "えいこう",
-    "answer2": "vinh quang"
-  }
+    {
+        "question":  "負けず嫌いな",
+        "answer1":  "まけずぎらいな",
+        "answer2":  "ghét bị thua"
+    },
+    {
+        "question":  "しぶとい",
+        "answer1":  "しぶとい",
+        "answer2":  "bướng bỉnh, ngoan cường"
+    },
+    {
+        "question":  "顔つき",
+        "answer1":  "かおつき",
+        "answer2":  "vẻ mặt"
+    },
+    {
+        "question":  "健闘＜する＞",
+        "answer1":  "けんとう＜する＞",
+        "answer2":  "đấu tranh dũng cảm, kiên cường"
+    },
+    {
+        "question":  "手加減＜する＞",
+        "answer1":  "てかげん＜する＞",
+        "answer2":  "nương tay, nhẹ tay"
+    },
+    {
+        "question":  "補充＜する＞",
+        "answer1":  "ほじゅう＜する＞",
+        "answer2":  "bổ sung"
+    },
+    {
+        "question":  "反則",
+        "answer1":  "はんそく",
+        "answer2":  "phạm luật"
+    },
+    {
+        "question":  "抗議＜する＞",
+        "answer1":  "こうぎ＜する＞",
+        "answer2":  "phản đối, khiếu nại"
+    },
+    {
+        "question":  "喪失＜する＞",
+        "answer1":  "そうしつ＜する＞",
+        "answer2":  "sự mất, thiệt hại"
+    },
+    {
+        "question":  "お手上げ",
+        "answer1":  "おてあげ",
+        "answer2":  "bó tay, đầu hàng"
+    },
+    {
+        "question":  "行進＜する＞",
+        "answer1":  "こうしん＜する＞",
+        "answer2":  "diễu hành"
+    },
+    {
+        "question":  "ポジション",
+        "answer1":  "ポジション",
+        "answer2":  "vị trí"
+    },
+    {
+        "question":  "技",
+        "answer1":  "わざ",
+        "answer2":  "kỹ thuật"
+    },
+    {
+        "question":  "屋内",
+        "answer1":  "おくない",
+        "answer2":  "trong nhà"
+    },
+    {
+        "question":  "観戦＜する＞",
+        "answer1":  "かんせん＜する＞",
+        "answer2":  "xem thi đấu"
+    },
+    {
+        "question":  "声援＜する＞",
+        "answer1":  "せいえん＜する＞",
+        "answer2":  "cổ vũ"
+    },
+    {
+        "question":  "ぼうぜんと＜する＞",
+        "answer1":  "ぼうぜんと＜する＞",
+        "answer2":  "thất thần"
+    },
+    {
+        "question":  "掛ける",
+        "answer1":  "かける",
+        "answer2":  "đánh cược"
+    },
+    {
+        "question":  "化ける",
+        "answer1":  "ばける",
+        "answer2":  "lột xác"
+    },
+    {
+        "question":  "育成＜する＞",
+        "answer1":  "いくせい＜する＞",
+        "answer2":  "đào tạo"
+    },
+    {
+        "question":  "人知れず",
+        "answer1":  "ひとしれず",
+        "answer2":  "âm thầm"
+    },
+    {
+        "question":  "実る",
+        "answer1":  "みのる",
+        "answer2":  "kết trái"
+    },
+    {
+        "question":  "一躍",
+        "answer1":  "いちやく",
+        "answer2":  "vụt lên"
+    },
+    {
+        "question":  "転落＜する＞",
+        "answer1":  "てんらく＜する＞",
+        "answer2":  "sa sút"
+    },
+    {
+        "question":  "栄光",
+        "answer1":  "えいこう",
+        "answer2":  "vinh quang"
+    }
 ]

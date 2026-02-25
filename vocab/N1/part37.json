@@ -1,127 +1,127 @@
 [
-  {
-    "question": "二の次",
-    "answer1": "にのつぎ",
-    "answer2": "thứ yếu"
-  },
-  {
-    "question": "奇跡的な",
-    "answer1": "きせきてきな",
-    "answer2": "kì tích"
-  },
-  {
-    "question": "独りでに",
-    "answer1": "ひとりでに",
-    "answer2": "tự nhiên"
-  },
-  {
-    "question": "全快＜する＞",
-    "answer1": "ぜんかい＜する＞",
-    "answer2": "bình phục hoàn toàn"
-  },
-  {
-    "question": "薬局",
-    "answer1": "やっきょく",
-    "answer2": "hiệu thuốc"
-  },
-  {
-    "question": "処方せん",
-    "answer1": "しょほうせん",
-    "answer2": "đơn thuốc"
-  },
-  {
-    "question": "ガーゼ",
-    "answer1": "ガーゼ",
-    "answer2": "băng gạc"
-  },
-  {
-    "question": "薬剤師",
-    "answer1": "やくざいし",
-    "answer2": "dược sĩ"
-  },
-  {
-    "question": "容姿",
-    "answer1": "ようし",
-    "answer2": "dáng điệu, vẻ bề ngoài"
-  },
-  {
-    "question": "針",
-    "answer1": "はり",
-    "answer2": "mịn màng"
-  },
-  {
-    "question": "突っ張る",
-    "answer1": "つっぱる",
-    "answer2": "căng, thắt lại"
-  },
-  {
-    "question": "艶",
-    "answer1": "つや",
-    "answer2": "độ bóng"
-  },
-  {
-    "question": "艶々＜な/為る＞",
-    "answer1": "つやつや＜な/する＞",
-    "answer2": "bóng mượt"
-  },
-  {
-    "question": "潤い",
-    "answer1": "うるおい",
-    "answer2": "độ ẩm"
-  },
-  {
-    "question": "保つ",
-    "answer1": "たもつ",
-    "answer2": "giữ gìn"
-  },
-  {
-    "question": "しっとり[と]＜為る＞",
-    "answer1": "しっとり[と]＜する＞",
-    "answer2": "ẩm mượt"
-  },
-  {
-    "question": "弾く",
-    "answer1": "はじく",
-    "answer2": "búng"
-  },
-  {
-    "question": "透き通る",
-    "answer1": "すきとおる",
-    "answer2": "trong vắt"
-  },
-  {
-    "question": "瞳",
-    "answer1": "ひとみ",
-    "answer2": "đôi mắt"
-  },
-  {
-    "question": "瞬き＜為る＞",
-    "answer1": "まばたき＜する＞",
-    "answer2": "chớp mắt"
-  },
-  {
-    "question": "瞑る",
-    "answer1": "つぶる",
-    "answer2": "nhắm mắt"
-  },
-  {
-    "question": "弛む",
-    "answer1": "たるむ",
-    "answer2": "chảy xệ"
-  },
-  {
-    "question": "後々",
-    "answer1": "のちのち",
-    "answer2": "về sau"
-  },
-  {
-    "question": "成果",
-    "answer1": "せいか",
-    "answer2": "thành quả"
-  },
-  {
-    "question": "否決",
-    "answer1": "ひけつ",
-    "answer2": "bí quyết"
-  }
+    {
+        "question":  "二の次",
+        "answer1":  "にのつぎ",
+        "answer2":  "thứ yếu"
+    },
+    {
+        "question":  "奇跡的な",
+        "answer1":  "きせきてきな",
+        "answer2":  "kì tích"
+    },
+    {
+        "question":  "独りでに",
+        "answer1":  "ひとりでに",
+        "answer2":  "tự nhiên"
+    },
+    {
+        "question":  "全快＜する＞",
+        "answer1":  "ぜんかい＜する＞",
+        "answer2":  "bình phục hoàn toàn"
+    },
+    {
+        "question":  "薬局",
+        "answer1":  "やっきょく",
+        "answer2":  "hiệu thuốc"
+    },
+    {
+        "question":  "処方せん",
+        "answer1":  "しょほうせん",
+        "answer2":  "đơn thuốc"
+    },
+    {
+        "question":  "ガーゼ",
+        "answer1":  "ガーゼ",
+        "answer2":  "băng gạc"
+    },
+    {
+        "question":  "薬剤師",
+        "answer1":  "やくざいし",
+        "answer2":  "dược sĩ"
+    },
+    {
+        "question":  "容姿",
+        "answer1":  "ようし",
+        "answer2":  "dáng điệu, vẻ bề ngoài"
+    },
+    {
+        "question":  "針",
+        "answer1":  "はり",
+        "answer2":  "mịn màng"
+    },
+    {
+        "question":  "突っ張る",
+        "answer1":  "つっぱる",
+        "answer2":  "căng, thắt lại"
+    },
+    {
+        "question":  "艶",
+        "answer1":  "つや",
+        "answer2":  "độ bóng"
+    },
+    {
+        "question":  "艶々＜な/する＞",
+        "answer1":  "つやつや＜な/する＞",
+        "answer2":  "bóng mượt"
+    },
+    {
+        "question":  "潤い",
+        "answer1":  "うるおい",
+        "answer2":  "độ ẩm"
+    },
+    {
+        "question":  "保つ",
+        "answer1":  "たもつ",
+        "answer2":  "giữ gìn"
+    },
+    {
+        "question":  "しっとり[と]＜する＞",
+        "answer1":  "しっとり[と]＜する＞",
+        "answer2":  "ẩm mượt"
+    },
+    {
+        "question":  "弾く",
+        "answer1":  "はじく",
+        "answer2":  "búng"
+    },
+    {
+        "question":  "透き通る",
+        "answer1":  "すきとおる",
+        "answer2":  "trong vắt"
+    },
+    {
+        "question":  "瞳",
+        "answer1":  "ひとみ",
+        "answer2":  "đôi mắt"
+    },
+    {
+        "question":  "瞬き＜する＞",
+        "answer1":  "まばたき＜する＞",
+        "answer2":  "chớp mắt"
+    },
+    {
+        "question":  "瞑る",
+        "answer1":  "つぶる",
+        "answer2":  "nhắm mắt"
+    },
+    {
+        "question":  "弛む",
+        "answer1":  "たるむ",
+        "answer2":  "chảy xệ"
+    },
+    {
+        "question":  "後々",
+        "answer1":  "のちのち",
+        "answer2":  "về sau"
+    },
+    {
+        "question":  "成果",
+        "answer1":  "せいか",
+        "answer2":  "thành quả"
+    },
+    {
+        "question":  "否決",
+        "answer1":  "ひけつ",
+        "answer2":  "bí quyết"
+    }
 ]
