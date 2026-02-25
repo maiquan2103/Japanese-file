@@ -1,0 +1,127 @@
+[
+  {
+    "question": "（約束を）守る",
+    "answer1": "（やくそくを）まもる",
+    "answer2": "Giữ (lời hứa)"
+  },
+  {
+    "question": "（約束を）やぶる",
+    "answer1": "（やくそくを）やぶる",
+    "answer2": "Thất hứa"
+  },
+  {
+    "question": "間に合う",
+    "answer1": "まにあう",
+    "answer2": "Kịp giờ"
+  },
+  {
+    "question": "遅れる",
+    "answer1": "おくれる",
+    "answer2": "Trễ giờ"
+  },
+  {
+    "question": "キャンセル<する>",
+    "answer1": "キャンセルする",
+    "answer2": "Hủy"
+  },
+  {
+    "question": "訳",
+    "answer1": "わけ",
+    "answer2": "Lý do"
+  },
+  {
+    "question": "誘う",
+    "answer1": "さそう",
+    "answer2": "Mời"
+  },
+  {
+    "question": "連絡<する>",
+    "answer1": "れんらくする",
+    "answer2": "Liên lạc"
+  },
+  {
+    "question": "（電話が）ある",
+    "answer1": "（でんわが）ある",
+    "answer2": "Có (điện thoại)"
+  },
+  {
+    "question": "食事<する>",
+    "answer1": "しょくじする",
+    "answer2": "Ăn uống"
+  },
+  {
+    "question": "参加<する>",
+    "answer1": "さんかする",
+    "answer2": "Tham gia"
+  },
+  {
+    "question": "都合",
+    "answer1": "つごう",
+    "answer2": "Sự thuận tiện"
+  },
+  {
+    "question": "予定",
+    "answer1": "よてい",
+    "answer2": "Dự định"
+  },
+  {
+    "question": "相手",
+    "answer1": "あいて",
+    "answer2": "Đối phương"
+  },
+  {
+    "question": "機会",
+    "answer1": "きかい",
+    "answer2": "Cơ hội"
+  },
+  {
+    "question": "嬉しい",
+    "answer1": "うれしい",
+    "answer2": "Vui mừng"
+  },
+  {
+    "question": "笑い",
+    "answer1": "わらい",
+    "answer2": "Cười"
+  },
+  {
+    "question": "幸せ<な>",
+    "answer1": "しあわせな",
+    "answer2": "Hạnh phúc"
+  },
+  {
+    "question": "楽な",
+    "answer1": "らくな",
+    "answer2": "Thoải mái"
+  },
+  {
+    "question": "安心<な/する>",
+    "answer1": "あんしんな／する",
+    "answer2": "Yên tâm"
+  },
+  {
+    "question": "信じる",
+    "answer1": "しんじる",
+    "answer2": "Tin tưởng"
+  },
+  {
+    "question": "祈る",
+    "answer1": "いのる",
+    "answer2": "Cầu nguyện"
+  },
+  {
+    "question": "悲しい",
+    "answer1": "かなしい",
+    "answer2": "Buồn"
+  },
+  {
+    "question": "寂しい",
+    "answer1": "さびしい",
+    "answer2": "Cô đơn"
+  },
+  {
+    "question": "泣く",
+    "answer1": "なく",
+    "answer2": "Khóc"
+  }
+]

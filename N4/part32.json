@@ -1,0 +1,127 @@
+[
+  {
+    "question": "変わる",
+    "answer1": "かわる",
+    "answer2": "Thay đổi (tự)"
+  },
+  {
+    "question": "見える",
+    "answer1": "みえる",
+    "answer2": "Nhìn thấy"
+  },
+  {
+    "question": "聞こえる",
+    "answer1": "きこえる",
+    "answer2": "Nghe thấy"
+  },
+  {
+    "question": "空く",
+    "answer1": "あく",
+    "answer2": "Trống"
+  },
+  {
+    "question": "外れる",
+    "answer1": "はずれる",
+    "answer2": "Tuột, rơi ra"
+  },
+  {
+    "question": "切れる",
+    "answer1": "きれる",
+    "answer2": "Đứt, hết"
+  },
+  {
+    "question": "新聞社",
+    "answer1": "しんぶんしゃ",
+    "answer2": "Tòa soạn báo"
+  },
+  {
+    "question": "テレビ局",
+    "answer1": "テレビきょく",
+    "answer2": "Đài truyền hình"
+  },
+  {
+    "question": "番組",
+    "answer1": "ばんぐみ",
+    "answer2": "Chương trình"
+  },
+  {
+    "question": "ネットニュース",
+    "answer1": "ネットニュース",
+    "answer2": "Tin tức trên mạng"
+  },
+  {
+    "question": "情報",
+    "answer1": "じょうほう",
+    "answer2": "Thông tin"
+  },
+  {
+    "question": "データ",
+    "answer1": "データ",
+    "answer2": "Dữ liệu"
+  },
+  {
+    "question": "放送<する>",
+    "answer1": "ほうそうする",
+    "answer2": "Phát sóng"
+  },
+  {
+    "question": "伝える",
+    "answer1": "つたえる",
+    "answer2": "Truyền đạt"
+  },
+  {
+    "question": "火事",
+    "answer1": "かじ",
+    "answer2": "Hỏa hoạn"
+  },
+  {
+    "question": "（事故が）起こる",
+    "answer1": "（じこが）おこる",
+    "answer2": "(Tai nạn) xảy ra"
+  },
+  {
+    "question": "発見<する>",
+    "answer1": "はっけんする",
+    "answer2": "Phát hiện"
+  },
+  {
+    "question": "見つかる",
+    "answer1": "みつかる",
+    "answer2": "Được tìm thấy"
+  },
+  {
+    "question": "見つける",
+    "answer1": "みつける",
+    "answer2": "Tìm thấy"
+  },
+  {
+    "question": "発表<する>",
+    "answer1": "はっぴょうする",
+    "answer2": "Công bố"
+  },
+  {
+    "question": "スピーチ<する>",
+    "answer1": "スピーチする",
+    "answer2": "Diễn văn"
+  },
+  {
+    "question": "続く",
+    "answer1": "つづく",
+    "answer2": "Tiếp tục"
+  },
+  {
+    "question": "続ける",
+    "answer1": "つづける",
+    "answer2": "Tiếp tục (làm)"
+  },
+  {
+    "question": "キーワード",
+    "answer1": "キーワード",
+    "answer2": "Từ khóa"
+  },
+  {
+    "question": "約束<する>",
+    "answer1": "やくそくする",
+    "answer2": "Lời hứa"
+  }
+]

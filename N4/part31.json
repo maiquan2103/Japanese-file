@@ -1,0 +1,127 @@
+[
+  {
+    "question": "美しい",
+    "answer1": "うつくしい",
+    "answer2": "Đẹp"
+  },
+  {
+    "question": "汚い",
+    "answer1": "きたない",
+    "answer2": "Bẩn"
+  },
+  {
+    "question": "上手い",
+    "answer1": "うまい",
+    "answer2": "Giỏi"
+  },
+  {
+    "question": "柔らかい",
+    "answer1": "やわらかい",
+    "answer2": "Mềm"
+  },
+  {
+    "question": "硬い",
+    "answer1": "かたい",
+    "answer2": "Cứng"
+  },
+  {
+    "question": "詳しい",
+    "answer1": "くわしい",
+    "answer2": "Chi tiết"
+  },
+  {
+    "question": "細かい",
+    "answer1": "こまかい",
+    "answer2": "Chi li"
+  },
+  {
+    "question": "怖い",
+    "answer1": "こわい",
+    "answer2": "Đáng sợ"
+  },
+  {
+    "question": "凄い",
+    "answer1": "すごい",
+    "answer2": "Ghê gớm"
+  },
+  {
+    "question": "素晴らしい",
+    "answer1": "すばらしい",
+    "answer2": "Tuyệt vời"
+  },
+  {
+    "question": "正しい",
+    "answer1": "ただしい",
+    "answer2": "Đúng"
+  },
+  {
+    "question": "酷い",
+    "answer1": "ひどい",
+    "answer2": "Tệ"
+  },
+  {
+    "question": "太い",
+    "answer1": "ふとい",
+    "answer2": "To, mập"
+  },
+  {
+    "question": "細い",
+    "answer1": "ほそい",
+    "answer2": "Gầy"
+  },
+  {
+    "question": "厚い",
+    "answer1": "あつい",
+    "answer2": "Dày"
+  },
+  {
+    "question": "浅い",
+    "answer1": "あさい",
+    "answer2": "Nông"
+  },
+  {
+    "question": "深い",
+    "answer1": "ふかい",
+    "answer2": "Sâu"
+  },
+  {
+    "question": "眠い",
+    "answer1": "ねむい",
+    "answer2": "Buồn ngủ"
+  },
+  {
+    "question": "珍しい",
+    "answer1": "めずらしい",
+    "answer2": "Hiếm"
+  },
+  {
+    "question": "増える",
+    "answer1": "ふえる",
+    "answer2": "Tăng"
+  },
+  {
+    "question": "増やす",
+    "answer1": "ふやす",
+    "answer2": "Làm tăng"
+  },
+  {
+    "question": "減る",
+    "answer1": "へる",
+    "answer2": "Giảm"
+  },
+  {
+    "question": "減らす",
+    "answer1": "へらす",
+    "answer2": "Làm giảm"
+  },
+  {
+    "question": "違う",
+    "answer1": "ちがう",
+    "answer2": "Khác"
+  },
+  {
+    "question": "変える",
+    "answer1": "かえる",
+    "answer2": "Thay đổi"
+  }
+]

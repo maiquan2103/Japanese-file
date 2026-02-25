@@ -1,0 +1,127 @@
+[
+  {
+    "question": "卒業<する>",
+    "answer1": "そつぎょうする",
+    "answer2": "Tốt nghiệp"
+  },
+  {
+    "question": "教育<する>",
+    "answer1": "きょういくする",
+    "answer2": "Giáo dục"
+  },
+  {
+    "question": "生徒",
+    "answer1": "せいと",
+    "answer2": "Học sinh"
+  },
+  {
+    "question": "授業",
+    "answer1": "じゅぎょう",
+    "answer2": "Giờ học, tiết học"
+  },
+  {
+    "question": "始まる",
+    "answer1": "はじまる",
+    "answer2": "Bắt đầu (tự)"
+  },
+  {
+    "question": "始める",
+    "answer1": "はじめる",
+    "answer2": "Bắt đầu (làm)"
+  },
+  {
+    "question": "質問<する>",
+    "answer1": "しつもんする",
+    "answer2": "Đặt câu hỏi"
+  },
+  {
+    "question": "答える",
+    "answer1": "こたえる",
+    "answer2": "Trả lời"
+  },
+  {
+    "question": "数学",
+    "answer1": "すうがく",
+    "answer2": "Toán học"
+  },
+  {
+    "question": "歴史",
+    "answer1": "れきし",
+    "answer2": "Lịch sử"
+  },
+  {
+    "question": "地理",
+    "answer1": "ちり",
+    "answer2": "Địa lý"
+  },
+  {
+    "question": "テキスト",
+    "answer1": "テキスト",
+    "answer2": "Sách giáo khoa"
+  },
+  {
+    "question": "開く",
+    "answer1": "ひらく",
+    "answer2": "Mở, lật"
+  },
+  {
+    "question": "プリント",
+    "answer1": "プリント",
+    "answer2": "Bài in phát tay"
+  },
+  {
+    "question": "表",
+    "answer1": "おもて",
+    "answer2": "Mặt trước"
+  },
+  {
+    "question": "テスト",
+    "answer1": "テスト",
+    "answer2": "Bài kiểm tra"
+  },
+  {
+    "question": "通う",
+    "answer1": "かよう",
+    "answer2": "Đi học/đi làm (thường xuyên)"
+  },
+  {
+    "question": "成績",
+    "answer1": "せいせき",
+    "answer2": "Thành tích học tập"
+  },
+  {
+    "question": "点",
+    "answer1": "てん",
+    "answer2": "Điểm"
+  },
+  {
+    "question": "丸",
+    "answer1": "まる",
+    "answer2": "Dấu tròn (đúng)"
+  },
+  {
+    "question": "作文",
+    "answer1": "さくぶん",
+    "answer2": "Bài văn"
+  },
+  {
+    "question": "(勉強が)できる",
+    "answer1": "べんきょうができる",
+    "answer2": "Học giỏi"
+  },
+  {
+    "question": "易しい",
+    "answer1": "やさしい",
+    "answer2": "Dễ"
+  },
+  {
+    "question": "簡単",
+    "answer1": "かんたんな",
+    "answer2": "Đơn giản"
+  },
+  {
+    "question": "間違える",
+    "answer1": "まちがえる",
+    "answer2": "Sai, nhầm"
+  }
+]

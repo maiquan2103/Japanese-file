@@ -1,0 +1,127 @@
+[
+  {
+    "question": "時代",
+    "answer1": "じだい",
+    "answer2": "Thời đại"
+  },
+  {
+    "question": "国際",
+    "answer1": "こくさい",
+    "answer2": "Quốc tế"
+  },
+  {
+    "question": "世界中",
+    "answer1": "せかいじゅう",
+    "answer2": "Toàn thế giới"
+  },
+  {
+    "question": "メールアドレス",
+    "answer1": "メールアドレス",
+    "answer2": "Địa chỉ e-mail"
+  },
+  {
+    "question": "返事<する>",
+    "answer1": "へんじする",
+    "answer2": "Thư trả lời, sự hồi âm"
+  },
+  {
+    "question": "知り合う",
+    "answer1": "しりあう",
+    "answer2": "Quen biết"
+  },
+  {
+    "question": "紹介<する>",
+    "answer1": "しょうかいする",
+    "answer2": "Giới thiệu"
+  },
+  {
+    "question": "合い",
+    "answer1": "あい",
+    "answer2": "Hợp (nhau), phù hợp"
+  },
+  {
+    "question": "相談<する>",
+    "answer1": "そうだんする",
+    "answer2": "Bàn bạc, trao đổi, tư vấn"
+  },
+  {
+    "question": "賛成<する>",
+    "answer1": "さんせいする",
+    "answer2": "Đồng ý"
+  },
+  {
+    "question": "反対<する>",
+    "answer1": "はんたいする",
+    "answer2": "Phản đối"
+  },
+  {
+    "question": "訪ねる",
+    "answer1": "たずねる",
+    "answer2": "Thăm viếng"
+  },
+  {
+    "question": "案内<する>",
+    "answer1": "あんないする",
+    "answer2": "Hướng dẫn"
+  },
+  {
+    "question": "上げる",
+    "answer1": "あげる",
+    "answer2": "Cho, tặng"
+  },
+  {
+    "question": "暮れる",
+    "answer1": "くれる",
+    "answer2": "(Ai đó) cho, tặng"
+  },
+  {
+    "question": "貰う",
+    "answer1": "もらう",
+    "answer2": "Nhận"
+  },
+  {
+    "question": "贈る",
+    "answer1": "おくる",
+    "answer2": "Tặng, gửi tặng"
+  },
+  {
+    "question": "贈り物",
+    "answer1": "おくりもの",
+    "answer2": "Quà tặng"
+  },
+  {
+    "question": "[お]祝い",
+    "answer1": "[お]いわい",
+    "answer2": "Lời chúc mừng"
+  },
+  {
+    "question": "渡す",
+    "answer1": "わたす",
+    "answer2": "Trao, đưa"
+  },
+  {
+    "question": "喜ぶ",
+    "answer1": "よろこぶ",
+    "answer2": "Vui mừng"
+  },
+  {
+    "question": "お陰",
+    "answer1": "おかげ",
+    "answer2": "Nhờ (ơn, công lao)"
+  },
+  {
+    "question": "感謝<する>",
+    "answer1": "かんしゃする",
+    "answer2": "Cảm tạ, biết ơn"
+  },
+  {
+    "question": "お礼<する>",
+    "answer1": "おれいする",
+    "answer2": "Lời cảm ơn"
+  },
+  {
+    "question": "謝る",
+    "answer1": "あやまる",
+    "answer2": "Xin lỗi"
+  }
+]

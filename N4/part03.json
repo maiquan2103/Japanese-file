@@ -1,0 +1,127 @@
+[
+    {
+        "question":  "褒める",
+        "answer1":  "ほめる",
+        "answer2":  "Khen"
+    },
+    {
+        "question":  "飼う",
+        "answer1":  "かう",
+        "answer2":  "Nuôi (thú)"
+    },
+    {
+        "question":  "アパート",
+        "answer1":  "アパート",
+        "answer2":  "Phòng trọ, căn hộ"
+    },
+    {
+        "question":  "マンション",
+        "answer1":  "マンション",
+        "answer2":  "Chung cư cao tầng"
+    },
+    {
+        "question":  "家賃",
+        "answer1":  "やちん",
+        "answer2":  "Tiền nhà"
+    },
+    {
+        "question":  "管理人",
+        "answer1":  "かんりにん",
+        "answer2":  "Người quản lý"
+    },
+    {
+        "question":  "住所",
+        "answer1":  "じゅうしょ",
+        "answer2":  "Địa chỉ"
+    },
+    {
+        "question":  "建てる",
+        "answer1":  "たてる",
+        "answer2":  "Xây"
+    },
+    {
+        "question":  "建つ",
+        "answer1":  "たつ",
+        "answer2":  "Được xây"
+    },
+    {
+        "question":  "立てる",
+        "answer1":  "たてる",
+        "answer2":  "Dựng lên"
+    },
+    {
+        "question":  "立つ",
+        "answer1":  "たつ",
+        "answer2":  "Đứng"
+    },
+    {
+        "question":  "引越し\u003cする\u003e",
+        "answer1":  "ひっこしする",
+        "answer2":  "Chuyển nhà"
+    },
+    {
+        "question":  "写す",
+        "answer1":  "うつす",
+        "answer2":  "Chuyển (đồ)"
+    },
+    {
+        "question":  "移る",
+        "answer1":  "うつる",
+        "answer2":  "Chuyển sang"
+    },
+    {
+        "question":  "自宅",
+        "answer1":  "じたく",
+        "answer2":  "Nhà riêng"
+    },
+    {
+        "question":  "お宅",
+        "answer1":  "おたく",
+        "answer2":  "Nhà (kính ngữ)"
+    },
+    {
+        "question":  "訪問\u003cする\u003e",
+        "answer1":  "ほうもんする",
+        "answer2":  "Thăm viếng"
+    },
+    {
+        "question":  "招待\u003cする\u003e",
+        "answer1":  "しょうたいする",
+        "answer2":  "Mời"
+    },
+    {
+        "question":  "近所",
+        "answer1":  "きんじょ",
+        "answer2":  "Hàng xóm"
+    },
+    {
+        "question":  "周り",
+        "answer1":  "まわり",
+        "answer2":  "Xung quanh"
+    },
+    {
+        "question":  "玄関",
+        "answer1":  "げんかん",
+        "answer2":  "Lối vào nhà"
+    },
+    {
+        "question":  "入口",
+        "answer1":  "いりぐち",
+        "answer2":  "Cửa vào"
+    },
+    {
+        "question":  "（鍵をかける）掛ける",
+        "answer1":  "かぎをかける",
+        "answer2":  "Khóa (cửa)"
+    },
+    {
+        "question":  "（鍵がかかる）掛かる",
+        "answer1":  "かぎがかかる",
+        "answer2":  "(Cửa) khóa"
+    },
+    {
+        "question":  "壁",
+        "answer1":  "かべ",
+        "answer2":  "Tường"
+    }
+]

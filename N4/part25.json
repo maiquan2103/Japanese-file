@@ -1,0 +1,127 @@
+[
+  {
+    "question": "踏む",
+    "answer1": "ふむ",
+    "answer2": "Dẫm"
+  },
+  {
+    "question": "理由",
+    "answer1": "りゆう",
+    "answer2": "Lý do"
+  },
+  {
+    "question": "原因",
+    "answer1": "げんいん",
+    "answer2": "Nguyên nhân"
+  },
+  {
+    "question": "110番",
+    "answer1": "ひゃくとうばん",
+    "answer2": "Số 110 (cảnh sát)"
+  },
+  {
+    "question": "非常口",
+    "answer1": "ひじょうぐち",
+    "answer2": "Cửa thoát hiểm"
+  },
+  {
+    "question": "逃げる",
+    "answer1": "にげる",
+    "answer2": "Chạy trốn"
+  },
+  {
+    "question": "嫌な気持ち",
+    "answer1": "いやな",
+    "answer2": "Khó chịu"
+  },
+  {
+    "question": "駄目",
+    "answer1": "だめな",
+    "answer2": "Không được"
+  },
+  {
+    "question": "イケナイ太陽",
+    "answer1": "いけない",
+    "answer2": "Không ổn"
+  },
+  {
+    "question": "釣り",
+    "answer1": "つり",
+    "answer2": "Câu cá"
+  },
+  {
+    "question": "山登り",
+    "answer1": "やまのぼり",
+    "answer2": "Leo núi"
+  },
+  {
+    "question": "キャンプ<する>",
+    "answer1": "キャンプする",
+    "answer2": "Cắm trại"
+  },
+  {
+    "question": "漫画",
+    "answer1": "まんが",
+    "answer2": "Truyện tranh"
+  },
+  {
+    "question": "アニメ",
+    "answer1": "アニメ",
+    "answer2": "Hoạt hình"
+  },
+  {
+    "question": "イラスト",
+    "answer1": "イラスト",
+    "answer2": "Minh họa"
+  },
+  {
+    "question": "ゲーム",
+    "answer1": "ゲーム",
+    "answer2": "Trò chơi"
+  },
+  {
+    "question": "茶道",
+    "answer1": "さどう",
+    "answer2": "Trà đạo"
+  },
+  {
+    "question": "歌舞伎",
+    "answer1": "かぶき",
+    "answer2": "Kabuki"
+  },
+  {
+    "question": "踊り",
+    "answer1": "おどり",
+    "answer2": "Điệu múa"
+  },
+  {
+    "question": "ドラマ",
+    "answer1": "ドラマ",
+    "answer2": "Phim truyền hình"
+  },
+  {
+    "question": "俳優",
+    "answer1": "はいゆう",
+    "answer2": "Diễn viên"
+  },
+  {
+    "question": "曲",
+    "answer1": "きょく",
+    "answer2": "Bài hát"
+  },
+  {
+    "question": "クラシック",
+    "answer1": "クラシック",
+    "answer2": "Nhạc cổ điển"
+  },
+  {
+    "question": "コンサート",
+    "answer1": "コンサート",
+    "answer2": "Hòa nhạc"
+  },
+  {
+    "question": "小説",
+    "answer1": "しょうせつ",
+    "answer2": "Tiểu thuyết"
+  }
+]

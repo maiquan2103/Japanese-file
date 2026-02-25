@@ -1,0 +1,127 @@
+[
+  {
+    "question": "匂い",
+    "answer1": "におい",
+    "answer2": "Mùi"
+  },
+  {
+    "question": "噛む",
+    "answer1": "かむ",
+    "answer2": "Nhai"
+  },
+  {
+    "question": "量",
+    "answer1": "りょう",
+    "answer2": "Lượng"
+  },
+  {
+    "question": "残す",
+    "answer1": "のこす",
+    "answer2": "Để thừa"
+  },
+  {
+    "question": "残る",
+    "answer1": "のこる",
+    "answer2": "Còn lại"
+  },
+  {
+    "question": "チャレンジ<する>",
+    "answer1": "チャレンジする",
+    "answer2": "Thử thách"
+  },
+  {
+    "question": "材料",
+    "answer1": "ざいりょう",
+    "answer2": "Nguyên liệu"
+  },
+  {
+    "question": "半分",
+    "answer1": "はんぶん",
+    "answer2": "Một nửa"
+  },
+  {
+    "question": "計る",
+    "answer1": "はかる",
+    "answer2": "Đong, đo"
+  },
+  {
+    "question": "混ぜる",
+    "answer1": "まぜる",
+    "answer2": "Trộn"
+  },
+  {
+    "question": "道具",
+    "answer1": "どうぐ",
+    "answer2": "Dụng cụ"
+  },
+  {
+    "question": "鍋",
+    "answer1": "なべ",
+    "answer2": "Nồi"
+  },
+  {
+    "question": "蓋",
+    "answer1": "ふた",
+    "answer2": "Nắp"
+  },
+  {
+    "question": "[お]皿",
+    "answer1": "[お]さら",
+    "answer2": "Đĩa"
+  },
+  {
+    "question": "茶碗",
+    "answer1": "ちゃわん",
+    "answer2": "Bát"
+  },
+  {
+    "question": "用意<する>",
+    "answer1": "よういする",
+    "answer2": "Chuẩn bị"
+  },
+  {
+    "question": "並ぶ",
+    "answer1": "ならぶ",
+    "answer2": "Xếp hàng"
+  },
+  {
+    "question": "並べる",
+    "answer1": "ならべる",
+    "answer2": "Sắp xếp"
+  },
+  {
+    "question": "火",
+    "answer1": "ひ",
+    "answer2": "Lửa"
+  },
+  {
+    "question": "焼く",
+    "answer1": "やく",
+    "answer2": "Nướng, chiên"
+  },
+  {
+    "question": "焼ける",
+    "answer1": "やける",
+    "answer2": "Chín"
+  },
+  {
+    "question": "夜間",
+    "answer1": "やかん",
+    "answer2": "Ấm nước"
+  },
+  {
+    "question": "沸かす",
+    "answer1": "わかす",
+    "answer2": "Đun sôi"
+  },
+  {
+    "question": "温める",
+    "answer1": "あたためる",
+    "answer2": "Hâm nóng"
+  },
+  {
+    "question": "冷やす",
+    "answer1": "ひやす",
+    "answer2": "Làm lạnh"
+  }
+]

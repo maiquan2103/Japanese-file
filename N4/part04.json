@@ -1,0 +1,127 @@
+[
+    {
+        "question":  "廊下",
+        "answer1":  "ろうか",
+        "answer2":  "Hành lang"
+    },
+    {
+        "question":  "台所",
+        "answer1":  "だいどころ",
+        "answer2":  "Nhà bếp"
+    },
+    {
+        "question":  "水道",
+        "answer1":  "すいどう",
+        "answer2":  "Nước máy"
+    },
+    {
+        "question":  "ガス",
+        "answer1":  "ガス",
+        "answer2":  "Ga"
+    },
+    {
+        "question":  "和室",
+        "answer1":  "わしつ",
+        "answer2":  "Phòng kiểu Nhật"
+    },
+    {
+        "question":  "畳",
+        "answer1":  "たたみ",
+        "answer2":  "Chiếu"
+    },
+    {
+        "question":  "押入れ",
+        "answer1":  "おしいれ",
+        "answer2":  "Tủ âm tường"
+    },
+    {
+        "question":  "布団",
+        "answer1":  "ふとん",
+        "answer2":  "Nệm, chăn"
+    },
+    {
+        "question":  "ガラス",
+        "answer1":  "ガラス",
+        "answer2":  "Kính"
+    },
+    {
+        "question":  "カーテン",
+        "answer1":  "カーテン",
+        "answer2":  "Màn cửa"
+    },
+    {
+        "question":  "隅",
+        "answer1":  "すみ",
+        "answer2":  "Góc"
+    },
+    {
+        "question":  "家具",
+        "answer1":  "かぐ",
+        "answer2":  "Đồ nội thất"
+    },
+    {
+        "question":  "棚",
+        "answer1":  "たな",
+        "answer2":  "Kệ"
+    },
+    {
+        "question":  "組み立てる",
+        "answer1":  "くみたてる",
+        "answer2":  "Lắp ráp"
+    },
+    {
+        "question":  "引出し",
+        "answer1":  "ひきだし",
+        "answer2":  "Ngăn kéo"
+    },
+    {
+        "question":  "片付ける",
+        "answer1":  "かたづける",
+        "answer2":  "Dọn dẹp"
+    },
+    {
+        "question":  "片付く",
+        "answer1":  "かたづく",
+        "answer2":  "Gọn gàng"
+    },
+    {
+        "question":  "整理\u003cする\u003e",
+        "answer1":  "せいりする",
+        "answer2":  "Sắp xếp"
+    },
+    {
+        "question":  "動かす",
+        "answer1":  "うごかす",
+        "answer2":  "Di chuyển"
+    },
+    {
+        "question":  "動く",
+        "answer1":  "うごく",
+        "answer2":  "Chuyển động"
+    },
+    {
+        "question":  "花瓶",
+        "answer1":  "かびん",
+        "answer2":  "Bình hoa"
+    },
+    {
+        "question":  "カレンダー",
+        "answer1":  "カレンダー",
+        "answer2":  "Lịch"
+    },
+    {
+        "question":  "ポスター",
+        "answer1":  "ポスター",
+        "answer2":  "Áp phích"
+    },
+    {
+        "question":  "飾る",
+        "answer1":  "かざる",
+        "answer2":  "Trang trí"
+    },
+    {
+        "question":  "春",
+        "answer1":  "はる",
+        "answer2":  "Dán"
+    }
+]

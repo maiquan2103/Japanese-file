@@ -1,0 +1,127 @@
+[
+    {
+        "question":  "締め切り",
+        "answer1":  "しめきり",
+        "answer2":  "Hạn chót"
+    },
+    {
+        "question":  "研究\u003cする\u003e",
+        "answer1":  "けんきゅうする",
+        "answer2":  "Nghiên cứu"
+    },
+    {
+        "question":  "実験\u003cする\u003e",
+        "answer1":  "じっけんする",
+        "answer2":  "Thí nghiệm"
+    },
+    {
+        "question":  "纏める",
+        "answer1":  "まとめる",
+        "answer2":  "Tổng hợp"
+    },
+    {
+        "question":  "ボランティア",
+        "answer1":  "ボランティア",
+        "answer2":  "Tình nguyện"
+    },
+    {
+        "question":  "複雑",
+        "answer1":  "ふくざつな",
+        "answer2":  "Phức tạp"
+    },
+    {
+        "question":  "必要ない",
+        "answer1":  "ひつような",
+        "answer2":  "Cần thiết"
+    },
+    {
+        "question":  "考える",
+        "answer1":  "かんがえる",
+        "answer2":  "Suy nghĩ"
+    },
+    {
+        "question":  "辞典",
+        "answer1":  "じてん",
+        "answer2":  "Từ điển"
+    },
+    {
+        "question":  "調べる",
+        "answer1":  "しらべる",
+        "answer2":  "Tra cứu"
+    },
+    {
+        "question":  "確かめる",
+        "answer1":  "たしかめる",
+        "answer2":  "Xác nhận"
+    },
+    {
+        "question":  "予習\u003cする\u003e",
+        "answer1":  "よしゅうする",
+        "answer2":  "Học trước"
+    },
+    {
+        "question":  "復習\u003cする\u003e",
+        "answer1":  "ふくしゅうする",
+        "answer2":  "Ôn tập"
+    },
+    {
+        "question":  "思い出す",
+        "answer1":  "おもいだす",
+        "answer2":  "Nhớ ra"
+    },
+    {
+        "question":  "塾",
+        "answer1":  "じゅく",
+        "answer2":  "Lớp luyện thi"
+    },
+    {
+        "question":  "遣る",
+        "answer1":  "やる",
+        "answer2":  "Làm"
+    },
+    {
+        "question":  "頑張る",
+        "answer1":  "がんばる",
+        "answer2":  "Cố gắng"
+    },
+    {
+        "question":  "字",
+        "answer1":  "じ",
+        "answer2":  "Chữ"
+    },
+    {
+        "question":  "振り仮名",
+        "answer1":  "ふりがな",
+        "answer2":  "Chữ kana"
+    },
+    {
+        "question":  "メモ\u003cする\u003e",
+        "answer1":  "メモする",
+        "answer2":  "Ghi chú"
+    },
+    {
+        "question":  "文法",
+        "answer1":  "ぶんぽう",
+        "answer2":  "Ngữ pháp"
+    },
+    {
+        "question":  "説明\u003cする\u003e",
+        "answer1":  "せつめいする",
+        "answer2":  "Giải thích"
+    },
+    {
+        "question":  "発音\u003cする\u003e",
+        "answer1":  "はつおんする",
+        "answer2":  "Phát âm"
+    },
+    {
+        "question":  "会話\u003cする\u003e",
+        "answer1":  "かいわする",
+        "answer2":  "Hội thoại"
+    },
+    {
+        "question":  "足す",
+        "answer1":  "たす",
+        "answer2":  "Cộng, thêm"
+    }
+]

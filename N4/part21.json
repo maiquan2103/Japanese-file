@@ -1,0 +1,127 @@
+[
+  {
+    "question": "途中",
+    "answer1": "とちゅう",
+    "answer2": "Giữa chừng"
+  },
+  {
+    "question": "行き",
+    "answer1": "いき",
+    "answer2": "Lượt đi"
+  },
+  {
+    "question": "帰り",
+    "answer1": "かえり",
+    "answer2": "Lượt về"
+  },
+  {
+    "question": "ガソリン",
+    "answer1": "ガソリン",
+    "answer2": "Xăng"
+  },
+  {
+    "question": "エンジン",
+    "answer1": "エンジン",
+    "answer2": "Động cơ"
+  },
+  {
+    "question": "信号",
+    "answer1": "しんごう",
+    "answer2": "Đèn giao thông"
+  },
+  {
+    "question": "矢印",
+    "answer1": "やじるし",
+    "answer2": "Mũi tên"
+  },
+  {
+    "question": "キロ",
+    "answer1": "キロ",
+    "answer2": "Km"
+  },
+  {
+    "question": "人口",
+    "answer1": "じんこう",
+    "answer2": "Dân số"
+  },
+  {
+    "question": "億",
+    "answer1": "おく",
+    "answer2": "Trăm triệu"
+  },
+  {
+    "question": "経済",
+    "answer1": "けいざい",
+    "answer2": "Kinh tế"
+  },
+  {
+    "question": "貿易<する>",
+    "answer1": "ぼうえきする",
+    "answer2": "Mậu dịch"
+  },
+  {
+    "question": "輸出<する>",
+    "answer1": "ゆしゅつする",
+    "answer2": "Xuất khẩu"
+  },
+  {
+    "question": "輸入<する>",
+    "answer1": "ゆにゅうする",
+    "answer2": "Nhập khẩu"
+  },
+  {
+    "question": "原料",
+    "answer1": "げんりょう",
+    "answer2": "Nguyên liệu"
+  },
+  {
+    "question": "石油",
+    "answer1": "せきゆ",
+    "answer2": "Dầu mỏ"
+  },
+  {
+    "question": "物価",
+    "answer1": "ぶっか",
+    "answer2": "Vật giá"
+  },
+  {
+    "question": "政治",
+    "answer1": "せいじ",
+    "answer2": "Chính trị"
+  },
+  {
+    "question": "首相",
+    "answer1": "しゅしょう",
+    "answer2": "Thủ tướng"
+  },
+  {
+    "question": "大統領",
+    "answer1": "だいとうりょう",
+    "answer2": "Tổng thống"
+  },
+  {
+    "question": "平和<な>",
+    "answer1": "へいわな",
+    "answer2": "Hòa bình"
+  },
+  {
+    "question": "戦争",
+    "answer1": "せんそう",
+    "answer2": "Chiến tranh"
+  },
+  {
+    "question": "文化",
+    "answer1": "ぶんか",
+    "answer2": "Văn hóa"
+  },
+  {
+    "question": "世界遺産",
+    "answer1": "せかいいさん",
+    "answer2": "Di sản thế giới"
+  },
+  {
+    "question": "世紀",
+    "answer1": "せいき",
+    "answer2": "Thế kỷ"
+  }
+]
