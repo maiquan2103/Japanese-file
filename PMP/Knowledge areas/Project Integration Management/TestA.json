@@ -112,7 +112,7 @@
   {
     "questionId": "phaseA-6",
     "questionContent": "Project A has an internal rate of return (IRR) of 21 percent. Project B has an IRR of 7 percent. Project C has an IRR of 31 percent. Project D has an IRR of 19 percent. Which of these would be the best project?",
-    "questionContent_vn": "Dự án A có IRR 21%. Dự án B có IRR 7%. Dự án C có IRR 31%. Dự án D có IRR 19%. Dự án nào tốt nhất?",
+    "questionContent_vn": "Dự án A có tỷ suất hoàn vốn nội bộ (IRR) là 21%. Dự án B có IRR là 7%. Dự án C có IRR là 31%. Dự án D có IRR là 19%. Trong các dự án này, dự án nào là tốt nhất?",
     "questionOption1": "Project A",
     "questionOption1_vn": "Dự án A",
     "questionOption2": "Project B",
@@ -224,7 +224,7 @@
     "questionContent": "A project manager in a predominantly hierarchical organization has been assigned a major project with aggressive timelines. The best approach for developing an initial project charter in this environment is to:",
     "questionContent_vn": "Một PM trong tổ chức chủ yếu mang tính thứ bậc (hierarchical) được giao một dự án lớn với timeline rất gấp. Cách tốt nhất để phát triển project charter ban đầu trong môi trường này là:",
     "questionOption1": "Create a project charter with the functional managers and present it to the sponsor for signature.",
-    "questionOption1_vn": "Tạo project charter cùng các functional manager và trình sponsor ký.",
+    "questionOption1_vn": "Tạo điều lệ dự án (project charter) cùng với các quản lý chức năng và trình lên nhà tài trợ (sponsor) để ký phê duyệt.",
     "questionOption2": "&nbsp;Create a project charter using brainstorming sessions with potential team members and stakeholders.",
     "questionOption2_vn": "&nbsp;Tạo project charter bằng các buổi brainstorming với các thành viên tiềm năng và stakeholders.",
     "questionOption3": "Create and present a draft project charter to potential team members and stakeholders to solicit their input.",
@@ -266,7 +266,7 @@
   {
     "questionId": "phaseA-13",
     "questionContent": "An advisor to a new project manager tells the project manager to compile lessons learned at the end of a project. What is included in lessons learned?",
-    "questionContent_vn": "Một cố vấn khuyên PM mới tổng hợp lessons learned vào cuối dự án. Lessons learned bao gồm gì?",
+    "questionContent_vn": "Một cố vấn của một quản lý dự án mới khuyên rằng nên tổng hợp bài học kinh nghiệm (lessons learned) vào cuối dự án. Nội dung nào được bao gồm trong bài học kinh nghiệm?",
     "questionOption1": "&nbsp;Reports from management",
     "questionOption1_vn": "&nbsp;Báo cáo từ ban quản lý",
     "questionOption2": "All the plans used in the project",
@@ -398,7 +398,7 @@
   {
     "questionId": "phaseA-19",
     "questionContent": "Conduct Procurements is a part of which process group?",
-    "questionContent_vn": "Conduct Procurements thuộc process group nào?",
+    "questionContent_vn": "Quy trình Conduct Procurements thuộc nhóm quy trình (process group) nào?",
     "questionOption1": "Planning",
     "questionOption1_vn": "Planning",
     "questionOption2": "&nbsp;Initiating",
@@ -530,7 +530,7 @@
   {
     "questionId": "phaseA-25",
     "questionContent": "A program is a:<br />\r\n&nbsp;",
-    "questionContent_vn": "Program là:<br />\r\n&nbsp;",
+    "questionContent_vn": "Một chương trình (program) là:<br />\\r\\n&nbsp;",
     "questionOption1": "Group of related tasks lasting one year or less",
     "questionOption1_vn": "Nhóm các công việc liên quan kéo dài một năm hoặc ít hơn",
     "questionOption2": "Group of related projects, subsidiary programs, and program&nbsp;activities managed in a coordinated manner",
@@ -596,7 +596,7 @@
   {
     "questionId": "phaseA-28",
     "questionContent": "A scope change has been suggested by one of the stakeholders on the project. After careful consideration and a lot of arguing, the change control board has decided to reject the change. What should the project manager do?",
-    "questionContent_vn": "Một stakeholder đề xuất thay đổi phạm vi. Sau khi cân nhắc và tranh luận nhiều, CCB quyết định từ chối thay đổi. PM nên làm gì?",
+    "questionContent_vn": "Một bên liên quan (stakeholder) của dự án đã đề xuất thay đổi phạm vi. Sau khi cân nhắc kỹ lưỡng và tranh luận nhiều, hội đồng kiểm soát thay đổi (CCB) đã quyết định từ chối thay đổi này. Quản lý dự án nên làm gì?",
     "questionOption1": "Suggest to the stakeholder that the next change they request will be approved.",
     "questionOption1_vn": "Gợi ý stakeholder rằng thay đổi lần sau họ yêu cầu sẽ được chấp thuận.",
     "questionOption2": "Document the outcome of the change request.",
@@ -646,7 +646,7 @@
     "questionOption2": "They are described in project planning and improved over time.",
     "questionOption2_vn": "Chúng được mô tả trong lập kế hoạch dự án và được cải tiến dần theo thời gian.",
     "questionOption3": "They are determined by the project sponsor.",
-    "questionOption3_vn": "Chúng do sponsor quyết định.",
+    "questionOption3_vn": "Chúng được xác định bởi nhà tài trợ dự án (project sponsor).",
     "questionOption4": "They are defined at project onset with the input of project stakeholders.",
     "questionOption4_vn": "Chúng được xác định ngay từ đầu dự án với sự đóng góp ý kiến của các stakeholders.",
     "questionResult": "4",
@@ -750,7 +750,7 @@
   {
     "questionId": "phaseA-35",
     "questionContent": "You are in the process of developing a project charter for your project and would like to use organizational process assets as inputs for the purpose. In this context, which of the following statements about organizational process assets is NOT correct?&nbsp;",
-    "questionContent_vn": "Bạn đang phát triển project charter và muốn dùng Organizational Process Assets (OPA) làm input. Trong ngữ cảnh này, phát biểu nào sau đây về OPA là KHÔNG đúng?&nbsp;",
+    "questionContent_vn": "Bạn đang trong quá trình xây dựng điều lệ dự án (project charter) và muốn sử dụng tài sản quy trình tổ chức (Organizational Process Assets - OPA) làm đầu vào cho mục đích này. Trong bối cảnh đó, phát biểu nào sau đây về OPA là KHÔNG đúng?&nbsp;",
     "questionOption1": "Organizational process assets do not include organization communication requirements.",
     "questionOption1_vn": "OPA không bao gồm các yêu cầu truyền thông (communication requirements) của tổ chức.",
     "questionOption2": "&nbsp;Any and all the process related assets that are used to influence the project`s success can be drawn upon from any or all of the involved organizations. \r\n&nbsp;",
