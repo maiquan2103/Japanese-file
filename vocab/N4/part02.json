@@ -1,127 +1,127 @@
 [
-  {
-    "question": "一昨年",
-    "answer1": "おととし",
-    "answer2": "Năm kia"
-  },
-  {
-    "question": "毎週",
-    "answer1": "まいしゅう",
-    "answer2": "Mỗi tuần"
-  },
-  {
-    "question": "毎月",
-    "answer1": "まいつき",
-    "answer2": "Mỗi tháng"
-  },
-  {
-    "question": "毎年",
-    "answer1": "まいとし",
-    "answer2": "Mỗi năm"
-  },
-  {
-    "question": "平日",
-    "answer1": "へいじつ",
-    "answer2": "Ngày thường (thứ Hai–thứ Sáu)"
-  },
-  {
-    "question": "最初",
-    "answer1": "さいしょ",
-    "answer2": "Lúc đầu"
-  },
-  {
-    "question": "最中",
-    "answer1": "さいちゅう",
-    "answer2": "Giữa chừng"
-  },
-  {
-    "question": "最後",
-    "answer1": "さいご",
-    "answer2": "Cuối cùng"
-  },
-  {
-    "question": "先に",
-    "answer1": "さきに",
-    "answer2": "Trước"
-  },
-  {
-    "question": "夫",
-    "answer1": "おっと",
-    "answer2": "Người chồng, chồng tôi"
-  },
-  {
-    "question": "妻",
-    "answer1": "つま",
-    "answer2": "Người vợ, vợ tôi"
-  },
-  {
-    "question": "両親",
-    "answer1": "りょうしん",
-    "answer2": "Cha mẹ"
-  },
-  {
-    "question": "息子",
-    "answer1": "むすこ",
-    "answer2": "Con trai"
-  },
-  {
-    "question": "娘",
-    "answer1": "むすめ",
-    "answer2": "Con gái"
-  },
-  {
-    "question": "お子さん",
-    "answer1": "おこさん",
-    "answer2": "Con (kính ngữ)"
-  },
-  {
-    "question": "祖父",
-    "answer1": "そふ",
-    "answer2": "Ông tôi"
-  },
-  {
-    "question": "祖母",
-    "answer1": "そぼ",
-    "answer2": "Bà tôi"
-  },
-  {
-    "question": "孫",
-    "answer1": "まご",
-    "answer2": "Cháu"
-  },
-  {
-    "question": "叔父",
-    "answer1": "おじ",
-    "answer2": "Bác / chú / cậu"
-  },
-  {
-    "question": "叔母",
-    "answer1": "おば",
-    "answer2": "Bác / cô / dì"
-  },
-  {
-    "question": "親せき",
-    "answer1": "しんせき",
-    "answer2": "Họ hàng"
-  },
-  {
-    "question": "ペット",
-    "answer1": "ペット",
-    "answer2": "Thú cưng"
-  },
-  {
-    "question": "似る",
-    "answer1": "にる",
-    "answer2": "Giống nhau"
-  },
-  {
-    "question": "（心配を）かける",
-    "answer1": "しんぱいをかける",
-    "answer2": "Làm cho lo lắng"
-  },
-  {
-    "question": "叱る",
-    "answer1": "しかる",
-    "answer2": "La mắng"
-  }
+    {
+        "question":  "一昨年",
+        "answer1":  "おととし",
+        "answer2":  "Năm kia"
+    },
+    {
+        "question":  "毎週",
+        "answer1":  "まいしゅう",
+        "answer2":  "Mỗi tuần"
+    },
+    {
+        "question":  "毎月",
+        "answer1":  "まいつき",
+        "answer2":  "Mỗi tháng"
+    },
+    {
+        "question":  "毎年",
+        "answer1":  "まいとし",
+        "answer2":  "Mỗi năm"
+    },
+    {
+        "question":  "平日",
+        "answer1":  "へいじつ",
+        "answer2":  "Ngày thường (thứ Hai–thứ Sáu)"
+    },
+    {
+        "question":  "最初",
+        "answer1":  "さいしょ",
+        "answer2":  "Lúc đầu"
+    },
+    {
+        "question":  "最中",
+        "answer1":  "さいちゅう",
+        "answer2":  "Giữa chừng"
+    },
+    {
+        "question":  "最後",
+        "answer1":  "さいご",
+        "answer2":  "Cuối cùng"
+    },
+    {
+        "question":  "先に",
+        "answer1":  "さきに",
+        "answer2":  "Trước"
+    },
+    {
+        "question":  "夫",
+        "answer1":  "おっと",
+        "answer2":  "Người chồng, chồng tôi"
+    },
+    {
+        "question":  "妻",
+        "answer1":  "つま",
+        "answer2":  "Người vợ, vợ tôi"
+    },
+    {
+        "question":  "両親",
+        "answer1":  "りょうしん",
+        "answer2":  "Cha mẹ"
+    },
+    {
+        "question":  "息子",
+        "answer1":  "むすこ",
+        "answer2":  "Con trai"
+    },
+    {
+        "question":  "娘",
+        "answer1":  "むすめ",
+        "answer2":  "Con gái"
+    },
+    {
+        "question":  "お子さん",
+        "answer1":  "おこさん",
+        "answer2":  "Con (kính ngữ)"
+    },
+    {
+        "question":  "祖父",
+        "answer1":  "そふ",
+        "answer2":  "Ông tôi"
+    },
+    {
+        "question":  "祖母",
+        "answer1":  "そぼ",
+        "answer2":  "Bà tôi"
+    },
+    {
+        "question":  "孫",
+        "answer1":  "まご",
+        "answer2":  "Cháu"
+    },
+    {
+        "question":  "叔父",
+        "answer1":  "おじ",
+        "answer2":  "Bác / chú / cậu"
+    },
+    {
+        "question":  "叔母",
+        "answer1":  "おば",
+        "answer2":  "Bác / cô / dì"
+    },
+    {
+        "question":  "親戚",
+        "answer1":  "しんせき",
+        "answer2":  "Họ hàng"
+    },
+    {
+        "question":  "ペット",
+        "answer1":  "ペット",
+        "answer2":  "Thú cưng"
+    },
+    {
+        "question":  "似る",
+        "answer1":  "にる",
+        "answer2":  "Giống nhau"
+    },
+    {
+        "question":  "（心配を）かける",
+        "answer1":  "しんぱいをかける",
+        "answer2":  "Làm cho lo lắng"
+    },
+    {
+        "question":  "叱る",
+        "answer1":  "しかる",
+        "answer2":  "La mắng"
+    }
 ]

@@ -1,127 +1,127 @@
 [
-  {
-    "question": "開く",
-    "answer1": "あく",
-    "answer2": "(Cửa) mở"
-  },
-  {
-    "question": "開ける",
-    "answer1": "あける",
-    "answer2": "Mở"
-  },
-  {
-    "question": "閉まる",
-    "answer1": "しまる",
-    "answer2": "(Cửa) đóng"
-  },
-  {
-    "question": "閉める",
-    "answer1": "しめる",
-    "answer2": "Đóng"
-  },
-  {
-    "question": "運転手",
-    "answer1": "うんてんしゅ",
-    "answer2": "Tài xế"
-  },
-  {
-    "question": "お客さん",
-    "answer1": "おきゃくさん",
-    "answer2": "Hành khách"
-  },
-  {
-    "question": "席",
-    "answer1": "せき",
-    "answer2": "Ghế, chỗ ngồi"
-  },
-  {
-    "question": "大人",
-    "answer1": "おとな",
-    "answer2": "Người lớn"
-  },
-  {
-    "question": "お年より",
-    "answer1": "おとしより",
-    "answer2": "Người già"
-  },
-  {
-    "question": "進む",
-    "answer1": "すすむ",
-    "answer2": "Tiến lên"
-  },
-  {
-    "question": "向かう",
-    "answer1": "むかう",
-    "answer2": "Hướng tới"
-  },
-  {
-    "question": "止める",
-    "answer1": "とめる",
-    "answer2": "Dừng, đậu"
-  },
-  {
-    "question": "止まる",
-    "answer1": "とまる",
-    "answer2": "(Xe) dừng"
-  },
-  {
-    "question": "運ぶ",
-    "answer1": "はこぶ",
-    "answer2": "Vận chuyển"
-  },
-  {
-    "question": "操作<する>",
-    "answer1": "そうさする",
-    "answer2": "Điều khiển"
-  },
-  {
-    "question": "回す",
-    "answer1": "まわす",
-    "answer2": "Vặn, xoay"
-  },
-  {
-    "question": "事故",
-    "answer1": "じこ",
-    "answer2": "Tai nạn"
-  },
-  {
-    "question": "（事故に）あう",
-    "answer1": "（じこに）あう",
-    "answer2": "Gặp (tai nạn)"
-  },
-  {
-    "question": "打つかる",
-    "answer1": "ぶつかる",
-    "answer2": "Đụng, tông"
-  },
-  {
-    "question": "滑る",
-    "answer1": "すべる",
-    "answer2": "Trượt"
-  },
-  {
-    "question": "安全<な>",
-    "answer1": "あんぜんな",
-    "answer2": "An toàn"
-  },
-  {
-    "question": "危険<な>",
-    "answer1": "きけんな",
-    "answer2": "Nguy hiểm"
-  },
-  {
-    "question": "注意<する>",
-    "answer1": "ちゅういする",
-    "answer2": "Chú ý"
-  },
-  {
-    "question": "赤ちゃん",
-    "answer1": "あかちゃん",
-    "answer2": "Em bé"
-  },
-  {
-    "question": "故障<する>",
-    "answer1": "こしょうする",
-    "answer2": "Hỏng"
-  }
+    {
+        "question":  "開く",
+        "answer1":  "あく",
+        "answer2":  "(Cửa) mở"
+    },
+    {
+        "question":  "開ける",
+        "answer1":  "あける",
+        "answer2":  "Mở"
+    },
+    {
+        "question":  "閉まる",
+        "answer1":  "しまる",
+        "answer2":  "(Cửa) đóng"
+    },
+    {
+        "question":  "閉める",
+        "answer1":  "しめる",
+        "answer2":  "Đóng"
+    },
+    {
+        "question":  "運転手",
+        "answer1":  "うんてんしゅ",
+        "answer2":  "Tài xế"
+    },
+    {
+        "question":  "お客さん",
+        "answer1":  "おきゃくさん",
+        "answer2":  "Hành khách"
+    },
+    {
+        "question":  "席",
+        "answer1":  "せき",
+        "answer2":  "Ghế, chỗ ngồi"
+    },
+    {
+        "question":  "大人",
+        "answer1":  "おとな",
+        "answer2":  "Người lớn"
+    },
+    {
+        "question":  "お年寄り",
+        "answer1":  "おとしより",
+        "answer2":  "Người già"
+    },
+    {
+        "question":  "進む",
+        "answer1":  "すすむ",
+        "answer2":  "Tiến lên"
+    },
+    {
+        "question":  "向かう",
+        "answer1":  "むかう",
+        "answer2":  "Hướng tới"
+    },
+    {
+        "question":  "止める",
+        "answer1":  "とめる",
+        "answer2":  "Dừng, đậu"
+    },
+    {
+        "question":  "止まる",
+        "answer1":  "とまる",
+        "answer2":  "(Xe) dừng"
+    },
+    {
+        "question":  "運ぶ",
+        "answer1":  "はこぶ",
+        "answer2":  "Vận chuyển"
+    },
+    {
+        "question":  "操作\u003cする\u003e",
+        "answer1":  "そうさする",
+        "answer2":  "Điều khiển"
+    },
+    {
+        "question":  "回す",
+        "answer1":  "まわす",
+        "answer2":  "Vặn, xoay"
+    },
+    {
+        "question":  "事故",
+        "answer1":  "じこ",
+        "answer2":  "Tai nạn"
+    },
+    {
+        "question":  "（事故に）あう",
+        "answer1":  "（じこに）あう",
+        "answer2":  "Gặp (tai nạn)"
+    },
+    {
+        "question":  "打つかる",
+        "answer1":  "ぶつかる",
+        "answer2":  "Đụng, tông"
+    },
+    {
+        "question":  "滑る",
+        "answer1":  "すべる",
+        "answer2":  "Trượt"
+    },
+    {
+        "question":  "安全\u003cな\u003e",
+        "answer1":  "あんぜんな",
+        "answer2":  "An toàn"
+    },
+    {
+        "question":  "危険\u003cな\u003e",
+        "answer1":  "きけんな",
+        "answer2":  "Nguy hiểm"
+    },
+    {
+        "question":  "注意\u003cする\u003e",
+        "answer1":  "ちゅういする",
+        "answer2":  "Chú ý"
+    },
+    {
+        "question":  "赤ちゃん",
+        "answer1":  "あかちゃん",
+        "answer2":  "Em bé"
+    },
+    {
+        "question":  "故障\u003cする\u003e",
+        "answer1":  "こしょうする",
+        "answer2":  "Hỏng"
+    }
 ]

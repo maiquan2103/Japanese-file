@@ -15,7 +15,7 @@
     "answer2": "Chán"
   },
   {
-    "question": "がっかり<為る>",
+    "question": "がっかり<する>",
     "answer1": "がっかりする",
     "answer2": "Thất vọng"
   },
@@ -25,7 +25,7 @@
     "answer2": "Từ bỏ"
   },
   {
-    "question": "緊張<為る>",
+    "question": "緊張<する>",
     "answer1": "きんちょうする",
     "answer2": "Căng thẳng"
   },
@@ -35,7 +35,7 @@
     "answer2": "Xấu hổ"
   },
   {
-    "question": "吃驚<為る>",
+    "question": "吃驚<する>",
     "answer1": "びっくりする",
     "answer2": "Giật mình"
   },
@@ -85,17 +85,17 @@
     "answer2": "Chắc chắn"
   },
   {
-    "question": "確り[と]<為る>",
+    "question": "確り[と]<する>",
     "answer1": "しっかりとする",
     "answer2": "Chắc chắn"
   },
   {
-    "question": "きちんと<為る>",
+    "question": "きちんと<する>",
     "answer1": "きちんとする",
     "answer2": "Đàng hoàng"
   },
   {
-    "question": "ちゃんと感<為る>",
+    "question": "ちゃんと感<する>",
     "answer1": "ちゃんとする",
     "answer2": "Đàng hoàng"
   },
@@ -115,7 +115,7 @@
     "answer2": "Trong khả năng có thể"
   },
   {
-    "question": "はっきり言う[と]<為る>",
+    "question": "はっきり言う[と]<する>",
     "answer1": "はっきりとする",
     "answer2": "Rõ ràng"
   },

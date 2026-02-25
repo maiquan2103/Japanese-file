@@ -1,127 +1,127 @@
 [
-  {
-    "question": "泊まる",
-    "answer1": "とまる",
-    "answer2": "Trọ"
-  },
-  {
-    "question": "過ごす",
-    "answer1": "すごす",
-    "answer2": "Trải qua"
-  },
-  {
-    "question": "経験<する>",
-    "answer1": "けいけんする",
-    "answer2": "Kinh nghiệm"
-  },
-  {
-    "question": "見物<する>",
-    "answer1": "けんぶつする",
-    "answer2": "Tham quan"
-  },
-  {
-    "question": "葉書",
-    "answer1": "はがき",
-    "answer2": "Bưu thiếp"
-  },
-  {
-    "question": "和食",
-    "answer1": "わしょく",
-    "answer2": "Món Nhật"
-  },
-  {
-    "question": "洋食",
-    "answer1": "ようしょく",
-    "answer2": "Món Tây"
-  },
-  {
-    "question": "ステーキ",
-    "answer1": "ステーキ",
-    "answer2": "Bít tết"
-  },
-  {
-    "question": "ハンバーグ",
-    "answer1": "ハンバーグ",
-    "answer2": "Hamburger steak"
-  },
-  {
-    "question": "サラダ",
-    "answer1": "サラダ",
-    "answer2": "Salad"
-  },
-  {
-    "question": "ケーキ",
-    "answer1": "ケーキ",
-    "answer2": "Bánh kem"
-  },
-  {
-    "question": "メニュー",
-    "answer1": "メニュー",
-    "answer2": "Thực đơn"
-  },
-  {
-    "question": "食べ放題",
-    "answer1": "たべほうだい",
-    "answer2": "Ăn thoải mái"
-  },
-  {
-    "question": "注文<する>",
-    "answer1": "ちゅうもんする",
-    "answer2": "Gọi món"
-  },
-  {
-    "question": "ご馳走<為る>",
-    "answer1": "ごちそうする",
-    "answer2": "Chiêu đãi"
-  },
-  {
-    "question": "アルコール",
-    "answer1": "アルコール",
-    "answer2": "Đồ uống có cồn"
-  },
-  {
-    "question": "乾杯<為る>",
-    "answer1": "かんぱいする",
-    "answer2": "Cụng ly"
-  },
-  {
-    "question": "酔う",
-    "answer1": "よう",
-    "answer2": "Say"
-  },
-  {
-    "question": "醤油",
-    "answer1": "しょうゆ",
-    "answer2": "Nước tương"
-  },
-  {
-    "question": "ソース",
-    "answer1": "ソース",
-    "answer2": "Nước sốt"
-  },
-  {
-    "question": "（醤油）付ける",
-    "answer1": "（しょうゆを）つける",
-    "answer2": "Chấm"
-  },
-  {
-    "question": "味",
-    "answer1": "あじ",
-    "answer2": "Vị"
-  },
-  {
-    "question": "（味が）うすい",
-    "answer1": "（あじが）うすい",
-    "answer2": "Nhạt"
-  },
-  {
-    "question": "（味が）こい",
-    "answer1": "（あじが）こい",
-    "answer2": "Đậm"
-  },
-  {
-    "question": "苦い",
-    "answer1": "にがい",
-    "answer2": "Đắng"
-  }
+    {
+        "question":  "泊まる",
+        "answer1":  "とまる",
+        "answer2":  "Trọ"
+    },
+    {
+        "question":  "過ごす",
+        "answer1":  "すごす",
+        "answer2":  "Trải qua"
+    },
+    {
+        "question":  "経験\u003cする\u003e",
+        "answer1":  "けいけんする",
+        "answer2":  "Kinh nghiệm"
+    },
+    {
+        "question":  "見物\u003cする\u003e",
+        "answer1":  "けんぶつする",
+        "answer2":  "Tham quan"
+    },
+    {
+        "question":  "葉書",
+        "answer1":  "はがき",
+        "answer2":  "Bưu thiếp"
+    },
+    {
+        "question":  "和食",
+        "answer1":  "わしょく",
+        "answer2":  "Món Nhật"
+    },
+    {
+        "question":  "洋食",
+        "answer1":  "ようしょく",
+        "answer2":  "Món Tây"
+    },
+    {
+        "question":  "ステーキ",
+        "answer1":  "ステーキ",
+        "answer2":  "Bít tết"
+    },
+    {
+        "question":  "ハンバーグ",
+        "answer1":  "ハンバーグ",
+        "answer2":  "Hamburger steak"
+    },
+    {
+        "question":  "サラダ",
+        "answer1":  "サラダ",
+        "answer2":  "Salad"
+    },
+    {
+        "question":  "ケーキ",
+        "answer1":  "ケーキ",
+        "answer2":  "Bánh kem"
+    },
+    {
+        "question":  "メニュー",
+        "answer1":  "メニュー",
+        "answer2":  "Thực đơn"
+    },
+    {
+        "question":  "食べ放題",
+        "answer1":  "たべほうだい",
+        "answer2":  "Ăn thoải mái"
+    },
+    {
+        "question":  "注文\u003cする\u003e",
+        "answer1":  "ちゅうもんする",
+        "answer2":  "Gọi món"
+    },
+    {
+        "question":  "御馳走\u003cする\u003e",
+        "answer1":  "ごちそうする",
+        "answer2":  "Chiêu đãi"
+    },
+    {
+        "question":  "アルコール",
+        "answer1":  "アルコール",
+        "answer2":  "Đồ uống có cồn"
+    },
+    {
+        "question":  "乾杯\u003cする\u003e",
+        "answer1":  "かんぱいする",
+        "answer2":  "Cụng ly"
+    },
+    {
+        "question":  "酔う",
+        "answer1":  "よう",
+        "answer2":  "Say"
+    },
+    {
+        "question":  "醤油",
+        "answer1":  "しょうゆ",
+        "answer2":  "Nước tương"
+    },
+    {
+        "question":  "ソース",
+        "answer1":  "ソース",
+        "answer2":  "Nước sốt"
+    },
+    {
+        "question":  "（醤油）付ける",
+        "answer1":  "（しょうゆを）つける",
+        "answer2":  "Chấm"
+    },
+    {
+        "question":  "味",
+        "answer1":  "あじ",
+        "answer2":  "Vị"
+    },
+    {
+        "question":  "（味が）うすい",
+        "answer1":  "（あじが）うすい",
+        "answer2":  "Nhạt"
+    },
+    {
+        "question":  "（味が）こい",
+        "answer1":  "（あじが）こい",
+        "answer2":  "Đậm"
+    },
+    {
+        "question":  "苦い",
+        "answer1":  "にがい",
+        "answer2":  "Đắng"
+    }
 ]

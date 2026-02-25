@@ -45,7 +45,7 @@
     "answer2": "Kinh doanh"
   },
   {
-    "question": "挨拶<為る>",
+    "question": "挨拶<する>",
     "answer1": "あいさつする",
     "answer2": "Chào hỏi"
   },
@@ -120,7 +120,7 @@
     "answer2": "Quyết định"
   },
   {
-    "question": "許可<為る>",
+    "question": "許可<する>",
     "answer1": "きょかする",
     "answer2": "Cho phép"
   }
