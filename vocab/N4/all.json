@@ -495,7 +495,7 @@
         "answer2":  "Trang trí"
     },
     {
-        "question":  "春",
+        "question":  "貼る",
         "answer1":  "はる",
         "answer2":  "Dán"
     },
@@ -590,7 +590,7 @@
         "answer2":  "Rác"
     },
     {
-        "question":  "便",
+        "question":  "瓶",
         "answer1":  "びん",
         "answer2":  "Chai thủy tinh"
     },
@@ -860,7 +860,7 @@
         "answer2":  "Học giỏi"
     },
     {
-        "question":  "易しい",
+        "question":  "優しい",
         "answer1":  "やさしい",
         "answer2":  "Dễ"
     },
@@ -4220,7 +4220,7 @@
         "answer2":  "Đàng hoàng"
     },
     {
-        "question":  "ちゃんと感\u003cする\u003e",
+        "question":  "ちゃんと\u003cする\u003e",
         "answer1":  "ちゃんとする",
         "answer2":  "Đàng hoàng"
     },
@@ -4330,7 +4330,7 @@
         "answer2":  "Cứ như thế"
     },
     {
-        "question":  "其其",
+        "question":  "そろそろ",
         "answer1":  "そろそろ",
         "answer2":  "Sắp sửa"
     },
@@ -4350,7 +4350,7 @@
         "answer2":  "Đúng là"
     },
     {
-        "question":  "獰猛",
+        "question":  "どうも",
         "answer1":  "どうも",
         "answer2":  "Hình như"
     },
@@ -4370,7 +4370,7 @@
         "answer2":  "Đặc biệt"
     },
     {
-        "question":  "段段",
+        "question":  "段々",
         "answer1":  "どんどん",
         "answer2":  "Dần dần"
     },
@@ -4450,7 +4450,7 @@
         "answer2":  "Hơn nữa"
     },
     {
-        "question":  "スルト (衛星)",
+        "question":  "すると",
         "answer1":  "すると",
         "answer2":  "Thế là"
     },

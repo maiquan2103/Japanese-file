@@ -7591,7 +7591,7 @@
     },
     {
         "question":  "何故か",
-        "answer1":  "",
+        "answer1":  "なぜか",
         "answer2":  "Tại sao đó"
     },
     {
@@ -7610,88 +7610,88 @@
         "answer2":  "Hoàn toàn không"
     },
     {
-        "question":  "銅貨",
-        "answer1":  "",
+        "question":  "どうか",
+        "answer1":  "どうか",
         "answer2":  "Vui lòng"
     },
     {
-        "question":  "如何にかなる",
-        "answer1":  "",
+        "question":  "どうにかなる",
+        "answer1":  "どうにかなる",
         "answer2":  "Bằng cách nào đó"
     },
     {
-        "question":  "如何しても",
-        "answer1":  "",
+        "question":  "どうしても",
+        "answer1":  "どうしても",
         "answer2":  "Bằng mọi giá"
     },
     {
-        "question":  "同棲",
-        "answer1":  "",
+        "question":  "どうせ",
+        "answer1":  "どうせ",
         "answer2":  "Đằng nào cũng"
     },
     {
         "question":  "どうやら",
-        "answer1":  "",
+        "answer1":  "どうやら",
         "answer2":  "Xem ra"
     },
     {
         "question":  "兎に角",
-        "answer1":  "",
+        "answer1":  "とにかく",
         "answer2":  "Tóm lại"
     },
     {
         "question":  "迚も（〜無い）",
-        "answer1":  "",
+        "answer1":  "とても",
         "answer2":  "Hoàn toàn không thể"
     },
     {
-        "question":  "寄り",
-        "answer1":  "",
+        "question":  "より",
+        "answer1":  "より",
         "answer2":  "Hơn nữa"
     },
     {
         "question":  "如何に",
-        "answer1":  "",
+        "answer1":  "いかに",
         "answer2":  "Như thế nào"
     },
     {
         "question":  "如何にも",
-        "answer1":  "",
+        "answer1":  "いかにも",
         "answer2":  "Quả thật là"
     },
     {
-        "question":  "其れで",
-        "answer1":  "",
+        "question":  "それで",
+        "answer1":  "それで",
         "answer2":  "Do đó"
     },
     {
-        "question":  "其処で",
-        "answer1":  "",
+        "question":  "そこで",
+        "answer1":  "そこで",
         "answer2":  "Do vậy"
     },
     {
-        "question":  "スルト (衛星)",
-        "answer1":  "",
+        "question":  "すると",
+        "answer1":  "すると",
         "answer2":  "Thế là"
     },
     {
         "question":  "何故なら",
-        "answer1":  "",
+        "answer1":  "なぜなら",
         "answer2":  "Lý do là"
     },
     {
         "question":  "と言うのも",
-        "answer1":  "",
+        "answer1":  "というのも",
         "answer2":  "Là bởi vì"
     },
     {
         "question":  "詰まり",
-        "answer1":  "",
+        "answer1":  "つまり",
         "answer2":  "Nghĩa là"
     },
     {
         "question":  "所謂",
-        "answer1":  "",
+        "answer1":  "いわゆる",
         "answer2":  "Cái gọi là"
     },
     {
@@ -7701,47 +7701,47 @@
     },
     {
         "question":  "そればかりか",
-        "answer1":  "",
+        "answer1":  "そればかりか",
         "answer2":  "Không chỉ vậy"
     },
     {
         "question":  "然も",
-        "answer1":  "",
+        "answer1":  "しかも",
         "answer2":  "Hơn nữa"
     },
     {
         "question":  "又",
-        "answer1":  "",
+        "answer1":  "また",
         "answer2":  "Ngoài ra"
     },
     {
         "question":  "然し",
-        "answer1":  "",
+        "answer1":  "しかし",
         "answer2":  "Nhưng"
     },
     {
         "question":  "所が",
-        "answer1":  "",
+        "answer1":  "ところが",
         "answer2":  "Thế nhưng"
     },
     {
-        "question":  "其れでも",
-        "answer1":  "",
+        "question":  "それでも",
+        "answer1":  "それでも",
         "answer2":  "Dù vậy"
     },
     {
-        "question":  "（其れ）にも関わらず",
-        "answer1":  "",
+        "question":  "（それ）にもかかわらず",
+        "answer1":  "（それ）にもかかわらず",
         "answer2":  "Mặc dù vậy"
     },
     {
-        "question":  "僧",
-        "answer1":  "",
+        "question":  "そう",
+        "answer1":  "そう",
         "answer2":  "Dù nói vậy"
     },
     {
-        "question":  "其れに",
-        "answer1":  "",
+        "question":  "それに",
+        "answer1":  "それに",
         "answer2":  "Xét như vậy thì"
     },
     {
@@ -7751,42 +7751,42 @@
     },
     {
         "question":  "只",
-        "answer1":  "",
+        "answer1":  "ただ",
         "answer2":  "Tuy nhiên"
     },
     {
         "question":  "但し",
-        "answer1":  "",
+        "answer1":  "ただし",
         "answer2":  "Tuy nhiên (điều kiện)"
     },
     {
         "question":  "尚",
-        "answer1":  "",
+        "answer1":  "なお",
         "answer2":  "Ngoài ra"
     },
     {
         "question":  "又は",
-        "answer1":  "",
+        "answer1":  "または",
         "answer2":  "Hoặc là"
     },
     {
-        "question":  "其れとも",
-        "answer1":  "",
+        "question":  "それとも",
+        "answer1":  "それとも",
         "answer2":  "Hay là"
     },
     {
         "question":  "所で",
-        "answer1":  "",
+        "answer1":  "ところで",
         "answer2":  "Nhân tiện"
     },
     {
         "question":  "偖",
-        "answer1":  "",
+        "answer1":  "さて",
         "answer2":  "Nào thì"
     },
     {
         "question":  "それでは",
-        "answer1":  "",
+        "answer1":  "それでは",
         "answer2":  "Vậy thì"
     }
 ]

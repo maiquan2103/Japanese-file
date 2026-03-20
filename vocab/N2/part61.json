@@ -91,7 +91,7 @@
   },
   {
     "question": "何故か",
-    "answer1": "",
+    "answer1": "なぜか",
     "answer2": "Tại sao đó"
   },
   {
@@ -110,18 +110,18 @@
     "answer2": "Hoàn toàn không"
   },
   {
-    "question": "銅貨",
-    "answer1": "",
+    "question": "どうか",
+    "answer1": "どうか",
     "answer2": "Vui lòng"
   },
   {
-    "question": "如何にかなる",
-    "answer1": "",
+    "question": "どうにかなる",
+    "answer1": "どうにかなる",
     "answer2": "Bằng cách nào đó"
   },
   {
-    "question": "如何しても",
-    "answer1": "",
+    "question": "どうしても",
+    "answer1": "どうしても",
     "answer2": "Bằng mọi giá"
   }
 ]

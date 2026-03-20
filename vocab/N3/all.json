@@ -105,7 +105,7 @@
         "answer2":  "Anh chị em họ"
     },
     {
-        "question":  "老い",
+        "question":  "甥",
         "answer1":  "おい",
         "answer2":  "Cháu trai"
     },
@@ -125,7 +125,7 @@
         "answer2":  "Giống"
     },
     {
-        "question":  "????",
+        "question":  "そっくり\u003cな\u003e",
         "answer1":  "そっくりな",
         "answer2":  "Giống hệt"
     },
@@ -195,7 +195,7 @@
         "answer2":  "Giữ ý, e ngại"
     },
     {
-        "question":  "??",
+        "question":  "しょっちゅう",
         "answer1":  "しょっちゅう",
         "answer2":  "Thường xuyên"
     },
@@ -1695,7 +1695,7 @@
         "answer2":  "Vuốt ve"
     },
     {
-        "question":  "??",
+        "question":  "ぐっすり",
         "answer1":  "ぐっすり",
         "answer2":  "Ngủ say"
     },
@@ -2105,7 +2105,7 @@
         "answer2":  "Hướng xuống"
     },
     {
-        "question":  "??????",
+        "question":  "ジェイアール",
         "answer1":  "ジェイアール",
         "answer2":  "JR"
     },
@@ -2285,7 +2285,7 @@
         "answer2":  "Chật kín"
     },
     {
-        "question":  "??",
+        "question":  "ぎっしり",
         "answer1":  "ぎっしり",
         "answer2":  "Chật ních"
     },
@@ -2430,14 +2430,14 @@
         "answer2":  "Bằng lái"
     },
     {
-        "question":  "????",
+        "question":  "ぶつかる",
         "answer1":  "ぶつかる",
         "answer2":  "Va chạm"
     },
     {
         "question":  "弾く",
         "answer1":  "ひく",
-        "answer2":  "Cán"
+        "answer2":  "Chơi đàn"
     },
     {
         "question":  "ハンドル",
@@ -2505,7 +2505,7 @@
         "answer2":  "Sự đi trễ, đi muộn"
     },
     {
-        "question":  "???",
+        "question":  "サボる",
         "answer1":  "サボる",
         "answer2":  "Trốn học, trốn việc"
     },
@@ -2950,7 +2950,7 @@
         "answer2":  "Chính xác"
     },
     {
-        "question":  "??",
+        "question":  "すらすら",
         "answer1":  "すらすら",
         "answer2":  "Trôi chảy"
     },
@@ -3085,7 +3085,7 @@
         "answer2":  "Nghiêm chỉnh"
     },
     {
-        "question":  "??",
+        "question":  "じっくり",
         "answer1":  "じっくり",
         "answer2":  "Thong thả"
     },
@@ -3095,7 +3095,7 @@
         "answer2":  "Tương đối"
     },
     {
-        "question":  "?????",
+        "question":  "まあまあ\u003cな\u003e",
         "answer1":  "まあまあな",
         "answer2":  "Tạm được"
     },
@@ -3460,7 +3460,7 @@
         "answer2":  "Vất vả"
     },
     {
-        "question":  "????",
+        "question":  "くたくた\u003cな\u003e",
         "answer1":  "くたくたな",
         "answer2":  "Mệt rã rời"
     },
@@ -3560,7 +3560,7 @@
         "answer2":  "Lịch trình"
     },
     {
-        "question":  "??",
+        "question":  "ずらす",
         "answer1":  "ずらす",
         "answer2":  "Dời"
     },
@@ -4530,7 +4530,7 @@
         "answer2":  "Kẻ say rượu"
     },
     {
-        "question":  "???",
+        "question":  "ぺこぺこ\u003cな\u003e",
         "answer1":  "ぺこぺこな",
         "answer2":  "Cồn cào"
     },
@@ -5225,7 +5225,7 @@
         "answer2":  "Càng ngày càng"
     },
     {
-        "question":  "??",
+        "question":  "すっかり",
         "answer1":  "すっかり",
         "answer2":  "Hoàn toàn"
     },
@@ -5945,7 +5945,7 @@
         "answer2":  "Hiền lành"
     },
     {
-        "question":  "????",
+        "question":  "そそっかしい",
         "answer1":  "そそっかしい",
         "answer2":  "Hậu đậu"
     },
@@ -6005,7 +6005,7 @@
         "answer2":  "Đơn giản"
     },
     {
-        "question":  "????",
+        "question":  "オーバー\u003cな\u003e",
         "answer1":  "オーバーな",
         "answer2":  "Thái quá"
     },
@@ -6165,7 +6165,7 @@
         "answer2":  "Buồn"
     },
     {
-        "question":  "????",
+        "question":  "かわいそう\u003cな\u003e",
         "answer1":  "かわいそうな",
         "answer2":  "Tội nghiệp"
     },
@@ -6310,7 +6310,7 @@
         "answer2":  "Cất công"
     },
     {
-        "question":  "???",
+        "question":  "こっそり",
         "answer1":  "こっそり",
         "answer2":  "Lén lút"
     },
@@ -6400,7 +6400,7 @@
         "answer2":  "Suy nghĩ thật"
     },
     {
-        "question":  "???",
+        "question":  "まし\u003cな\u003e",
         "answer1":  "ましな",
         "answer2":  "Tốt hơn"
     },
@@ -6485,7 +6485,7 @@
         "answer2":  "Trơn, không họa tiết"
     },
     {
-        "question":  "????",
+        "question":  "シンプル\u003cな\u003e",
         "answer1":  "シンプルな",
         "answer2":  "Đơn giản"
     },
@@ -6575,7 +6575,7 @@
         "answer2":  "Sặc sỡ"
     },
     {
-        "question":  "????",
+        "question":  "スマート\u003cな\u003e",
         "answer1":  "スマートな",
         "answer2":  "Thanh mảnh, lịch sự"
     },
@@ -6585,7 +6585,7 @@
         "answer2":  "Người đẹp"
     },
     {
-        "question":  "????",
+        "question":  "ハンサム\u003cな\u003e",
         "answer1":  "ハンサムな",
         "answer2":  "Đẹp trai"
     },
@@ -6630,7 +6630,7 @@
         "answer2":  "Sinh động"
     },
     {
-        "question":  "??",
+        "question":  "ぺらぺら",
         "answer1":  "ぺらぺら",
         "answer2":  "Lưu loát"
     },
